@@ -1,7 +1,12 @@
 {{ define "main" }}
 
-<div class="cms pa0 ma2 mr6-l ml4-l mt3-l ml4-m mr4-m mt3-m">
-        {{ .Content }}
+<div class = "fl bg-white cms pa0 ">
+        <div class="fl bg-white w-60-l ma2 mr5-l ml4-l mt3-l ml4-m mr4-m mt3-m">
+                {{ .Content }}
+        </div>
+        <div class="fl w-20-l ma2">
+                <a class="twitter-timeline" data-width="400" data-height="800" data-link-color="#FAB81E" href="https://twitter.com/ieeehaptics?ref_src=twsrc%5Etfw">Tweets by ieeehaptics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
+        </div>                        
 </div>
 
 {{ end }}

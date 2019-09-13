@@ -70,6 +70,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  - ~~September 22, 2021~~ [CCC Theme Proposal deadline](/presenting/cross-cutting-challenges/)
  - ~~September 17, 2021~~ [IEEE Transactions on Haptics Short Papers due](/presenting/transactions-on-haptics-early-submission/)
 
+
 <!--
 <a class="twitter-timeline" href="https://twitter.com/ieeehaptics?ref_src=twsrc%5Etfw">Tweets by ieeehaptics</a> <script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script> 
 -->
