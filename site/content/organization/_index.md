@@ -4,7 +4,7 @@ description: >
   Members of the Organizing Committee handle all planning and logistics for the
   IEEE Haptics Symposium.  We deeply appreciate their service to the haptics
   community and particularly to this conference.
-image: /img/bg04.jpg
+image: /img/bg16.jpg
 ---
 IEEE Haptics Symposium depends on the service of several committees to handle planning, logistics, and diverse technical programs. In 2020, the General Co-Chairs (<mailto:chairs@hapticssymposium.org>) are:
 

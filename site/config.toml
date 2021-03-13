@@ -1,10 +1,9 @@
 baseurl = "/"
 languageCode = "en-us"
-title = "IEEE Haptics Symposium 2020"
+title = "IEEE Haptics Symposium 2022"
 logo = "/img/hs-logo.png"
-copyright = "IEEE Haptics Symposium 2020. Theme adapted from Netlify CMS."
+copyright = "IEEE Haptics Symposium 2022. Theme adapted from Netlify CMS."
 
 [params]
-    conferenceDate = "March 28 - 31, 2020"
-    conferenceLocation = "Washington, DC"
-
+    conferenceDate = "March 21 to 24, 2022"
+    conferenceLocation = "Santa Barbara, California, USA"

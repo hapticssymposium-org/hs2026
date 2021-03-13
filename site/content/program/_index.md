@@ -1,6 +1,6 @@
 ---
 title: Program
-image: /img/bg12.jpg
+image: /img/bg13.jpg
 ---
 
 # Program
