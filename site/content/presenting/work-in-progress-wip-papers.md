@@ -68,7 +68,7 @@ Work-in-Progress papers will be presented through a short oral “teaser” pres
 
 **WIP Teasers**
 
-The WIP teasers will be presented on Sunday, March 29, between 2:00 and 2:30 pm in the session titled “Work-in-Progress Poster Teasers”. One author from each Work-in-Progress is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than 40 seconds.
+The WIP teasers will be presented in a conference session entitled “Work-in-Progress Poster Teasers”. One author from each Work-in-Progress is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than 40 seconds.
 
 The WIP teaser presentation should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
 
