@@ -8,7 +8,7 @@ weight: 10
 ---
 You are encouraged to sign up to the Haptics Symposium email list, through which we distribute infrequent but important information about the IEEE Haptics Symposium.
 
-We anticipate sending fewer than 20 messages to this list between July 2019 and March 2020.  Only a handful of these emails will be distributed more broadly.
+We anticipate sending a modest number of emails to this list containing the most important information about the conference.
 
 If you want to join this Haptics Symposium email list, simply follow these steps:
 
