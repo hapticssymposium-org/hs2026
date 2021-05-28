@@ -1,9 +1,9 @@
 ---
 title: Technical Papers
-deadline: 'October 25, 2019 (extended; previously October 20)'
+deadline: Fall 2021
 description: >-
-  IEEE Haptics Symposium 2020 solicits technical papers that report original,
-  novel, unpublished work relevant to all the scientific, technological, and
+  IEEE Haptics Symposium solicits technical papers that report original, novel,
+  unpublished work relevant to all the scientific, technological, and
   application aspects of haptics. Papers are up to 6 pages in length, including
   references.
 image: ''
@@ -33,11 +33,11 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-~~20~~ **25** October, 2019 (11:59 p.m. Pacific Time)
+Fall 2021 (11:59 p.m. Pacific Time)
 
 ## **Submission Method**
 
-All technical papers (with optional videos) should be submitted using [PrecisionConference](https://new.precisionconference.com/haptics) (submission system will be open on 28 September, 2019).  Select the "Haptics Symposium" Society, "Haptics 2020" Conference, and "Haptics 2020 Technical Papers" Track. 
+All technical papers (with optional videos) should be submitted using [PrecisionConference](https://new.precisionconference.com/haptics) (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2022" Conference, and "Haptics 2022 Technical Papers" Track. 
 
 ## **Presentation and Publication**
 
@@ -51,7 +51,7 @@ Paper decisions will be announced on December 30, 2019, and will also be availab
 
 ## **Videos**
 
-Submission of videos is optional but strongly encouraged to help readers understand the paper.
+Submission of videos is strongly encouraged to help readers understand the paper.
 
 Uploaded videos will be reviewed along with the paper.
 
@@ -65,7 +65,7 @@ All accepted technical papers will appear in this year's Haptics Symposium proce
 
 We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the [PaperPlaza system](https://ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
 
-**Step 1)**  _**Before January 15**_ – The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.  
+**Step 1)**  _**Date TBA**_ – The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.  
 
 * The submitting author will need the title, author list, PaperPlaza PIN numbers of _all_ authors, and keywords.  
 * At this time an abstract is not required, but authors may wish to upload an abstract since it will be required before final submission. The abstract must be limited to 750 characters (~100 words) and will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
@@ -73,9 +73,9 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 
 **Step 2)**  The corresponding author will receive a confirmation email that acknowledges receipt of the initial submission.
 
-**Step 3)**  Shortly after the January 15 deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the “Contributed Papers” track in PaperPlaza.
+**Step 3)**  Shortly after the deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the “Contributed Papers” track in PaperPlaza.
 
-**Step 4)**  _**Before ~~January 22~~ January 27**_ _–_ The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
+**Step 4)**  _**Before Date TBA**_ _–_ The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
 
 * The title, author list, and keywords should be correct and final.  
 * The abstract for use in the conference program (limited to 750 characters or ~100 words) should be finalized.  Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters. 
