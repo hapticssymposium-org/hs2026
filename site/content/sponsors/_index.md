@@ -2,12 +2,16 @@
 title: Sponsorship
 image: /img/bg12.jpg
 ---
-The Haptics Symposium would like to sincerely thank the following organizations for their support: 
+The IEEE Haptics Symposium would like to sincerely thank the our sponsors for their support. 
 
 ## Sponsorship opportunities
 
-For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org> or viewing our [sponsorship prospectus](https://hapticssymposium.org/haptics2020/files/IEEEHS2020SponsorshipProspectus.pdf).
+For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org>.
+
+The sponsorship prospectus for 2022 will be available shortly, but in the mean time please we welcome you to review the prospectus from the 2020 version of the conference: [2020 Sponsorship Prospectus](https://hapticssymposium.org/haptics2020/files/IEEEHS2020SponsorshipProspectus.pdf).
 
 The 2022 Sponsorship Chairs are:
 
-* soon to be announced!
+* Michael Zinn, University of Wisconsin
+* Evan Pezent, Facebook Reality Labs / Rice University
+* Kouta Minamizawa, Keio University
