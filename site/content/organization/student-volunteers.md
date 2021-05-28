@@ -13,7 +13,7 @@ We are looking for a set of student volunteers (SVs) to help us run the IEEE Hap
 
 \- Notifications: TBA
 
-\- Conference: March 21-24, 2020, in Santa Barbara, USA
+\- Conference: March 21-24, 2022, in Santa Barbara, USA
 
 **General Information**
 
