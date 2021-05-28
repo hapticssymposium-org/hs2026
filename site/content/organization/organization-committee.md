@@ -19,7 +19,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:editors@hapticssymposium.org>
 
-* Fernando Bellow (Editor in Chief), Imperial College London
+* Fernando Bello (Editor in Chief), Imperial College London
 * Hiroyuki Kajimoto, University of Electro-Communications, Tokyo
 * Ingvars Birznieks, University of New South Wales, Sydney
 
