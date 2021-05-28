@@ -4,18 +4,12 @@ image: /img/bg03.jpg
 ---
 IEEE Haptics Symposium features a diverse technical and social program to present your latest research and engage with the haptics community. 
 
-The 2020 conference will be held in the lovely Crystal City neighborhood of Washington, DC, USA, in proximity to [three major DC area airports](https://washington.org/dc-guide-to/washington-dc-airports): Reagan National Airport (DCA), just 5 minutes from the venue, Washington Dulles International Airport (DCA), and Baltimore/Washington International Airport (BWI). 
+The 2022 conference will be held in beautiful coastal California, on the campus of the University of California, Santa Barbara (UCSB), which is bordered by the sandy beaches of the Pacific Ocean.  Santa Barbara is 90 minutes north of Los Angeles.  It is served by the Santa Barbara Airport (SBA), by Los Angeles International Airport (LAX), and by several other Los Angeles area airports. 
 
-The conference venue is located at a DC Metro stop a short ride away from the Smithsonian Museums and the National Mall.
+Santa Barbara is a coastal city with a mediterranean climate.  It is situated on one of the longest and most beautiful coastlines in the United States.  The Santa Barbara area is rich in history, as evidenced by its characteristic Spanish Colonial architecture.  It was first inhabited 13,000 years ago, was subsequently inhabited by the Chumash Native American people, and was settled by Spanish colonialists in the 1700s.  Today, the city has a vibrant, pedestrian-accessible downtown that invites many tourists each year.
 
-## **Making Hotel Reservations**
+## **Accommodations and Transportation**
 
-The conference will be held at the Crystal Gateway Marriott in Washington, D.C.  We request that conference attendees stay at the conference hotel. Please reserve here: 
+The conference will be held on the UCSB campus, a short bus, car, or train ride from Santa Barbara's city center, near Santa Barbara's sister town of Goleta.  There are many options for accommodation in hotels in Santa Barbara or Goleta, as well as short stay accommodations such as Air BNBs.
 
-<https://book.passkey.com/e/49945382>
-
-## **Roommate finder**
-
-If you would like to find one or more people to share a hotel room with, please fill out the roommate finder form. The information you enter will be shared with other attendees who are looking for a roommate so that you can find suitable matches.
-
-<https://forms.gle/LE7PxipdDSQSmHYn7>
+For those who wish to stay in the vibrant, pedestrian-friendly downtown Santa Barbara area, daily transportation from central downtown Santa Barbara to the conference venue at UCSB will be available.  Further information will be provided in the coming months.
