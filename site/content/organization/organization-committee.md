@@ -12,22 +12,22 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:chairs@hapticssymposium.org>
 
-* Greg Gerling, University of Virginia
-* Yon Visell, University of California, Santa Barbara
+* Yon Visell, University of California, Santa Barbara (UCSB)
+* Veronica J. Santos, University of California, Los Angeles (UCLA)
 
 ## Conference Editorial Board
 
 <mailto:editors@hapticssymposium.org>
 
-* Veronica J. Santos (Editor in Chief), University of California, Los Angeles
-* Fernando Bello, Imperial College London
-* Ingvars Birznieks, UNSW Sydney
+* Fernando Bellow (Editor in Chief), Imperial College London
+* Hiroyuki Kajimoto, University of Electro-Communications, Tokyo
+* Ingvars Birznieks, University of New South Wales, Sydney
 
 ## Publications Chair
 
 <mailto:publications@hapticssymposium.org>
 
-* Veronica J. Santos, University of California, Los Angeles
+* Heather Culbertson, University of Southern California
 
 ## Program Chair
 
@@ -39,34 +39,35 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:wip@hapticssymposium.org>
 
-* Heather Culbertson, University of Southern California
+* Matteo Bianchi, University of Pisa
 
 ## Transactions on Haptics Posters Chair
 
 <mailto:tohp@hapticssymposium.org>
 
-* Ilana Nisky, Ben Gurion University of the Negev
+* Tania Morimoto, University of California, San Diego (UCSD)
 
 ## Finance Chair
 
 <mailto:finance@hapticssymposium.org>
 
-* Keyvan Hashtrudi-Zaad, Queen's University
+* Manuel Cruz, Immersion
 
 ## Sponsorship and Exhibits Chairs (Integrated Industry Involvement)
 
 <mailto:sponsorship@hapticssymposium.org>
 
-* Nick Colonnese, Facebook
-* Hong Tan, Purdue University
-* Tania Morimoto, University of California, San Diego
+* Evan Pezent, Facebook Reality Labs / Rice University
+* Michael Zinn, University of Wisconsin
+* Kouta Minamizawa, Keio University, Tokyo
 
 ## Demonstrations and Exhibits Chairs
 
 <mailto:demos@hapticssymposium.org>
 
 * Ad Spiers, Max Planck Institute for Intelligent Systems, Stuttgart
-* Claudio Pacchierotti, Centre national de la recherche scientifique (CNRS), Rennes
+* Pedro Lopes, University of Chicago
+
 
 ## Social Activities Chairs
 
@@ -79,21 +80,21 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:awards@hapticssymposium.org>
 
-* Katherine Kuchenbecker, Max Planck Institute for Intelligent Systems, Stuttgart
+* Gregory Gerling, University of Virginia
 
 ## Publicity Chair
 
 <mailto:publicity@hapticssymposium.org>
 
-* Rebecca Khurshid, Boston University
 * Naomi Fitter, Oregon State University 
+* Michael Wiertlewski, TU Delft
 
 ## Cross-Cutting Challenges Chair
 
 <mailto:ccc@hapticssymposium.org>
 
-* Manuel Cruz, Immersion
-* Cagatay Basdogan, Koç University
+* Claudio Pacchierotti, Centre national de la recherche scientifique (CNRS), Rennes
+
 
 ## Registration Chair
 
@@ -105,19 +106,16 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:sv@hapticssymposium.org>
 
-* Deborah Egloff, McGill University
+* Misha Sra, University of California, Santa Barbara (UCSB)
+* Masashi Nakatani, Keio University, Tokyo
 
-## Videos Chair
+## Video and Social Media Chair
 
 <mailto:videos@hapticssymposium.org>
-
-* Ildar Farkhatdinov, Queen Mary University of London
-
-## Social Media & Public Relations Chair
-
 <mailto:socialmedia@hapticssymposium.org>
 
-* Pedro Lopes, University of Chicago
+* Taku Hachisu, Tsukuba University
+
 
 ## Web Chair
 
