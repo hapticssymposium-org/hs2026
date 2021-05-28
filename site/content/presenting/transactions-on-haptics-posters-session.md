@@ -25,7 +25,7 @@ At least one of the article’s authors must register for the conference.
 
 ## Submission Instructions
 
-To participate, one author should send an email with the full citation of their Transactions on Haptics article to the ToH Posters Chair (Ilana Nisky) at [tohp [at] hapticssymposium.org](mailto:tohp@hapticssymposium.org)  by **early 2022**.
+To participate, one author should send an email with the full citation of their Transactions on Haptics article to the ToH Posters Chair at [tohp [at] hapticssymposium.org](mailto:tohp@hapticssymposium.org)  by **early 2022**.
 
 In the unlikely event that there is insufficient space, articles published in 2021 will be given priority over Early Access articles, since Early Access articles may be eligible to participate in similar events at future haptics conferences.
 
