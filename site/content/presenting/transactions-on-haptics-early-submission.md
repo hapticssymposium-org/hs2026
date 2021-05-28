@@ -1,20 +1,21 @@
 ---
-title: IEEE Transactions on Haptics Short Papers Journal Track
-deadline: 'September 27, 2019 (firm)'
+title: IEEE Transactions on Haptics Short Journal Papers
+deadline: Fall 2021
 description: >-
-  New for 2020! Papers accepted to the new IEEE Transactions on Haptics journal
-  track will be presented at the conference and simultaneously published as
-  short papers in IEEE Transactions on Haptics. These papers are up to 6 pages
-  in length, including references.
+  Building on its successful introduction in 2020, the 2022 Haptics Symposium
+  will again feature a IEEE Transactions on Haptics journal track.  Papers
+  accepted to this track will be presented at the conference and simultaneously
+  published as short papers in IEEE Transactions on Haptics. These papers are up
+  to 6 pages in length, including references.
 weight: 7
 ---
-**NEW INITIATIVE: IEEE TRANSACTIONS ON HAPTICS SHORT PAPERS**
+**IEEE TRANSACTIONS ON HAPTICS SHORT JOURNAL PAPERS**
 
-_More information is available at_ [_https://www.ieee-ras.org/publications/toh_](https://www.ieee-ras.org/publications/toh)_. For any questions, please contact_ [_Vincent Levesque_](mailto:vincent.levesque@etsmtl.ca)_, Program Chair of the Haptics Symposium, or_ [_Lynette Jones_](mailto:ljones@mit.edu)_, Editor-in-Chief of the Transactions on Haptics. See below for Frequently Asked Questions._
+_More information is available at_ [_https://www.ieee-ras.org/publications/toh_](https://www.ieee-ras.org/publications/toh)_. For any questions, please contact_ [_Vincent Levesque_](mailto:vincent.levesque@etsmtl.ca)_, Program Chair of the Haptics Symposium. See below for Frequently Asked Questions._
 
-The 2020 conference has added a new, early submission option (**firm deadline: September 27, 2019 at 11:59 p.m. Pacific Time**) for technical papers that authors wish to be considered for presentation at Haptics Symposium and simultaneous publication in IEEE Transactions on Haptics, as short journal papers. 
+Building on its successful introduction in 2020, the 2022 Haptics Symposium will again feature a IEEE Transactions on Haptics journal track.  Papers accepted to this track will be presented at the conference and simultaneously published as short papers in IEEE Transactions on Haptics. These papers are up to 6 pages in length, including references.
 
-Authors may submit their 6-page paper to this new track via the [Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh) by selecting the "Haptics Symposium 2020" paper type during the submission process. Papers should be prepared using the Transactions on Haptics template (not the conference template). Each paper will be reviewed by Transactions on Haptics reviewers and an Associate Editor.  The outcome of the first round of reviews will be "accept", "revision", or "reject". For papers receiving a decision of “revision” after the first review round, authors will need to submit a revision within 30 days for a second review, which may result in a decision of “accept” or “reject.”  If the decision after the Transactions on Haptics review is “accept,” the paper will be included in the conference and simultaneously published in the journal.
+Authors may submit their 6-page paper via the [Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh) by selecting the "Haptics Symposium 2022" paper type during the submission process. Papers should be prepared using the Transactions on Haptics template (not the conference template). Each paper will be reviewed by Transactions on Haptics reviewers and an Associate Editor.  The outcome of the first round of reviews will be "accept", "revision", or "reject". For papers receiving a decision of “revision” after the first review round, authors will need to submit a revision within 30 days for a second review, which may result in a decision of “accept” or “reject.”  If the decision after the Transactions on Haptics review is “accept,” the paper will be included in the conference and simultaneously published in the journal.
 
 Any papers that receive a decision of “reject” after review by Transactions on Haptics will be evaluated for inclusion by the Haptics Symposium Conference Editorial Board, which will have access to the reviews and Associate Editor’s report.  A paper may therefore be rejected from the journal but accepted for the conference. Such papers will be published in the conference proceedings rather than in the journal.  A paper may also be rejected for publication by both the journal and the conference.  Those papers that are accepted for publication in the journal will be included in the conference, where they will be presented by authors, and will be simultaneously published in the journal.
 
@@ -28,7 +29,7 @@ All accepted Transaction on Haptics Short Papers will appear in this year's Hapt
 
 We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program. The authors of accepted ToH Short Papers will use the [PaperPlaza system](https://ras.papercept.net) to provide information about their paper for inclusion in the conference proceedings. We have provided details below on how to submit your accepted ToH Short Paper content to PaperPlaza.
 
-**_Before January 31_**, the submitting author must submit a "first submission" for their ToH Short Paper to the “IEEE Trans. Haptics Paper” track on [PaperPlaza](https://ras.papercept.net). The submitting author will be asked to enter the following information:
+**_Early 2022_**, the submitting author must submit their accpted paper as a "first submission" for their ToH Short Paper to the “IEEE Trans. Haptics Paper” track on [PaperPlaza](https://ras.papercept.net). The submitting author will be asked to enter the following information:
 
 * The paper title, list of authors, PaperPlaza PIN numbers of _all_ authors, and keywords.  
 * An abbreviated abstract for use in the conference program (limited to 750 characters or ~100 words).
@@ -67,7 +68,7 @@ Yes, the 6-page limit includes references.
 
 **_How should I submit my paper?_**
 
-Please submit your paper using ScholarOne Manuscripts as described on the [IEEE Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh). When asked for the Manuscript type, please select the "Haptics Symposium 2020" option.
+Please submit your paper using ScholarOne Manuscripts as described on the [IEEE Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh). When asked for the Manuscript type, please select the "Haptics Symposium 2022" option.
 
 **_What template should I use?_**
 
@@ -79,7 +80,7 @@ To use LaTeX, please use the style files found under "Transactions Articles" in 
 
 _**Can I submit a video with my paper?**_
 
-Yes, a video can be submitted to the Transactions on Haptics as supplemental material. The only restriction imposed by the Transactions on Haptics is that the total size of all submitted files (including the manuscript and video) does not exceed 48.83 MB. We recommend that you also follow [the video guidelines for Technical Paper submissions](https://2020.hapticssymposium.org/presenting/technical-papers/) so that your video does not need to be modified if it is published in the conference proceedings instead of the journal.
+Yes, a video can be submitted to the Transactions on Haptics as supplemental material. The only restriction imposed by the Transactions on Haptics is that the total size of all submitted files (including the manuscript and video) does not exceed 48.8 MB. We recommend that you also follow [the video guidelines for Technical Paper submissions](https://2022.hapticssymposium.org/presenting/technical-papers/) so that your video does not need to be modified if it is published in the conference proceedings instead of the journal.
 
 **_Will I need to resubmit my paper to the conference if it is rejected by the journal?_**
 
