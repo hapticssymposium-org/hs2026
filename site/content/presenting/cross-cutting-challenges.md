@@ -1,6 +1,6 @@
 ---
 title: Cross-Cutting Challenges
-deadline: TBA
+deadline: 'Theme Proposals: late summer 2021 '
 description: >-
   Following its successful launch at the 2018 Haptics Symposium, the
   Cross-Cutting Challenges (CCC) submission category will be held again at the
