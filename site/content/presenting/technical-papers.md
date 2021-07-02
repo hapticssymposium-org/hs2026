@@ -1,6 +1,6 @@
 ---
 title: Technical Papers
-deadline: Fall 2021
+deadline: 'Wednesday October 13, 2021'
 description: >-
   IEEE Haptics Symposium solicits technical papers that report original, novel,
   unpublished work relevant to all the scientific, technological, and
@@ -33,7 +33,7 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-Fall 2021 (11:59 p.m. Pacific Time)
+Wednesday October 13, 2021 (11:59 p.m. Pacific Time)
 
 ## **Submission Method**
 
@@ -47,7 +47,7 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-Paper decisions will be announced on December 30, 2019, and will also be available in [PrecisionConference](https://new.precisionconference.com/haptics).
+Paper decisions will be announced in late December, and will also be available in [PrecisionConference](https://new.precisionconference.com/haptics).
 
 ## **Videos**
 
