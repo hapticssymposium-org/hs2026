@@ -16,8 +16,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 <hr style="height:6px; visibility:hidden;" />
 
 #### Upcoming Deadlines
-
+ - **September 17, 2021** IEEE Transactions on Haptics Short Papers due 
  - **October 13, 2021** Technical Papers due
- - **November 17, 2021** IEEE Transactions on Haptics Short Papers due 
 
 <br>
