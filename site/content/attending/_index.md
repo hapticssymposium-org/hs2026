@@ -13,3 +13,7 @@ Santa Barbara is a coastal city with a mediterranean climate.  It is situated on
 The conference will be held on the UCSB campus, a short bus, car, or train ride from Santa Barbara's city center, near Santa Barbara's sister town of Goleta.  There are many options for accommodation in hotels in Santa Barbara or Goleta, as well as short stay accommodations such as Air BNBs.
 
 For those who wish to stay in the vibrant, pedestrian-friendly downtown Santa Barbara area, daily transportation from central downtown Santa Barbara to the conference venue at UCSB will be available.  Further information will be provided in the coming months.
+
+Santa Barbara Dining Guide: PDF Download
+
+Getting Here: PDF Download
