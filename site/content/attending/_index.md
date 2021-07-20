@@ -16,4 +16,6 @@ For those who wish to stay in the vibrant, pedestrian-friendly downtown Santa Ba
 
 Santa Barbara Dining Guide: PDF Download
 
+![IEEE Haptics Symposium (Image)](/img/hs-logo.png "IEEE Haptics Symposium")
+
 Getting Here: PDF Download
