@@ -14,8 +14,8 @@ The conference will be held on the UCSB campus, a short bus, car, or train ride 
 
 For those who wish to stay in the vibrant, pedestrian-friendly downtown Santa Barbara area, daily transportation from central downtown Santa Barbara to the conference venue at UCSB will be available.  Further information will be provided in the coming months.
 
-Santa Barbara Dining Guide: PDF Download
+Santa Barbara Dining Guide: [PDF Download](<img/SB Dinning Guide2021.pdf>)
 
-![IEEE Haptics Symposium (Image)](/img/hs-logo.png "IEEE Haptics Symposium")
+Getting Here: [PDF Download](<img/getting here.pdf>)
 
-Getting Here: PDF Download
+![](/img/hs-logo.png)
