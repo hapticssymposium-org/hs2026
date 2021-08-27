@@ -7,7 +7,7 @@ description: >-
   application aspects of haptics. Papers are up to 6 pages in length, including
   references.
 image: ''
-weight: 2
+weight: 1
 ---
 # Technical Papers in Conference Proceedings
 
