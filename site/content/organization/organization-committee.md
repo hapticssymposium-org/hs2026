@@ -1,5 +1,5 @@
 ---
-title: Organization Committee
+title: Organizating Committee
 description: >-
   Members of the Organizing Committee handle all planning and logistics for the
   IEEE Haptics Symposium. We deeply appreciate their service to the haptics
