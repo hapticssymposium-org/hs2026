@@ -27,7 +27,7 @@ Submission of hands-on demonstrations is open to all members of the haptics rese
 
 Late 2021 – Demo submissions open
 
-Monday, January 24, 2022 – Demo submission deadline
+**Monday, January 24, 2022** (11:59 pm Pacific Time) – Demo submission deadline
 
 TBA – Demo acceptance notification
 
