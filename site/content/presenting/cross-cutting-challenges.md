@@ -14,7 +14,7 @@ Following its successful launch at the 2018 Haptics Symposium, the Cross-Cutting
 
 ## Cross-Cutting Challenge Theme Proposals
 
-**Deadline for Theme Proposals:** Wednesday, September 22, 2021
+**Wednesday, September 22, 2021**: 11:59 pm PST: Theme Proposal deadline
 
 A theme is an interdisciplinary challenge calling for united solutions from the haptics community. The themes are solicited from the community of researchers in the field of haptics and beyond.  While the traditional three areas covered in haptics relate to science, technology and applications, the themes for the Cross-Cutting Challenges session will be selected such that researchers from each of the aforementioned areas can present in the same session. For example, a theme might relate to a next generation of mobile user interfaces, and include elements from those working on surface haptics and shape and surface conformable displays, those working on the measurement of finger pad skin properties to surface interaction, those working on new dielectric polymer technologies, and those working on human computer interaction concepts detailing how a consumer would utilize such capability.  Other themes might relate to soft and flexible touch interfaces, ubiquitous computing, medical user interfaces, gaming, and mixed, virtual, and/or augmented reality. Examples of themes from 2018 and 2020 can be found at the following websites: \
 https://2020.hapticssymposium.org/program/ \
