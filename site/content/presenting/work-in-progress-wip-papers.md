@@ -32,7 +32,7 @@ Author names and affiliations should be specified on all WIP papers.
 
 ## Important Dates
 
-**Monday, January 24, 2022**: 11:59 pm PST: WIP paper submission deadline
+**Monday, January 24, 2022** (11:59 pm Pacific Time): WIP paper submission deadline
 
 **TBA**: WIP acceptance notification
 
