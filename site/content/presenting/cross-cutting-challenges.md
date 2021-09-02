@@ -6,7 +6,7 @@ description: >-
   Cross-Cutting Challenges (CCC) submission category will be held again at the
   2022 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
-weight: 5
+weight: 2
 ---
 # Cross-Cutting Challenges Themes
 
