@@ -1,6 +1,6 @@
 ---
 title: Work-in-Progress (WIP) Papers
-deadline: Early 2022
+deadline: 'Monday, January 24, 2022'
 description: >-
   IEEE Haptics Symposium 2022 solicits Work-in-Progress papers to enable authors
   to share late-breaking results with the research community. The emphasis of
@@ -8,9 +8,9 @@ description: >-
   be 2 pages including references.
 weight: 4
 ---
-# **Work-in-Progress (WIP) Papers**
+# **Works-in-Progress (WIP) Papers**
 
-Work-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
+Works-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
 
 ## Paper Format
 
@@ -32,7 +32,7 @@ Author names and affiliations should be specified on all WIP papers.
 
 ## Important Dates
 
-**Early 2022**: 11:59 pm PST: WIP paper submission deadline
+**Monday, January 24, 2022**: 11:59 pm PST: WIP paper submission deadline
 
 **TBA**: WIP acceptance notification
 
