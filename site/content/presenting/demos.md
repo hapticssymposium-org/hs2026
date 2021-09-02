@@ -1,6 +1,6 @@
 ---
 title: Hands-On Demonstrations
-deadline: Late 2021
+deadline: 'Monday, January 24, 2022'
 description: >-
   Haptics Symposium strongly encourages demonstrations of all kinds - for
   example, of novel developments in haptics-related devices, software or
@@ -27,7 +27,7 @@ Submission of hands-on demonstrations is open to all members of the haptics rese
 
 Late 2021 – Demo submissions open
 
-Early 2022 – Demo submission deadline
+Monday, January 24, 2022 – Demo submission deadline
 
 TBA – Demo acceptance notification
 
