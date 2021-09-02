@@ -1,13 +1,13 @@
 ---
 title: Technical Papers
-deadline: 'Wednesday October 13, 2021'
+deadline: 'Wednesday, October 13, 2021'
 description: >-
   IEEE Haptics Symposium solicits technical papers that report original, novel,
   unpublished work relevant to all the scientific, technological, and
   application aspects of haptics. Papers are up to 6 pages in length, including
   references.
 image: ''
-weight: 2
+weight: 1
 ---
 # Technical Papers in Conference Proceedings
 
@@ -33,7 +33,7 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-Wednesday October 13, 2021 (11:59 p.m. Pacific Time)
+Wednesday, October 13, 2021 (11:59 p.m. Pacific Time)
 
 ## **Submission Method**
 
