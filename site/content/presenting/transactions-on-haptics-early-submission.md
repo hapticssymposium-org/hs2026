@@ -15,13 +15,13 @@ _More information is available at_ [_https://www.ieee-ras.org/publications/toh_]
 
 Building on its successful introduction at Haptics Symposium 2020, the 2022 Haptics Symposium will again feature a IEEE Transactions on Haptics journal track.  Papers accepted to this track will be presented at the conference and simultaneously published as short papers in IEEE Transactions on Haptics. These papers are up to 6 pages in length, including references.
 
-Authors will soon be able to submit their 6-page paper via the [Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh) by selecting the "Haptics Symposium 2022" paper type during the submission process. Papers should be prepared using [the formatting instructions for Short Papers](https://www.ieee-ras.org/publications/toh/submission-procedures-toh#shortpapers) provided by the Transactions on Haptics. Each paper will be reviewed by Transactions on Haptics reviewers and an Associate Editor.  The outcome of the first round of reviews will be "accept", "revision", or "reject". For papers receiving a decision of “revision” after the first review round, authors will need to submit a revision within 30 days for a second review, which may result in a decision of “accept” or “reject.”  If the decision after the Transactions on Haptics review is “accept,” the paper will be included in the conference and simultaneously published in the journal.
+Authors will soon be able to submit their 6-page paper via the [Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh) by selecting the "Haptics Symposium 2022" paper type during the submission process. Papers should be prepared using [the formatting instructions for Short Papers](https://www.ieee-ras.org/publications/toh/submission-procedures-toh#shortpapers) provided by the Transactions on Haptics. Each paper will be reviewed by Transactions on Haptics reviewers and an Associate Editor. The outcome of the first round of reviews will be "accept", "revision", or "reject". For papers receiving a decision of “revision” after the first review round, authors will need to submit a revision within 30 days for a second review, which may result in a decision of “accept” or “reject.”  If the decision after the Transactions on Haptics review is “accept,” the paper will be included in the conference and simultaneously published in the journal.
 
 Any papers that receive a decision of “reject” after review by Transactions on Haptics will be evaluated for inclusion by the Haptics Symposium Conference Editorial Board, which will have access to the reviews and Associate Editor’s report.  A paper may therefore be rejected from the journal but accepted for the conference. Such papers will be published in the conference proceedings rather than in the journal.  A paper may also be rejected for publication by both the journal and the conference.  Those papers that are accepted for publication in the journal will be included in the conference, where they will be presented by authors, and will be simultaneously published in the journal.
 
-Authors choosing not to submit via the new journal track may still submit their papers directly to the conference. Such papers will be reviewed following the established conference technical paper review procedure.  Accepted conference technical papers will be published in the conference proceedings and IEEE Xplore.
+Authors choosing not to submit via the new journal track may still submit their papers directly to the conference. Such papers will be reviewed following the established conference technical paper review procedure. Accepted conference technical papers will be published in the conference proceedings and IEEE Xplore.
 
-One author of each accepted paper will deliver a talk at the conference and answer questions in any remaining time from the duration that is alotted.  Further details will be provided at a later time.
+One author of each accepted paper will deliver a talk at the conference and answer questions in any remaining time from the duration that is allotted. Further details will be provided at a later time.
 
 All accepted Transaction on Haptics Short Papers will appear in the Haptics Symposium proceedings, which will be distributed at the conference.
 
@@ -53,33 +53,15 @@ Please also note that some links on the Transactions on Haptics website are curr
 
 > If you use LaTeX for preparing a Short Paper, please download the following files for document preparation:
 
-* > The zipped file pack 
-  >
-  > [ieeeconf.zip](https://www.ieee-ras.org/images/ieeeconf.zip)
-  >
-  > . This contains the LaTeX class file ieeeconf.cls, a sample LaTeX source file root.tex and the compiled document root.pdf.
-* > BiBTeX files 
-  >
-  > [IEEEtranBST.zip](http://ras.papercept.net/conferences/support/files/IEEEtranBST.zip)
-* > Guide to use ieeeconf.cls (based on IEEEtrans.cls) 
-  >
-  > [IEEEtran_HOWTO.pdf](http://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf)
+* > The zipped file pack [ieeeconf.zip](https://www.ieee-ras.org/images/ieeeconf.zip). This contains the LaTeX class file ieeeconf.cls, a sample LaTeX source file root.tex and the compiled document root.pdf.
+* > BiBTeX files [IEEEtranBST.zip](http://ras.papercept.net/conferences/support/files/IEEEtranBST.zip)
+* > Guide to use ieeeconf.cls (based on IEEEtrans.cls) [IEEEtran_HOWTO.pdf](http://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf)
 * > The document should be configured for US Letter paper, using the line \documentclass\[letterpaper, 10 pt, conference]{ieeeconf}
 
 > If you use MSWord for preparing a Short Paper, please download the following files for document preparation
 
-* > MS Word template 
-  >
-  > [ieeeconf_letter.dot](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
-  >
-  >  for US Letter paper
-* > Sample Documents 
-  >
-  > [ieeeconf_letter.doc](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.doc)
-  >
-  >  and 
-  >
-  > [sample_A4.doc](http://ras.papercept.net/conferences/support/files/cssA4.doc)
+* > MS Word template [ieeeconf_letter.dot](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot) for US Letter paper
+* > Sample Documents [ieeeconf_letter.doc](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.doc) and [sample_A4.doc](http://ras.papercept.net/conferences/support/files/cssA4.doc)
 
 > When using the IEEE style format, the first (title) page will contain the paper title and each author's name, affiliation, and full address (mailing address, email address, and fax number), with the corresponding author clearly indicated, the abstract (no more than 200 words), the keywords (index terms), and the beginning of the main text of the paper. Do not use a cover page
 
