@@ -29,51 +29,75 @@ All accepted Transaction on Haptics Short Papers will appear in the Haptics Symp
 
 **Frequently Asked Questions (FAQ)** 
 
-**_What is the submission deadline?_**
+_**What is the submission deadline?**_
 
 The submission deadline is September 17, 2021 at 11:59 p.m. Pacific Time. This deadline is firm.
 
-**_What is the maximum number of pages?_**
+_**What is the maximum number of pages?**_
 
 Your paper cannot exceed 6 pages. It is not possible to pay for additional pages.
 
-**_Does the the 6-page limit include references?_**
+_**Does the the 6-page limit include references?**_
 
 Yes, the 6-page limit includes references.
 
-**_How should I submit my paper?_**
+_**How should I submit my paper?**_
 
 Please submit your paper using ScholarOne Manuscripts as described on the [IEEE Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh). When asked for the Manuscript type, please select the "Haptics Symposium 2022" option. Please note that this option is not yet available and that submissions for this track will open soon.
 
-**_What template should I use?_**
+_**What template should I use?**_
 
 Your paper must be formatted using the templates provided by the Transactions on Haptics. See the formatting instructions under Template for Short Papers in the [Submission Procedures](https://www.ieee-ras.org/publications/toh/submission-procedures-toh#shortpapers) of the Transactions on Haptics. Please note that the template has changed this year.
 
 Please also note that some links on the Transactions on Haptics website are currently broken. While this issue is being resolved, please find below a copy of the formatting instructions with corrected links:
 
-If you use LaTeX for preparing a Short Paper, please download the following files for document preparation:
+> If you use LaTeX for preparing a Short Paper, please download the following files for document preparation:
 
-* The zipped file pack [ieeeconf.zip](https://www.ieee-ras.org/images/ieeeconf.zip). This contains the LaTeX class file ieeeconf.cls, a sample LaTeX source file root.tex and the compiled document root.pdf.
-* BiBTeX files [IEEEtranBST.zip](http://ras.papercept.net/conferences/support/files/IEEEtranBST.zip)
-* Guide to use ieeeconf.cls (based on IEEEtrans.cls) [IEEEtran_HOWTO.pdf](http://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf)
-* The document should be configured for US Letter paper, using the line \documentclass\[letterpaper, 10 pt, conference]{ieeeconf}
+* > The zipped file pack 
+  >
+  > [ieeeconf.zip](https://www.ieee-ras.org/images/ieeeconf.zip)
+  >
+  > . This contains the LaTeX class file ieeeconf.cls, a sample LaTeX source file root.tex and the compiled document root.pdf.
+* > BiBTeX files 
+  >
+  > [IEEEtranBST.zip](http://ras.papercept.net/conferences/support/files/IEEEtranBST.zip)
+  >
+  >
+* > Guide to use ieeeconf.cls (based on IEEEtrans.cls) 
+  >
+  > [IEEEtran_HOWTO.pdf](http://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf)
+  >
+  >
+* > The document should be configured for US Letter paper, using the line \documentclass\[letterpaper, 10 pt, conference]{ieeeconf}
 
-If you use MSWord for preparing a Short Paper, please download the following files for document preparation
+> If you use MSWord for preparing a Short Paper, please download the following files for document preparation
 
-* MS Word template [ieeeconf_letter.dot](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot) for US Letter paper
-* Sample Documents [ieeeconf_letter.doc](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.doc) and [sample_A4.doc](http://ras.papercept.net/conferences/support/files/cssA4.doc)
+* > MS Word template 
+  >
+  > [ieeeconf_letter.dot](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot)
+  >
+  >  for US Letter paper
+* > Sample Documents 
+  >
+  > [ieeeconf_letter.doc](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.doc)
+  >
+  >  and 
+  >
+  > [sample_A4.doc](http://ras.papercept.net/conferences/support/files/cssA4.doc)
+  >
+  >
 
-When using the IEEE style format, the first (title) page will contain the paper title and each author's name, affiliation, and full address (mailing address, email address, and fax number), with the corresponding author clearly indicated, the abstract (no more than 200 words), the keywords (index terms), and the beginning of the main text of the paper. Do not use a cover page
+> When using the IEEE style format, the first (title) page will contain the paper title and each author's name, affiliation, and full address (mailing address, email address, and fax number), with the corresponding author clearly indicated, the abstract (no more than 200 words), the keywords (index terms), and the beginning of the main text of the paper. Do not use a cover page
 
-_**Can I submit a video with my paper?**_
+**_Can I submit a video with my paper?_**
 
 Yes, a video can be submitted to the Transactions on Haptics as supplemental material. The only restriction imposed by the Transactions on Haptics is that the total size of all submitted files (including the manuscript and video) does not exceed 48.8 MB. We recommend that you also follow [the video guidelines for Technical Paper submissions](https://2022.hapticssymposium.org/presenting/technical-papers/) so that your video does not need to be modified if it is published in the conference proceedings instead of the journal.
 
-**_Will I need to resubmit my paper to the conference if it is rejected by the journal?_**
+_**Will I need to resubmit my paper to the conference if it is rejected by the journal?**_
 
 All papers that are rejected by the journal after the first or second round of reviews will automatically be sent, along with their reviews, to the Conference Editorial Board (CEB) of the Haptics Symposium to be considered for publication in the conference proceedings and presentation at the conference.
 
-**_Will it be possible for me to submit an extended version of my paper to the Transactions on Haptics at a later date?_**
+_**Will it be possible for me to submit an extended version of my paper to the Transactions on Haptics at a later date?**_
 
 Short papers that are accepted by the journal will be published in the journal. It will therefore be impossible to publish an extended version of the work in the journal in the future.
 
