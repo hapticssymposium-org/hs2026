@@ -52,11 +52,10 @@ Your paper must be formatted using the templates provided by the Transactions on
 Please also note that some links on the Transactions on Haptics website are currently broken. While this issue is being resolved, please find below a copy of the formatting instructions with corrected links:
 
 > If you use LaTeX for preparing a Short Paper, please download the following files for document preparation:
-
-* The zipped file pack [ieeeconf.zip](https://www.ieee-ras.org/images/ieeeconf.zip). This contains the LaTeX class file ieeeconf.cls, a sample LaTeX source file root.tex and the compiled document root.pdf.
-* BiBTeX files [IEEEtranBST.zip](http://ras.papercept.net/conferences/support/files/IEEEtranBST.zip)
-* Guide to use ieeeconf.cls (based on IEEEtrans.cls) [IEEEtran_HOWTO.pdf](http://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf)
-* The document should be configured for US Letter paper, using the line \documentclass\[letterpaper, 10 pt, conference]{ieeeconf}
+- The zipped file pack [ieeeconf.zip](https://www.ieee-ras.org/images/ieeeconf.zip). This contains the LaTeX class file ieeeconf.cls, a sample LaTeX source file root.tex and the compiled document root.pdf.
+- BiBTeX files [IEEEtranBST.zip](http://ras.papercept.net/conferences/support/files/IEEEtranBST.zip)
+- Guide to use ieeeconf.cls (based on IEEEtrans.cls) [IEEEtran_HOWTO.pdf](http://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf)
+- The document should be configured for US Letter paper, using the line \documentclass\[letterpaper, 10 pt, conference]{ieeeconf}
 
 > If you use MSWord for preparing a Short Paper, please download the following files for document preparation
 
