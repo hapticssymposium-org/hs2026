@@ -61,7 +61,7 @@ _If you use LaTeX for preparing a Short Paper, please download the following fil
 _If you use MSWord for preparing a Short Paper, please download the following files for document preparation_
 
 * _MS Word template_ [_ieeeconf_letter.dot_](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.dot) _for US Letter paper_
-* _Sample Documents_ [_ieeeconf_letter.doc_](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.doc) _and_ [_sample_A4.doc_](http://ras.papercept.net/conferences/support/files/cssA4.doc)
+* _Sample Documents_ [_ieeeconf_letter.doc_](http://ras.papercept.net/conferences/support/files/ieeeconf_letter.doc) _and_ [_sample_A4.doc_](https://ras.papercept.net/conferences/support/files/cssA4.doc)
 
 _When using the IEEE style format, the first (title) page will contain the paper title and each author's name, affiliation, and full address (mailing address, email address, and fax number), with the corresponding author clearly indicated, the abstract (no more than 200 words), the keywords (index terms), and the beginning of the main text of the paper. Do not use a cover page_
 
