@@ -37,7 +37,7 @@ Wednesday, October 13, 2021 (11:59 p.m. Pacific Time)
 
 ## **Submission Method**
 
-All technical papers (with optional videos) should be submitted using [PrecisionConference](https://new.precisionconference.com/haptics) (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2022" Conference, and "Haptics 2022 Technical Papers" Track. 
+All technical papers (with optional videos) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2022" Conference, and "Haptics 2022 Technical Papers" Track. 
 
 ## **Presentation and Publication**
 
@@ -47,7 +47,7 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-Paper decisions will be announced in late December, and will also be available in [PrecisionConference](https://new.precisionconference.com/haptics).
+Paper decisions will be announced in late December, and will also be available in [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).
 
 ## **Videos**
 
@@ -59,6 +59,7 @@ Videos will be submitted for publication to IEEE Xplore and may be used to promo
 
 Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB).  Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
 
+<!--
 ## **Final Submission**
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
@@ -102,3 +103,4 @@ Authors can determine their presentation room and time from the detailed confere
 Presenters should check the connection with the conference projection system during a break before the session in which they are presenting, making sure all videos play on the screen.  Our on-site technician will be able to assist you with any issues.
 
 We ask that all presenters arrive for their session at least ten minutes before it begins, check in with the session chairs, and sit near the front of the room to facilitate the change between speakers.
+-->
