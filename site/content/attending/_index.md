@@ -20,4 +20,7 @@ For those who wish to stay in the vibrant, pedestrian-friendly downtown Santa Ba
 ## **Getting to Santa Barbara**: 
 [PDF Download](<img/santabarbara-transportation.pdf>)
 
+## **Bus from LAX to Santa Barbara**:
+Anyone who is landing at LAX and wants to take a bus to Santa Barbara can use this link to book: [www.sbairbus.com](www.sbairbus.com)
+
 ![](/img/hs-logo.png)
