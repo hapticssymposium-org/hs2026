@@ -53,6 +53,4 @@ Investigators apply to deliver keynote talks (4 to 5 per theme session) and inte
 
 **Selection Committee:** The selection committee for Keynote Talks and Interactive Discussions consists of three academic members, the Cross-Cutting Challenges Chairs, one conference chair, and that theme’s organizers.  The three academic members will be chosen by the Cross-Cutting Challenges Chairs to represent haptic science, applications, and technology.  
 
-**Submission materials:** Specify (as a single PDF document) the relevant theme, and then give a title, a description that is up to 500 words, and a list of recent publications that will be discussed in the presentation.  
-
 Email your submission to <mailto:ccc@hapticssymposium.org>
