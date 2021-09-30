@@ -23,7 +23,9 @@ To be announced.
 
 ## WIP Editorial Board
 
-**Chair:** Matteo Bianchi, _University of Pisa_
+**Chair:**
+
+* Matteo Bianchi, _University of Pisa_
 
 **Board**
 
