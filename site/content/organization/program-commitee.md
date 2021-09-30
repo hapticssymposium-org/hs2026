@@ -23,6 +23,35 @@ To be announced.
 
 
 ## WIP Editorial Board
-To be announced.
+
+**Chair:** Matteo Bianchi, _University of Pisa_
+
+ 
+
+**Board**
+
+Thomas Howard, _IRISA Rennes_
+Irene Kuling, _Eindhoven University of Technology_
+Edoardo Battaglia, _ University of Utah _
+Troy McDaniel, _ Arizona State University_
+Maria Pozzi, _University of Siena_
+Mine Sarac Stroppa, _Stanford University_
+Hikaru Nagano, _Kobe University_
+Melisa Orta Martinez, _Carnegie Mellon University_
+Jussi Rantala, _Tampere University_
+Christoph Kanzler, _Singapore-ETH-Centre_
+Ki-Uk Kyung, _Korea Advanced Institute of Science & Technology _
+Ann Majewicz, _University of Texas_
+Daniela Constantinescu, _University of Victoria _
+Alessandro Moscatelli, _University of Rome Tor Vergata - Fondazione Santa Lucia_
+Van Anh Ho ,Japan Advanced Institute of Science and Tech
+Dana Damian, _ University of Sheffield_
+Francesco Chinello, _ Aarhus University_
+Netta Gurari, _Northwestern University_
+Masashi Konyo, _Tohoku University_
+Anna Metzger, _Bournemouth University_
+
+
+
 
 ![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
