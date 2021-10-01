@@ -34,7 +34,7 @@ To be announced.
 * Edoardo Battaglia,  _University of Utah_ 
 * Troy McDaniel,  _Arizona State University_
 * Maria Pozzi, _University of Siena_
-* Mine Sarac Stroppa, _Stanford University_
+* Mine Sarac Stroppa, _Kadir Has University_
 * Hikaru Nagano, _Kobe University_
 * Melisa Orta Martinez, _Carnegie Mellon University_
 * Jussi Rantala, _Tampere University_
