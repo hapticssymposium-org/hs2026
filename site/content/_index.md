@@ -20,8 +20,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  - **January 24, 2022** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
  - **January 24, 2022** [Demonstrations](/presenting/demos/)
  - **February 3, 2022** Exhibit Applications
- <!-- - ~~October 13, 2021~~ **October 21, 2021 (extended)** [Technical Papers due](/presenting/technical-papers/) REMOVED ON 10-29 by Greg--->
-
+ <!-- - ~~October 13, 2021~~ **October 21, 2021 (extended)** [Technical Papers due](/presenting/technical-papers/) REMOVED ON 10-29 by Greg -->
 
 #### Passed Deadlines
  - ~~October 21, 2021 (extended)~~ [Technical Papers due](/presenting/technical-papers/)
