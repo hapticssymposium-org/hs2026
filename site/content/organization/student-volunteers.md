@@ -43,7 +43,7 @@ There will be an SV orientation on the evening preceding the first conference da
 
 **Application Process**
 
-Please complete the [**online application form**](https://forms.gle/ZQpy7GdHXx2pYxDV8) to be considered as a Student Volunteer.\
+Please complete the online application form (coming soon) to be considered as a Student Volunteer.\
 \
 After submission, you will see an acknowledgment page. We expect to receive more applications than will be needed, thus early application is encouraged. 
 
