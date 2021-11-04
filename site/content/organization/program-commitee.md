@@ -19,7 +19,40 @@ The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssy
 
 ## Program Committee
 
-To be announced.
+* Rochelle Ackerley, _Aix-Marseille University_
+* Mehdi Ammi, _Univ. Paris 8_
+* Leah R Bent, _University of Guelph_
+* Jeremy Cooperstock, _McGill University_
+* Benoit Delhaye, _UCLouvain_
+* Massimiliano Di Luca, _University of Birmingham_
+* Knut Drewing, _Giessen University_
+* Ildar Farkhatdinov, _Queen Mary University of London_
+* Antonio Frisoli, _TeCIP Institute, Scuola Superiore Sant'Anna_
+* Brent Gillespie, _University of Michigan_
+* Seokhee Jeon, _Kyung Hee University_
+* Jin Ryong Kim, _The University of Texas at Dallas_
+* Ki-Uk Kyung, _Korea Advanced Institute of Science & Technology (KAIST)_
+* Ann Majewicz Fey, _University of Texas at Austin_
+* Yasutoshi Makino, _The University of Tokyo_
+* Sarah McIntyre, _Linkoping University_
+* Ilana Nisky, _Ben Gurion University of the Negev_
+* Sile O'Modhrain, _University of Michigan School of Information_
+* Shogo Okamoto, _Tokyo Metropolitan University_
+* Miguel A. Otaduy, _URJC Madrid_
+* Yu-Cheng Pei, _Chang Gung Memorial Hospital_
+* Roope Raisamo, _Tampere University_
+* Kyle B. Reed, _University of South Florida_
+* Evren Samur, _Bogazici University_
+* Oliver Schneider, _University of Waterloo_
+* Cornelius Schwarz, _University of Tübingen_
+* Adam Spiers, _Imperial College London_
+* Yoshihiro	Tanaka, _Nagoya Institute of Technology_
+* Mahdi Tavakoli, _University of Alberta_
+* Jean-Louis Thonnard, _Université catholique de Louvain_
+* Yasemin Vardar, _Delft University of Technology_
+* Dangxiao Wang, _Beihang University_
+* Michael Wiertlewski, _TU Delft_
+* Jeffrey Yau, _Baylor College of Medicine_
 
 ## WIP Editorial Board
 
