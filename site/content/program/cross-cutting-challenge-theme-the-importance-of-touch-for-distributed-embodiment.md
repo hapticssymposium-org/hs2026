@@ -23,8 +23,8 @@ We will bring together experts across these fields to discuss the importance of 
 **Organizers**
 
 * **Jacob Segil, Ph.D.** (Research Assistant Professor,  University of Colorado Boulder and Research Healthcare Scientist, Rocky Mountain Regional VA Medical Center)
-* **Emily Graczyk, Ph.D.** (Assistant Professor, Case Western Reserve University)
+* **Emily Graczyk, Ph.D.** (Assistant Professor, Case Western Reserve University, Louis Stokes Cleveland VA Medical Center)
 * **Alexis Block, Ph.D.** (Post Doctoral Computing Innovation Fellow, University of California Los Angeles)
 * **Nicholas Zingale, Ph.D.** (Associate Professor, Cleveland State University)
 
-![](/img/ccc22-1.jpg "CCC1 Speakers")
+![](/img/ccc22-11.jpg "CCC1 Speakers")
