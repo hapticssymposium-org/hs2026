@@ -68,6 +68,12 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 * Ad Spiers, Max Planck Institute for Intelligent Systems, Stuttgart
 * Pedro Lopes, University of Chicago
 
+## Equity, Diversity, and Inclusion Chairs
+
+<mailto:edi@hapticssymposium.org>
+
+* Melisa Orta Martinez, Carnegie Mellon University
+* Oliver Schneider, University of Waterloo
 
 ## Social Activities Chairs
 
@@ -117,8 +123,9 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 * Taku Hachisu, Tsukuba University
 
 
-## Web Chair
+## Web Chairs
 
 <mailto:webmaster@hapticssymposium.org>
 
 * Oliver Schneider, University of Waterloo
+* Gregory Gerling, University of California, Santa Barbara
