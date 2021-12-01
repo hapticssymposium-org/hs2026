@@ -101,7 +101,6 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 * Claudio Pacchierotti, Centre national de la recherche scientifique (CNRS), Rennes
 
-
 ## Registration Chair
 
 <mailto:registration@hapticssymposium.org>
@@ -122,10 +121,9 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 * Taku Hachisu, Tsukuba University
 
-
 ## Web Chairs
 
 <mailto:webmaster@hapticssymposium.org>
 
 * Oliver Schneider, University of Waterloo
-* Gregory Gerling, University of California, Santa Barbara
+* Gregory Reardon, University of California, Santa Barbara
