@@ -7,7 +7,7 @@ image: /img/bg19.jpg
 
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
-The 2022 conference will include [cross-cutting challenge](/presenting/cross-cutting-challenges/) sessions, [technical paper](/presenting/technical-papers/) sessions presenting the latest advances in haptics,  [hands-on haptic demonstrations](/presenting/demos), and work-in-progress posters. An exciting social activities program will provide opportunities for socializing and networking.
+The 2022 conference will include [cross-cutting challenge](/program/) sessions, [technical paper](/presenting/technical-papers/) sessions presenting the latest advances in haptics,  [hands-on haptic demonstrations](/presenting/demos), and work-in-progress posters. An exciting social activities program will provide opportunities for socializing and networking.
 
 Once again for 2022, a [conference journal papers track](/presenting/transactions-on-haptics-early-submission) provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
 
