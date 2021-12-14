@@ -65,7 +65,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:demos@hapticssymposium.org>
 
-* Ad Spiers, Max Planck Institute for Intelligent Systems, Stuttgart
+* Ad Spiers, Imperial College London
 * Pedro Lopes, University of Chicago
 
 ## Equity, Diversity, and Inclusion Chairs
@@ -125,5 +125,5 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:webmaster@hapticssymposium.org>
 
-* Oliver Schneider, University of Waterloo
 * Gregory Reardon, University of California, Santa Barbara
+* Oliver Schneider, University of Waterloo
