@@ -1,0 +1,30 @@
+.imContainer{
+    float: none;
+    display: flex;
+    clear:none;
+}
+
+.keynoteContainer{
+    float: none;
+    display:block;
+}
+
+.keynoteSpeaker{
+    float: left;
+    display: inline;
+}
+
+.croppedGonzalez {
+    float:left;
+    width: 320px;
+    height: 320px;
+    object-fit: cover;
+    object-position: 70% 0%;
+}
+
+.croppedParisi {
+    float:left;
+    width: 320px;
+    height: 320px;
+    object-fit: cover;
+}
