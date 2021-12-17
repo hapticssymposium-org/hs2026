@@ -1,14 +1,3 @@
-.imContainer{
-    float: none;
-    display: flex;
-    clear:none;
-}
-
-.keynoteContainer{
-    float: none;
-    display:block;
-}
-
 .keynoteSpeaker{
     float: left;
     display: inline;
