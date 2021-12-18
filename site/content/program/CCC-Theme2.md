@@ -9,6 +9,12 @@ title: >-
 
 **Keynote Speakers (more to follow)**
 
+* **Mar Gonzalez** (Microsoft Research), Hand-Object Interactions to Drive Haptic Research”*
+* **David Parisi** (College of Charleston), Archaeologies of Touch: Interfacing with Haptics from Electricity to Computing
+
+![](/img/CCC2-Speakers.jpg "CCC2 Speakers")
+
+<!--
 <div class="keynoteSpeaker">
     <img class="croppedGonzalez" src="/img/hs2022_CCC-Gonzalez.png">
     <p style="padding-left:330px;padding-top:5%"> <span style="color:grey; "> Keynote: </span> <br> <span style="font-weight:bold"> Hand-Object Interactions to Drive Haptic Research </span></p>
@@ -21,6 +27,7 @@ title: >-
     <p style="padding-left:330px"> <span style="color:grey"> Speaker: </span> <br> <span style="font-weight:bold"> David Parisi </span> (College of Charleston) </p>
 </div>
 <div style="clear:both"></div>
+-->
 
 The possibility of creating wearable devices for augmenting human haptic abilities and experiences has long captured the imagination of inventors and researchers.  Wearable tactile technologies for the hand have advanced tremendously in recent years, with several approaches and actuation methods offering great promise for furnishing users with tactile feedback including informative cues or signals, or sensations of touching virtual objects. In many hand-wearable designs, such as gloves for haptic interaction in virtual reality, the additional haptic feedback that is supplied is accompanied by a substantial cost, since areas of the hand with which we often interact with physical objects are covered or obstructed. This invariably results in a substantial reduction in wearers’ abilities to feel naturally occurring touch sensations, or to perform important manual tasks ranging from grasping and manipulating physical objects to riding a bicycle. 
 
@@ -35,4 +42,8 @@ Speakers from both within and outside the haptics community will provide an over
 * **Pedro Lopes** (University of Chicago)
 * **Yon Visell** (University of California, Santa Barbara)
 
-<img src="/img/hs2022_CCC2_Organizers.jpg" width=50%>
+![](/img/CCC2-Organizers.jpg "CCC2 Organizers")
+
+<!--
+<img src="/img/hs2022_CCC2-Organizers.jpg" width=50%>
+-->
