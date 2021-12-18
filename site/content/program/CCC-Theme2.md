@@ -1,6 +1,7 @@
 ---
 title: >-
-  Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with Real-World Touch Interactions
+  Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with
+  Real-World Touch Interactions
 ---
 ## Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with Real-World Touch Interactions
 
@@ -12,7 +13,6 @@ title: >-
 * **David Parisi** (College of Charleston), Archaeologies of Touch: Interfacing with Haptics from Electricity to Computing
 
 ![](/img/CCC2-Speakers.jpg "CCC2 Speakers")
-
 
 <!--
 <div class="keynoteSpeaker">
