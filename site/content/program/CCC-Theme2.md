@@ -9,7 +9,7 @@ title: >-
 
 **Keynote Speakers (more to follow)**
 
-* **Mar Gonzalez** (Microsoft Research), Hand-Object Interactions to Drive Haptic Research”*
+* **Mar Gonzalez** (Microsoft Research), Hand-Object Interactions to Drive Haptic Research
 * **David Parisi** (College of Charleston), Archaeologies of Touch: Interfacing with Haptics from Electricity to Computing
 
 ![](/img/CCC2-Speakers.jpg "CCC2 Speakers")
