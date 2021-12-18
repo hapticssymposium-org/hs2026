@@ -1,9 +1,9 @@
 ---
 title: >-
-  Cross-Cutting Challenge Theme: The Importance of Touch for Distributed
+  Cross-Cutting Challenge Theme 1: The Importance of Touch for Distributed
   Embodiment
 ---
-## Cross-Cutting Challenge Theme: The Importance of Touch for Distributed Embodiment
+## Cross-Cutting Challenge Theme 1: The Importance of Touch for Distributed Embodiment
 
 <hr style="height:2px; visibility:hidden;" />
 
@@ -27,4 +27,4 @@ We will bring together experts across these fields to discuss the importance of 
 * **Alexis E. Block, Dr. Sc.** (Post Doctoral Computing Innovation Fellow, University of California Los Angeles)
 * **Nicholas Zingale, Ph.D.** (Associate Professor, Cleveland State University)
 
-![](/img/ccc22-11.jpg "CCC1 Speakers")
+![](/img/hs2022_ccc22-11.jpg "CCC1 Organizers")
