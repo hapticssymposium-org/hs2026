@@ -1,13 +1,13 @@
 ---
 title: >-
-  Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with Real-World Touch Interactions
+  Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with
+  Real-World Touch Interactions
 ---
 ## Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with Real-World Touch Interactions
 
 <hr style="height:2px; visibility:hidden;" />
 
 **Keynote Speakers (more to follow)**
-
 
 <div class="keynoteSpeaker">
     <img class="croppedGonzalez" src="/img/hs2022_CCC-Gonzalez.png">
@@ -35,4 +35,4 @@ Speakers from both within and outside the haptics community will provide an over
 * **Pedro Lopes** (University of Chicago)
 * **Yon Visell** (University of California, Santa Barbara)
 
-<img src="/img/hs2022_CCC2-Organizers.jpg" width=50%>
+<img src="/img/hs2022_CCC2_Organizers.jpg" width=50%>
