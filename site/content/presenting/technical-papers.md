@@ -57,12 +57,7 @@ Authors of accepted Conference Technical Papers or Transactions on Haptics Short
 As in the past conferences, supplemental videos will be uploaded through the ScholarOne Manuscripts system (Transactions on Haptics Short Journal Papers) or the PaperPlaza system (Technical Papers) and reviewed along with the paper. Videos of the accepted papers will be submitted for publication to IEEE Xplore and may be used to promote the conference.  Authors who submitted videos together with their manuscript need not take any additional action beyond any edits that may be requested by the reviewers and editors.
 
 ### **Supplemental Video Requirements**
-* Format: .mp4 (mpeg-4)
-* Length: up to 2 minutes
-* Resolution: at least 480p (progressive scan)
-* File Size: up to 40 MB for Conference Technical Papers
-* Address the accessibility requirements listed below (see “Video Accessibility”)
-* Final (but not initial) video submissions will need to include some simple additional files to ensure IEEE Xplore compliance.
+{{<supplementalVideoList "Conf">}}
 
 ### Preview Videos (new for this year, strongly encouraged)
 Authors of accepted papers are invited to submit a single 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and may be used to promote the conference. These preview videos will not be published in IEEE Xplore.
@@ -72,35 +67,7 @@ After acceptance, authors should upload their video to their own YouTube account
 **The preview video deadline is Feb. 21, 2022.**
 
 ### **Preview Video Requirements**
-<div>
-<ul>
-<li>Length: Up to 30 seconds</li>
-<li>Resolution: At least 720p (preferably 1080p or more)</li>
-<li>Address the accessibility requirements listed below (see “Video Accessibility”)</li>
-<li>Authors must upload their video to their own YouTube account (authors may create a new account for this purpose if they wish or use their existing account).
-<li>Please check the quality of the uploaded video and sound, and your ability to access the video from a private browser window.</li>
-<li>Configure the following settings under “Edit Video” on the YouTube page for your video:</li>
-  <ul style="margin-bottom:0">
-  <li>Set the visibility for your presentation video to “public”</li>
-  <li>Apply Creative Commons license</li>
-  <li>Recommended: select the “allow embeddings” feature using “More Options” within the “Edit Video” page.</li>
-  </ul> 
-<li>Set the title for the video as follows:</li>
-  <ul style="margin-bottom:0">
-  <li>[LastNameOfFirstAuthor et al.], [ShortenedPaperTitle], IEEE Haptics Symposium 2022</li>
-  <li></li>For example: <br/>Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 2022
-  </ul>
-<li>Write the description of the video as follows:</li>
-  <ul style="margin-bottom:0">
-  <li>[AuthorName1], [AuthorName2], … , [FullPaperTitle], Proceedings of IEEE Haptics Symposium 2022<br/>
-  [Abstract Text as Published in Paper]<br/>#haptics #haptics2022<br/>https://www.hapticssymposium.org/</li>
-  <li></li>For example: <br/>
-  K. Smith, B. Nelson, T. Xu, Vibrotactile Massage Methods in Virtual Reality, Proceedings of IEEE Haptics Symposium 2022<br/>
-  Abstract: Many researchers have sought to introduce vibrotactile massage methods in virtual reality. However, prior approaches have proved inadequate. Here, we show …<br/>
-  #haptics #haptics2022 #vibrotactile #virtualmassage<br/>
-  https://www.hapticssymposium.org/
-  </ul>
-</div>
+{{<previewVideoList>}}
 
 <!--
 * Length: Up to 30 seconds
