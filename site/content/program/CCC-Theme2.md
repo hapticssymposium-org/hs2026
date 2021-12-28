@@ -42,8 +42,8 @@ Speakers from both within and outside the haptics community will provide an over
 * **Pedro Lopes** (University of Chicago)
 * **Yon Visell** (University of California, Santa Barbara)
 
-![](/img/CCC2-Organizers.jpg "CCC2 Organizers")
 
+{{<insertImage imFile="/img/hs2022_CCC2-Organizers.jpg" imWidth="50%">}}
 <!--
-<img src="/img/hs2022_CCC2-Organizers.jpg" width=50%>
+![](/img/CCC2-Organizers.jpg "CCC2 Organizers")
 -->
