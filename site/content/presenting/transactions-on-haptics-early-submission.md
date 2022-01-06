@@ -9,7 +9,7 @@ description: >-
   to 6 pages in length, including references.
 weight: 1
 ---
-**IEEE Transactions on Haptics Short Papers**
+# IEEE Transactions on Haptics Short Papers
 
 _More information is available at_ [_https://www.ieee-ras.org/publications/toh_](https://www.ieee-ras.org/publications/toh)_. For any questions, please contact_ [_Vincent Levesque_](mailto:vincent.levesque@etsmtl.ca)_, Program Chair of the Haptics Symposium. See below for Frequently Asked Questions._
 
