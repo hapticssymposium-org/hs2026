@@ -3,9 +3,7 @@ title: "Home"
 image: /img/bg19.jpg
 ---
 
-## Update:
-
-The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
+**Update:** The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
 
 **Welcome to IEEE Haptics Symposium 2022!**
 
