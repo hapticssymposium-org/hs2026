@@ -132,7 +132,7 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 
 Please follow these instructions if your paper was submitted directly as a Technical Paper.
 
-The authors are strongly encouraged to check their submissions for accessibility using the instructions below. This step is not required, but will help your document reach the widest number of people.
+The authors are strongly encouraged to check their submissions for accessibility using the instructions provided under "PDF Accessibility" below. This step is not required, but will help your document reach the widest number of people.
 
 The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
 
@@ -161,7 +161,7 @@ Please follow these instructions if your paper was rejected by the IEEE Transact
 
 **Step 3)**  Shortly after the deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the "IEEE Trans. Haptics Contributed Paper" track in PaperPlaza.
 
-**Step 3.5)** The authors are strongly encouraged to check their submissions for accessibility using the instructions below. This step is not required, but will help your document reach the widest number of people.
+**Step 3.5)** The authors are strongly encouraged to check their submissions for accessibility using the instructions provided under "PDF Accessibility" below. This step is not required, but will help your document reach the widest number of people.
 
 **Step 4)** The corresponding author must submit the final camera-ready conference technical paper content to the "IEEE Trans. Haptics Contributed Paper" track.
 
