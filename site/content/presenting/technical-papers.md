@@ -133,6 +133,8 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 
 **Step 3)**  Shortly after the deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the “Contributed Papers” track in PaperPlaza.
 
+**Step 3.5)** The authors are strongly encouraged to check their submissions for accessibility using the instructions below. This step is not required, but will help your document reach the widest number of people.
+
 **Step 4)** The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
 
 * The title, author list, and keywords should be correct and final.  
@@ -148,6 +150,16 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 **Step 5)**  The corresponding author will receive a confirmation email that acknowledges receipt of the final submission.  If there are any issues, PaperPlaza staff will contact the corresponding author.
 
 Specific questions regarding PaperPlaza should be sent to ras.101@papercept.net.  General questions about the final submission of conference technical papers should be sent to the Publications Chair at publications@hapticssymposium.org.  Urgent general questions should be sent to the Program Chair at  program@hapticssymposium.org or the General Co-chairs at chairs@hapticssymposium.org.
+
+### **PDF Accessibility**
+We strongly encourage authors to check and annotate their PDFs for accessibility before final submission. Having accessible materials, including features like alt text for figures and choosing colours to be distinguishable when viewed in black and white or with a form of colour-blindness, will help ensure that more people are able to review your submissions and read any published work.
+
+The quickest way to do this is to follow one of the following resources to add alt-text and tagging to your documents:
+
+ - [SIGACCESS guidelines on creating accessible PDFs in Microsoft Word](http://www.sigaccess.org/welcome-to-sigaccess/resources/acm-submission-with-ms-word/)
+ - [Adobe's Accessible PDF Author Guide (best for LaTeX submissions)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/)
+
+If you have any questions, please contact the EDI chairs at [edi@hapticssymposium.org](mailto:edi@hapticssymposium.org). Many additional resources can be found from the comprehensive instructions described by the ACM CHI community: [https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission](https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission)
 
 ## **Presentation Instructions**
 
