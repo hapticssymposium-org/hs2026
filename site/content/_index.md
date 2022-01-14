@@ -33,4 +33,3 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  - ~~September 22, 2021~~ [CCC Theme Proposal deadline](/presenting/cross-cutting-challenges/)
 
 <br>
-(test)
