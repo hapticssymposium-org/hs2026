@@ -3,11 +3,22 @@ backend:
   accept_roles: #optional - accepts all users if left out
     - admin
 
+#local_backend: true # for dev purposes
 media_folder: "site/static/img" # Folder where user uploaded files should go
 public_folder: "img"
 publish_mode: editorial_workflow
 
 collections: # A list of collections the CMS should be able to edit
+  - name: "frontpage" # Used in routes
+    label: "Frontpage" # User in CMS UI
+    files: # Use 'files' fields to make for making specific/custom pages editable (or single-file collections)
+      - name: "_index" # Used in routes
+        label: "Frontpage" # Used in CMS UI
+        file: "site/content/_index.md" #relative link to editable .md file
+        fields:
+          - {label: "Title", name: "title", widget: "string"} #editable front-matter title
+          - {label: "Image", name: "image", widget: "image", required: false}  #editable front-matter image
+          - {label: "Body", name: "body", widget: markdown, required: false} #editable body of .md file
   - name: "presenting" # Used in routes, ie.: /admin/collections/:slug/edit
     label: "Presenting" # Used in the UI, ie.: "New Post"
     folder: "site/content/presenting" # The path to the folder where the documents are stored
