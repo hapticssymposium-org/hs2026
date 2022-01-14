@@ -130,7 +130,7 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 
 ### Papers Submitted as Technical Papers
 
-Please follow these instructions if your paper was submitted directly as a technical paper.
+Please follow these instructions if your paper was submitted directly as a Technical Paper.
 
 The authors are strongly encouraged to check their submissions for accessibility using the instructions below. This step is not required, but will help your document reach the widest number of people.
 
