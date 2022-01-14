@@ -128,6 +128,8 @@ All accepted technical papers will appear in this year's Haptics Symposium proce
 
 We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the [PaperPlaza system](https://ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
 
+Specific questions regarding PaperPlaza should be sent to ras.101@papercept.net.  General questions about the final submission of conference technical papers should be sent to the Publications Chair at publications@hapticssymposium.org.  Urgent general questions should be sent to the Program Chair at  program@hapticssymposium.org or the General Co-chairs at chairs@hapticssymposium.org.
+
 ### Papers Submitted as Technical Papers
 
 Please follow these instructions if your paper was submitted directly as a Technical Paper.
@@ -178,7 +180,6 @@ Please follow these instructions if your paper was rejected by the IEEE Transact
 * The paper may need to be reformatted to use the conference technical paper template, which can be found at top of this page under "Paper Format".
 
 
-Specific questions regarding PaperPlaza should be sent to ras.101@papercept.net.  General questions about the final submission of conference technical papers should be sent to the Publications Chair at publications@hapticssymposium.org.  Urgent general questions should be sent to the Program Chair at  program@hapticssymposium.org or the General Co-chairs at chairs@hapticssymposium.org.
 
 ### PDF Accessibility
 
