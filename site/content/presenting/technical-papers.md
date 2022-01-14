@@ -122,6 +122,8 @@ Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at leas
 
 ## Final Submission
 
+** The final submission deadline is January 17, 2022. **
+
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
 We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the [PaperPlaza system](https://ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
