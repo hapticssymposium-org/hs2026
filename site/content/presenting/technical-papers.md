@@ -147,9 +147,7 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 * Author affiliations, required ethical statements for experiments with human subjects, and funding acknowledgements should be checked.
 * The final camera-ready pdf manuscript file of up to 10 MB must be uploaded.
 * Authors are requested to revise their manuscripts according to reviewer guidance.
-
-<!--\* Authors may optionally upload a final camera-ready video file of up to 40 MB in one of the following formats: mpeg, mpg, avi, mp4, wmv.  -->
-
+* Authors may optionally upload a final camera-ready video file. Please see the "Video" section for more details.
 * IEEE requires a plain text Readme file of up to 10 kB for any accompanying multimedia content, such as video. The Readme file must contain (1) An overall description of the video file, (2) Multimedia player information, and (3) Author contact information.
 * IEEE requires a plain text Summary file of up to 10 kB for multimedia content.  The Summary file must describe in 5 sentences or less the contents of the video. This file helps IEEE Xplore users to make downloading decisions.
 
@@ -157,16 +155,16 @@ Final submissions of technical papers that were originally submitted to the Tran
 
 Specific questions regarding PaperPlaza should be sent to ras.101@papercept.net.  General questions about the final submission of conference technical papers should be sent to the Publications Chair at publications@hapticssymposium.org.  Urgent general questions should be sent to the Program Chair at  program@hapticssymposium.org or the General Co-chairs at chairs@hapticssymposium.org.
 
-### \*\*PDF Accessibility\*\*
+### PDF Accessibility
 
 We strongly encourage authors to check and annotate their PDFs for accessibility before final submission. Having accessible materials, including features like alt text for figures and choosing colours to be distinguishable when viewed in black and white or with a form of colour-blindness, will help ensure that more people are able to review your submissions and read any published work.
 
 The quickest way to do this is to follow one of the following resources to add alt-text and tagging to your documents:
 
-* \[SIGACCESS guidelines on creating accessible PDFs in Microsoft Word](http://www.sigaccess.org/welcome-to-sigaccess/resources/acm-submission-with-ms-word/)
-* \[Adobe's Accessible PDF Author Guide (best for LaTeX submissions)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/)
+* [SIGACCESS guidelines on creating accessible PDFs in Microsoft Word](http://www.sigaccess.org/welcome-to-sigaccess/resources/acm-submission-with-ms-word/)
+* [Adobe's Accessible PDF Author Guide (best for LaTeX submissions)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/)
 
-If you have any questions, please contact the EDI chairs at \[edi@hapticssymposium.org](mailto:edi@hapticssymposium.org). Many additional resources can be found from the comprehensive instructions described by the ACM CHI community: \[https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission](https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission)
+If you have any questions, please contact the EDI chairs at [edi@hapticssymposium.org](mailto:edi@hapticssymposium.org). Many additional resources can be found from the comprehensive instructions described by the ACM CHI community: [https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission](https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission)
 
 <!--
 ## \\*\\*Presentation Instructions\\*\\*
