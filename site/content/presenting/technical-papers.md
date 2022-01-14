@@ -122,7 +122,7 @@ Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at leas
 
 ## Final Submission
 
-** The final submission deadline is January 17, 2022. **
+**The final submission deadline is January 17, 2022.**
 
 All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
 
