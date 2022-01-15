@@ -155,7 +155,7 @@ Please follow these instructions if your paper was rejected by the IEEE Transact
 
 **Step 1)** The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.
 
-* The submitting author will need the title, author list, PaperPlaza PIN numbers of \_all\_ authors, and keywords.
+* The submitting author will need the title, author list, PaperPlaza PIN numbers of **all** authors, and keywords.
 * At this time an abstract is not required, but authors may wish to upload an abstract since it will be required before final submission. The abstract must be limited to 750 characters (~100 words) and will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
 * A pdf manuscript will not be required at this stage, although authors may wish to upload their original manuscript as a placeholder.  The pdf file size is limited to 10 MB.
 
