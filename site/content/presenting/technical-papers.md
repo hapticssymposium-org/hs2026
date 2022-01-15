@@ -106,7 +106,7 @@ Providing alternative means of accessing information is not only valuable for pe
 
 For Preview Videos, authors may use YouTube’s automatic closed captioning functionality, but are encouraged to review and edit the closed captions after they are generated.
 
-For Supplemental Videos, authors should directly “burn” closed captions into the video, due to technical limitations in IEEE Xplore. In other words, these captions are not provided as a text file, but rather as subtitles in the video itself (this is called “open captioning”, rather than “closed captioning”, because the captions are always visible). 
+For Supplemental Videos, authors should directly “burn” closed captions into the video due to technical limitations in IEEE Xplore. In other words, these captions are not provided as a text file, but rather as subtitles in the video itself (this is called “open captioning”, rather than “closed captioning”, because the captions are always visible). 
 
 If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chair <mailto:edi@hapticssymposium.org>.
 
@@ -155,7 +155,7 @@ Please follow these instructions if your paper was rejected by the IEEE Transact
 
 **Step 1)** The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.
 
-* The submitting author will need the title, author list, PaperPlaza PIN numbers of **all** authors, and keywords.
+* The submitting author will need the title, author list, PaperPlaza PIN numbers of *all* authors, and keywords.
 * At this time an abstract is not required, but authors may wish to upload an abstract since it will be required before final submission. The abstract must be limited to 750 characters (~100 words) and will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
 * A pdf manuscript will not be required at this stage, although authors may wish to upload their original manuscript as a placeholder.  The pdf file size is limited to 10 MB.
 
@@ -183,7 +183,7 @@ Please follow these instructions if your paper was rejected by the IEEE Transact
 
 ### PDF Accessibility
 
-We strongly encourage authors to check and annotate their PDFs for accessibility before final submission. Having accessible materials, including features like alt text for figures and choosing colours to be distinguishable when viewed in black and white or with a form of colour-blindness, will help ensure that more people are able to review your submissions and read any published work.
+We strongly encourage authors to check and annotate their PDFs for accessibility before final submission. Having accessible materials, including features like alt-text for figures and choosing colours to be distinguishable when viewed in black and white or with a form of colour-blindness, will help ensure that more people are able to review your submissions and read any published work.
 
 The quickest way to do this is to follow one of the following resources to add alt-text and tagging to your documents:
 
