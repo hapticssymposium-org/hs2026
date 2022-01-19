@@ -22,7 +22,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 <hr style="height:6px; visibility:hidden;" />
 
 #### Upcoming Deadlines
- - **TBA** Works-in-Progress Track
+ - **TBA** Works-in-Progress Submission
 
  <!--  
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
