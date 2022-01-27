@@ -33,7 +33,8 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 
 **Before February 4**, the submitting author must submit a “first submission” for their ToH Short Paper to the “IEEE Trans. Haptics Short Paper” track on [PaperPlaza](https://ras.papercept.net/). The submitting author will be asked to enter the following information:
 
-* The paper title, list of authors, PaperPlaza PIN numbers of all authors, and keywords. An abbreviated abstract for use in the conference program (limited to 750 characters or ~100 words).
+* The paper title, list of authors, PaperPlaza PIN numbers of all authors, and keywords.
+* An abbreviated abstract for use in the conference program (limited to 750 characters or ~100 words).
 * The PDF of the ToH Short Paper and optional accompanying video are not required at this time. These files will be obtained directly from the IEEE Transactions on Haptics for inclusion in the conference proceedings.
 
 Specific questions regarding PaperPlaza should be sent to [ras.101@papercept.net](mailto:ras.101@papercept.net). General questions about the final submission of conference technical papers should be sent to the Publications Chair at [publications@hapticssymposium.org](mailto:publications@hapticssymposium.org). Urgent general questions should be sent to the Program Chair at [program@hapticssymposium.org](mailto:program@hapticssymposium.org) or the General Co-chairs at [chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org).
