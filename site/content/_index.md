@@ -3,7 +3,11 @@ title: Home
 image: /img/bg19.jpg
 ---
 
-**Update:** The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
+**Update:** The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.** The live streaming video event will take place on **Tuesday, March 22, 2022 - 9am to 12pm US Pacific Time** (16:00 to 19:00 UTC). The Cross-Cutting Challenges live video event will take place on **Wednesday, March 23, 2022 - 9am to 12pm US Pacific Time** (16:00 to 19:00 UTC). Please visit the [conference program](/program/program-overview/) for more information.
+
+<!--
+The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
+-->
 
 Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference.  A newly introduced Mentoring Forum track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.  Further details will be available in late January.
 
