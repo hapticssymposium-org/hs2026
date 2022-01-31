@@ -1,5 +1,5 @@
 ---
-title: Technical Papers
+title: Conference Technical Papers
 deadline: 'Thursday, October 21, 2021 (extended deadline)'
 description: >-
   IEEE Haptics Symposium solicits technical papers that report original, novel,
@@ -66,7 +66,7 @@ Authors of accepted papers are required to submit oral presentation videos of th
 
 All contributed video presentations will be eligible for the conference Best Video Presentation Award, which will be announced during the 2022 Haptics Symposium live streaming event on Tuesday, March 22, 2022.
 
-After acceptance, authors should upload their video to their own YouTube account. After uploading, authors must complete the following oral presentation video information [form](https://forms.gle/HY1poy2PtheGnF7F8) where they will be requested to provide the video URL.
+After acceptance, authors should upload their video to their own YouTube account. After uploading, authors must complete the following oral presentation video information [form](Link Pending) where they will be requested to provide the video URL.
 
 **The oral presentation video deadline is Tuesday, February 22, 2022.**
 
@@ -81,7 +81,7 @@ Your video should consist of a recorded oral presentation by one of the authors,
 
 Authors of accepted papers are invited to submit an optional 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and may be used to promote the conference. These preview videos will not be published in IEEE Xplore.
 
-After acceptance, authors should upload their video to their own YouTube account. After uploading, authors must complete the following Preview Video information [form](https://forms.gle/HY1poy2PtheGnF7F8) where they will be requested to provide the video URL.
+After acceptance, authors should upload their video to their own YouTube account. After uploading, authors must complete the following Preview Video information [form](Link Pending) where they will be requested to provide the video URL.
 
 **The preview video deadline is Mar. 1, 2022.**
 
