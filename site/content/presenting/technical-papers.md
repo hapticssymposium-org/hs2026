@@ -11,7 +11,7 @@ weight: 4
 ---
 # Technical Papers in Conference Proceedings
 
-**[Jan. 31, 2022 update]** Authors of accepted papers should refer the [video instructions page](/presenting/video-instructions/) for preparing and submitting their vidoe files.
+**[Jan. 31, 2022 update]** Authors of accepted papers should refer the [video instructions page](/presenting/video-instructions/) for preparing and submitting their video files.
 
 {{<simpleLineBreak>}}
 
