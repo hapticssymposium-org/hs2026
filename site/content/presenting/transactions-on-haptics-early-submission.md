@@ -29,6 +29,21 @@ One author of each accepted paper will deliver a talk at the conference and answ
 
 All accepted Transaction on Haptics Short Papers will appear in the Haptics Symposium proceedings, which will be distributed at the conference.
 
+## Final Submission
+
+All accepted Transaction on Haptics Short Papers will appear in this year’s Haptics Symposium proceedings, which will be distributed at the conference.
+
+We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program. The authors of accepted ToH Short Papers will use the [PaperPlaza system](https://ras.papercept.net/) to provide information about their paper for inclusion in the conference proceedings. We have provided details below on how to submit your accepted ToH Short Paper content to PaperPlaza.
+
+**Before February 4**, the submitting author must submit a “first submission” for their ToH Short Paper to the “IEEE Trans. Haptics Short Paper” track on [PaperPlaza](https://ras.papercept.net/). The submitting author will be asked to enter the following information:
+
+- The paper title, list of authors, PaperPlaza PIN numbers of all authors, and keywords.
+- An abbreviated abstract for use in the conference program (limited to 750 characters or ~100 words).
+
+The PDF of the ToH Short Paper and optional accompanying video are not required at this time. These files will be obtained directly from the IEEE Transactions on Haptics for inclusion in the conference proceedings.
+
+Specific questions regarding PaperPlaza should be sent to <ras.101@papercept.net>. General questions about the final submission of conference technical papers should be sent to the Publications Chair at <publications@hapticssymposium.org>. Urgent general questions should be sent to the Program Chair at <program@hapticssymposium.org> or the General Co-chairs at <chairs@hapticssymposium.org>.
+
 ## **Videos**
 
 **[Jan. 31, 2022 update]** Authors of accepted papers will be required to submit 3 min. oral presentation videos.
