@@ -11,7 +11,7 @@ weight: 4
 ---
 # Technical Papers in Conference Proceedings
 
-**[Jan. 31, 2022 update]** Authors of accepted papers should refer the [video instructions page](/presenting/video-instructions/) for preparing and submitting their vidoe files.
+**[Jan. 31, 2022 update]** Authors of accepted papers will be required to submit 3 min. [oral presentation videos](#oral-presentation-videos). Authors of accepted papers are also encouraged to submit optional 30 sec. [preview videos](#preview-videos).
 
 {{<simpleLineBreak>}}
 
@@ -53,6 +53,63 @@ Paper copyright will be transferred to the IEEE as part of the publication proce
 
 Paper decisions will be announced in late December, and will also be available in [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).
 
+## **Videos**
+
+**[Jan. 31, 2022 update]** Authors of accepted papers will be required to submit 3 min. oral presentation videos.
+
+Authors of accepted Conference Technical Papers or Transactions on Haptics Short Journal Papers are strongly encouraged to submit each of two types of video: (1) Supplemental Videos (providing information beyond what is included in the paper) and a (2) 30-second Preview Video, to be shared on social media. Submissions are optional, but strongly encouraged as a means of highlighting the paper to interested researchers, including those who may not attend the conference.
+
+{{<simpleAnchor "oral-presentation-videos">}}
+### **Oral Presentation Videos** (Required for participation in the virtual symposium)
+
+Authors of accepted papers are required to submit oral presentation videos of their papers. The 3-minute videos will be disseminated via the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and will be organized into thematic playlists reflecting the conference program. We believe that this collection of online videos will provide a valuable resource for people around the world to learn about new advances in haptics, and for the contributions from the conference to be disseminated widely via social media.
+
+All contributed video presentations will be eligible for the conference Best Video Presentation Award, which will be announced during the 2022 Haptics Symposium live streaming event on Tuesday, March 22, 2022.
+
+After acceptance, authors should upload their video to their own YouTube account. After uploading, authors must complete the following oral presentation video information [form](https://forms.gle/HY1poy2PtheGnF7F8) where they will be requested to provide the video URL.
+
+**The oral presentation video deadline is Tuesday, February 22, 2022.**
+
+{{<simpleAnchor "oral-presentation-videos-req">}}
+### Oral Presentation Video Requirements
+Your video should consist of a recorded oral presentation by one of the authors, consistent with community standards for conference oral presentations.
+
+{{<oralPresentationVideoList>}}
+
+{{<simpleAnchor "preview-videos">}}
+### Preview Videos (New for 2022; Optional, but strongly encouraged)
+
+Authors of accepted papers are invited to submit an optional 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and may be used to promote the conference. These preview videos will not be published in IEEE Xplore.
+
+After acceptance, authors should upload their video to their own YouTube account. After uploading, authors must complete the following Preview Video information [form](https://forms.gle/HY1poy2PtheGnF7F8) where they will be requested to provide the video URL.
+
+**The preview video deadline is Mar. 1, 2022.**
+
+### **Preview Video Requirements**
+
+Please refer to the video specifications and YouTube-specific instructions of the [Oral Presentation Video Requirements](#oral-presentation-videos-req). The length of the preview video should not exceed 30 seconds.
+
+### **Supplemental Videos**
+
+As in the past conferences, supplemental videos will be uploaded through the ScholarOne Manuscripts system (Transactions on Haptics Short Journal Papers) or the PaperPlaza system (Technical Papers) and reviewed along with the paper. Videos of the accepted papers will be submitted for publication to IEEE Xplore and may be used to promote the conference.  Authors who submitted videos together with their manuscript need not take any additional action beyond any edits that may be requested by the reviewers and editors.
+
+### **Supplemental Video Requirements**
+
+{{<supplementalVideoList "Conf">}}
+
+{{<simpleAnchor "vid-accessibility">}}
+### Video Accessibility
+
+When creating videos, authors should include both captions and recorded narration.
+
+Providing alternative means of accessing information is valuable for people with sensory impairments and also enables engagement in a variety of contexts (e.g., if the video is muted). We request that authors utilize both written text and recorded narration to explain their videos. To support meeting participants with visual impairments, please describe all figures and images with sufficient detail so that their descriptions can be captured by closed captioning software.
+
+For Oral Presentation Videos and Preview Videos, authors may use YouTube’s automatic closed captioning functionality, but should review and edit the closed captions for accuracy after they are generated.
+
+For Supplemental Videos, authors should directly “burn” closed captions into the video due to technical limitations in IEEE Xplore. In other words, these captions are not provided as a text file, but rather as subtitles in the video itself (this is called “open captioning”, rather than “closed captioning”, because the captions are always visible).
+
+If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs <mailto:edi@hapticssymposium.org>.
+
 ## Final Submission
 
 **The final submission deadline is January 17, 2022.**
@@ -61,7 +118,7 @@ All accepted technical papers will appear in this year's Haptics Symposium proce
 
 We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the [PaperPlaza system](https://ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
 
-Specific questions regarding PaperPlaza should be sent to <ras.101@papercept.net>. General questions about the final submission of conference technical papers should be sent to the Publications Chair at <publications@hapticssymposium.org>. Urgent general questions should be sent to the Program Chair at <program@hapticssymposium.org> or the General Co-chairs at <chairs@hapticssymposium.org>.
+Specific questions regarding PaperPlaza should be sent to ras.101@papercept.net.  General questions about the final submission of conference technical papers should be sent to the Publications Chair at publications@hapticssymposium.org.  Urgent general questions should be sent to the Program Chair at  program@hapticssymposium.org or the General Co-chairs at chairs@hapticssymposium.org.
 
 ### Papers Submitted as Technical Papers
 
