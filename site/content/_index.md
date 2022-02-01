@@ -9,7 +9,7 @@ image: /img/bg19.jpg
 The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
 -->
 
-Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference.  A newly introduced Mentoring Forum track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.  Further details will be available in late January.
+Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference.  A newly introduced [Mentoring Forum](/presenting/mentoring-forum/) track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.
 
 {{<simpleLineBreak>}}
 
@@ -26,7 +26,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 <hr style="height:6px; visibility:hidden;" />
 
 #### Upcoming Deadlines
- - **TBA** Mentoring Forum
+ - **February 21, 2022** [Mentoring Forum](/presenting/mentoring-forum)
 
  <!--  
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)

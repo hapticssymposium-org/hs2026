@@ -7,6 +7,6 @@ description: |-
 image: /img/bg11.jpg
 ---
 
-**Update:** Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference. A newly introduced Mentoring Forum track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.  Further details will be available in late January.
+**Update:** Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference. A newly introduced [Mentoring Forum](/presenting/mentoring-forum/) track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.
 
 {{<simpleLineBreak>}}
