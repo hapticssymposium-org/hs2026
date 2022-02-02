@@ -39,9 +39,9 @@ Selected applicants will be invited to participate in an online event (date to b
 Questions may be directed to the 2022 IEEE Haptics Symposium Mentoring Forum Chairs via the email listed below.
 
 - Matteo Bianchi - University of Pisa
-- Oliver Schneider - University of Waterloo
-- Melisa Orta Martinez - Carnegie Mellon University
-- Jenna Gorlewicz - Saint Louis University
 - Jeremy Brown - Johns Hopkins University
+- Jenna Gorlewicz - Saint Louis University
+- Melisa Orta Martinez - Carnegie Mellon University
+- Oliver Schneider - University of Waterloo
 
 [mentoring@hapticssymposium.org](mailto:mentoring@hapticssymposium.org)

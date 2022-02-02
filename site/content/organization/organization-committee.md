@@ -44,10 +44,10 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 ## Mentoring Forum Chairs
 
 * Matteo Bianchi, University of Pisa
-* Oliver Schneider, University of Waterloo
-* Melisa Orta Martinez, Carnegie Mellon University
-* Jenna Gorlewicz, Saint Louis University
 * Jeremy Brown, Johns Hopkins University
+* Jenna Gorlewicz, Saint Louis University
+* Melisa Orta Martinez, Carnegie Mellon University
+* Oliver Schneider, University of Waterloo
 
 ## Transactions on Haptics Posters Chair
 
