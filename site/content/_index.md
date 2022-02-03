@@ -31,7 +31,7 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 
 **The 2022 IEEE Haptics Symposium will be held virtually.**
 
-**Plenary Session: March 22, 2022 - 9 am to 12 pm (US Pacific Time)**{{<simpleBR>}}
+**Plenary Session: March 22, 2022 - 9 am to 12 pm (US Pacific Time)** {{<simpleBR>}}
 Outstanding technical content, awards, and announcements from this year’s conference.
 
 **Cross Cutting Challenges: March 23, 2022 - 9 am to 12 pm (US Pacific Time)** {{<simpleBR>}}
