@@ -54,10 +54,10 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 <hr style="height:6px; visibility:hidden;" />
 
 #### Upcoming Deadlines
+ - **March 1, 2022** [Virtual Conference Videos](/presenting/video-instructions)
  - **February 21, 2022** [Mentoring Forum](/presenting/mentoring-forum)
 
- <!--  
- - **March 1, 2022** [Virtual Conference Videos](/presenting/video-instructions)
+ <!--
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
  - **November 19, 2021** [Cross-Cutting Challenges Individual Submission](/presenting/cross-cutting-challenges/) REMOVED on 1-5 by Greg
  - ~~October 13, 2021~~ **October 21, 2021 (extended)** [Technical Papers due](/presenting/technical-papers/) REMOVED ON 10-29 by Greg 
