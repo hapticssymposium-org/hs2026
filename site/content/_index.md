@@ -69,5 +69,3 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  - ~~October 21, 2021 (extended)~~ [Technical Papers due](/presenting/technical-papers/)
  - ~~September 22, 2021~~ [CCC Theme Proposal deadline](/presenting/cross-cutting-challenges/)
  - ~~September 17, 2021~~ [IEEE Transactions on Haptics Short Papers due](/presenting/transactions-on-haptics-early-submission/)
-
-<br>
