@@ -9,9 +9,9 @@ weight: 1
 
 We all benefit from mentoring and networking to get started in our careers. For the 2022 conference, we are pleased to offer a new Mentoring Forum that will provide opportunities for students and postdoctoral researchers to connect with senior and early-career faculty, to participate in breakout group discussions about their research via an online forum, and to formulate a concrete plan of action for advancing their research and career goals.  
 
-**Submission Deadline: February 21, 2022**
+**Mentoring Forum Online Event (For accepted participants only): March 24, 2022 - 9 am to 12 pm US Pacific Time (16:00 to 19:00 UTC)**
 
-**Mentoring Forum Online Event: To Be Announced (Late March, 2022)**
+**Submission Deadline: February 21, 2022**
 
 Applications are invited from Students and Postdoctoral Researchers.
 
