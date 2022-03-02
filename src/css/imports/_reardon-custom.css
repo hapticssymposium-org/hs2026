@@ -3,15 +3,7 @@
     display: inline;
 }
 
-.croppedGonzalez {
-    float:left;
-    width: 320px;
-    height: 320px;
-    object-fit: cover;
-    object-position: 70% 0%;
-}
-
-.croppedParisi {
+.cropped {
     float:left;
     width: 320px;
     height: 320px;

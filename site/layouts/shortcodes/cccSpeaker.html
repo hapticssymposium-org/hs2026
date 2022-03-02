@@ -1,0 +1,6 @@
+<div class="keynoteSpeaker">
+<img class="cropped" src="{{.Get `imFile`}}" {{with .Get "cropPos"}} style="object-position:{{ . }}" {{end}}>
+    <p style="padding-left:330px;padding-top:5%"> <span style="color:grey; "> Keynote: </span> <br> <span style="font-weight:bold"> {{.Get "keynote"}} </span></p>
+    <p style="padding-left:330px"> <span style="color:grey"> Speaker: </span> <br> <span style="font-weight:bold"> {{.Get "name"}} </span> ({{.Get "affiliation"}}) </p>
+</div>
+<div style="clear:both"></div>

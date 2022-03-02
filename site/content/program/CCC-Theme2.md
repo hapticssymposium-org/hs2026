@@ -8,13 +8,15 @@ title: >-
 <hr style="height:2px; visibility:hidden;" />
 
 **Keynote Speakers (more to follow)**
+{{<cccSpeaker imFile="/img/hs2022_CCC-Gonzalez.png" cropPos="70% 0%" name="Mar Gonzalez" affiliation="Microsoft Research" keynote="Hand-Object Interactions to Drive Haptic Research">}}
+{{<cccSpeaker imFile="/img/hs2022_CCC-Parisi.png" name="David Parisi" affiliation="College of Charleston" keynote="Archaeologies of Touch: Interfacing with Haptics from Electricity to Computing">}}
 
+<!--
 * **Mar Gonzalez** (Microsoft Research), Hand-Object Interactions to Drive Haptic Research
 * **David Parisi** (College of Charleston), Archaeologies of Touch: Interfacing with Haptics from Electricity to Computing
 
 ![](/img/CCC2-Speakers.jpg "CCC2 Speakers")
 
-<!--
 <div class="keynoteSpeaker">
     <img class="croppedGonzalez" src="/img/hs2022_CCC-Gonzalez.png">
     <p style="padding-left:330px;padding-top:5%"> <span style="color:grey; "> Keynote: </span> <br> <span style="font-weight:bold"> Hand-Object Interactions to Drive Haptic Research </span></p>
@@ -43,7 +45,7 @@ Speakers from both within and outside the haptics community will provide an over
 * **Yon Visell** (University of California, Santa Barbara)
 
 
-{{<insertImage imFile="/img/hs2022_CCC2-Organizers.jpg" imWidth="50%">}}
+{{<insertImage imFile="/img/hs2022_CCC2_Organizers.jpg" imWidth="50%">}}
 <!--
 ![](/img/CCC2-Organizers.jpg "CCC2 Organizers")
 -->
