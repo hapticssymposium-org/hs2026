@@ -18,7 +18,7 @@ title: >-
 ### Keynote Speakers
 {{<cccSpeaker imFile="/img/hs2022_CCC-Gonzalez.png" ref="#gonzalez" cropPos="70% 0%" name="Mar Gonzalez" affiliation="Microsoft Research" keynote="Hand-Object Interactions to Drive Haptic Research">}}
 {{<cccSpeaker imFile="/img/hs2022_CCC-Parisi.png" ref="#parisi" name="David Parisi" affiliation="College of Charleston" keynote="Wearable Haptics as a Cultural Challenge">}}
-{{<cccSpeaker imFile="/img/hs2022_CCC-Okamura.png" ref="#okamura" name="Allison M. Okamura" affiliation="Stanford University (with contributions from Jasmin Palmer, Mine Sarac, Zhenishbek Zhakypov, and M. Salvato)" keynote="Integrating Wearable Haptic Interfaces with Real-World Touch Interactions">}}
+{{<cccSpeaker imFile="/img/hs2022_CCC-Okamura.png" ref="#okamura" name="Allison M. Okamura" affiliation="Stanford University (with contributions from Jasmin Palmer, Mine Sarac, Zhenishbek Zhakypov, and M. Salvato)" keynote="Opportunities and Challenges for Re-Located Haptic Feedback">}}
 
 <!--
 * **Mar Gonzalez** (Microsoft Research), Hand-Object Interactions to Drive Haptic Research
@@ -56,7 +56,7 @@ Speakers from both within and outside the haptics community will provide an over
 
 {{<simpleLineBreak>}}
 {{<simpleAnchor "gonzalez">}}
-{{<cccDescription title="Hand-Object Interactions to Drive Haptics Research" webpage="https://www.microsoft.com/en-us/research/people/margon/" name="Mar Gonzalez" affiliation="Microsoft Research, USA" biotitle="Bio">}}
+{{<cccDescription title="Hand-Object Interactions to Drive Haptic Research" webpage="https://www.microsoft.com/en-us/research/people/margon/" name="Mar Gonzalez" affiliation="Microsoft Research, USA" biotitle="Bio">}}
 Mar Gonzalez is a researcher in the EPIC (Extended Perception Interaction and Cognition) team at Microsoft Research. In her research Gonzalez’s advances Spatial Computing by building new devices and experiences, all while studying human behavior, perception and neuroscience. Over the years her work has evolved in three ways: (1) to continue exploring the wonders of VR and spatial computing; (2) to create new devices and explore what these technologies do to our perceptual systems, most prominent is my work exploring new haptic devices and spatial audio; and (3) to understand how people behave at large when presented with technology. Gonzalez's impact extends into many fields of science, having been invited to write several commentaries for Scientific American and mainstream media outlets (Bloomberg, etc.). Moreover, her impact extends beyond scientific output and academic recognitions, her work has also transferred to products used by many around the world, such as Together mode in Microsoft Teams and Microsoft Soundscape, as well as features on Hololens and Xbox.
 
 {{<simpleLineBreak>}}
