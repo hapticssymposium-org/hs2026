@@ -1,11 +1,18 @@
 .keynoteSpeaker{
     float: left;
     display: inline;
-}
+} 
 
 .cropped {
     float:left;
     width: 320px;
     height: 320px;
+    object-fit: cover;
+}
+
+.cropped2 {
+    float:left;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
 }

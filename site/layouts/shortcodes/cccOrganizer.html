@@ -1,0 +1,4 @@
+<figure class="tc pa3 mr2 pv0 mb3 mt0" style="display:flex; flex-direction: column; column-gap: 1000px; ">
+    <img class="cropped2" src="{{.Get `imFile`}}" width="{{.Get `imWidth`}}" {{with .Get "cropPos"}} style="object-position:{{ . }}" {{end}}>
+    <figurecaption class="tc" style="width: 250px; margin-top: -18px;"><span class="b"><a href="{{.Get `webpage`}}">{{.Get "name"}}</a> </span> <br>{{.Get "affiliation"}}</figurecaption>
+</figure>
