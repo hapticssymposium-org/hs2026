@@ -17,7 +17,7 @@ title: >-
 
 ### Keynote Speakers
 {{<cccSpeaker imFile="/img/hs2022_CCC-Gonzalez.png" ref="#gonzalez" cropPos="70% 0%" name="Mar Gonzalez" affiliation="Microsoft Research" keynote="Hand-Object Interactions to Drive Haptic Research">}}
-{{<cccSpeaker imFile="/img/hs2022_CCC-Parisi.png" ref="#parisi" name="David Parisi" affiliation="College of Charleston" keynote="Archaeologies of Touch: Interfacing with Haptics from Electricity to Computing">}}
+{{<cccSpeaker imFile="/img/hs2022_CCC-Parisi.png" ref="#parisi" name="David Parisi" affiliation="College of Charleston" keynote="Wearable Haptics as a Cultural Challenge">}}
 {{<cccSpeaker imFile="/img/hs2022_CCC-Okamura.png" ref="#okamura" name="Allison M. Okamura" affiliation="Stanford University (with contributions from Jasmin Palmer, Mine Sarac, Zhenishbek Zhakypov, and M. Salvato)" keynote="Integrating Wearable Haptic Interfaces with Real-World Touch Interactions">}}
 
 <!--
