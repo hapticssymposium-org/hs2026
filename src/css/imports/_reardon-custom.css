@@ -1,19 +1,18 @@
 .keynoteSpeaker{
     float: left;
     display: inline;
-}
+} 
 
-.croppedGonzalez {
+.cropped {
     float:left;
     width: 320px;
     height: 320px;
     object-fit: cover;
-    object-position: 70% 0%;
 }
 
-.croppedParisi {
+.cropped2 {
     float:left;
-    width: 320px;
-    height: 320px;
+    width: 250px;
+    height: 250px;
     object-fit: cover;
 }
