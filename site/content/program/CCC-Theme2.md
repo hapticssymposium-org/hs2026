@@ -56,7 +56,7 @@ Speakers from both within and outside the haptics community will provide an over
 
 {{<simpleLineBreak>}}
 {{<simpleAnchor "gonzalez">}}
-{{<cccDescription title="Hand-Object Interactions to Drive Haptics Research" webpage="https://www.microsoft.com/en-us/research/people/margon/" name="Mar Gonzalez" affiliation="Microsoft Research, USA" biotitle="Bio">}}
+{{<cccDescription title="Hand-Object Interactions to Drive Haptic Research" webpage="https://www.microsoft.com/en-us/research/people/margon/" name="Mar Gonzalez" affiliation="Microsoft Research, USA" biotitle="Bio">}}
 Mar Gonzalez is a researcher in the EPIC (Extended Perception Interaction and Cognition) team at Microsoft Research. In her research Gonzalez’s advances Spatial Computing by building new devices and experiences, all while studying human behavior, perception and neuroscience. Over the years her work has evolved in three ways: (1) to continue exploring the wonders of VR and spatial computing; (2) to create new devices and explore what these technologies do to our perceptual systems, most prominent is my work exploring new haptic devices and spatial audio; and (3) to understand how people behave at large when presented with technology. Gonzalez's impact extends into many fields of science, having been invited to write several commentaries for Scientific American and mainstream media outlets (Bloomberg, etc.). Moreover, her impact extends beyond scientific output and academic recognitions, her work has also transferred to products used by many around the world, such as Together mode in Microsoft Teams and Microsoft Soundscape, as well as features on Hololens and Xbox.
 
 {{<simpleLineBreak>}}
