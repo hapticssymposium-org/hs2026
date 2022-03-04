@@ -54,7 +54,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 <hr style="height:6px; visibility:hidden;" />
 
 #### Upcoming Deadlines
- - **March 1, 2022** [Virtual Conference Videos](/presenting/video-instructions)
+ - **March 8, 2022** [30-Second Preview Videos](/presenting/video-instructions)
 
  <!--
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
@@ -63,6 +63,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  -->
 
 #### Passed Deadlines
+ - ~~March 1, 2022~~ [Virtual Conference Videos](/presenting/video-instructions)
  - ~~February 21, 2022~~ [Mentoring Forum submission](/presenting/mentoring-forum)
  - ~~February 3, 2022~~ Exhibit Applications
  - ~~January 24, 2022~~ Demonstrations

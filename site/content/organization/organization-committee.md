@@ -43,6 +43,8 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Mentoring Forum Chairs
 
+<mailto:mentoring@hapticssymposium.org>
+
 * Matteo Bianchi, University of Pisa
 * Jeremy Brown, Johns Hopkins University
 * Jenna Gorlewicz, Saint Louis University
