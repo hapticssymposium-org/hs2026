@@ -35,7 +35,7 @@ Your video should consist of a recorded oral presentation by one of the authors,
 
 Authors of accepted papers are invited to submit an optional 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw), and may be used to promote the conference.
 
-**The preview video deadline is March 8, 2022.**
+**The preview video deadline is ~~March 1, 2022~~ March 8, 2022.**
 
 Please refer to the "Oral Presentation Video Instructions." **The length of the preview video should not exceed 30 seconds.**
 

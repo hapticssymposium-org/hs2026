@@ -54,7 +54,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 <hr style="height:6px; visibility:hidden;" />
 
 #### Upcoming Deadlines
- - **March 8, 2022** [30-Second Preview Videos](/presenting/video-instructions)
+ - ~~March 1, 2022~~ **March 8, 2022** [30-Second Preview Videos](/presenting/video-instructions)
 
  <!--
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
