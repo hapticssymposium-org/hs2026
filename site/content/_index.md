@@ -70,3 +70,18 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  - ~~October 21, 2021 (extended)~~ [Technical Papers due](/presenting/technical-papers/)
  - ~~September 22, 2021~~ [CCC Theme Proposal deadline](/presenting/cross-cutting-challenges/)
  - ~~September 17, 2021~~ [IEEE Transactions on Haptics Short Papers due](/presenting/transactions-on-haptics-early-submission/)
+
+
+{{<simpleLineBreak>}}
+The Haptics Symposium would like to sincerely thank the following organizations for their support:
+{{<sponsorFlexContainer contentJustification="center">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical1.jpg" imWidth="100%" containerWidth="16%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="16%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="26%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond1.png" imWidth="100%" containerWidth="16%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond2.png" imWidth="100%" containerWidth="16%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Gold1.jpg" imWidth="100%" containerWidth="16%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award1.png" imWidth="100%" containerWidth="16%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award2.png" imWidth="100%" containerWidth="16%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-SRS1.png" imWidth="100%" containerWidth="16%">}}
+{{</sponsorFlexContainer>}}

@@ -2,7 +2,48 @@
 title: Sponsorship
 image: /img/bg12.jpg
 ---
-The IEEE Haptics Symposium would like to sincerely thank our sponsors for their support. 
+The Haptics Symposium would like to sincerely thank the following organizations for their support:
+
+{{<simpleLineBreak>}}
+
+### Technical Sponsors
+{{<sponsorFlexContainer contentJustification="left">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical1.jpg" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="30%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
+
+### Diamond Sponsors
+{{<sponsorFlexContainer contentJustification="left">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond1.png" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond2.png" imWidth="100%" containerWidth="20%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
+
+### Gold Sponsor
+{{<sponsorFlexContainer contentJustification="left">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Gold1.jpg" imWidth="100%" containerWidth="20%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
+
+### Award Sponsors
+{{<sponsorFlexContainer contentJustification="left">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award1.png" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award2.png" imWidth="100%" containerWidth="20%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
+
+### Student Registration Sponsor
+{{<sponsorFlexContainer>}}
+    {{<sponsorLogo imFile="/img/hs2022_Sponsor-SRS1.png" imWidth="100%" containerWidth="20%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
 
 ## Sponsorship opportunities
 
