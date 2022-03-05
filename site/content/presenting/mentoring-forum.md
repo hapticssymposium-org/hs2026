@@ -9,7 +9,7 @@ weight: 1
 
 We all benefit from mentoring and networking to get started in our careers. For the 2022 conference, we are pleased to offer a new Mentoring Forum that will provide opportunities for students and postdoctoral researchers to connect with senior and early-career faculty, to participate in breakout group discussions about their research via an online forum, and to formulate a concrete plan of action for advancing their research and career goals.  
 
-**Mentoring Forum Online Event (For accepted participants only): March 24, 2022 - 9 am to 12 pm US Pacific Time (16:00 to 19:00 UTC)**
+**Mentoring Forum Online Event (For accepted participants only): March 24, 2022 - ~~9 am to 12 pm~~ 9:30 am to 12:30 pm US Pacific Time (~~16:00 to 19:00~~ 16:30 to 19:30 UTC)**
 
 **Submission Deadline: February 21, 2022**
 
@@ -34,7 +34,7 @@ Submissions will undergo a single-blind review process. Acceptance criteria will
 Accepted submissions will not be included in the electronically distributed conference proceedings, and they will not be published in IEEE Xplore. Authors retain the full copyright.
 
 ## Format
-Selected applicants will be invited to participate in an online event on **March 24**.  Details regarding the event format will be forthcoming.
+Selected applicants will be invited to participate in an online event on **March 24**. Details regarding the event format will be forthcoming.
 
 <!--
 In it, several break-out sessions will be organized and will run in parallel. The sessions will group papers belonging to similar research areas within haptics. Participants will have 5 minutes to present their contribution in a pitch presentation with slides (required). The remaining time will be devoted to interactive discussions. One senior and one early-career haptics researcher will lead the discussions in each breakout session.  Each participant will be aided in identifying a concrete plan of action for attaining their goals.  Participants will follow up by checking in with their mentors approximately 6 months after the event.

@@ -17,7 +17,7 @@ title: >-
 {{<simpleLineBreak>}}
 
 ### Keynote Speakers
-{{<cccSpeaker imFile="/img/hs2022_CCC-Makin.png" ref="#makin" name="Tamar Makin" affiliation="University College London" keynote="Neurocognitive bottlenecks and opportunities for the successful realisation of robotic hand augmentation">}}
+{{<cccSpeaker imFile="/img/hs2022_CCC-Makin.png" ref="#makin" name="Tamar Makin" affiliation="University College London" keynote="Soft embodiment for engineering artificial limbs">}}
 {{<cccSpeaker imFile="/img/hs2022_CCC-Lush.png" ref="#lush" name="Peter Lush" affiliation="University of Sussex" keynote="Expectancies and phenomenological control in the rubber hand illusion">}}
 {{<cccSpeaker imFile="/img/hs2022_CCC-Colonnese.png" ref="#colonnese" name="Nicholas Colonnese" affiliation="Meta Reality Labs Research" keynote="Haptics in the Metaverse: Opportunities and Challenges">}}
 
@@ -38,8 +38,8 @@ We will bring together experts across these fields to discuss the importance of 
 
 {{<simpleLineBreak>}}
 {{<simpleAnchor "makin">}}
-{{<cccDescription title="Neurocognitive bottlenecks and opportunities for the successful realisation of robotic hand augmentation" name="Tamar Makin" affiliation="University College London, United Kingdom" biotitle="Synposis">}}
-Is it possible, from a neurocognitive perspective, to merge extra robotic body parts with the human body? If so, would this cause a change to our own, innate body representation? Here, I will describe a series of studies that aimed to begin addressing these questions, where individuals were trained to use a toe-controlled extra robotic finger (the Third Thumb). Our studies demonstrate that successful integration of a motor augmentation device can be readily achieved, with potential for flexible use, reduced cognitive reliance and increased perceived sense of embodiment. To support this motor skill learning, participants will rely on a multitude of sensory cues arising both from the Third Thumb and from their own body, and somatosensory signals from the controlling toes in particular.  Importantly, we show that successful human-robot integration may have consequences on certain aspects of the biological hand representation and motor control.
+{{<cccDescription title="Soft embodiment for engineering artificial limbs" name="Tamar Makin" affiliation="University College London, United Kingdom" biotitle="Synposis">}}
+The nervous system, and the sensorimotor loop in particular, provides an existing model for the external world and predictions on how the external world can be manipulated by our actions. I will argue that these existing neural loops are not doomed to function only with something that is engineered to performs the same functions as the body and in the same way. This neural toolkit constitutes a powerful potential means for information compression, error-based trial learning, and reducing the cognitive load of artificial limb usage that could actually be exploited for a new range of purposes. I propose that (neuro)engineers should aim to create artificial limbs that are not enslaved to the body template and that exploit body processing for their own purpose. Instead, soft embodiment invites engineers to redefine the function of a certain neural process or computation. By shifting the function of existing neural pathways, we will have the opportunity to more flexibly adapt to new opportunities for improved motor control.
 
 {{<simpleLineBreak>}}
 {{<simpleAnchor "lush">}}
