@@ -2,6 +2,7 @@
 title: >-
   Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with
   Real-World Touch Interactions
+weight: 3
 ---
 ## Cross-Cutting Challenge Theme 2: Integrating Wearable Haptic Interfaces with Real-World Touch Interactions
 

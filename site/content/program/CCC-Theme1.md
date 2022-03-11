@@ -2,6 +2,7 @@
 title: >-
   Cross-Cutting Challenge Theme 1: The Importance of Touch for Distributed
   Embodiment
+weight: 2
 ---
 ## Cross-Cutting Challenge Theme 1: The Importance of Touch for Distributed Embodiment
 
