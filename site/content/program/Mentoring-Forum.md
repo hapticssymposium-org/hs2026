@@ -1,6 +1,6 @@
 ---
 title: >-
-  Mentoring Forum (by invitation only)
+  Mentoring Forum (by invitation)
 weight: 5
 ---
 
