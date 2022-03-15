@@ -39,9 +39,9 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 
 **Attending:** Both events will be streamed live via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw). No registration is required.
 
-**Mentoring Forum:** For 2022, we are pleased to introduce the new IEEE Haptics Symposium Mentoring Forum. [Call for Participation](/presenting/mentoring-forum) (submit by February 21, 2022).
+**Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/video-presentations).
 
-**Video Presentations** of all accepted papers will be available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw).
+**Mentoring Forum:** For 2022, we are pleased to introduce the [IEEE Haptics Symposium Mentoring Forum](/presenting/mentoring-forum).
 
 <!--
 The 2022 conference will include [cross-cutting challenge](/program/) sessions, [technical paper](/presenting/technical-papers/) sessions presenting the latest advances in haptics,  hands-on haptic demonstrations, and work-in-progress posters. An exciting social activities program will provide opportunities for socializing and networking.
@@ -53,8 +53,10 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 
 <hr style="height:6px; visibility:hidden;" />
 
-#### Upcoming Deadlines
- - ~~March 1, 2022~~ **March 8, 2022** [30-Second Preview Videos](/presenting/video-instructions)
+#### Upcoming Events
+- March 24, 2022 [Mentoring Forum (by invitation)](/program/mentoring-forum)
+- March 23, 2022 [Cross-Cutting Challenges Live Event](/program/program-overview#ccc)
+- March 22, 2022 [Plenary Session](/program/program-overview#plenary)
 
  <!--
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
@@ -63,6 +65,7 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  -->
 
 #### Passed Deadlines
+ - ~~March 8, 2022~~ [30-Second Preview Videos](/presenting/video-instructions)
  - ~~March 1, 2022~~ [Virtual Conference Videos](/presenting/video-instructions)
  - ~~February 21, 2022~~ [Mentoring Forum submission](/presenting/mentoring-forum)
  - ~~February 3, 2022~~ Exhibit Applications
