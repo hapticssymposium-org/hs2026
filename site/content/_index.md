@@ -37,7 +37,7 @@ Outstanding technical content, awards, and announcements from this year’s conf
 **Cross-Cutting Challenges: March 23, 2022 - 9 am to 12 pm (US Pacific Time)** {{<simpleBR>}}
 Keynote talks and panel discussions will be featured in two [Cross-Cutting Challenge Thematic Sessions](/program/).
 
-**Attending:** Both events will be streamed live via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw). No registration is required.
+**Attending:** Both events will be streamed live via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw). In order to access the **written conference proceedings**, attendees may register via this [form](https://forms.gle/f96Qk3jSLZ54cH269).
 
 **Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/VideoPresentations).
 
