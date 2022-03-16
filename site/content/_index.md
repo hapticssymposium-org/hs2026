@@ -39,7 +39,7 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 
 **Attending:** Both events will be streamed live via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw). No registration is required.
 
-**Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/video-presentations).
+**Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/VideoPresentations).
 
 **Mentoring Forum:** For 2022, we are pleased to introduce the [IEEE Haptics Symposium Mentoring Forum](/presenting/mentoring-forum).
 
