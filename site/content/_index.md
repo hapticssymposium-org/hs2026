@@ -3,17 +3,11 @@ title: Home
 image: /img/bg19.jpg
 ---
 
-
-
-
 <!--
 
 **Update:** The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.** The live streaming video event will take place on **Tuesday, March 22, 2022 - 9am to 12pm US Pacific Time** (16:00 to 19:00 UTC). The Cross-Cutting Challenges live video event will take place on **Wednesday, March 23, 2022 - 9am to 12pm US Pacific Time** (16:00 to 19:00 UTC). Please visit the [conference program](/program/program-overview/) for more information.
 
-
 The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
-
-
 
 Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference.  A newly introduced [Mentoring Forum](/presenting/mentoring-forum/) track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.
 
@@ -37,7 +31,14 @@ Outstanding technical content, awards, and announcements from this year’s conf
 **Cross-Cutting Challenges: March 23, 2022 - 9 am to 12 pm (US Pacific Time)** {{<simpleBR>}}
 Keynote talks and panel discussions will be featured in two [Cross-Cutting Challenge Thematic Sessions](/program/).
 
-**Attending:** Both events will be streamed live via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw). In order to access the **written conference proceedings**, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
+{{<insertRawHTML>}}
+<div style="font-weight: bold">Attending:</div>
+<ul>
+<li>Both events will be streamed live via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw).
+<li>We encourage attendees to [submit questions](https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx) for [presenting authors](/program-overview/) during the plenary session
+<li>To access the **written conference proceedings**, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
+</ul>
+{{<insertRawHTML>}}
 
 **Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/VideoPresentations).
 
