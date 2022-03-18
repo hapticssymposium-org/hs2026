@@ -15,10 +15,17 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 
 -->
 
+{{<insertRawHTML>}}
+<div style="width:100%; position:relative; padding-bottom: 56.25%;">
+<iframe width="100%" height="100%" style="top:0; left=0; position:absolute" src="https://www.youtube.com/embed/_KG2YfXlwYQ" title="YouTube video player" allowfullscreen></iframe>
+</div>
+<div class="pt3"></div>
 
+<iframe src="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
 
-
-
+<div class="pt3"></div>
+<hr>
+{{</insertRawHTML>}}
 
 **The 2022 IEEE Haptics Symposium will be held virtually.**
 
