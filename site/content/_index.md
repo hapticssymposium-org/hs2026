@@ -38,7 +38,7 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 <li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the plenary session
 <li>To access the **written conference proceedings**, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
 </ul>
-{{<insertRawHTML>}}
+{{</insertRawHTML>}}
 
 **Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/VideoPresentations).
 
