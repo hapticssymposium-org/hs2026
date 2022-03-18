@@ -16,11 +16,8 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 -->
 
 
-**Welcome to IEEE Haptics Symposium 2022!**
 
-Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
-{{<simpleLineBreak>}}
 
 
 **The 2022 IEEE Haptics Symposium will be held virtually.**
@@ -40,9 +37,17 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 </ul>
 {{</insertRawHTML>}}
 
+{{<simpleLineBreak>}}
+
 **Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/VideoPresentations).
 
 **Mentoring Forum:** For 2022, we are pleased to introduce the [IEEE Haptics Symposium Mentoring Forum](/presenting/mentoring-forum).
+
+{{<simpleLineBreak>}}
+
+**Welcome to IEEE Haptics Symposium 2022!**
+
+Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
 <!--
 The 2022 conference will include [cross-cutting challenge](/program/) sessions, [technical paper](/presenting/technical-papers/) sessions presenting the latest advances in haptics,  hands-on haptic demonstrations, and work-in-progress posters. An exciting social activities program will provide opportunities for socializing and networking.
