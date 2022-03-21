@@ -16,14 +16,16 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 -->
 
 {{<insertRawHTML>}}
-<div style="width:100%; position:relative; padding-bottom: 56.25%;">
-<iframe width="100%" height="100%" style="top:0; left=0; position:absolute" src="https://www.youtube.com/embed/_KG2YfXlwYQ" title="YouTube video player" allowfullscreen></iframe>
+<div style="width:100% height:100%; flex-wrap:wrap;" class="flex db-l">
+    <div class="mv2" style="float: left; width:70%; position:relative; padding-bottom: 39.375%; min-width:400px; min-height:225px">
+        <iframe width="100%" height="100%" style="float:left; top:0; left:0; position:absolute" src="https://www.youtube.com/embed/hkRaVJbKHy8" title="YouTube video player" allowfullscreen></iframe> 
+    </div><div class="mv2" style="float: left; width:30%; height:100%; position:relative; padding-bottom: 39.4%; min-width: 350px; min-height:300px">
+        <iframe src="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx" height="100%" width="100%" frameBorder="0" style="position:absolute; border:none" title="Slido"></iframe>
+    </div>
+    <div class="pt3 cf"></div>
+
 </div>
-<div class="pt3"></div>
 
-<iframe src="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx" height="100%" width="100%" frameBorder="0" style="min-height: 560px;" title="Slido"></iframe>
-
-<div class="pt3"></div>
 <hr>
 {{</insertRawHTML>}}
 
