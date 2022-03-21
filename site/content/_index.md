@@ -42,7 +42,7 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 <ul>
 <li>Both events will be streamed live via the <a href="https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw">IEEE Haptics Symposium YouTube Channel</a>
 <li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the plenary session
-<li>To access the **written conference proceedings**, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
+<li>To access the <span style="font-weight:bold">written conference proceedings</span>, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
 </ul>
 {{</insertRawHTML>}}
 
