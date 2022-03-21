@@ -15,6 +15,8 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 
 -->
 
+### Haptics Symposium 2022 Plenary Session - Live on March 22 at 9:00 am (PT)
+
 {{<insertRawHTML>}}
 <div style="width:100% height:100%; flex-wrap:wrap;" class="flex db-l">
     <div class="mv2" style="float: left; width:70%; position:relative; padding-bottom: 39.375%; min-width:400px; min-height:225px">
@@ -23,9 +25,7 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
         <iframe src="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx" height="100%" width="100%" frameBorder="0" style="position:absolute; border:none" title="Slido"></iframe>
     </div>
     <div class="pt3 cf"></div>
-
 </div>
-
 <hr>
 {{</insertRawHTML>}}
 
@@ -41,6 +41,10 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 <div style="font-weight: bold">Attending:</div>
 <ul>
 <li>Both events will be streamed live via the <a href="https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw">IEEE Haptics Symposium YouTube Channel</a>
+    <ul style="margin-bottom:0">
+    <li><a href="https://youtu.be/hkRaVJbKHy8">Plenary Session Livestream</a></li>
+    <li><a href="https://youtu.be/AITyBiz453k">Cross-Cutting Challenges Livestream</a></li>
+    </ul>
 <li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the plenary session
 <li>To access the <span style="font-weight:bold">written conference proceedings</span>, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
 </ul>

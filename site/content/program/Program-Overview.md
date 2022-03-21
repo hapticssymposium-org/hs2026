@@ -9,7 +9,7 @@ weight: 1
 
 **Tuesday, March 22, 2022 - 9am to 12pm US Pacific Time (16:00 to 19:00 UTC)**
 
-The 2022 virtual conference will be highlighted by a live event that will feature video presentations of papers, together with live panel discussions with authors, awards, and information about future conferences.  The event will be freely accessible to everyone and may be viewed via the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw), where it will also be archived for later viewing.  It will mirror the previous 2020 IEEE Haptics Symposium live streaming video event, which remains available via the conference YouTube channel, where it has been viewed several thousand times.
+The 2022 virtual conference will be highlighted by a live event that will feature video presentations of papers, together with live panel discussions with authors, awards, and information about future conferences.  The event will be freely accessible to everyone and may be viewed via the [IEEE Haptics Symposium YouTube channel](https://youtu.be/hkRaVJbKHy8), where it will also be archived for later viewing.  It will mirror the previous 2020 IEEE Haptics Symposium live streaming video event, which remains available via the conference YouTube channel, where it has been viewed several thousand times.
 
 In order to access the **written conference proceedings**, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
 
@@ -21,7 +21,7 @@ In order to access the **written conference proceedings**, attendees and authors
 
 **Wednesday, March 23, 2022 - 9am to 12pm US Pacific Time (16:00 to 19:00 UTC)**
 
-The 2022 IEEE Haptics Symposium will also feature two Cross-Cutting Challenge (CCC) sessions whose topics were selected based on an open solicitation for proposals.  The CCC sessions will include keynote presentations and panel discussions addressing challenges of broad interest to the haptics research community.  They will take place during a live streaming video event that will be freely accessible to everyone and may be viewed via the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw), where it will also be archived for later viewing.
+The 2022 IEEE Haptics Symposium will also feature two Cross-Cutting Challenge (CCC) sessions whose topics were selected based on an open solicitation for proposals.  The CCC sessions will include keynote presentations and panel discussions addressing challenges of broad interest to the haptics research community.  They will take place during a live streaming video event that will be freely accessible to everyone and may be viewed via the [IEEE Haptics Symposium YouTube channel](https://youtu.be/AITyBiz453k), where it will also be archived for later viewing.
 
 {{<cccSessionTable>}}
 {{<simpleBR>}}
