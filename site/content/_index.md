@@ -15,20 +15,22 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 
 -->
 
-### Haptics Symposium 2022 Plenary Session - Live on March 22 at 9:00 am (PT)
-To access the **written conference proceedings**, attendees and authors may register for free via this [form](https://forms.gle/f96Qk3jSLZ54cH269).
+### Haptics Symposium 2022 Cross-Cutting Challenges - Live on March 23 at 9:00 am (PT)
 
 {{<insertRawHTML>}}
 <div style="width:100% height:100%; flex-wrap:wrap;" class="flex db-l">
     <div class="mv2" style="float: left; width:70%; position:relative; padding-bottom: 39.375%; min-width:400px; min-height:225px">
-        <iframe width="100%" height="100%" style="float:left; top:0; left:0; position:absolute" src="https://www.youtube.com/embed/hkRaVJbKHy8" title="YouTube video player" allowfullscreen></iframe> 
+        <iframe width="100%" height="100%" style="float:left; top:0; left:0; position:absolute" src="https://www.youtube.com/embed/AITyBiz453k" title="YouTube video player" allowfullscreen></iframe> 
     </div><div class="mv2" style="float: left; width:30%; height:100%; position:relative; padding-bottom: 39.4%; min-width: 350px; min-height:460px">
         <iframe src="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx" height="100%" width="100%" frameBorder="0" style="position:absolute; border:none" title="Slido"></iframe>
     </div>
     <div class="pt3 cf"></div>
 </div>
-<hr>
 {{</insertRawHTML>}}
+
+To access the **written conference proceedings**, attendees and authors may register for free via this [form](https://forms.gle/f96Qk3jSLZ54cH269).
+
+{{<simpleLineBreak>}}
 
 **The 2022 IEEE Haptics Symposium will be held virtually.**
 
@@ -46,8 +48,8 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
     <li><a href="https://youtu.be/hkRaVJbKHy8">Plenary Session Livestream</a></li>
     <li><a href="https://youtu.be/AITyBiz453k">Cross-Cutting Challenges Livestream</a></li>
     </ul>
-<li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the plenary session
-<li>The <span style="font-weight:bold">written conference proceedings</span> can be accessed by attendees and authors by registering for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
+<li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the Plenary Session and to <a href="/program/program-overview/#ccc">keynote speakers</a> during the Cross-Cutting Challenges
+<li>The <span style="font-weight:bold">written conference proceedings</span> can be accessed by attendees and authors by registering for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}
 </ul>
 {{</insertRawHTML>}}
 
@@ -80,7 +82,6 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
 #### Upcoming Events
 - March 24, 2022 [Mentoring Forum (by invitation)](/program/mentoring-forum)
 - March 23, 2022 [Cross-Cutting Challenges Live Event](/program/program-overview#ccc)
-- March 22, 2022 [Plenary Session](/program/program-overview#plenary)
 
  <!--
 - **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
@@ -88,7 +89,8 @@ Once again for 2022, a [conference journal papers track](/presenting/transaction
  - ~~October 13, 2021~~ **October 21, 2021 (extended)** [Technical Papers due](/presenting/technical-papers/) REMOVED ON 10-29 by Greg 
  -->
 
-#### Passed Deadlines
+#### Passed Deadlines and Events
+ - ~~March 22, 2022~~ [Plenary Session](/program/program-overview#plenary)
  - ~~March 8, 2022~~ [30-Second Preview Videos](/presenting/video-instructions)
  - ~~March 1, 2022~~ [Virtual Conference Videos](/presenting/video-instructions)
  - ~~February 21, 2022~~ [Mentoring Forum submission](/presenting/mentoring-forum)
