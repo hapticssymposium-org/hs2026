@@ -16,6 +16,7 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 -->
 
 ### Haptics Symposium 2022 Plenary Session - Live on March 22 at 9:00 am (PT)
+To access the **written conference proceedings**, attendees and authors may register for free via this [form](https://forms.gle/f96Qk3jSLZ54cH269).
 
 {{<insertRawHTML>}}
 <div style="width:100% height:100%; flex-wrap:wrap;" class="flex db-l">
@@ -46,9 +47,13 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
     <li><a href="https://youtu.be/AITyBiz453k">Cross-Cutting Challenges Livestream</a></li>
     </ul>
 <li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the plenary session
-<li>To access the <span style="font-weight:bold">written conference proceedings</span>, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
+<li>The <span style="font-weight:bold">written conference proceedings</span> can be accessed by attendees and authors by registering for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
 </ul>
 {{</insertRawHTML>}}
+
+<!--
+To access the <span style="font-weight:bold">written conference proceedings</span>, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
+-->
 
 {{<simpleLineBreak>}}
 
