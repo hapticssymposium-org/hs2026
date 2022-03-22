@@ -48,7 +48,7 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
     <li><a href="https://youtu.be/hkRaVJbKHy8">Plenary Session Livestream</a></li>
     <li><a href="https://youtu.be/AITyBiz453k">Cross-Cutting Challenges Livestream</a></li>
     </ul>
-<li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the Plenary Session and to <a href="/program/program-overview/#ccc">keynote speakers</a> during the Cross-Cutting Challenges
+<li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the Plenary Session and for <a href="/program/program-overview/#ccc">keynote speakers</a> during the Cross-Cutting Challenges
 <li>The <span style="font-weight:bold">written conference proceedings</span> can be accessed by attendees and authors by registering for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}
 </ul>
 {{</insertRawHTML>}}
