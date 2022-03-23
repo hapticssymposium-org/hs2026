@@ -15,6 +15,7 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 
 -->
 
+### Haptics Symposium 2022 Plenary Session - Streamed on March 22 at 9:00 am (PT) [(Rewatch the session)](https://youtu.be/hkRaVJbKHy8)
 ### Haptics Symposium 2022 Cross-Cutting Challenges - Live on March 23 at 9:00 am (PT)
 
 {{<insertRawHTML>}}
