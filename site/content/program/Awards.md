@@ -9,6 +9,7 @@ Two main awards were distributed at IEEE Haptics Symposium 2022 to honor top con
 
 The details of each award appear below. All winners were announced during the award ceremony portion of the [livestream event](https://youtu.be/hkRaVJbKHy8?t=8069) on March 22, 2022, which is also archived for online viewing. In addition to the listed monetary prizes, each winning team received a commemorative certificate by mail.
 
+{{<simpleAnchor "bestConfPaper">}}
 ## Best IEEE Haptics Symposium Conference Technical Paper
 39 contributions were published as technical papers. The IEEE Haptics Symposium 2022 Editor-in-Chief, Fernando Bello, nominated six papers for this award based on the strength of their reviews. The authors of all six papers submitted video presentations that are [available online](/program/VideoPresentations) and were shown in the [livestream event](https://youtu.be/hkRaVJbKHy8?t=8069).
 
@@ -20,6 +21,7 @@ A committee of three experts (Gregory Gerling, Yasemin Vardar, and Hiroyuki Shin
 
 {{<awardsImage imSource="/img/Awards_Conf_HonMention.png" title="Chemical-induced Thermal Grill Illusion" titleLink="https://youtu.be/1yRpwHUPeKw" authors="Takumi Hamazaki, Miku Kaneda, Jianyao Zhang, Seitaro Kaneko, Hiroyuki Kajimoto" awardVal="$250">}}
 
+{{<simpleAnchor "bestToHPaper">}}
 ## Best IEEE Transactions on Haptics Short Paper
 19 contributions were published in the  short papers category in the IEEE Transactions on Haptics (ToH). The IEEE ToH Editor-in-Chief, Domenico Prattichizzo, nominated six papers for this award based on the strength of their reviews. The authors of these contributions submitted 3-minute video presentations that are [available online](/program/VideoPresentations) and were shown in the [livestream event](https://youtu.be/hkRaVJbKHy8?t=8069).
 

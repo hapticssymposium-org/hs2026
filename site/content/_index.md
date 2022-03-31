@@ -40,10 +40,8 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 
 <hr style="height:6px; visibility:hidden;" />
 
-#### Upcoming Events
-- March 24, 2022 [Mentoring Forum (by invitation)](/program/mentoring-forum)
-
 #### Passed Deadlines and Events
+ - ~~March 24, 2022~~ [Mentoring Forum (by invitation)](/program/mentoring-forum)
  - ~~March 23, 2022~~ [Cross-Cutting Challenges Live Event](/program/program-overview#ccc)
  - ~~March 22, 2022~~ [Plenary Session](/program/program-overview#plenary)
  - ~~March 8, 2022~~ [30-Second Preview Videos](/presenting/video-instructions)
