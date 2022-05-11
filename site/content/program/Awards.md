@@ -15,11 +15,11 @@ The details of each award appear below. All winners were announced during the aw
 
 A committee of three experts (Gregory Gerling, Yasemin Vardar, and Hiroyuki Shinoda) selected the award recipients based on their final manuscripts, any supplementary materials, and their 3-minute video presentations. The selection criteria considered and looked for a high degree of innovation and creativity, well-founded analytical support and/or experimental evidence, technical excellence, a strong potential contribution and impact on the field, and a high quality video presentation. In addition to the best paper, the committee selected one runner-up and one honorable mention.
 
-{{<awardsImage imSource="/img/Awards_Conf_Winner.png" title="LRAir: Non-contact Haptics Using Synthetic Jets" titleLink="https://youtu.be/ecQ1dIAIT-k" authors="Craig Shultz and Chris Harrison" awardVal="$1000" sponsor="yes" 3ds="yes">}}
+{{<awardsImage imSource="/img/Awards_Conf_Winner.png" title="LRAir: Non-contact Haptics Using Synthetic Jets" titleLink="http://dx.doi.org/10.1109/haptics52432.2022.9765565" authors="Craig Shultz and Chris Harrison" awardVal="$1000" sponsor="yes" 3ds="yes">}}
 
-{{<awardsImage imSource="/img/Awards_Conf_RunnerUp.png" title="A Smart Bracelet Supporting Tactile Communication and Interaction" titleLink="https://youtu.be/4v3i6KJRSgA" authors="Stejara Dinulescu, Neeli Tummala, Gregory Reardon, Bharat Dandu, Dustin Goetz, Sven Topp, and Yon Visell" awardVal="$500" 3ds="yes">}}
+{{<awardsImage imSource="/img/Awards_Conf_RunnerUp.png" title="A Smart Bracelet Supporting Tactile Communication and Interaction" titleLink="http://dx.doi.org/10.1109/haptics52432.2022.9765616" authors="Stejara Dinulescu, Neeli Tummala, Gregory Reardon, Bharat Dandu, Dustin Goetz, Sven Topp, and Yon Visell" awardVal="$500" 3ds="yes">}}
 
-{{<awardsImage imSource="/img/Awards_Conf_HonMention.png" title="Chemical-induced Thermal Grill Illusion" titleLink="https://youtu.be/1yRpwHUPeKw" authors="Takumi Hamazaki, Miku Kaneda, Jianyao Zhang, Seitaro Kaneko, Hiroyuki Kajimoto" awardVal="$250">}}
+{{<awardsImage imSource="/img/Awards_Conf_HonMention.png" title="Chemical-induced Thermal Grill Illusion" titleLink="http://dx.doi.org/10.1109/haptics52432.2022.9765569" authors="Takumi Hamazaki, Miku Kaneda, Jianyao Zhang, Seitaro Kaneko, Hiroyuki Kajimoto" awardVal="$250">}}
 
 {{<simpleAnchor "bestToHPaper">}}
 ## Best IEEE Transactions on Haptics Short Paper
@@ -28,13 +28,13 @@ A committee of three experts (Gregory Gerling, Yasemin Vardar, and Hiroyuki Shin
 A committee of three experts (Lynette Jones, Claudio Pacchierotti, and Jee-Hwan Ryu) selected the award recipients based on their final manuscripts, any supplementary materials, and their 3-minute video presentations. In addition to the best paper, the committee selected one runner-up and one honorable mention.
 
 
-{{<awardsImage imSource="/img/Awards_ToH_Winner.png" title="Submillimeter lateral displacement enables friction sensing and awareness of surface slipperiness" titleLink="https://youtu.be/qhH-qMSt_Sw" authors="Naqash Afzal, Emma Stubbs, Heba Khamis, Alastair J. Loutit, Stephen J. Redmond, Richard M. Vickery, Michaël Wiertlewski, and Ingvars Birznieks" awardVal="$1000" sponsor="yes" 3ds="yes">}}
+{{<awardsImage imSource="/img/Awards_ToH_Winner.png" title="Submillimeter lateral displacement enables friction sensing and awareness of surface slipperiness" titleLink="http://dx.doi.org/10.1109/TOH.2021.3139890" authors="Naqash Afzal, Emma Stubbs, Heba Khamis, Alastair J. Loutit, Stephen J. Redmond, Richard M. Vickery, Michaël Wiertlewski, and Ingvars Birznieks" awardVal="$1000" sponsor="yes" 3ds="yes">}}
 
 
-{{<awardsImage imSource="/img/Awards_ToH_RunnerUp.png" title="A low-parameter rendering algorithm for fine textures" titleLink="https://youtu.be/kpi6lrP6Oc0" authors="David Arthur Burns, Roberta L. Klatzky, Michael A. Peshkin, and J. Edward Colgate" awardVal="$500" 3ds="yes">}}
+{{<awardsImage imSource="/img/Awards_ToH_RunnerUp.png" title="A low-parameter rendering algorithm for fine textures" titleLink="http://dx.doi.org/10.1109/TOH.2021.3138839" authors="David Arthur Burns, Roberta L. Klatzky, Michael A. Peshkin, and J. Edward Colgate" awardVal="$500" 3ds="yes">}}
 
 
-{{<awardsImage imSource="/img/Awards_ToH_HonMention.png" title="Evaluation of Vibrotactile Output from a Rotating Motor Actuator" titleLink="https://youtu.be/irpFPmH1azI" authors="Ravali Gourishetti and Katherine J. Kuchenbecker" awardVal="$250">}}
+{{<awardsImage imSource="/img/Awards_ToH_HonMention.png" title="Evaluation of Vibrotactile Output from a Rotating Motor Actuator" titleLink="http://dx.doi.org/10.1109/TOH.2021.3138867" authors="Ravali Gourishetti and Katherine J. Kuchenbecker" awardVal="$250">}}
 
 ## Outstanding Reviewers
 The Haptics Symposium publication process critically depends on careful and constructive expert review of submitted manuscripts. Individuals who reviewed IEEE Transactions of Haptics Short Papers were eligible for the journal's annual reviewing awards, while individuals who reviewed at least one technical paper submission were eligible for his commendation from the conference. 
