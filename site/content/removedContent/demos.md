@@ -17,6 +17,14 @@ weight: 5
 ---
 # Demos
 
+<!--
+<div>To access the <span style="font-weight: bold;">written conference proceedings</span>, attendees and authors may register for free via this <a href="https://forms.gle/f96Qk3jSLZ54cH269">form</a>.</div>
+
+<li>The <span style="font-weight:bold">written conference proceedings</span> can be accessed by attendees and authors by registering for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}
+
+In order to access the **written conference proceedings**, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
+-->
+
 Haptics Symposium strongly encourages demonstrations of all kinds - for example, of novel developments in haptics-related devices, software or experiments that are of interest to the conference audience.
 
 Submission of hands-on demonstrations is open to all members of the haptics research community. Authors of accepted papers are particularly welcome to apply for demonstration space to support their presentation. Demonstrations must be free of commercial content; companies wishing to showcase products should apply for exhibitor status.
