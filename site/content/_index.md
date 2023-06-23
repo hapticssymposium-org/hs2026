@@ -2,8 +2,7 @@
 title: Home
 image: /img/bg19.jpg
 ---
-
-**Welcome to IEEE Haptics Symposium 2022!**
+**Welcome to IEEE Haptics Symposium 2024 (TEST)!**
 
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
@@ -18,6 +17,7 @@ Outstanding technical content, awards, and announcements from this year’s conf
 Keynote talks and panel discussions will be featured in two [Cross-Cutting Challenge Thematic Sessions](/program/).
 
 {{<insertRawHTML>}}
+
 <div style="font-weight: bold">Attending:</div>
 <ul>
 <li>Both events will be streamed live via the <a href="https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw">IEEE Haptics Symposium YouTube Channel</a>
@@ -40,18 +40,18 @@ Keynote talks and panel discussions will be featured in two [Cross-Cutting Chall
 <hr style="height:6px; visibility:hidden;" />
 
 #### Passed Deadlines and Events
- - ~~March 24, 2022~~ [Mentoring Forum (by invitation)](/program/mentoring-forum)
- - ~~March 23, 2022~~ [Cross-Cutting Challenges Live Event](/program/program-overview#ccc)
- - ~~March 22, 2022~~ [Plenary Session](/program/program-overview#plenary)
- - ~~March 8, 2022~~ [30-Second Preview Videos](/presenting/video-instructions)
- - ~~March 1, 2022~~ [Virtual Conference Videos](/presenting/video-instructions)
- - ~~February 21, 2022~~ [Mentoring Forum submission](/presenting/mentoring-forum)
- - ~~February 3, 2022~~ Exhibit Applications
- - ~~January 24, 2022~~ Demonstrations
- - ~~October 21, 2021 (extended)~~ [Technical Papers due](/presenting/technical-papers/)
- - ~~September 22, 2021~~ [CCC Theme Proposal deadline](/presenting/cross-cutting-challenges/)
- - ~~September 17, 2021~~ [IEEE Transactions on Haptics Short Papers due](/presenting/transactions-on-haptics-early-submission/)
 
+* ~~March 24, 2022~~ [Mentoring Forum (by invitation)](/program/mentoring-forum)
+* ~~March 23, 2022~~ [Cross-Cutting Challenges Live Event](/program/program-overview#ccc)
+* ~~March 22, 2022~~ [Plenary Session](/program/program-overview#plenary)
+* ~~March 8, 2022~~ [30-Second Preview Videos](/presenting/video-instructions)
+* ~~March 1, 2022~~ [Virtual Conference Videos](/presenting/video-instructions)
+* ~~February 21, 2022~~ [Mentoring Forum submission](/presenting/mentoring-forum)
+* ~~February 3, 2022~~ Exhibit Applications
+* ~~January 24, 2022~~ Demonstrations
+* ~~October 21, 2021 (extended)~~ [Technical Papers due](/presenting/technical-papers/)
+* ~~September 22, 2021~~ [CCC Theme Proposal deadline](/presenting/cross-cutting-challenges/)
+* ~~September 17, 2021~~ [IEEE Transactions on Haptics Short Papers due](/presenting/transactions-on-haptics-early-submission/)
 
 {{<simpleLineBreak>}}
 The Haptics Symposium would like to sincerely thank the following organizations for their support:
@@ -69,22 +69,20 @@ The Haptics Symposium would like to sincerely thank the following organizations 
     {{<sponsorLogo imFile="/img/hs2022_Sponsor-SRS1.png" imWidth="100%" containerWidth="14%">}}
 {{</sponsorFlexContainer>}}
 
-
-
 <!--
 
-**Update:** The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.** The live streaming video event will take place on **Tuesday, March 22, 2022 - 9am to 12pm US Pacific Time** (16:00 to 19:00 UTC). The Cross-Cutting Challenges live video event will take place on **Wednesday, March 23, 2022 - 9am to 12pm US Pacific Time** (16:00 to 19:00 UTC). Please visit the [conference program](/program/program-overview/) for more information.
+\*\*Update:\*\* The 2022 IEEE Haptics Symposium is transitioning to a \*\*virtual conference format.\*\* The live streaming video event will take place on \*\*Tuesday, March 22, 2022 - 9am to 12pm US Pacific Time\*\* (16:00 to 19:00 UTC). The Cross-Cutting Challenges live video event will take place on \*\*Wednesday, March 23, 2022 - 9am to 12pm US Pacific Time\*\* (16:00 to 19:00 UTC). Please visit the \[conference program](/program/program-overview/) for more information.
 
-The 2022 IEEE Haptics Symposium is transitioning to a **virtual conference format.**  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
+The 2022 IEEE Haptics Symposium is transitioning to a \*\*virtual conference format.\*\*  The outstanding technical content in this year’s conference will be shared via a livestream event that will take place in late March 2022, as part of the virtual conference.  Further details about the virtual conference program, registration, and opportunities for participation will be available in the near future.
 
-Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference.  A newly introduced [Mentoring Forum](/presenting/mentoring-forum/) track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.
+Submissions for Exhibits and Demonstrations are not being accepted for the virtual conference.  A newly introduced \[Mentoring Forum](/presenting/mentoring-forum/) track will replace the Works-in-Progress track and provide unique opportunities for participation by students and postdoctoral researchers.
 
 {{<simpleLineBreak>}}
 
 -->
 
 <!--
-### Haptics Symposium 2022 Plenary Session - Streamed on March 22 at 9:00 am (PT) [(Rewatch the session)](https://youtu.be/hkRaVJbKHy8)
+### Haptics Symposium 2022 Plenary Session - Streamed on March 22 at 9:00 am (PT) \[(Rewatch the session)](https://youtu.be/hkRaVJbKHy8)
 ### Haptics Symposium 2022 Cross-Cutting Challenges - Live on March 23 at 9:00 am (PT)
 -->
 
@@ -100,20 +98,20 @@ Submissions for Exhibits and Demonstrations are not being accepted for the virtu
 </div>
 {{</insertRawHTML>}}
 
-To access the **written conference proceedings**, attendees and authors may register for free via this [form](https://forms.gle/f96Qk3jSLZ54cH269).
+To access the \*\*written conference proceedings\*\*, attendees and authors may register for free via this \[form](https://forms.gle/f96Qk3jSLZ54cH269).
 
 {{<simpleLineBreak>}}
 
 
-- **TBA** [Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
- - **November 19, 2021** [Cross-Cutting Challenges Individual Submission](/presenting/cross-cutting-challenges/) REMOVED on 1-5 by Greg
- - ~~October 13, 2021~~ **October 21, 2021 (extended)** [Technical Papers due](/presenting/technical-papers/) REMOVED ON 10-29 by Greg 
+- \*\*TBA\*\* \[Works-in-Progress Papers](/presenting/work-in-progress-wip-papers/)
+ - \*\*November 19, 2021\*\* \[Cross-Cutting Challenges Individual Submission](/presenting/cross-cutting-challenges/) REMOVED on 1-5 by Greg
+ - \~\~October 13, 2021\~\~ \*\*October 21, 2021 (extended)\*\* \[Technical Papers due](/presenting/technical-papers/) REMOVED ON 10-29 by Greg 
 -->
 
 <!--
 To access the <span style="font-weight:bold">written conference proceedings</span>, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
 
-The 2022 conference will include [cross-cutting challenge](/program/) sessions, [technical paper](/presenting/technical-papers/) sessions presenting the latest advances in haptics,  hands-on haptic demonstrations, and work-in-progress posters. An exciting social activities program will provide opportunities for socializing and networking.
+The 2022 conference will include \[cross-cutting challenge](/program/) sessions, \[technical paper](/presenting/technical-papers/) sessions presenting the latest advances in haptics,  hands-on haptic demonstrations, and work-in-progress posters. An exciting social activities program will provide opportunities for socializing and networking.
 
-Once again for 2022, a [conference journal papers track](/presenting/transactions-on-haptics-early-submission) provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
+Once again for 2022, a \[conference journal papers track](/presenting/transactions-on-haptics-early-submission) provides the opportunity for authors to present new findings at the conference for simultaneous publication in IEEE Transactions on Haptics.
 -->
