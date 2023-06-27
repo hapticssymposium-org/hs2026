@@ -14,13 +14,16 @@ The conference will be held on the UCSB campus, a short bus, car, or train ride 
 
 For those who wish to stay in the vibrant, pedestrian-friendly downtown Santa Barbara area, daily transportation from central downtown Santa Barbara to the conference venue at UCSB will be available.  Further information will be provided in the coming months.
 
-## **Santa Barbara Dining Guide:** 
+## **Santa Barbara Dining Guide:**
+
 [PDF Download](/img/santabarbara-dining.pdf)
 
-## **Getting to Santa Barbara**: 
+## **Getting to Santa Barbara**:
+
 [PDF Download](/img/santabarbara-transportation.pdf)
 
 ## **Bus from LAX to Santa Barbara**:
+
 Anyone who is landing at LAX and wants to take a bus to Santa Barbara can use this link to book: [www.sbairbus.com](www.sbairbus.com)
 
 ![](/img/hs-logo.png)
