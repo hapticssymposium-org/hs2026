@@ -2,72 +2,27 @@
 title: Home
 image: /img/bg19.jpg
 ---
-**Welcome to IEEE Haptics Symposium 2024 (TEST)!**
+**Welcome to IEEE Haptics Symposium 2024!**
 
 Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum of research in neuroscience, perception, engineering, and design, focused on sharing new advances in our understanding of the sense of touch, sparking new collaborations, and envisioning a future in which physical interactions are enriched through haptic technologies.  
 
 {{<simpleLineBreak>}}
 
-**The 2024 IEEE Haptics Symposium will be in-person in the Long Beach, California, USA.**
-
-**\[HS2022's info ->] Plenary Session: March 22, 2022 - 9 am to 12 pm (US Pacific Time)** {{<simpleBR>}}
-Outstanding technical content, awards, and announcements from this year’s conference.
-
-**Cross-Cutting Challenges: March 23, 2022 - 9 am to 12 pm (US Pacific Time)** {{<simpleBR>}}
-Keynote talks and panel discussions will be featured in two [Cross-Cutting Challenge Thematic Sessions](/program/).
-
-{{<insertRawHTML>}}
-
-<div style="font-weight: bold">Attending:</div>
-<ul>
-<li>Both events will be streamed live via the <a href="https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw">IEEE Haptics Symposium YouTube Channel</a>
-    <ul style="margin-bottom:0">
-    <li><a href="https://youtu.be/hkRaVJbKHy8">Plenary Session Livestream</a></li>
-    <li><a href="https://youtu.be/AITyBiz453k">Cross-Cutting Challenges Livestream</a></li>
-    </ul>
-<li>We encourage attendees to <a href="https://app.sli.do/event/dDTv35pxYGzzrMhyWpGVJx">submit questions</a> for <a href="/program/program-overview/">presenting authors</a> during the Plenary Session and for <a href="/program/program-overview/#ccc">keynote speakers</a> during the Cross-Cutting Challenges
-</ul>
-{{</insertRawHTML>}}
-
-{{<simpleLineBreak>}}
-
-**Video Presentations** of all accepted papers are available via the [IEEE Haptics Symposium YouTube Channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and can also be viewed [here](/program/VideoPresentations).
-
-**Mentoring Forum:** For 2022, we are pleased to introduce the [IEEE Haptics Symposium Mentoring Forum](/presenting/mentoring-forum).
+**The 2024 IEEE Haptics Symposium will be held in-person in Long Beach, California, USA.**
 
 ![Smiling student volunteers welcome attendees](/img/slide-image-6-crop.jpg)
 
 <hr style="height:6px; visibility:hidden;" />
 
-#### Passed Deadlines and Events
+#### Deadlines
 
-* ~~March 24, 2022~~ [Mentoring Forum (by invitation)](/program/mentoring-forum)
-* ~~March 23, 2022~~ [Cross-Cutting Challenges Live Event](/program/program-overview#ccc)
-* ~~March 22, 2022~~ [Plenary Session](/program/program-overview#plenary)
-* ~~March 8, 2022~~ [30-Second Preview Videos](/presenting/video-instructions)
-* ~~March 1, 2022~~ [Virtual Conference Videos](/presenting/video-instructions)
-* ~~February 21, 2022~~ [Mentoring Forum submission](/presenting/mentoring-forum)
-* ~~February 3, 2022~~ Exhibit Applications
-* ~~January 24, 2022~~ Demonstrations
-* ~~October 21, 2021 (extended)~~ [Technical Papers due](/presenting/technical-papers/)
-* ~~September 22, 2021~~ [CCC Theme Proposal deadline](/presenting/cross-cutting-challenges/)
-* ~~September 17, 2021~~ [IEEE Transactions on Haptics Short Papers due](/presenting/transactions-on-haptics-early-submission/)
+* ~~September 14, 2023~~ [IEEE Transactions on Haptics Short Paper deadline](presenting/transactions-on-haptics-early-submission/)
+* ~~October 12, 2023~~ [Technical Paper deadline](/presenting/technical-papers/)
+* ~~TBD~~ [Cross-Cutting Challenges Proposal deadline](/presenting/cross-cutting-challenges/)
+* ~~TBD~~ [Works-in-Progress Paper deadline](/presenting/work-in-progress-wip-papers/)
+* ~~TBD~~ [Demonstration Abstract deadline](/presenting/demos/)
+* ~~TBD~~ [Exhibit Application deadline](/presenting/exhibit/)
 
-{{<simpleLineBreak>}}
-The Haptics Symposium would like to sincerely thank the following organizations for their support:
-{{<sponsorFlexContainer contentJustification="center">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical1.jpg" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="24%">}}
-{{</sponsorFlexContainer>}}
-{{<sponsorFlexContainer contentJustification="center">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond1.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond2.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Gold1.jpg" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award1.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award2.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-SRS1.png" imWidth="100%" containerWidth="14%">}}
-{{</sponsorFlexContainer>}}
 
 <!--
 
