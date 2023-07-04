@@ -4,7 +4,7 @@ description: >-
   You are encouraged to sign up to the Haptics Symposium email list, through
   which we distribute infrequent but important information about the IEEE
   Haptics Symposium.
-weight: 10
+weight: 4
 ---
 You are encouraged to sign up to the Haptics Symposium email list, through which we distribute infrequent but important information about the IEEE Haptics Symposium.
 

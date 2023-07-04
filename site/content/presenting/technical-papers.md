@@ -155,7 +155,7 @@ The quickest way to do this is to follow one of the following resources to add a
 * [Adobe's Accessible PDF Author Guide (best for LaTeX submissions)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/)
 
 If you have any questions, please contact the EDI chairs at [edi@hapticssymposium.org](mailto:edi@hapticssymposium.org). Many additional resources can be found from the comprehensive instructions described by the ACM CHI community: [https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission](https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission)
-
+-->
 <!--
 ## \\*\\*Presentation Instructions\\*\\*
 
@@ -168,5 +168,4 @@ Authors can determine their presentation room and time from the detailed confere
 Presenters should check the connection with the conference projection system during a break before the session in which they are presenting, making sure all videos play on the screen.  Our on-site technician will be able to assist you with any issues.
 
 We ask that all presenters arrive for their session at least ten minutes before it begins, check in with the session chairs, and sit near the front of the room to facilitate the change between speakers.
--->
 -->

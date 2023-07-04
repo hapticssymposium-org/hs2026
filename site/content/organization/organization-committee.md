@@ -12,128 +12,113 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:chairs@hapticssymposium.org>
 
-* Yon Visell, University of California, Santa Barbara (UCSB)
-* Veronica J. Santos, University of California, Los Angeles (UCLA)
+* Veronica J. Santos, University of California, Los Angeles
+* Heather Culbertson, University of Southern California
 
 ## Conference Editorial Board
 
 <mailto:editors@hapticssymposium.org>
 
-* Fernando Bello (Editor in Chief), Imperial College London
-* Hiroyuki Kajimoto, University of Electro-Communications, Tokyo
-* Ingvars Birznieks, University of New South Wales, Sydney
+* Ingvars Birznieks (Editor in Chief), University of New South Wales
+* Hiroyuki Kajimoto, University of Electro-Communications
+* Matteo Bianchi, University of Pisa
 
 ## Publications Chair
 
 <mailto:publications@hapticssymposium.org>
 
-* Heather Culbertson, University of Southern California
+* Ann Majewicz Fey, University of Texas at Austin
 
 ## Program Chair
 
 <mailto:program@hapticssymposium.org>
 
-* Vincent Levesque, École de Technologie Supérieure, Montréal
+* Ilana Nisky,	Ben Gurion University of the Negev
+
+## Cross-Cutting Challenges Chairs
+
+<mailto:ccc@hapticssymposium.org>
+
+* Pedro Lopes, University of Chicago
+* Vincent Levesque, École de Technologie Supérieure
 
 ## Works-in-Progress Chair
 
 <mailto:wip@hapticssymposium.org>
 
-* Matteo Bianchi, University of Pisa
+* Oliver Schneider, University of Waterloo
 
 ## Mentoring Forum Chairs
 
 <mailto:mentoring@hapticssymposium.org>
 
-* Matteo Bianchi, University of Pisa
-* Jeremy Brown, Johns Hopkins University
-* Jenna Gorlewicz, Saint Louis University
+* Hasti Seifi, Arizona State University
 * Melisa Orta Martinez, Carnegie Mellon University
-* Oliver Schneider, University of Waterloo
-
-## Transactions on Haptics Posters Chair
-
-<mailto:tohp@hapticssymposium.org>
-
-* Tania Morimoto, University of California, San Diego (UCSD)
 
 ## Finance Chair
 
 <mailto:finance@hapticssymposium.org>
 
-* Manuel Cruz, Immersion
+* Mounia Ziat, Bentley University
 
 ## Sponsorship and Exhibits Chairs (Integrated Industry Involvement)
 
 <mailto:sponsorship@hapticssymposium.org>
 
-* Evan Pezent, Facebook Reality Labs / Rice University
-* Michael Zinn, University of Wisconsin
-* Kouta Minamizawa, Keio University, Tokyo
+* Evan Pezent, Facebook
+* Asad Tirmizi, ByteDance
+* Jeremy Cooperstock, McGill University
 
 ## Demonstrations and Exhibits Chairs
 
 <mailto:demos@hapticssymposium.org>
 
 * Ad Spiers, Imperial College London
-* Pedro Lopes, University of Chicago
+* Cara Nunez, Cornell University
 
-## Equity, Diversity, and Inclusion Chairs
+## Equity, Diversity, and Inclusion Chair
 
 <mailto:edi@hapticssymposium.org>
 
-* Melisa Orta Martinez, Carnegie Mellon University
-* Oliver Schneider, University of Waterloo
-
-## Social Activities Chairs
-
-<mailto:socialactivities@hapticssymposium.org>
-
-* Jeremy Brown, Johns Hopkins University
-* Jenna Gorlewicz, Saint Louis University
+* Yasemin Vardar, Delft University of Technology
 
 ## Awards Chair
 
 <mailto:awards@hapticssymposium.org>
 
-* Gregory Gerling, University of Virginia
+* Yon Visell, University of California, Santa Barbara
 
 ## Publicity Chair
 
 <mailto:publicity@hapticssymposium.org>
 
-* Naomi Fitter, Oregon State University 
-* Michael Wiertlewski, TU Delft
+* Naomi Fitter, Oregon State University
 
-## Cross-Cutting Challenges Chair
-
-<mailto:ccc@hapticssymposium.org>
-
-* Claudio Pacchierotti, Centre national de la recherche scientifique (CNRS), Rennes
 
 ## Registration Chair
 
 <mailto:registration@hapticssymposium.org>
 
-* Caroline Cao, Wright State University
+* Caroline Cao, Wright University
 
-## Student Volunteers Chair
+## Student Volunteers Chairs
 
 <mailto:sv@hapticssymposium.org>
 
-* Misha Sra, University of California, Santa Barbara (UCSB)
-* Masashi Nakatani, Keio University, Tokyo
+* Edoardo Battaglia, University of Utah
+* Alexis E. Block
+<!--
+* Alexis E. Block, Case Western Reserve University
+-->
 
-## Video and Social Media Chair
+## Video Chair
 
 <mailto:videos@hapticssymposium.org>
-<mailto:socialmedia@hapticssymposium.org>
 
-* Taku Hachisu, Tsukuba University
+* Troy McDaniel, Arizona State University
 
-## Web Chairs
+## Web Chair
 
 <mailto:webmaster@hapticssymposium.org>
 
-* Gregory Reardon, University of California, Santa Barbara
-* Oliver Schneider, University of Waterloo
+* Taku Hachisu, University of Tsukuba

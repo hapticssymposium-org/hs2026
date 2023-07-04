@@ -18,14 +18,13 @@ weight: 5
 # Demos
 Coming soon...
 <!--
-<!--
 <div>To access the <span style="font-weight: bold;">written conference proceedings</span>, attendees and authors may register for free via this <a href="https://forms.gle/f96Qk3jSLZ54cH269">form</a>.</div>
 
 <li>The <span style="font-weight:bold">written conference proceedings</span> can be accessed by attendees and authors by registering for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}
 
 In order to access the **written conference proceedings**, attendees and authors may register for free via this {{<simpleHyperlink text="form" link="https://forms.gle/f96Qk3jSLZ54cH269">}}.
 -->
-
+<!--
 Haptics Symposium strongly encourages demonstrations of all kinds - for example, of novel developments in haptics-related devices, software or experiments that are of interest to the conference audience.
 
 Submission of hands-on demonstrations is open to all members of the haptics research community. Authors of accepted papers are particularly welcome to apply for demonstration space to support their presentation. Demonstrations must be free of commercial content; companies wishing to showcase products should apply for exhibitor status.
@@ -83,8 +82,7 @@ Each demonstration will be assigned a space at the conference. The space will in
 ## Logistics
 
 More information for demonstrators, such as when demonstrations can be set up and need to be removed, will be made available closer to the date of the conference.
-
+-->
 <!--
 Each demo will be allocated a space that includes a 72" by 30" (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8' by 4' (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Saturday, March 28 after 7:00 p.m. Demos should be removed by 3:00 p.m. on Tuesday, March 31 (the last day of the conference).
--->
 -->

@@ -1,12 +1,17 @@
 ---
 title: Program Commitee
 description: >-
+  Coming soon...
+  <!--
   Members of the Program Committee coordinate the review of all conference
   technical papers submitted to the IEEE Haptics Symposium. The Conference
   Editorial Board (editors@hapticssymposium.org) assemble and coordinate the
   Program Committee for Haptics Symposium 2022.
-weight: 2
+  -->
+weight: 3
 ---
+Coming soon...
+<!--
 Members of the Program Committee coordinate the review of all conference technical papers submitted to the IEEE Haptics Symposium. This board is composed of established scientists with a broad range of scientific backgrounds. We deeply appreciate their service to the haptics community and this conference.
 
 ## Conference Editorial Board
@@ -84,3 +89,4 @@ The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssy
 * Anna Metzger, _Bournemouth University_
 
 ![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
+-->

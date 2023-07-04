@@ -1,10 +1,12 @@
 ---
 title: Student Volunteers
-description: Call for student volunteers.  Deadline Early 2022.
-weight: 1
+description: Call for student volunteers.  Deadline Early 2024.
+weight: 2
 ---
 ## Student Volunteer Program
+Coming soon...
 
+<!--
 We are looking for a set of student volunteers (SVs) to help us run the IEEE Haptics Symposium.
 
 **Important Dates**
@@ -48,3 +50,4 @@ Please complete the online application form (coming soon) to be considered as a 
 After submission, you will see an acknowledgment page. We expect to receive more applications than will be needed, thus early application is encouraged. 
 
 If you have any questions, please contact the Student Volunteers Chair via sv@hapticssymposium.org directly.
+-->
