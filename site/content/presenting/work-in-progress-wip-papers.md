@@ -1,15 +1,16 @@
 ---
 title: Works-in-Progress (WIP) Papers
-deadline: 'Monday, January 24, 2022'
+deadline: 'TBD'
 description: >-
-  IEEE Haptics Symposium 2022 solicits Works-in-Progress papers to enable
+  IEEE Haptics Symposium 2024 solicits Works-in-Progress papers to enable
   authors to share late-breaking results with the research community. The
   emphasis of WIP papers is on the novelty of the work, not completeness. WIP
   papers should be 2 pages including references.
 weight: 4
 ---
 # **Works-in-Progress (WIP) Papers**
-
+Coming soon...
+<!--
 Works-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
 
 ## Paper Format
@@ -87,3 +88,4 @@ The WIP posters will be presented during a WIP poster session during the confere
 Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards. The posters must be installed during the hour preceding the WIP poster session. The posters must be taken down during the period immediately after the WIP Poster session. A storage space will be available for authors who wish to leave their poster in storage during the remainder of the conference
 
 Any questions about WIP papers can be addressed to the WIP chair at <mailto:wip@hapticssymposium.org>.
+-->

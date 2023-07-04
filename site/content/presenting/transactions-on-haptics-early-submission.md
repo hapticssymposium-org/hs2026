@@ -1,16 +1,17 @@
 ---
 title: IEEE Transactions on Haptics Short Papers
-deadline: 'Friday, September 17, 2021'
+deadline: 'Thursday, September 14, 2023'
 description: >-
-  Building on its successful introduction in 2020, the 2022 Haptics Symposium
+  Building on its successful introduction in 2020, the 2024 Haptics Symposium
   will again feature a IEEE Transactions on Haptics journal track.  Papers
   accepted to this track will be presented at the conference and simultaneously
   published as short papers in IEEE Transactions on Haptics. These papers are up
   to 6 pages in length, including references.
-weight: 2
+weight: 1
 ---
 # IEEE Transactions on Haptics Short Papers
-
+Coming soon...
+<!--
 **[Jan. 31, 2022 update]** Authors of accepted papers should refer the [video instructions page](/presenting/video-instructions/) for preparing and submitting their video files.
 
 {{<simpleLineBreak>}}
@@ -130,3 +131,4 @@ _**Will it be possible for me to submit an extended version of my paper to the T
 Short papers that are accepted by the journal will be published in the journal. It will therefore be impossible to publish an extended version of the work in the journal in the future.
 
 Short papers that are rejected by the journal but accepted by the conference will be published in the conference proceedings. It will be possible to extend this work and publish an extended version of the paper in the journal in the future.
+-->

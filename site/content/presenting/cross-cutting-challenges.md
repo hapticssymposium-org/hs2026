@@ -1,15 +1,16 @@
 ---
 title: Cross-Cutting Challenges
-deadline: 'Theme Proposals: Wednesday, September 22, 2021'
+deadline: 'Theme Proposals: TBD'
 description: >-
   Following its successful launch at the 2018 Haptics Symposium, the
   Cross-Cutting Challenges (CCC) submission category will be held again at the
-  2022 Haptics Symposium.
+  2024 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
 weight: 3
 ---
 # Cross-Cutting Challenges Themes
-
+Coming soon...
+<!--
 Following its successful launch at the 2018 Haptics Symposium, the Cross-Cutting Challenges (CCC) submission category will be held again at the 2022 Haptics Symposium.The goal of the set of CCC sessions is to come together to focus on interdisciplinary challenges (“themes”) calling for united solutions from the haptics community. Drawn from an open solicitation, two themes will feature keynote talks and interactive discussions delivered by experts from science, engineering, and design. 
 
 ## Cross-Cutting Challenge Theme Proposals
@@ -54,3 +55,4 @@ Investigators apply to deliver keynote talks (4 to 5 per theme session) and inte
 **Selection Committee:** The selection committee for Keynote Talks and Interactive Discussions consists of three academic members, the Cross-Cutting Challenges Chairs, one conference chair, and that theme’s organizers.  The three academic members will be chosen by the Cross-Cutting Challenges Chairs to represent haptic science, applications, and technology.  
 
 Email your submission to <mailto:ccc@hapticssymposium.org>
+-->

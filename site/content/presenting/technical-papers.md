@@ -1,16 +1,17 @@
 ---
 title: Conference Technical Papers
-deadline: 'Thursday, October 21, 2021 (extended deadline)'
+deadline: 'Thursday, October 12, 2023'
 description: >-
   IEEE Haptics Symposium solicits technical papers that report original, novel,
   unpublished work relevant to all the scientific, technological, and
   application aspects of haptics. Papers are up to 6 pages in length, including
   references.
 image: ''
-weight: 4
+weight: 2
 ---
 # Technical Papers in Conference Proceedings
-
+Coming soon...
+<!--
 **[Jan. 31, 2022 update]** Authors of accepted papers should refer the [video instructions page](/presenting/video-instructions/) for preparing and submitting their video files.
 
 {{<simpleLineBreak>}}
@@ -167,4 +168,5 @@ Authors can determine their presentation room and time from the detailed confere
 Presenters should check the connection with the conference projection system during a break before the session in which they are presenting, making sure all videos play on the screen.  Our on-site technician will be able to assist you with any issues.
 
 We ask that all presenters arrive for their session at least ten minutes before it begins, check in with the session chairs, and sit near the front of the room to facilitate the change between speakers.
+-->
 -->
