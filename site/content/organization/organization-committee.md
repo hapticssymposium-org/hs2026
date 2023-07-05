@@ -106,10 +106,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 <mailto:sv@hapticssymposium.org>
 
 * Edoardo Battaglia, University of Utah
-* Alexis E. Block
-<!--
 * Alexis E. Block, Case Western Reserve University
--->
 
 ## Video Chair
 
