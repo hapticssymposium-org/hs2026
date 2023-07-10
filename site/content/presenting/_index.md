@@ -6,7 +6,3 @@ description: |-
   ![](/img/demos-thumb.png)
 image: /img/bg11.jpg
 ---
-
-Coming soon...
-
-{{<simpleLineBreak>}}
