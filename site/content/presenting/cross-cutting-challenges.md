@@ -10,6 +10,8 @@ weight: 3
 ---
 # Cross-Cutting Challenges Themes
 Coming soon...
+
+![](/img/ccc-thumb.jpg)
 <!--
 Following its successful launch at the 2018 Haptics Symposium, the Cross-Cutting Challenges (CCC) submission category will be held again at the 2022 Haptics Symposium.The goal of the set of CCC sessions is to come together to focus on interdisciplinary challenges (“themes”) calling for united solutions from the haptics community. Drawn from an open solicitation, two themes will feature keynote talks and interactive discussions delivered by experts from science, engineering, and design. 
 

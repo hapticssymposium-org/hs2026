@@ -17,6 +17,8 @@ weight: 5
 ---
 # Demos
 Coming soon...
+
+![](/img/demos-thumb.jpg)
 <!--
 <div>To access the <span style="font-weight: bold;">written conference proceedings</span>, attendees and authors may register for free via this <a href="https://forms.gle/f96Qk3jSLZ54cH269">form</a>.</div>
 
