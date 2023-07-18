@@ -99,7 +99,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 <mailto:registration@hapticssymposium.org>
 
-* Caroline Cao, IMT Atlantique
+* Caroline Cao, University of Illinois Urbana-Champaign
 
 ## Student Volunteers Chairs
 
