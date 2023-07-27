@@ -120,7 +120,6 @@ _**Will it be possible for me to submit an extended version of my paper to the I
 Short papers that are accepted by the journal will be published in the journal. It will therefore be impossible to publish an extended version of the work in the journal in the future.
 
 Short papers that are rejected by the journal but accepted by the conference will be published in the conference proceedings. It will be possible to extend this work and publish an extended version of the paper in the journal in the future.
--->
 
 <!--
 \_\*\*Can I submit a video with my paper?\*\*\_
