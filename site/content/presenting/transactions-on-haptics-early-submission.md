@@ -95,18 +95,6 @@ Your paper must be formatted using the templates provided by the Transactions on
 
 Please also note that some links on the Transactions on Haptics website are currently broken. While this issue is being resolved, please find below a copy of the formatting instructions with corrected links:
 
-_If you use LaTeX for preparing a Short Paper, please download the following files for document preparation:_
-
-* _The zipped file pack_ [_ieeeconf.zip_](https://www.ieee-ras.org/images/ieeeconf.zip)_. This contains the LaTeX class file ieeeconf.cls, a sample LaTeX source file root.tex and the compiled document root.pdf._
-* _BiBTeX files_ [_IEEEtranBST.zip_](https://2022.hapticssymposium.org/img/IEEEtranBST.zip)
-* _Guide to use ieeeconf.cls (based on IEEEtrans.cls)_ [_IEEEtran_HOWTO.pdf_](http://ras.papercept.net/conferences/support/files/IEEEtran_HOWTO.pdf)
-* _The document should be configured for US Letter paper, using the line \documentclass\[letterpaper, 10 pt, conference]{ieeeconf}_
-
-_If you use MSWord for preparing a Short Paper, please download the following files for document preparation_
-
-* _MS Word template_ [_ieeeconf_letter.dot_](https://2022.hapticssymposium.org/img/ieeeconf_letter.dot) _for US Letter paper_
-* _Sample Documents_ [_ieeeconf_letter.doc_](https://2022.hapticssymposium.org/img/ieeeconf_letter.doc) _and_ [_sample_A4.doc_](https://2022.hapticssymposium.org/img/cssA4.doc)
-
 _When using the IEEE style format, the first (title) page will contain the paper title and each author's name, affiliation, and full address (mailing address, email address, and fax number), with the corresponding author clearly indicated, the abstract (no more than 200 words), the keywords (index terms), and the beginning of the main text of the paper. Do not use a cover page_
 
 <!--
