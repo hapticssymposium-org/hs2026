@@ -87,7 +87,7 @@ Yes, the 6-page limit includes references.
 
 _**How should I submit my paper?**_
 
-Please submit your paper using ScholarOne Manuscripts as described on the [IEEE Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh). When asked for the Manuscript type, please select the "Short paper (ToH-Haptics Symposium 2022)" option.
+Please submit your paper using ScholarOne Manuscripts as described on the [IEEE Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh). When asked for the Manuscript type, please select the "Short paper (ToH-Haptics Symposium 2024)" option.
 
 _**What template should I use?**_
 
