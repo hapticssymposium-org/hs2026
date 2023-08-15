@@ -4,6 +4,8 @@ image: /img/bg03.jpg
 ---
 IEEE Haptics Symposium features a diverse technical and social program to present your latest research and engage with the haptics community. 
 
+{{<simpleLineBreak>}}
+
 <!--
 The 2022 conference will be held in beautiful coastal California, on the campus of the University of California, Santa Barbara (UCSB), which is bordered by the sandy beaches of the Pacific Ocean.  Santa Barbara is 90 minutes north of Los Angeles.  It is served by the Santa Barbara Airport (SBA), by Los Angeles International Airport (LAX), and by several other Los Angeles area airports. 
 
