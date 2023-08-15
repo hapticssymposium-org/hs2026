@@ -3,12 +3,8 @@ title: Registration
 description: We are excited to welcome the worldwide haptics community to Long Beach, CA for the 2024 Haptics Symposium!
 weight: 1
 ---
-<!--
----
-title: Registration
+<!-- original description
 description: Register for Haptics Symposium 2024 now!
-weight: 1
----
 -->
 
 We are excited to welcome the worldwide haptics community to Long Beach, CA for the 2024 Haptics Symposium!
