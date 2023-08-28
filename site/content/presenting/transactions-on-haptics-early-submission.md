@@ -1,6 +1,6 @@
 ---
 title: IEEE Transactions on Haptics Short Papers
-deadline: 'Thursday, September 14, 2023'
+deadline: 'Thursday, September 25, 2023 (firm)'
 description: >-
   The 2024 Haptics Symposium will again feature a IEEE Transactions on Haptics journal track. Papers accepted to this track will be presented at the conference and simultaneously published as short papers in IEEE Transactions on Haptics. These papers are up to 6 pages in length, including references.
 weight: 1
@@ -75,7 +75,7 @@ If you have questions or need assistance with any of these activities, please re
 
 _**What is the submission deadline?**_
 
-The submission deadline is September 14, 2023 at 11:59 p.m. Pacific Time. This deadline is firm.
+The submission deadline is September 25, 2023 at 11:59 p.m. Anywhere on Earth. This deadline is firm.
 
 _**What is the maximum number of pages?**_
 
