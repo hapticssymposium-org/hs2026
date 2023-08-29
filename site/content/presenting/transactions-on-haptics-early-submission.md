@@ -79,7 +79,7 @@ The submission deadline is September 25, 2023 at 11:59 p.m. Anywhere on Earth. T
 
 _**What is the maximum number of pages?**_
 
-Your paper cannot exceed 6 pages. It is not possible to pay for additional pages.
+Papers should be 6 pages or less, including references and all other components of the paper. 1 or 2 extra pages (beyond 6 pages) may be added for a fee of $200 per page.
 
 _**Does the the 6-page limit include references?**_
 
@@ -106,8 +106,6 @@ All papers that are rejected by the journal after the first or second round of r
 _**Will it be possible for me to submit an extended version of my paper to the IEEE Transactions on Haptics at a later date?**_
 
 Short papers that are accepted by the journal will be published in the journal. It will therefore be impossible to publish an extended version of the work in the journal in the future.
-
-Short papers that are rejected by the journal but accepted by the conference will be published in the conference proceedings. It will be possible to extend this work and publish an extended version of the paper in the journal in the future.
 
 <!--
 \_\*\*Can I submit a video with my paper?\*\*\_
