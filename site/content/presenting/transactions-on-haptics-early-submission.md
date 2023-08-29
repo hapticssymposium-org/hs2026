@@ -13,7 +13,7 @@ The 2024 Haptics Symposium will again feature a IEEE Transactions on Haptics jou
 
 Authors can submit their 6-page paper via the [Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh) by selecting the "Short paper (ToH-Haptics Symposium 2024)" paper type during the submission process. Papers should be prepared using [the formatting instructions for Short Papers](https://www.ieee-ras.org/publications/toh/submission-procedures-toh#shortpapers) provided by the Transactions on Haptics. Each paper will be reviewed by Transactions on Haptics reviewers and an Associate Editor. The outcome of the first round of reviews will be "accept", "revision", or "reject". For papers receiving a decision of “revision” after the first review round, authors will need to submit a revision within 30 days for a second review, which may result in a decision of “accept” or “reject.” If the decision after the Transactions on Haptics review is “accept,” the paper will be included in the conference and simultaneously published in the journal.
 
-Important change this year: In order to streamline the editorial process, papers that are not accepted as ToH Short Papers after a single round of revision will not be subsequently considered for publication as a Conference Technical Paper. Additionally, authors of papers that are not accepted as ToH Short Papers after a single round of revision will have the option to continue the review process through the standard ToH Short Paper review process and timeline, or to withdraw their paper from consideration entirely.
+**Important Change This Year:** In order to streamline the editorial process, papers that are not accepted as ToH Short Papers after a single round of revision will not be subsequently considered for publication as a Conference Technical Paper. Additionally, authors of papers that are not accepted as ToH Short Papers after a single round of revision will have the option to continue the review process through the standard ToH Short Paper review process and timeline, or to withdraw their paper from consideration entirely.
 
 Authors choosing not to submit via the new journal track may still submit their papers directly to the conference. Such papers will be reviewed following the established conference technical paper review procedure. Accepted conference technical papers will be published in the conference proceedings and IEEE Xplore.
 
@@ -80,10 +80,6 @@ The submission deadline is September 25, 2023 at 11:59 p.m. Anywhere on Earth. T
 _**What is the maximum number of pages?**_
 
 Papers should be 6 pages or less, including references and all other components of the paper. 1 or 2 extra pages (beyond 6 pages) may be added for a fee of $200 per page.
-
-_**Does the the 6-page limit include references?**_
-
-Yes, the 6-page limit includes references.
 
 _**How should I submit my paper?**_
 
