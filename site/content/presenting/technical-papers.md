@@ -10,12 +10,6 @@ image: ''
 weight: 2
 ---
 # Technical Papers in Conference Proceedings
-Coming soon...
-<!--
-**[Jan. 31, 2022 update]** Authors of accepted papers should refer the [video instructions page](/presenting/video-instructions/) for preparing and submitting their video files.
-
-{{<simpleLineBreak>}}
-
 We solicit technical papers that report original, novel, unpublished work relevant to all the scientific, technological, and application aspects of haptics.
 
 ## **Paper Format**
@@ -28,7 +22,7 @@ For authors' convenience, the templates for technical papers can be downloaded i
 
 Authors should aim for a technical paper length of 6 pages or less, including references and all other components of the paper.
 
-1 or 2 extra pages (beyond 6 pages) may added through a charge of $200 per page, paid during conference registration.
+1 or 2 extra pages (beyond 6 pages) may be added through a charge of $200 per page, paid during conference registration.
 
 ## **Author Names and Affiliations**
 
@@ -38,11 +32,11 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-~~Wednesday, October 13, 2021~~ **Thursday, October 21, 2021 (extended)** (11:59 p.m. Pacific Time)
+Wednesday, October 12, 2023 (11:59 p.m. AoE)
 
 ## **Submission Method**
 
-All technical papers (with optional videos) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2022" Conference, and "Haptics 2022 Technical Papers" Track. 
+All technical papers (with optional videos) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2024" Conference, and "Haptics 2024 Technical Papers" Track. 
 
 ## **Presentation and Publication**
 
@@ -56,7 +50,16 @@ Paper decisions will be announced in late December, and will also be available i
 
 ## **Videos**
 
-Authors of accepted Conference Technical Papers or Transactions on Haptics Short Journal Papers are strongly encouraged to submit each of two types of video: (1) Supplemental Videos (providing information beyond what is included in the paper) and a (2) 30-second Preview Video, to be shared on social media. Submissions are optional, but strongly encouraged as a means of highlighting the paper to interested researchers, including those who may not attend the conference.
+Submission of videos is optional but strongly encouraged to help readers understand the paper.
+
+Uploaded videos will be reviewed along with the paper.
+
+Videos will be submitted for publication to IEEE Xplore and may be used to promote the conference.
+
+Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB). Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
+
+
+<!--
 
 ### **Supplemental Videos**
 
