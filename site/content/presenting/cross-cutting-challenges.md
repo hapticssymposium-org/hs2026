@@ -8,9 +8,9 @@ weight: 3
 ---
 # Cross-Cutting Challenges
 
-![](/img/ccc-thumb.jpg)
-
 Following their successful launch in 2018, **Cross-Cutting Challenges (CCC)** will be held again at the 2024 Haptics Symposium. The goal of a CCC is to create a space where researchers can come together to focus on interdisciplinary challenges calling for united solutions from the haptics community. Drawn from an open solicitation, two CCCs will be selected. These will feature keynote talks and interactive discussions delivered by researchers spanning a range of expertise, from science, engineering, design, and beyond.
+
+![](/img/ccc-thumb.jpg)
 
 ## Cross-Cutting Challenge Proposals
 
