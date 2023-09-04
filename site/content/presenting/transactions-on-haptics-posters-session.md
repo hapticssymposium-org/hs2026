@@ -1,20 +1,20 @@
 ---
 title: Transactions on Haptics Posters Session
-deadline: Early 2022
+deadline: TBD
 description: >-
-  Authors of articles recently published in the IEEE Transactions on Haptics are
-  invited to present their work in an interactive session during the conference.
+  Authors of articles recently published in the IEEE Transactions on Haptics (ToH) are invited to present their work in a poster session during the 2024 IEEE Haptics Symposium.
 weight: 6
 ---
 # Transactions on Haptics Posters Session
-Authors of articles recently published in the IEEE Transactions on Haptics are invited to present their work in an interactive session during the conference. This is a great occasion for journal authors to engage with other scientists and reach a larger audience!
+Authors of articles recently published in the IEEE Transactions on Haptics (ToH) are invited to present their work in a poster session during the 2024 IEEE Haptics Symposium. This is a great opportunity for journal authors to engage with other scientists and reach a larger audience!
 
 ## Important Dates
 
-ToH poster submission deadline:       **Early 2022**
+ToH poster submission deadline: **TBD**
 
-ToH poster acceptance notification:      **TBA**
+ToH poster acceptance notification: **TBD**
 
+<!--
 ## Participation Criteria
 
 The invitation is open for all articles that have been published in the IEEE Transactions on Haptics in 2021, plus all ToH articles that are available on IEEE Xplore via Early Access before the application deadline.
@@ -41,4 +41,4 @@ More specific instructions will be posted closer to the event.
 ## Contact
 
 Any questions and suggestions about this presentation opportunity can be addressed to the ToH Posters Chair at [tohp [at] hapticssymposium.org](mailto:tohp@hapticssymposium.org).
-
+->
