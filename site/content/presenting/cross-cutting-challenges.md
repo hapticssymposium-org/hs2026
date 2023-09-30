@@ -1,6 +1,6 @@
 ---
 title: Cross-Cutting Challenges
-deadline: 'Theme Proposals: Wednesday, September 27, 2023'
+deadline: 'Theme Proposals: Wednesday, October 25, 2023'
 description: >-
   Following their successful launch in 2018, Cross-Cutting Challenges (CCC) will be held again at the 2024 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
@@ -14,7 +14,7 @@ Following their successful launch in 2018, **Cross-Cutting Challenges (CCC)** wi
 
 ## Cross-Cutting Challenge Proposals
 
-**Wednesday, September 27, 2023** - Proposal deadline
+**Wednesday, October 25, 2023 (extended)** - Proposal deadline
 
 An exciting CCC proposal introduces an interdisciplinary challenge that calls for united solutions. Proposals for CCC are solicited from the community of researchers in the field of haptics and beyond. While the traditional three areas covered in haptics relate to science, technology and applications, CCCs will be selected such that researchers from each of the aforementioned areas can present in the same session. For example, a CCC might explore challenges that connect the next generation of mobile user interfaces with challenges in surface haptics/conformable displays, leveraging insights from those working on the measurement of finger pad skin properties to surface interaction, those working on new dielectric polymer technologies, and those working on human computer interaction concepts detailing how a consumer would utilize such capability. Other CCCs might relate to soft and flexible touch interfaces, ubiquitous computing, medical user interfaces, gaming, and mixed, virtual, and/or augmented reality. Examples of past successful CCCs include [Touch & embodiment](https://2022.hapticssymposium.org/program/ccc-theme1/), [Integrating wearable haptics & real-world touch](https://2022.hapticssymposium.org/program/ccc-theme2/), [Affective haptics](https://2020.hapticssymposium.org/program/ccc-theme-1-feeling/), [Skin as medium of communication](https://2020.hapticssymposium.org/program/ccc-theme-2-communication/), [Expanding sensory interactions](https://2018.hapticssymposium.org/ccc1), and [Haptic dimensions of surfaces](http://2018.hapticssymposium.org/ccc2).
 
@@ -52,7 +52,7 @@ Each CCC will have a program that spans multiple sub-activities, for instance, (
 
 ## Complete timeline
 
-1. **CCC proposal deadline (organizers):** Submit your short proposal by September 27, 2023.
+1. **CCC proposal deadline (organizers):** Submit your short proposal by October 25, 2023 (extended).
 1. **Notifications (organizers):** Selected proposals are notified.
 1. Selected CCCs prepare their open call, to appear in the Haptics Symposium website.
 1. Selected CCCs calls are opened (e.g., for speakers or other presenters).
