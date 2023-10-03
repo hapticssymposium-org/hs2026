@@ -32,7 +32,7 @@ Author names and affiliations should be specified in all technical papers.
 
 ## **Submission Due Date**
 
-Wednesday, October 12, 2023 (11:59 p.m. AoE)
+Thursday, October 12, 2023 (11:59 p.m. AoE)
 
 ## **Submission Method**
 
