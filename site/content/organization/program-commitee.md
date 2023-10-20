@@ -12,7 +12,7 @@ Members of the Program Committee coordinate the review of all conference technic
 
 ## Conference Editorial Board
 
-The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssymposium.org)) assemble and coordinate the Program Committee for Haptics Symposium 2022.
+The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssymposium.org)) assemble and coordinate the Program Committee for Haptics Symposium 2024.
 
 * Ingvars Birznieks (Editor in Chief), _UNSW Sydney, Australia_
 * Hiroyuki Kajimoto, _University of Electro-Communications_
