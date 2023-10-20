@@ -17,7 +17,6 @@ The Conference Editorial Board ([editors@hapticssymposium.org](editors@hapticssy
 * Ingvars Birznieks (Editor in Chief), _UNSW Sydney, Australia_
 * Hiroyuki Kajimoto, _University of Electro-Communications_
 * Matteo Bianchi, _University of Pisa_
-* Fernando Bello (Editor in Chief), _Imperial College London_
 
 
 ## Program Committee
