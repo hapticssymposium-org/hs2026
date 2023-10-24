@@ -33,6 +33,7 @@ Author names and affiliations should be specified in all technical papers.
 ## **Submission Due Date**
 
 ~~Monday, October 12, 2023~~ **Monday, October 23, 2023 (extended)** (11:59 p.m. AoE)
+**Important Update**
 Authors affected by time zone discrepancy please contact us by sending an email request to [chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org) and [editors@hapticssymposium.org](mailto:editors@hapticssymposium.org).
 
 
