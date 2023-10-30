@@ -28,6 +28,15 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 * TBD [Exhibits Application deadline]<!--(/presenting/exhibit/)-->	
 
 {{<simpleLineBreak>}}
+The Haptics Symposium would like to sincerely thank the following organizations for their support:
+{{<sponsorFlexContainer contentJustification="center">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical1.jpg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="24%">}}
+{{</sponsorFlexContainer>}}
+
+
+{{<simpleLineBreak>}}
 
 The IEEE Robotics and Automation Society is committed to advancing diversity in Robotics and Automation, and to promoting an inclusive and equitable culture that welcomes, engages, and rewards all who contribute to the field, without regard to ethnicity, religion, gender, disability, age, national origin, sexual orientation, gender identity, or gender expression.
 

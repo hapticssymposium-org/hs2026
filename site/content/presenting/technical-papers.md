@@ -1,7 +1,6 @@
 ---
 title: Conference Technical Papers
 deadline: 'Monday, October 23, 2023 (extended)'
-notification: 'Wednesday, December 20, 2023'
 description: >-
   IEEE Haptics Symposium solicits technical papers that report original, novel,
   unpublished work relevant to all the scientific, technological, and
