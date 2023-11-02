@@ -14,7 +14,7 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 
 <hr style="height:6px; visibility:hidden;" />
 
-#### Imporatnt Dates
+#### Important Dates
 
 * ~~September 25, 2023 (firm)~~ [IEEE Transactions on Haptics Short Paper deadline](presenting/transactions-on-haptics-early-submission/)
 * ~~October 23, 2023 (extended)~~ [Technical Paper submission deadline](/presenting/technical-papers/)
