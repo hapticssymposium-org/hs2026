@@ -1,6 +1,6 @@
 ---
 title: Hands-On Demonstrations
-deadline: 'TBD'
+deadline: 'January 31, 2024'
 description: >-
   Haptics Symposium strongly encourages demonstrations of all kinds - for
   example, of novel developments in haptics-related devices, software or
