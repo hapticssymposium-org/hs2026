@@ -1,6 +1,6 @@
 ---
 title: Works-in-Progress (WIP) Papers
-deadline: 'TBD'
+deadline: 'January 31, 2024'
 description: >-
   IEEE Haptics Symposium 2024 solicits Works-in-Progress papers to enable
   authors to share late-breaking results with the research community. The
