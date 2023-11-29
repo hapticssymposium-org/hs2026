@@ -6,7 +6,7 @@ description: >
   community and particularly to this conference.
 image: /img/bg16.jpg
 ---
-IEEE Haptics Symposium depends on the service of several committees to handle planning, logistics, and diverse technical programs. In 2024, the General Co-Chairs (<mailto:chairs@hapticssymposium.org>) are:
+IEEE Haptics Symposium depends on the service of several committees to handle planning, logistics, and diverse technical programs. In 2024, the General Co-Chairs ([chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org)) are:
 
 * Veronica J. Santos, University of California, Los Angeles, USA
 * Heather Culbertson, University of Southern California, USA
