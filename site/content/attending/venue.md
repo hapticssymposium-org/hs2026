@@ -1,7 +1,7 @@
 ---
 title: Venue Information
 description: Coming soon...
-weight: 2
+weight: 3
 ---
 <!-- original description
 description: The IEEE Haptics Symposium 2020 will be held at the Crystal Gateway Marriott in Washington, DC, USA.

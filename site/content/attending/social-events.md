@@ -2,7 +2,7 @@
 title: Social Events
 description: Coming soon...
 image: ''
-weight: 4
+weight: 5
 ---
 <!-- original description
 description: Haptics Symposium offers several social events, including the Grad Student Social and Early Career Lunch.

@@ -2,7 +2,7 @@
 title: Banquet
 description: Coming soon...
 image: ''
-weight: 3
+weight: 4
 ---
 <!-- original description
 description: Check out the banquet location for the 2020 IEEE Haptics Symposium!
