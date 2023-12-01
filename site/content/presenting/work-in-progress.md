@@ -1,11 +1,11 @@
 ---
-title: Works-in-Progress (WIP) Papers
+title: Work-in-Progress (WIP) Papers
 deadline: 'January 31, 2024'
 description: >-
   IEEE Haptics Symposium 2024 solicits Work-in-Progress papers to enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness. WIP papers should be 2 pages including references.
 weight: 4
 ---
-# **Works-in-Progress (WIP) Papers**
+# **Work-in-Progress (WIP) Papers**
 
 Work-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
 
@@ -81,7 +81,7 @@ Any questions about WIP papers can be addressed to the WIP chair (Oliver Schneid
 
 ## Mentorship Program
 
-To provide additional mentoring to authors of work in progress papers, we created a system where authors can sign up for mentors to come to their poster session and talk to them about their work and career. 
+To provide additional mentoring to authors of Work-in-Progress papers, we created a system where authors can sign up for mentors to come to their poster session and talk to them about their work and career. 
 
 * If you are a student submitting work to WIP and would like a mentor to stop by your poster please fill out the form below:
   * [https://forms.gle/9xW8kgjeedQQmpUq9](https://forms.gle/9xW8kgjeedQQmpUq9) 

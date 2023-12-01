@@ -16,16 +16,16 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 
 #### Important Dates
 
-* ~~September 25, 2023 (firm)~~ [IEEE Transactions on Haptics Short Paper deadline](presenting/transactions-on-haptics-early-submission/)
+* ~~September 25, 2023 (firm)~~ [IEEE Transactions on Haptics Short Paper deadline](presenting/toh-short-papers/)
 * ~~October 23, 2023 (extended)~~ [Technical Paper submission deadline](/presenting/technical-papers/)
 * ~~October 25, 2023 (extended)~~ [Cross-Cutting Challenges Proposal deadline](/presenting/cross-cutting-challenges/)
 * December 20, 2023 [Technical Paper author notification](/presenting/technical-papers/)
-* January 31, 2024 [Works-in-Progress Paper deadline](/presenting/work-in-progress/)
+* January 31, 2024 [Work-in-Progress Paper deadline](/presenting/work-in-progress/)
 * January 31, 2024 [Hands-on Demonstrations deadline](/presenting/demos/)
-* January 31, 2024 [Transactions on Haptics Posters deadline](/presenting/transactions-on-haptics-posters/)
-* February 16, 2024 [Works-in-Progress Paper author notification](/presenting/work-in-progress/)
+* January 31, 2024 [Transactions on Haptics Posters deadline](/presenting/toh-posters/)
+* February 16, 2024 [Work-in-Progress Paper author notification](/presenting/work-in-progress/)
 * February 16, 2024 [Hands-on Demonstrations author notification](/presenting/demos/)
-* February 16, 2024 [Transactions on Haptics Posters author notification](/presenting/transactions-on-haptics-posters/)
+* February 16, 2024 [Transactions on Haptics Posters author notification](/presenting/toh-posters/)
 * TBD [Exhibits Application deadline]<!--(/presenting/exhibit/)-->	
 
 {{<simpleLineBreak>}}
