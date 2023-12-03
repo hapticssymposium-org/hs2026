@@ -26,5 +26,10 @@ To provide additional mentoring to authors of work in progress papers, we create
   * [https://forms.gle/xiwQjMBz33uvZckX8](https://forms.gle/xiwQjMBz33uvZckX8)
 
 ## Early Investigator Lunch
+
 To provide early investigators the opportunity to network with their peers, we will have an Early Investigator Lunch for professionals in industry or academia who are within 10 years of their PhD graduation. If you are interested in attending this event, please fill out the form below:
 * [https://forms.gle/tcNe1Y6TYfercGEj9](https://forms.gle/tcNe1Y6TYfercGEj9)
+
+## Contact Information
+
+If you have any questions about the programs described here, please contact the mentoring chairs [mentoring@hapticssymposium.org](mailto:mentoring@hapticssymposium.org).
