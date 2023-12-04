@@ -12,7 +12,7 @@ We anticipate sending a modest number of emails to this list containing the most
 
 If you want to join this Haptics Symposium email list, simply follow these steps:
 
-1. Visit the <a href="https://listserv.ieee.org/cgi-bin/wa?SUBED1=haptics&A=1" target="_blank">email list website</a>
+1. Visit the [email list website](https://listserv.ieee.org/cgi-bin/wa?SUBED1=haptics&A=1)
 2. Enter your email address into the form
 3. Click "Subscribe (HAPTICS)"
 4. Click the confirmation link that will be emailed to you
