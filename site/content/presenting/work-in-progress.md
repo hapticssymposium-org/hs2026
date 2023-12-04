@@ -20,9 +20,9 @@ Work-in-Progress papers enable authors to share late-breaking results with the r
 
 ## Paper Format
 
-WIP papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php).
+WIP papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php){:target="_blank"}.
 
-For authors’ convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php) or [Latex](http://ras.papercept.net/conferences/support/tex.php) format. Note that only the US Letter template will be accepted, not the A4 template.
+For authors’ convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php){:target="_blank"} or [Latex](http://ras.papercept.net/conferences/support/tex.php){:target="_blank"} format. Note that only the US Letter template will be accepted, not the A4 template.
 
 ## Paper Length
 
@@ -38,10 +38,10 @@ We strongly encourage authors to prepare an accessible manuscript for all submis
 
 ## Submission Method
 
-All WIP papers (including optional video) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).
+All WIP papers (including optional video) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl){:target="_blank"}.
 
 ##  Publication
-All accepted WIP papers will be included in the electronically distributed conference proceedings, but they will not be published in [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp).
+All accepted WIP papers will be included in the electronically distributed conference proceedings, but they will not be published in [IEEE Xplore](https://ieeexplore.ieee.org/Xplore/home.jsp){:target="_blank"}.
 
 Authors retain the full copyright of WIP papers so that they can submit a more mature version of the paper at another time.
 
@@ -67,13 +67,13 @@ Work-in-Progress papers will be presented through a poster and an optional  prev
 
 ## WIP Preview Videos
 
-Authors have the option to submit a 30 second preview video in advance of the conference. This video will be posted at our [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/@ieeehapticssymposium8182) for viewers to watch in advance of the conference. 
+Authors have the option to submit a 30 second preview video in advance of the conference. This video will be posted at our [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/@ieeehapticssymposium8182){:target="_blank"} for viewers to watch in advance of the conference. 
 
 The WIP preview video should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
 
 ## WIP Posters
 
-The WIP posters will be presented during a WIP poster session 5:00 to 6:30pm on Monday, April 8. Posters have a maximum dimension of **48” tall x 36” wide (121.92cm x 91.44cm)**, recommended to be in **portrait layout**. The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the [conference logo](https://drive.google.com/file/d/1cy713kmBjW3uK2710KcFry7e3SNQPFQW/view?usp=sharing).
+The WIP posters will be presented during a WIP poster session 5:00 to 6:30pm on Monday, April 8. Posters have a maximum dimension of **48” tall x 36” wide (121.92cm x 91.44cm)**, recommended to be in **portrait layout**. The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the [conference logo](https://drive.google.com/file/d/1cy713kmBjW3uK2710KcFry7e3SNQPFQW/view?usp=sharing){:target="_blank"}.
 
 Authors are responsible for printing their own poster and bringing it to the conference. Pushpins will be provided to install the posters on the poster boards. The posters must be installed during the hour preceding the WIP poster session, between 4:30 and 5:00pm on Monday, April 8. The posters must be taken down after the WIP Poster session, between 6:30 and 7:00 pm. A storage space will be available for authors who wish to leave their poster in storage during the day on Monday, April 8.
 
@@ -84,6 +84,6 @@ Any questions about WIP papers can be addressed to the WIP chair (Oliver Schneid
 To provide additional mentoring to authors of Work-in-Progress papers, we created a system where authors can sign up for mentors to come to their poster session and talk to them about their work and career. 
 
 * If you are a student submitting work to WIP and would like a mentor to stop by your poster please fill out the form below:
-  * [https://forms.gle/9xW8kgjeedQQmpUq9](https://forms.gle/9xW8kgjeedQQmpUq9) 
+  * [https://forms.gle/9xW8kgjeedQQmpUq9](https://forms.gle/9xW8kgjeedQQmpUq9){:target="_blank"}
 * If you are a faculty member, industry professional, or postdoctoral scholar, you can sign up to offer mentorship to a WIP author. The commitment for mentoring a WIP author would include reading their WIP paper, stopping by their poster, and having a 10-15 min conversation about their work and career. To sign up as a mentor, please fill out the form below:
-  * [https://forms.gle/xiwQjMBz33uvZckX8](https://forms.gle/xiwQjMBz33uvZckX8 )
+  * [https://forms.gle/xiwQjMBz33uvZckX8](https://forms.gle/xiwQjMBz33uvZckX8){:target="_blank"}
