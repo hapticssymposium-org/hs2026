@@ -10,7 +10,7 @@ Authors of articles recently published in the IEEE Transactions on Haptics (ToH)
 
 ## Participation Criteria
 
-*	The invitation is open for all articles that have been or will be published in the [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165){:target="_blank"} in 2023 (Volume 16, issues 1-4) as well as ToH articles that become available on IEEE Xplore via [Early Access](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4543166){:target="_blank"} prior to the application deadline.
+*	The invitation is open for all articles that have been or will be published in the [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165) in 2023 (Volume 16, issues 1-4) as well as ToH articles that become available on IEEE Xplore via [Early Access](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4543166) prior to the application deadline.
 *	Articles reporting research that was presented at a conference in an earlier form may (and are encouraged to) participate in this poster session. However, manuscripts that have been presented during a ToH poster session at a prior haptics conference are not permitted to participate.
 * At least one of the article’s authors must register for the conference by the early-bird registration deadline (February 23, 2024) [full conference registration or at least the day of the poster session, which is Monday, April 8th].
 

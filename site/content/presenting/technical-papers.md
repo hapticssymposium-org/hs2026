@@ -15,9 +15,9 @@ We solicit technical papers that report original, novel, unpublished work releva
 
 ## **Paper Format**
 
-Technical papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php){:target="_blank"}.
+Technical papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php).
 
-For authors' convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php){:target="_blank"} or [Latex](http://ras.papercept.net/conferences/support/tex.php){:target="_blank"} format. Note that only the US Letter template will be accepted, not the A4 template.
+For authors' convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php) or [Latex](http://ras.papercept.net/conferences/support/tex.php) format. Note that only the US Letter template will be accepted, not the A4 template.
 
 ## **Paper Length**
 
@@ -43,7 +43,7 @@ Wednesday, December 20, 2023
 
 ## **Submission Method**
 
-All technical papers (with optional videos) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl){:target="_blank"} (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2024" Conference, and "Haptics 2024 Technical Papers" Track. 
+All technical papers (with optional videos) should be submitted using [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl) (submission system will be open one month prior to the deadline).  Select the "Haptics Symposium" Society, "Haptics 2024" Conference, and "Haptics 2024 Technical Papers" Track. 
 
 ## **Presentation and Publication**
 
@@ -53,7 +53,7 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-Paper decisions will be announced in late December, and will also be available in [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl){:target="_blank"}.
+Paper decisions will be announced in late December, and will also be available in [PaperPlaza](https://ras.papercept.net/conferences/scripts/start.pl).
 
 ## **Videos**
 
