@@ -9,6 +9,7 @@ The 2024 conference will be held in sunny Southern California at the Hotel Maya 
 
 Long Beach can be easily accessed via multiple airports, including the Long Beach Airport (LGB), Los Angeles International Airport (LAX), John Wayne Airport (SNA), Ontario International Airport (ONT), and Bob Hope Airport (BUR).
 
+**Attention All Attendees**: Please note that visa application to visit USA is being processed by US Embassies with a long wait time. Interview slots at most embassies are full. We strongly encourage all attendees who need a visa to apply ASAP. Please do not hesitate to reach out to [registration@hapticssymposium.org](mailto:registration@hapticssymposium.org) for an invitation letter for your visa application.
 <!--
 ## **Accommodations and Transportation**
 
