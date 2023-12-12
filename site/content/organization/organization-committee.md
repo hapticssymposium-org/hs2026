@@ -55,7 +55,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 * Hasti Seifi, Arizona State University
 * Melisa Orta Martinez, Carnegie Mellon University
 
-## Transactions on Haptics Posters Chair
+## IEEE Transactions on Haptics Posters Chair
 
 [tohp@hapticssymposium.org](mailto:tohp@hapticssymposium.org)
 

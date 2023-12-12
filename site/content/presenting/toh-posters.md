@@ -1,11 +1,11 @@
 ---
-title: Transactions on Haptics Posters
+title: IEEE Transactions on Haptics Posters
 deadline: January 31, 2024
 description: >-
   Authors of articles recently published in the IEEE Transactions on Haptics (ToH) are invited to present their work during a joint poster session, featuring recent ToH and Work-In-Progress (WIP) publications. The poster session is planned as a single-track session, scheduled for the second day of the conference, and will not be held in parallel with any podium or demonstration sessions. This is a great opportunity for journal authors to engage with other scientists and reach a larger audience. 
 weight: 6
 ---
-# Transactions on Haptics Posters
+# IEEE Transactions on Haptics Posters
 Authors of articles recently published in the IEEE Transactions on Haptics (ToH) are invited to present their work during a joint poster session, featuring recent ToH and Work-In-Progress (WIP) publications. The poster session is planned as a single-track session, scheduled for the second day of the conference, and will not be held in parallel with any podium or demonstration sessions. This is a great opportunity for journal authors to engage with other scientists and reach a larger audience. 
 
 ## Participation Criteria
@@ -16,7 +16,7 @@ Authors of articles recently published in the IEEE Transactions on Haptics (ToH)
 
 ## Submission Method
 
-*	To participate, one author must forward the full citation of their Transactions on Haptics article to the ToH posters chair ([tohp@hapticssymposium.org](mailto:tohp@hapticssymposium.org)) by 11:59 p.m. PT on January 31, 2024. Please coordinate the poster submission with all paper authors to avoid duplicate submissions.
+*	To participate, one author must forward the full citation of their IEEE Transactions on Haptics article to the ToH posters chair ([tohp@hapticssymposium.org](mailto:tohp@hapticssymposium.org)) by 11:59 p.m. PT on January 31, 2024. Please coordinate the poster submission with all paper authors to avoid duplicate submissions.
 *	Each submission will be acknowledged by a confirmation email within five business days of submission.
 *	In the unlikely event that there is insufficient space, articles published in 2023 will be given priority over Early Access articles.
 *	Acceptance in the poster session will be confirmed by February 16, 2024.
