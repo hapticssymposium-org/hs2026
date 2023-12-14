@@ -63,7 +63,11 @@ We request that authors utilize both **written text** and **recorded narration**
 #### Presentation Videos or Supplemental Videos for WIPs and Demos
 
 Please create a closed caption file for your videos. This section introduces how to create a closed caption file using [YouTube Studio](https://studio.youtube.com/channel/UCSLexDpxUfL44AB_341V3lg) (authors may create a new account for this purpose if they wish or use their existing account). Google Chrome is a recommended browser. Authors may also create a YouTube-supported closed caption file using alternative software.
+
+
 {{<closedCaptionInstruction>}}
+
+
 Additional information about uploading to YouTube can be found [here](https://support.google.com/youtube/answer/57407#zippy=%2Cdetails%2Cmonetization%2Cad-suitability%2Cvideo-elements).
 
 #### Supplemental Videos for IEEE Trans on Haptics Short Papers and Technical Papers
