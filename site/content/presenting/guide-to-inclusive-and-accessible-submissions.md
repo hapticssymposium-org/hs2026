@@ -20,6 +20,8 @@ Please use a gender-neutral language.
 Source and more detailed information can be found:\<https://www.morgan-klaus.com/gender-guidelines.html>
 
 ### Disability
+
+
 Please avoid using offensive language.
 
 * Avoid using terms that **equate** people with their disability such as “quadriplegics”, “the deaf”, and “the disabled”. Instead, use “people who use a wheelchair”, “deaf people”, “people who are deaf”, and “people with disabilities”.
@@ -30,12 +32,17 @@ Please avoid using offensive language.
 * When referring to **motor disabilities**, terms such as “motor disability” or “physical disability” are acceptable.
 * When referring to people with **cognitive disabilities**, be specific about the condition (e.g., autism, cerebral palsy, epilepsy, schizophrenia, depression). Avoid using the term “people with deficits”.
 
+
 ### Telerobotics
+
 Please avoid using offensive language. 
+
 * Avoid using “Master/Slave” terminology. Instead, use alternative terms, such as “Main/Secondary”, “Haptic Device/Remote Robot”, “Leader/Follower”, “Driver/Driven”, and “Teleoperating/Teleoperated”. 
 Source and more detailed information can be found:\<https://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-writing-guide/>
 
+
 ## Accessibility Guidance
+
 A document or application is accessible if it can be used by people with disabilities, including those with mobility, visual, auditory, or cognitive disabilities. We strive for accessible paper and video submissions to foster an inclusive community. Below, you can find the instructions that should be followed for accessible submissions.
 
 
