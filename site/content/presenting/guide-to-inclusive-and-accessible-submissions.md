@@ -76,7 +76,7 @@ Additional information about uploading to YouTube can be found [here](https://su
 For Supplemental Videos published along with papers, authors should directly “burn” closed captions into the video due to technical limitations in IEEE Xplore. In other words, these captions are not provided as a text file, but rather as subtitles in the video itself (this is called “open captioning”, rather than “closed captioning” because the captions are always visible).
 
 
-If you have any questions about the video accessibility described here, please contact the Video Chair [videos@hapticssymposium.org](mailto:videos@hapticssymposium.org)
+If you have questions about the video accessibility described here, please contact the Video Chair [videos@hapticssymposium.org](mailto:videos@hapticssymposium.org)
 
 
 If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs [edi@hapticssymposium.org](mailto:edi@hapticssymposium.org).
