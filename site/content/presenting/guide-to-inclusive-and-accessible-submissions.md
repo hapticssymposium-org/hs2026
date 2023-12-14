@@ -14,7 +14,8 @@ The IEEE Haptics Symposium is committed to creating an inclusive and accessible 
 
 Please use a gender-neutral language. 
 
-* When referring to a generic person, avoid “he or she”, “he/she”, or s/he. Use “they” as a gender-neutral pronoun.* If you refer to a specific person, first ask which gender they self-identify, and then use the pronoun that they use.
+* When referring to a generic person, avoid “he or she”, “he/she”, or s/he. Use “they” as a gender-neutral pronoun.
+* If you refer to a specific person, first ask which gender they self-identify, and then use the pronoun that they use.
 * Only refer to sex information (female/male/intersex) when the context is relevant, for example reporting participant information for human experiments in which biological factors (e.g.,  skin mechanics) may play a role in the findings. Otherwise, it is recommended to use genders that participants self-identify.
 * Avoid positioning specific genders as “normal”, “abnormal”, or “anomaly”. 
 Source and more detailed information can be found:\<https://www.morgan-klaus.com/gender-guidelines.html>
@@ -71,7 +72,12 @@ Please create a closed caption file for your videos. This section introduces how
 Additional information about uploading to YouTube can be found [here](https://support.google.com/youtube/answer/57407#zippy=%2Cdetails%2Cmonetization%2Cad-suitability%2Cvideo-elements).
 
 #### Supplemental Videos for IEEE Trans on Haptics Short Papers and Technical Papers
+
 For Supplemental Videos published along with papers, authors should directly “burn” closed captions into the video due to technical limitations in IEEE Xplore. In other words, these captions are not provided as a text file, but rather as subtitles in the video itself (this is called “open captioning”, rather than “closed captioning” because the captions are always visible).
-If you have any questions about the video accessibility described here, please contact the Video Chair <mailto:videos@hapticssymposium.org>
-If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs <mailto:edi@hapticssymposium.org>.
+
+
+If you have any questions about the video accessibility described here, please contact the Video Chair [videos@hapticssymposium.org](mailto:videos@hapticssymposium.org)
+
+
+If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs [edi@hapticssymposium.org](mailto:edi@hapticssymposium.org).
 
