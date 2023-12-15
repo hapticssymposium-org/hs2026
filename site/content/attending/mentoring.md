@@ -10,12 +10,12 @@ The Haptics Symposium conference acknowledges the valuable role of mentoring in 
 ## Resume Database
 
 We have created a database of resumes for people seeking career opportunities in academia or industry. This database can be accessed by our industry sponsors and members who have open job offerings. The database is created and shared before the conference. The conference will not keep the resumes after the completion of the conference.
-* If you are looking for a job and wish to submit your resume, please fill out the form below:
+* If you are looking for a job or internship and wish to submit your resume, please fill out the form below:
   * [https://forms.gle/dtHHvZt9JM1LLpoY8](https://forms.gle/dtHHvZt9JM1LLpoY8)
 * If you wish to gain access to the resume database, please submit the following form:
   * [https://forms.gle/yajVjmdoKFuLtQng7](https://forms.gle/yajVjmdoKFuLtQng7)
 
-  Note: Only institutions or individuals who are offering a job can get access to the  database.
+  Note: Only companies or individuals who are looking to hire can get access to the database.
 
 ## Mentoring for Work-In-Progress Papers
 
