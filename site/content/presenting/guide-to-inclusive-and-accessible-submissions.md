@@ -18,7 +18,8 @@ Please use a gender-neutral language.
 * If you refer to a specific person, first ask which gender they self-identify, and then use the pronoun that they use.
 * Only refer to sex information (female/male/intersex) when the context is relevant, for example reporting participant information for human experiments in which biological factors (e.g.,  skin mechanics) may play a role in the findings. Otherwise, it is recommended to use genders that participants self-identify.
 * Avoid positioning specific genders as “normal”, “abnormal”, or “anomaly”. 
-Source and more detailed information can be found:\<https://www.morgan-klaus.com/gender-guidelines.html>
+Source and more detailed information can be found:\
+<https://www.morgan-klaus.com/gender-guidelines.html>
 
 ### Disability
 
@@ -39,7 +40,8 @@ Please avoid using offensive language.
 Please avoid using offensive language. 
 
 * Avoid using “Master/Slave” terminology. Instead, use alternative terms, such as “Main/Secondary”, “Haptic Device/Remote Robot”, “Leader/Follower”, “Driver/Driven”, and “Teleoperating/Teleoperated”. 
-Source and more detailed information can be found:\<https://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-writing-guide/>
+Source and more detailed information can be found:\
+<https://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-writing-guide/>
 
 
 ## Accessibility Guidance
