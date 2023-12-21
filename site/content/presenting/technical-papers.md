@@ -79,7 +79,7 @@ Specific questions regarding PaperPlaza should be sent to [ras.101@papercept.net
 
 Please follow these instructions if your paper was submitted directly as a Technical Paper.
 
-Refer to the PDF Accessibility and Video Accessibility guidelines detailed at [Guide to Inclusive and Accessible Submissions](presenting/accessibility).
+Refer to the PDF Accessibility and Video Accessibility guidelines detailed at [Guide to Inclusive and Accessible Submissions](../accessibility).
 
 The corresponding author must submit the final camera-ready conference technical paper content to the “Technical Paper” track.
 
