@@ -65,6 +65,36 @@ Videos will be submitted for publication to IEEE Xplore and may be used to promo
 
 Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB). Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
 
+## **Final Submission**
+
+**The final submission deadline is January 22, 2024.**
+
+All accepted technical papers will appear in this year’s Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
+
+We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings. As such, authors will work within the established infrastructure of the [PaperPlaza system](https://ras.papercept.net/). To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
+
+Specific questions regarding PaperPlaza should be sent to [ras.101@papercept.net](mailto:ras.101@papercept.net). General questions about the final submission of conference technical papers should be sent to the Publications Chair at [publications@hapticssymposium.org](mailto:publications@hapticssymposium.org). Urgent general questions should be sent to the Program Chair at [program@hapticssymposium.org](mailto:program@hapticssymposium.org) or the General Co-chairs at [chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org).
+
+### Camera-ready Instructions
+
+Please follow these instructions if your paper was submitted directly as a Technical Paper.
+
+Refer to the PDF Accessibility and Video Accessibility guidelines detailed at [Guide to Inclusive and Accessible Submissions](presenting/accessibility).
+
+The corresponding author must submit the final camera-ready conference technical paper content to the “Technical Paper” track.
+
+The corresponding author will receive a confirmation email that acknowledges receipt of the final submission. If there are any issues, PaperPlaza staff will contact the corresponding author.
+
+* The title, author list, and keywords should be correct and final.
+* The abstract for use in the conference program (limited to 750 characters or ~100 words) should be finalized. Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters.
+* Author affiliations, required ethical statements for experiments with human subjects, and funding acknowledgements should be checked.
+* The final camera-ready pdf manuscript file of up to 10 MB must be uploaded.
+* Authors are requested to revise their manuscripts according to reviewer guidance.
+* Authors may optionally upload a final camera-ready video file. Please see the “Video” section for more details.
+* IEEE requires a plain text Readme file of up to 10 kB for any accompanying multimedia content, such as video. The Readme file must contain (1) An overall description of the video file, (2) Multimedia player information, and (3) Author contact information.
+* IEEE requires a plain text Summary file of up to 10 kB for multimedia content. The Summary file must describe in 5 sentences or less the contents of the video. This file helps IEEE Xplore users to make downloading decisions.
+
+
 <!--
 
 ### \*\*Supplemental Videos\*\*
@@ -93,78 +123,6 @@ For Supplemental Videos, authors should directly “burn” closed captions into
 
 If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs <mailto:edi@hapticssymposium.org>.
 
-## Final Submission
-
-\*\*The final submission deadline is January 17, 2022.\*\*
-
-All accepted technical papers will appear in this year's Haptics Symposium proceedings, which will be distributed at the conference and submitted to IEEE Xplore.
-
-We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program and the archival IEEE proceedings.  As such, authors will work within the established infrastructure of the \[PaperPlaza system](https://ras.papercept.net).  To minimize confusion, we have provided details below on how to submit your accepted conference technical paper content to PaperPlaza.
-
-Specific questions regarding PaperPlaza should be sent to <ras.101@papercept.net>. General questions about the final submission of conference technical papers should be sent to the Publications Chair at <publications@hapticssymposium.org>. Urgent general questions should be sent to the Program Chair at <program@hapticssymposium.org> or the General Co-chairs at <chairs@hapticssymposium.org>.
-
-### Papers Submitted as Technical Papers
-
-Please follow these instructions if your paper was submitted directly as a Technical Paper.
-
-The authors are strongly encouraged to check their submissions for accessibility using the instructions provided under "PDF Accessibility" below. This step is not required, but will help your document reach the widest number of people.
-
-The corresponding author must submit the final camera-ready conference technical paper content to the "Contributed Papers" track.
-
-The corresponding author will receive a confirmation email that acknowledges receipt of the final submission.  If there are any issues, PaperPlaza staff will contact the corresponding author.
-
-\* The title, author list, and keywords should be correct and final.
-\* The abstract for use in the conference program (limited to 750 characters or \~100 words) should be finalized.  Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters. 
-\* Author affiliations, required ethical statements for experiments with human subjects, and funding acknowledgements should be checked.
-\* The final camera-ready pdf manuscript file of up to 10 MB must be uploaded.
-\* Authors are requested to revise their manuscripts according to reviewer guidance.
-\* Authors may optionally upload a final camera-ready video file. Please see the "Video" section for more details.
-\* IEEE requires a plain text Readme file of up to 10 kB for any accompanying multimedia content, such as video. The Readme file must contain (1) An overall description of the video file, (2) Multimedia player information, and (3) Author contact information.
-\* IEEE requires a plain text Summary file of up to 10 kB for multimedia content.  The Summary file must describe in 5 sentences or less the contents of the video. This file helps IEEE Xplore users to make downloading decisions.
-
-### Papers Submitted as ToH Short Papers
-
-Please follow these instructions if your paper was rejected by the IEEE Transactions on Haptics but accepted as a Technical Paper.
-
-\*\*Step 1)\*\* The submitting author must submit an “initial” conference technical paper placeholder to the “Contributed Papers” track.
-
-\* The submitting author will need the title, author list, PaperPlaza PIN numbers of \*all\* authors, and keywords.
-\* At this time an abstract is not required, but authors may wish to upload an abstract since it will be required before final submission. The abstract must be limited to 750 characters (\~100 words) and will be required for use in the conference program.  The final abstract within the pdf manuscript file is allowed to exceed 750 characters. 
-\* A pdf manuscript will not be required at this stage, although authors may wish to upload their original manuscript as a placeholder.  The pdf file size is limited to 10 MB.
-
-\*\*Step 2)\*\*  The corresponding author will receive a confirmation email that acknowledges receipt of the initial submission.
-
-\*\*Step 3)\*\*  Shortly after the deadline for initial submission, the corresponding author will receive a confirmation email that acknowledges acceptance of the technical paper for oral presentation. At this time, PaperPlaza will be open for the submission of final camera-ready conference technical papers via what is labelled as the "IEEE Trans. Haptics Contributed Paper" track in PaperPlaza.
-
-\*\*Step 3.5)\*\* The authors are strongly encouraged to check their submissions for accessibility using the instructions provided under "PDF Accessibility" below. This step is not required, but will help your document reach the widest number of people.
-
-\*\*Step 4)\*\* The corresponding author must submit the final camera-ready conference technical paper content to the "IEEE Trans. Haptics Contributed Paper" track.
-
-\*\*Step 5)\*\*  The corresponding author will receive a confirmation email that acknowledges receipt of the final submission.  If there are any issues, PaperPlaza staff will contact the corresponding author.
-
-\* The title, author list, and keywords should be correct and final.
-\* The abstract for use in the conference program (limited to 750 characters or ~100 words) should be finalized.  Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters. 
-\* Author affiliations, required ethical statements for experiments with human subjects, and funding acknowledgements should be checked.
-\* The final camera-ready pdf manuscript file of up to 10 MB must be uploaded.
-\* Authors are requested to revise their manuscripts according to reviewer guidance.
-\* Authors may optionally upload a final camera-ready video file. Please see the "Video" section for more details.
-\* IEEE requires a plain text Readme file of up to 10 kB for any accompanying multimedia content, such as video. The Readme file must contain (1) An overall description of the video file, (2) Multimedia player information, and (3) Author contact information.
-\* IEEE requires a plain text Summary file of up to 10 kB for multimedia content.  The Summary file must describe in 5 sentences or less the contents of the video. This file helps IEEE Xplore users to make downloading decisions.
-\* The paper may need to be reformatted to use the conference technical paper template, which can be found at top of this page under "Paper Format".
-
-
-
-### PDF Accessibility
-
-We strongly encourage authors to check and annotate their PDFs for accessibility before final submission. Having accessible materials, including features like alt-text for figures and choosing colours to be distinguishable when viewed in black and white or with a form of colour-blindness, will help ensure that more people are able to review your submissions and read any published work.
-
-The quickest way to do this is to follow one of the following resources to add alt-text and tagging to your documents:
-
-\* \[SIGACCESS guidelines on creating accessible PDFs in Microsoft Word](http://www.sigaccess.org/welcome-to-sigaccess/resources/acm-submission-with-ms-word/)
-\* \[Adobe's Accessible PDF Author Guide (best for LaTeX submissions)](http://www.sigaccess.org/welcome-to-sigaccess/resources/accessible-pdf-author-guide/)
-
-If you have any questions, please contact the EDI chairs at \[edi@hapticssymposium.org](mailto:edi@hapticssymposium.org). Many additional resources can be found from the comprehensive instructions described by the ACM CHI community: \[https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission](https://chi2021.acm.org/for-authors/presenting/papers/guide-to-an-accessible-submission)
--->
 
 <!--
 ## \\\*\\\*Presentation Instructions\\\*\\\*
