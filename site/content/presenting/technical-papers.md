@@ -57,13 +57,65 @@ Paper decisions will be announced in late December, and will also be available i
 
 ## **Videos**
 
-Submission of videos is optional but strongly encouraged to help readers understand the paper.
+Authors of accepted Technical Papers are strongly encouraged to submit each of two types of video: (1) Supplemental Videos (providing information beyond what is included in the paper) and a (2) 30-second Preview Video, to be shared on social media. Submissions are optional, but strongly encouraged as a means of highlighting the paper to interested researchers, including those who may not attend the conference.
 
-Uploaded videos will be reviewed along with the paper.
+### Supplemental Videos
 
-Videos will be submitted for publication to IEEE Xplore and may be used to promote the conference.
+As in the past conferences, supplemental videos will be uploaded through the the PaperPlaza system and reviewed along with the paper. Videos of the accepted papers will be submitted for publication to IEEE Xplore and may be used to promote the conference. Authors who submitted videos together with their manuscript need not take any additional action beyond any edits that may be requested by the reviewers and editors.
 
-Guidelines: format (mpeg 4, .mp4), length (up to 2 minutes), resolution (at least 480p progressive scan), and file size (up to 40 MB). Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance.
+#### Supplemental Videos Guidelines
+
+* Format: .mp4 (mpeg-4))
+* Length: up to 2 minutes
+* Resolution: at least 480p (progressive scan)
+* File size: up to 40 MB
+* Address the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video))
+* Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance
+
+### Preview Videos
+
+Authors of accepted papers are invited to submit an optional 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and may be used to promote the conference. These preview videos will not be published in IEEE Xplore. Preview videos provide symposium attendees with a chance to browse papers in advance.
+
+
+#### Preview Videos Guidelines
+
+First, authors must prepare: (1) a video file; (2) a closed caption file; and (3) metadata for YouTube. Then, authors must complete [this form](https://forms.gle/9FjQ1k1jNYqXzRt76) where they will be requested to upload their files and enter their metadata.
+
+The preview video deadline is **March 18, 2024**. 
+
+**1. Prepare a Video File**
+
+* Screen and audio configuration
+    * Recommended: full-screen slides/video clips, with optional picture-in-picture or side-by-side video of the presenter
+    * Acceptable Alternative: full-screen slides/video clips with audio of the presenter
+    *	Use a high-quality microphone for the recording. Most headset microphones work well. Avoid using the microphone that is integrated in your computer.
+*	Video specifications
+    *	Length: Up to 30 seconds
+    *	Resolution: At least 720p and 30 fps (preferably 1080p or more, and 60 fps)
+    * Use [YouTube supported file formats](https://support.google.com/youtube/troubleshooter/2888402?hl=en)
+    * Adhere to the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video)) 
+
+**2. Prepare a Closed Caption File**
+
+See [Video Accessibility](../accessibility/#closedcaption).
+
+**3. Submission**
+
+To complete your submission, upload the video file and closed caption file, and enter the metadata on [this form](https://forms.gle/9FjQ1k1jNYqXzRt76). The instructions for metadata are as follows.
+* Video title text
+  * [LastNameOfFirstAuthor et al.], [ShortenedPaperTitle], IEEE Haptics Symposium 2024
+  * For example:\
+    Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 2024
+* Video description
+  * [AuthorName1], [AuthorName2], … , [FullPaperTitle], Proceedings of IEEE Haptics Symposium 2024\
+    [Abstract Text as Published in Paper]\
+    #haptics #haptics2024\
+    https://www.hapticssymposium.org/
+  * For example:\
+    K. Smith, B. Nelson, T. Xu, Vibrotactile Massage Methods in Virtual Reality, Proceedings of IEEE Haptics Symposium 2024\
+    Abstract: Many researchers have sought to introduce vibrotactile massage methods in virtual reality. However, prior approaches have proved inadequate. Here, we show …\
+    #haptics #haptics2024 #vibrotactile #virtualmassage\
+    https://www.hapticssymposium.org/
 
 ## **Final Submission**
 
