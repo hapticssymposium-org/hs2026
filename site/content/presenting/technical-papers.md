@@ -69,7 +69,7 @@ As in the past conferences, supplemental videos will be uploaded through the the
 * Length: up to 2 minutes
 * Resolution: at least 480p (progressive scan)
 * File size: up to 40 MB
-* Address the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video))
+* Address the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video-accessibility))
 * Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance
 
 ### Preview Videos
@@ -97,7 +97,7 @@ The preview video deadline is **March 18, 2024**.
 
 **2. Prepare a Closed Caption File**
 
-See [Video Accessibility](../accessibility/#closedcaption).
+See [Video Accessibility](../accessibility/#presentation-videos-or-supplemental-videos-for-wips-and-demos).
 
 **3. Submission**
 
