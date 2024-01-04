@@ -21,6 +21,68 @@ One author of each accepted paper will deliver a talk at the conference and answ
 
 All accepted Transaction on Haptics Short Papers will appear in the Haptics Symposium proceedings, which will be distributed at the conference.
 
+## **Videos**
+
+Authors of accepted ToH Short Papers are strongly encouraged to submit each of two types of video: (1) Supplemental Videos (providing information beyond what is included in the paper) and a (2) 30-second Preview Video, to be shared on social media. Submissions are optional, but strongly encouraged as a means of highlighting the paper to interested researchers, including those who may not attend the conference.
+
+### Supplemental Videos
+
+As in the past conferences, supplemental videos will be uploaded through the ScholarOne Manuscripts system (Transactions on Haptics Short Journal Papers) and reviewed along with the paper. Videos of the accepted papers will be submitted for publication to IEEE Xplore and may be used to promote the conference. Authors who submitted videos together with their manuscript need not take any additional action beyond any edits that may be requested by the reviewers and editors.
+
+#### Supplemental Videos Guidelines
+
+* Format: .mp4 (mpeg-4))
+* Length: up to 2 minutes
+* Resolution: at least 480p (progressive scan)
+* File size: up to 40 MB
+* Address the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video-accessibility))
+* Final (but not initial) video submissions will need to include some simple additional files for IEEE Xplore compliance
+
+### Preview Videos
+
+Authors of accepted papers are invited to submit an optional 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and may be used to promote the conference. These preview videos will not be published in IEEE Xplore. Preview videos provide symposium attendees with a chance to browse papers in advance.
+
+
+#### Preview Videos Guidelines
+
+First, authors must prepare: (1) a video file; (2) a closed caption file; and (3) metadata for YouTube. Then, authors must complete [this form](https://forms.gle/9FjQ1k1jNYqXzRt76) where they will be requested to upload their files and enter their metadata.
+
+The preview video deadline is **March 18, 2024**. 
+
+**1. Prepare a Video File**
+
+* Screen and audio configuration
+    * Recommended: full-screen slides/video clips, with optional picture-in-picture or side-by-side video of the presenter
+    * Acceptable Alternative: full-screen slides/video clips with audio of the presenter
+    *	Use a high-quality microphone for the recording. Most headset microphones work well. Avoid using the microphone that is integrated in your computer.
+*	Video specifications
+    *	Length: Up to 30 seconds
+    *	Resolution: At least 720p and 30 fps (preferably 1080p or more, and 60 fps)
+    * Use [YouTube supported file formats](https://support.google.com/youtube/troubleshooter/2888402?hl=en)
+    * Adhere to the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video-accessibility)) 
+
+**2. Prepare a Closed Caption File**
+
+See [Video Accessibility](../accessibility/#/#closed-caption).
+
+**3. Submission**
+
+To complete your submission, upload the video file and closed caption file, and enter the metadata on [this form](https://forms.gle/9FjQ1k1jNYqXzRt76). The instructions for metadata are as follows.
+* Video title text
+  * [LastNameOfFirstAuthor et al.], [ShortenedPaperTitle], IEEE Haptics Symposium 2024
+  * For example:\
+    Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 2024
+* Video description
+  * [AuthorName1], [AuthorName2], … , [FullPaperTitle], Proceedings of IEEE Haptics Symposium 2024\
+    [Abstract Text as Published in Paper]\
+    #haptics #haptics2024\
+    https://www.hapticssymposium.org/
+  * For example:\
+    K. Smith, B. Nelson, T. Xu, Vibrotactile Massage Methods in Virtual Reality, Proceedings of IEEE Haptics Symposium 2024\
+    Abstract: Many researchers have sought to introduce vibrotactile massage methods in virtual reality. However, prior approaches have proved inadequate. Here, we show …\
+    #haptics #haptics2024 #vibrotactile #virtualmassage\
+    https://www.hapticssymposium.org/
+
 <!--
 ## **Final Submission**
 
@@ -36,38 +98,7 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 The PDF of the ToH Short Paper and optional accompanying video are not required at this time. These files will be obtained directly from the IEEE Transactions on Haptics for inclusion in the conference proceedings.
 
 Specific questions regarding PaperPlaza should be sent to [ras.101@papercept.net](mailto:ras.101@papercept.net). General questions about the final submission of conference technical papers should be sent to the Publications Chair at [publications@hapticssymposium.org](mailto:publications@hapticssymposium.org). Urgent general questions should be sent to the Program Chair at [program@hapticssymposium.org](mailto:program@hapticssymposium.org) or the General Co-chairs at [chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org).
-
-## **Videos**
-
-Authors of accepted Conference Technical Papers or Transactions on Haptics Short Journal Papers are strongly encouraged to submit each of two types of video: (1) Supplemental Videos (providing information beyond what is included in the paper) and a (2) 30-second Preview Video, to be shared on social media. Submissions are optional, but strongly encouraged as a means of highlighting the paper to interested researchers, including those who may not attend the conference.
-
-### **Supplemental Videos**
-
-As in the past conferences, supplemental videos will be uploaded through the ScholarOne Manuscripts system (Transactions on Haptics Short Journal Papers) or the PaperPlaza system (Technical Papers) and reviewed along with the paper. Videos of the accepted papers will be submitted for publication to IEEE Xplore and may be used to promote the conference.  Authors who submitted videos together with their manuscript need not take any additional action beyond any edits that may be requested by the reviewers and editors.
-
-### **Supplemental Video Requirements**
-
-{{<supplementalVideoList "Journal">}}
-
-{{<simpleAnchor "preview-videos">}}
-### Preview Videos (New for 2022; Optional, but strongly encouraged)
-
-Authors of accepted papers are invited to submit an optional 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and may be used to promote the conference. These preview videos will not be published in IEEE Xplore.
-
-### **Preview Video Requirements**
-
-Please refer to the [video instructions page](/presenting/video-instructions/).
-
-{{<simpleAnchor "vid-accessibility">}}
-### Video Accessibility
-
-Providing alternative means of accessing information is valuable for people with sensory impairments and also enables engagement in a variety of contexts (e.g., if the video is muted). We request that authors utilize both written text and recorded narration to explain their videos. To support meeting participants with visual impairments, please describe all figures and images with sufficient detail so that their descriptions can be captured by closed captioning software.
-
-For Supplemental Videos, authors should directly “burn” closed captions into the video due to technical limitations in IEEE Xplore. In other words, these captions are not provided as a text file, but rather as subtitles in the video itself (this is called “open captioning”, rather than “closed captioning”, because the captions are always visible).
-
-If you have questions or need assistance with any of these activities, please reach out to the Equity, Diversity, and Inclusion Chairs <mailto:edi@hapticssymposium.org>.
 -->
-
 
 - - -
 

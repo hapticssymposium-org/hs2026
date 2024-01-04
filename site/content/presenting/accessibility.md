@@ -58,9 +58,9 @@ A document or application is accessible if it can be used by people with disabil
 Providing alternative means of accessing information is valuable for people with sensory disabilities and also enables engagement in a variety of contexts, e.g., if the video is muted. 
 We request that authors utilize both **written text** and **recorded narration** to explain their videos. Please describe all figures, images, and charts with sufficient detail so that their descriptions can be captured by closed captioning software.
 
-#### Presentation Videos or Supplemental Videos for WIPs and Demos
+#### Closed Caption
 
-Please create a closed caption file for your videos. This section introduces how to create a closed caption file using [YouTube Studio](https://studio.youtube.com/channel/UCSLexDpxUfL44AB_341V3lg) (authors may create a new account for this purpose if they wish or use their existing account). Google Chrome is a recommended browser. Authors may also create a YouTube-supported closed caption file using alternative software.
+Please create a closed caption file for preview videos for IEEE ToH Short Papers and Technical Papers and supplemental videos for WIPs and Demos. This section introduces how to create a closed caption file using [YouTube Studio](https://studio.youtube.com/channel/UCSLexDpxUfL44AB_341V3lg) (authors may create a new account for this purpose if they wish or use their existing account). Google Chrome is a recommended browser. Authors may also create a YouTube-supported closed caption file using alternative software.
 
 {{<closedCaptionInstruction>}}
 

@@ -93,11 +93,11 @@ The preview video deadline is **March 18, 2024**.
     *	Length: Up to 30 seconds
     *	Resolution: At least 720p and 30 fps (preferably 1080p or more, and 60 fps)
     * Use [YouTube supported file formats](https://support.google.com/youtube/troubleshooter/2888402?hl=en)
-    * Adhere to the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video)) 
+    * Adhere to the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video-accessibility)) 
 
 **2. Prepare a Closed Caption File**
 
-See [Video Accessibility](../accessibility/#presentation-videos-or-supplemental-videos-for-wips-and-demos).
+See [Video Accessibility](../accessibility/#closed-caption).
 
 **3. Submission**
 
