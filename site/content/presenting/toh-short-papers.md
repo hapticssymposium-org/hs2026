@@ -63,7 +63,7 @@ The preview video deadline is **March 18, 2024**.
 
 **2. Prepare a Closed Caption File**
 
-See [Video Accessibility](../accessibility/#/#closed-caption).
+See [Video Accessibility](../accessibility/#closed-caption).
 
 **3. Submission**
 
