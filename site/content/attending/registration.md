@@ -66,4 +66,3 @@ We will provide support letters for visa applications upon request. For visa sup
 ## Conference Registration Fees
 
 {{<conferenceRegistrationFees>}}
-
