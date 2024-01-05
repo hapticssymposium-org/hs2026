@@ -46,6 +46,6 @@ Responsibilities and time allotments during the conference will be sent to the S
 
 Please complete the [online application form](https://forms.gle/jXm4TTSjhZiBp8249) to be considered as a Student Volunteer.
 
-After submitting your application, you will see an acknowledgment page. We expect to receive more applications than we need, so early application is encouraged. If you have any questions, please feel free to contact us via [sv@hapticssymposium.org](mailto:sv@hapticssymposium.org).
+After submitting your application, you will see an acknowledgment page. We expect to receive more applications than we need, so early application is encouraged.
 
 If you have any questions, please don’t hesitate to contact the Student Volunteers Co-Chairs directly at [sv@hapticssymposium.org](mailto:sv@hapticssymposium.org).
