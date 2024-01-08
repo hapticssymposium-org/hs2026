@@ -42,25 +42,21 @@ Each CCC will have a program that spans multiple sub-activities, for instance, (
 
 ## Open Call for Individual Contributions
 
-**February 2024** - Individual submission deadline
+**November 2023** - Individual submission deadline
 
-**Individual Submission Instructions:** CCC calls for individual submissions are now open. The selected CCCs will feature interactive sessions that individuals can apply to join. This may include submitting a poster or demonstration, as indicated on the CCC’s call. Submissions may be led by a researcher with support from other researchers from their team. 
+**Individual Submission Instructions:** Once the CCCs are selected and announced, CCC calls for individual submissions will be opened. This includes applying to give a keynote, join a panel, bring a poster or join an interactive discussion. Note that while CCC organizers may want to encourage particular individuals to submit, the selection of contributors within a CCC will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action. Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.
 
-Note that while CCC organizers may want to encourage particular individuals to submit, the selection of contributors within a CCC will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action. Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.
-
-Please see the description of the CCCs for more details:
-* [*Frontiers of Softness in Science and Engineering*](/frontier-in-softness/)
-* [*Haptics for impact: consumer value, ethics, diversity*](/haptics-for-impact/)
+**Keynotes:** Individuals can apply to give a keynote in a CCC that fits their research topic. A keynote talk should synthesize research in light of the ongoing grand challenge of the CCC. Specifically, talks should cover the following three components oriented around the CCC: (1) related prior work done by the speaker, (2) present work that is in the process of being published in conferences and journals, and (3) forward-looking, emerging directions that the speaker sees as opportunities within this sub-domain. Speakers should not assume a lay audience, but should dive into the details in presenting work done in their lab.
 
 **Interactive discussions:** Selected CCCs will feature interactive sessions that individuals can apply to join. This might include submitting a poster, joining for a panel discussion, and more. These details will be featured on the CCC’s call. Submissions that center around a poster and/or videos may be led by a researcher with support from other researchers from their team.
 
 ## Complete timeline
 
-1. ~~**CCC proposal deadline (organizers):** Submit your short proposal by ~~September 27, 2023~~ October 25, 2023 (extended).~~
-1. ~~**Notifications (organizers):** Selected proposals are notified.~~
-1. ~~Selected CCCs prepare their open call, to appear in the Haptics Symposium website.~~
-1. ~~Selected CCCs calls are opened (e.g., for speakers or other presenters).~~
-1. **Individual contribution deadline (individual contributors):** Speakers and other presenters submit their proposal to partake in a selected  CCCs by **February 9, 2024**.
+1. **CCC proposal deadline (organizers):** Submit your short proposal by ~~September 27, 2023~~ October 25, 2023 (extended).
+1. **Notifications (organizers):** Selected proposals are notified.
+1. Selected CCCs prepare their open call, to appear in the Haptics Symposium website.
+1. Selected CCCs calls are opened (e.g., for speakers or other presenters).
+1. **Individual contribution deadline (individual contributors):** Speakers and other presenters submit their proposal to partake in a selected  CCCs by **November 2023**.
 1. Organizers finalize their CCC's program.
 1. Speakers & participants are notified.
-1. **Finalized CCC program deadline:** Selected CCC programs are featured on the Haptics Symposium website by **February 2024**.
+1. **Finalized CCC program deadline:** Selected CCC programs are featured on the Haptics Symposium website by **January 2024**.
