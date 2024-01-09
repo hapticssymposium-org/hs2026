@@ -1,6 +1,6 @@
 ---
-title: Haptics for Impact
-description: "Haptics is a rapidly growing field with many new devices, software technologies, and psychological insights. In the meantime, public awareness has increased, with media portrayals like Ready Player One and high-profile consumer devices incorporating haptics, such as smartphones, laptops, and game controllers. Moreover, societal changes like social distancing and remote work have also highlighted our need for touch in life and work. Yet, we still face the cross-cutting challenge of understanding the value of haptics for society and business. As we seek to understand the value of haptic technology, ethical concerns immediately arise around issues of consent, influence, accessibility, privacy, and agency. We also see challenges surrounding the diversity of people who would experience haptics."
+title: "Haptics for impact: consumer value, ethics, diversity"
+description: "Haptics is a rapidly growing field with many new devices, software technologies, and psychological insights. ..."
 weight: 2
 ---
 # Cross-Cutting Challenge 

@@ -4,6 +4,7 @@ deadline: 'Theme Proposals: Wednesday, October 25, 2023 (extended)'
 description: >-
   Following their successful launch in 2018, Cross-Cutting Challenges (CCC) will be held again at the 2024 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
+layout: "single"
 ---
 # Cross-Cutting Challenges
 
@@ -49,7 +50,7 @@ Note that while CCC organizers may want to encourage particular individuals to s
 
 Please see the description of the CCCs for more details:
 * *[Frontiers of Softness in Science and Engineering](./frontier-of-softness/)*
-* *[Haptics for impact: consumer value, ethics, diversity*](./haptics-for-impact/)*
+* *[Haptics for impact: consumer value, ethics, diversity](./haptics-for-impact/)*
 
 **Interactive discussions:** Selected CCCs will feature interactive sessions that individuals can apply to join. This might include submitting a poster, joining for a panel discussion, and more. These details will be featured on the CCC’s call. Submissions that center around a poster and/or videos may be led by a researcher with support from other researchers from their team.
 
