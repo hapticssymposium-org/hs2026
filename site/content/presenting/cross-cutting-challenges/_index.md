@@ -49,7 +49,7 @@ Each CCC will have a program that spans multiple sub-activities, for instance, (
 Note that while CCC organizers may want to encourage particular individuals to submit, the selection of contributors within a CCC will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action. Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.
 
 Please see the description of the CCCs for more details:
-* *[Frontiers of Softness in Science and Engineering](./frontier-of-softness/)*
+* *[Frontiers of Softness in Science and Engineering](./frontiers-of-softness/)*
 * *[Haptics for impact: consumer value, ethics, diversity](./haptics-for-impact/)*
 
 **Interactive discussions:** Selected CCCs will feature interactive sessions that individuals can apply to join. This might include submitting a poster, joining for a panel discussion, and more. These details will be featured on the CCC’s call. Submissions that center around a poster and/or videos may be led by a researcher with support from other researchers from their team.
