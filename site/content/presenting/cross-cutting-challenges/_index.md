@@ -42,7 +42,7 @@ Each CCC will have a program that spans multiple sub-activities, for instance, (
 
 ## Open Call for Individual Contributions
 
-**February 2024** - Individual submission deadline
+**February 9, 2024** - Individual submission deadline
 
 **Individual Submission Instructions:** CCC calls for individual submissions are now open. The selected CCCs will feature interactive sessions that individuals can apply to join. This may include submitting a poster or demonstration, as indicated on the CCC’s call. Submissions may be led by a researcher with support from other researchers from their team. 
 

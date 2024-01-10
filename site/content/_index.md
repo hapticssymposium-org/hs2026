@@ -21,16 +21,18 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 * ~~October 25, 2023 (extended)~~ [Cross-Cutting Challenges Proposal deadline](/presenting/cross-cutting-challenges/)
 * ~~December 20, 2023~~ [Technical Paper author notification](/presenting/technical-papers/)
 * January 22, 2024 [Technical Paper camera-ready deadline](/presenting/technical-papers/)
+* January 19, 2024 [Student Volunteer application deadline](/organization/student-volunteers/)
 * January 31, 2024 [Work-in-Progress Paper deadline](/presenting/work-in-progress/)
 * January 31, 2024 [Hands-on Demonstrations deadline](/presenting/demos/)
 * January 31, 2024 [IEEE Transactions on Haptics Posters deadline](/presenting/toh-posters/)
+* February 9, 2024 [Cross-Cutting Challenges Individual Submission deadline](/presenting/cross-cutting-challenges/)
 * February 16, 2024 [Work-in-Progress Paper author notification](/presenting/work-in-progress/)
 * February 16, 2024 [Hands-on Demonstrations author notification](/presenting/demos/)
 * February 16, 2024 [IEEE Transactions on Haptics Posters author notification](/presenting/toh-posters/)
 * February 23, 2024 [Early bird and Author registration deadline](/attending/registration/)
-* March 18, 2024 Optional Preview Video deadline
+* March 15, 2024 [Hotel Room Block deadline](/attending/venue/)
+* March 18, 2024 [IEEE Transactions on Haptics Short Paper](/presenting/toh-short-papers/), [Technical Paper](/presenting/technical-papers/), and [Work-in-Progress](/presenting/work-in-progress) Preview Video deadline
 * April 1, 2024 [Standard registration deadline](/attending/registration/) 
-* TBD [Exhibits Application deadline]<!--(/presenting/exhibit/)-->	
 
 {{<simpleLineBreak>}}
 The Haptics Symposium would like to sincerely thank the following organizations for their support:

@@ -5,11 +5,11 @@ description: >-
   IEEE Haptics Symposium 2024 solicits Work-in-Progress papers to enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness. WIP papers should be 2 pages including references.
 weight: 4
 ---
-# **Work-in-Progress (WIP) Papers**
+# Work-in-Progress (WIP) Papers
 
 Work-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
 
-# *Preparing your Submission*
+# Preparing your Submission
 
 ## Important Dates
 
@@ -61,7 +61,7 @@ We strongly encourage authors to follow video accessibility guidelines for their
 
 All accepted WIP Papers will appear in this year’s Haptics Symposium proceedings, which will be electronically distributed at the conference, but will not be submitted to IEEE Xplore. The authors of accepted WIP Papers will be asked to prepare a final version of their paper, a 100-word abstract, and a final version of the optional video.
 
-# *Presenting at the Conference*
+# Presenting at the Conference
 
 Work-in-Progress papers will be presented through a poster and an optional  preview video submitted before the conference. WIP authors may also optionally opt-in to a new mentorship program (see below).
 
@@ -86,4 +86,4 @@ To provide additional mentoring to authors of Work-in-Progress papers, we create
 * If you are a student submitting work to WIP and would like a mentor to stop by your poster please fill out the form below:
   * [https://forms.gle/9xW8kgjeedQQmpUq9](https://forms.gle/9xW8kgjeedQQmpUq9) 
 * If you are a faculty member, industry professional, or postdoctoral scholar, you can sign up to offer mentorship to a WIP author. The commitment for mentoring a WIP author would include reading their WIP paper, stopping by their poster, and having a 10-15 min conversation about their work and career. To sign up as a mentor, please fill out the form below:
-  * [https://forms.gle/xiwQjMBz33uvZckX8](https://forms.gle/xiwQjMBz33uvZckX8 )
+  * [https://forms.gle/xiwQjMBz33uvZckX8](https://forms.gle/xiwQjMBz33uvZckX8)

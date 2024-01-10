@@ -7,11 +7,17 @@ weight: 1
 ---
 # IEEE Transactions on Haptics Short Papers
 
-_More information is available at_ [_https://www.ieee-ras.org/publications/toh_](https://www.ieee-ras.org/publications/toh)_. For any questions, please contact_ [_Ilana Nisky_](mailto:program@hapticssymposium.org)_, Program Chair of the Haptics Symposium. See below for Frequently Asked Questions._
+_More information is available at [https://www.ieee-ras.org/publications/toh](https://www.ieee-ras.org/publications/toh). For any questions, please contact [Ilana Nisky_](mailto:program@hapticssymposium.org), Program Chair of the Haptics Symposium. See below for Frequently Asked Questions._
 
 The 2024 Haptics Symposium will again feature a IEEE Transactions on Haptics journal track. Papers accepted to this track will be presented at the conference and simultaneously published as short papers in IEEE Transactions on Haptics. These papers are up to 6 pages in length, including references.
 
 Authors can submit their 6-page paper via the [Transactions on Haptics website](https://www.ieee-ras.org/publications/toh/submission-procedures-toh) by selecting the "Short paper (ToH-Haptics Symposium 2024)" paper type during the submission process. Papers should be prepared using [the formatting instructions for Short Papers](https://www.ieee-ras.org/publications/toh/submission-procedures-toh#shortpapers) provided by the Transactions on Haptics. Each paper will be reviewed by Transactions on Haptics reviewers and an Associate Editor. The outcome of the first round of reviews will be "accept", "revision", or "reject". For papers receiving a decision of “revision” after the first review round, _authors will need to submit a revision within 21 days for a second review_, which may result in a decision of “accept” or “reject.” If the decision after the Transactions on Haptics review is “accept,” the paper will be included in the conference and simultaneously published in the journal.
+
+## Important Dates
+
+* September 25, 2023 (firm): IEEE Transactions on Haptics Short Paper deadline
+* March 18, 2024: IEEE Transactions on Haptics Short Paper preview video deadline
+
 
 **IMPORTANT CHANGE THIS YEAR:** In order to streamline the editorial process, papers that are not accepted as ToH Short Papers after a single round of revision will not be subsequently considered for publication as a Conference Technical Paper. Additionally, authors of papers that are not accepted as ToH Short Papers after a single round of revision will have the option to continue the review process through the standard ToH Short Paper review process and timeline, or to withdraw their paper from consideration entirely.
 

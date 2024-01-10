@@ -73,3 +73,7 @@ Each demonstration will be assigned a space at the conference. The space will in
 ## Logistics
 
 Each demo will be allocated a space that includes a 72” by 30” (183 cm by 76 cm) table, two chairs, one six-outlet power strip (120 V, 60 Hz, type B North America plugs), and a 8’ by 4’ (2.4 m by 1.2 m) board for mounting a poster. Demo presenters are invited to set up their demos on Sunday, April 7 after 7:30 p.m. Demos should be removed by 12:00 p.m. on Wednesday, April 10 (the last day of the conference).
+
+## Contact
+
+Any questions about hands-on demonstrations can be addressed to the Demonstrations and Exhibits Co-Chairs (Ad Spiers and Cara M. Nunez) at [demos@hapticssymposium.org](mailto:demos@hapticssymposium.org).

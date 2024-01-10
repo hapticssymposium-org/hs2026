@@ -13,6 +13,13 @@ weight: 2
 
 We solicit technical papers that report original, novel, unpublished work relevant to all the scientific, technological, and application aspects of haptics.
 
+## Important Dates
+
+* October 23, 2023 (extended): Technical Paper submission deadline
+* December 20, 2023 Technical Paper author notification
+* January 22, 2024: Technical Paper final submission deadline
+* March 18, 2024: Technical Paper preview video deadline
+
 ## **Paper Format**
 
 Technical papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php).

@@ -49,3 +49,7 @@ Please complete the [online application form](https://forms.gle/jXm4TTSjhZiBp824
 After submitting your application, you will see an acknowledgment page. We expect to receive more applications than we need, so early application is encouraged.
 
 If you have any questions, please don’t hesitate to contact the Student Volunteers Co-Chairs directly at [sv@hapticssymposium.org](mailto:sv@hapticssymposium.org).
+
+## Contact
+
+Any questions about student volunteers can be addressed to the Student Volunteers Co-Chairs (Edoardo Battaglia and Alexis E. Block) at [sv@hapticssymposium.org](mailto:sv@hapticssymposium.org).
