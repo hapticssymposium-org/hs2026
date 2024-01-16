@@ -24,6 +24,10 @@ WIP papers should be prepared according to the formatting instructions available
 
 For authors’ convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php) or [Latex](http://ras.papercept.net/conferences/support/tex.php) format. Note that only the US Letter template will be accepted, not the A4 template.
 
+## Program Abstract
+
+At submission, **an abstract (limited to 750 characters or ~100 words) is also required**. Similar to technical papers, this abstract is for use in the conference program. Note that the final abstract within the paper itself (pdf manuscript file) is allowed to exceed 750 characters. Unlike the technical papers, the WIP abstract is required at initial submission.
+
 ## Paper Length
 
 WIP papers should be **maximum 2 pages** including references. There will be no option to purchase additional pages.
@@ -59,7 +63,7 @@ We strongly encourage authors to follow video accessibility guidelines for their
 
 ## Final Submission
 
-All accepted WIP Papers will appear in this year’s Haptics Symposium proceedings, which will be electronically distributed at the conference, but will not be submitted to IEEE Xplore. The authors of accepted WIP Papers will be asked to prepare a final version of their paper, a 100-word abstract, and a final version of the optional video.
+All accepted WIP Papers will appear in this year’s Haptics Symposium proceedings, which will be electronically distributed at the conference, but will not be submitted to IEEE Xplore. The authors of accepted WIP Papers will be asked to prepare a final version of their paper, the 100-word abstract, and a final version of the optional video.
 
 # Presenting at the Conference
 
