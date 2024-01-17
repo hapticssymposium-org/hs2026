@@ -57,13 +57,24 @@ The Conference Editorial Board ([editors@hapticssymposium.org](mailto:editors@ha
 
 ## WIP Editorial Board
 
-**Chair:**
+### Chair
 
 * Oliver Schneider, _University of Waterloo_
 
-**Board**
+### Board
 
-Coming soon...
+* Ronak R. Mohanty, _University of Wisconsin-Madison_
+* Gregory Reardon, _University of California, Santa Barbara_
+* Donald Degraen, _University of Duisburg-Essen_
+* Taku Hashisu, _University of Tsukuba_
+* Chang Xu, _University of Virginia_
+* Patrick Dills, _University of Wisconsin-Madison_
+* Kyle Yoshida, _Washington State University_
+* Iliyas Tursynbek, _Astana IT University_
+* Ahmed Farooq, _Tampere University_
+* Elyse Chase, _Rice University_
+* Merel Jung, _Tilburg University_
+
 <!--
 ![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
 -->
