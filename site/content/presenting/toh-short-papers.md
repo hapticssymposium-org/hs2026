@@ -16,6 +16,7 @@ Authors can submit their 6-page paper via the [Transactions on Haptics website](
 ## Important Dates
 
 * September 25, 2023 (firm): IEEE Transactions on Haptics Short Paper deadline
+* February 5, 2024: Deadline for authors to submit IEEE Transactions on Haptics Short Paper information to PaperPlaza for the conference program
 * March 18, 2024: IEEE Transactions on Haptics Short Paper preview video deadline
 
 

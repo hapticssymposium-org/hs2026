@@ -25,6 +25,7 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 * January 31, 2024 [Work-in-Progress Paper deadline](/presenting/work-in-progress/)
 * January 31, 2024 [Hands-on Demonstrations deadline](/presenting/demos/)
 * January 31, 2024 [IEEE Transactions on Haptics Posters deadline](/presenting/toh-posters/)
+* February 5, 2024 [IEEE Transactions on Haptics Short Paper information submission deadline](/presenting/toh-short-papers/)
 * February 9, 2024 [Cross-Cutting Challenges Individual Submission deadline](/presenting/cross-cutting-challenges/)
 * February 16, 2024 [Work-in-Progress Paper author notification](/presenting/work-in-progress/)
 * February 16, 2024 [Hands-on Demonstrations author notification](/presenting/demos/)
