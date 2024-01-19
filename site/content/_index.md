@@ -32,7 +32,7 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 * February 16, 2024 [IEEE Transactions on Haptics Posters author notification](/presenting/toh-posters/)
 * February 23, 2024 [Early bird and Author registration deadline](/attending/registration/)
 * March 15, 2024 [Hotel Room Block deadline](/attending/venue/)
-* March 18, 2024 [IEEE Transactions on Haptics Short Paper](/presenting/toh-short-papers/), [Technical Paper](/presenting/technical-papers/), and [Work-in-Progress](/presenting/work-in-progress) Preview Video deadline
+* March 18, 2024 [ToH Short Paper](/presenting/toh-short-papers/), [Technical Paper](/presenting/technical-papers/),  [WIP](/presenting/work-in-progress), and [ToH Posters](/presenting/toh-posters/) Preview Video deadline
 * April 1, 2024 [Standard registration deadline](/attending/registration/) 
 
 {{<simpleLineBreak>}}
