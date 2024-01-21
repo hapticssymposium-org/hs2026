@@ -8,6 +8,15 @@ layout: "single"
 ---
 # Cross-Cutting Challenges
 
+## 2024's Cross Cutting Challenges
+
+Please see the description of the CCCs for more details:
+* *[Frontiers of Softness in Science and Engineering](./frontiers-of-softness/)*
+* *[Haptics for Impact: Consumer Value, Ethics, Diversity](./haptics-for-impact/)*
+
+
+## Information about the Cross Cutting  Challenges Track
+
 Following their successful launch in 2018, **Cross-Cutting Challenges (CCC)** will be held again at the 2024 Haptics Symposium. The goal of a CCC is to create a space where researchers can come together to focus on interdisciplinary challenges calling for united solutions from the haptics community. Drawn from an open solicitation, two CCCs will be selected. These will feature keynote talks and interactive discussions delivered by researchers spanning a range of expertise, from science, engineering, design, and beyond.
 
 ![](/img/ccc-thumb.jpg)
@@ -47,12 +56,6 @@ Each CCC will have a program that spans multiple sub-activities, for instance, (
 **Individual Submission Instructions:** CCC calls for individual submissions are now open. The selected CCCs will feature interactive sessions that individuals can apply to join. This may include submitting a poster or demonstration, as indicated on the CCC’s call. Submissions may be led by a researcher with support from other researchers from their team. 
 
 Note that while CCC organizers may want to encourage particular individuals to submit, the selection of contributors within a CCC will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action. Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.
-
-Please see the description of the CCCs for more details:
-* *[Frontiers of Softness in Science and Engineering](./frontiers-of-softness/)*
-* *[Haptics for impact: consumer value, ethics, diversity](./haptics-for-impact/)*
-
-**Interactive discussions:** Selected CCCs will feature interactive sessions that individuals can apply to join. This might include submitting a poster, joining for a panel discussion, and more. These details will be featured on the CCC’s call. Submissions that center around a poster and/or videos may be led by a researcher with support from other researchers from their team.
 
 ## Complete timeline
 

@@ -4,7 +4,7 @@ description: "Haptics is a rapidly growing field with many new devices, software
 weight: 2
 ---
 # Cross-Cutting Challenge 
-Haptics for impact: consumer value, ethics, diversity
+Haptics for Impact: Consumer Value, Ethics, Diversity
 
 ## Organizers
 
