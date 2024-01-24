@@ -19,7 +19,7 @@ Please read the following **before** you begin the registration process:
 ## Conference Registration includes:
 
 * Attendance at all Haptics Symposium activities, including cross-cutting challenges, podium presentations, poster presentations, hands-on demonstrations, and exhibits.
-* Access to various mentoring activities such as resume database, WIP mentoring, and early investigator lunch. Sign up for these activities on the [mentoring page](https://2024.hapticssymposium.org/attending/mentoring/)
+* Access to various mentoring activities such as resume database, WIP mentoring, and early investigator lunch. Sign up for these activities on the [mentoring page](../mentoring/)
 * The electronic conference program and proceedings.
 * Wireless internet access for the duration of the conference.
 * Coffee breaks and lunch on all four days of the conference.
@@ -30,7 +30,7 @@ Please read the following **before** you begin the registration process:
 
 * Attendance at a single day of the conference (April 7, 8, 9, or 10). You will need to specify which day you choose to attend prior to your arrival.
 * One-day registration includes participation in the evening event (i.e., opening reception, or WIP poster session, etc.) taking place on your chosen day. Due to the high cost of attendance, registration on April 9 does not include a banquet ticket. Anyone purchasing a one-day registration is welcome to purchase a banquet ticket(s), regardless of the day of attendance. There is no evening event on the last day of the conference.
-* Access to various mentoring activities such as resume database, WIP mentoring, and early investigator lunch. Sign up for these activities on the [mentoring page](https://2024.hapticssymposium.org/attending/mentoring/)
+* Access to various mentoring activities such as resume database, WIP mentoring, and early investigator lunch. Sign up for these activities on the [mentoring page](../mentoring/)
 * The electronic conference program and proceedings.
 * Wireless internet access for the day you attend.
 * Coffee breaks and lunch for the day of attendance.
