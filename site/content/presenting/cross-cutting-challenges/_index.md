@@ -1,10 +1,11 @@
 ---
 title: Cross-Cutting Challenges
-deadline: 'Theme Proposals: Wednesday, October 25, 2023 (extended)'
+deadline: 'Individual Contributions: Friday, February 9, 2024'
 description: >-
   Following their successful launch in 2018, Cross-Cutting Challenges (CCC) will be held again at the 2024 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
 layout: "single"
+weight: 4
 ---
 # Cross-Cutting Challenges
 
@@ -55,7 +56,7 @@ Each CCC will have a program that spans multiple sub-activities, for instance, (
 
 **Individual Submission Instructions:** CCC calls for individual submissions are now open. The selected CCCs will feature interactive sessions that individuals can apply to join. This may include submitting a poster or demonstration, as indicated on the CCC’s call. Submissions may be led by a researcher with support from other researchers from their team. 
 
-Note that while CCC organizers may want to encourage particular individuals to submit, the selection of contributors within a CCC will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action. Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.
+Note that while CCC organizers may want to encourage particular individuals to submit, the selection of contributors within a CCC will ultimately be based on finding a representative and coherent cohort of presenters that together create a powerful narrative and inspiring call to action. ~~Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.~~ While faculty members and industry researchers are encouraged to present a summary of their work related to a CCC’s theme, individual contributions from students and researchers will also be accepted.
 
 ## Complete timeline
 
