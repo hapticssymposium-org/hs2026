@@ -1,6 +1,6 @@
 ---
 title: Hands-On Demonstrations
-deadline: 'January 31, 2024'
+deadline: 'February 7, 2024'
 description: >-
   Haptics Symposium strongly encourages demonstrations of all kinds - for
   example, of novel developments in haptics-related devices, software or
@@ -12,7 +12,7 @@ description: >-
   must be free of commercial content; companies wishing to showcase products
   should apply for exhibitor status.
 image: ''
-weight: 2
+weight: 1
 ---
 # Hands-on Demonstrations
 Haptics Symposium strongly encourages demonstrations of all kinds - for example, of novel developments in haptics-related devices, software or experiments that are of interest to the conference audience.
@@ -25,7 +25,7 @@ Submission of hands-on demonstrations is open to all members of the haptics rese
 ## Timeline
 
 * December 2023 – Demo submissions open
-* January 31 (11:59pm PST), 2024 – Demo submission deadline
+* ~~January 31~~ February 7, 2024 (11:59pm PST), 2024 – Demo submission deadline (Extended)
 * February 16, 2024 – Demo acceptance notification
 
 ## Submission Method

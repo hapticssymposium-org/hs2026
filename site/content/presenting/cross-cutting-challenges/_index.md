@@ -5,7 +5,7 @@ description: >-
   Following their successful launch in 2018, Cross-Cutting Challenges (CCC) will be held again at the 2024 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
 layout: "single"
-weight: 4
+weight: 2
 ---
 # Cross-Cutting Challenges
 
