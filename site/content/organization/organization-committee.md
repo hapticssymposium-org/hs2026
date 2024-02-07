@@ -77,7 +77,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 ## Demonstrations and Exhibits Chairs
 
-[demos@hapticssymposium.or](mailto:demos@hapticssymposium.org)
+[demos@hapticssymposium.org](mailto:demos@hapticssymposium.org)
 
 * Ad Spiers, Imperial College London
 * Cara Nunez, Cornell University
