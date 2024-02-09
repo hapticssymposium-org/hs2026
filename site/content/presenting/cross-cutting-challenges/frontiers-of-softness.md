@@ -19,4 +19,4 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 
 We seek attendee contributions to be presented as a poster or demonstration in an interactive session. To submit a poster or demo proposal, please send a title and 500 word abstract discussing how your work in haptics links to the theme of this cross-cutting challenge. We especially invite submissions from people with disciplinary backgrounds underrepresented in the haptics community. ~~Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.~~
 
-Please submit your proposal by **February 9, 2024** by emailing the organizers ([okamotos@tmu.ac.jp](mailto:okamotos@tmu.ac.jp), [gg7h@virginia.edu](mailto:gg7h@virginia.edu)).
+Please submit your proposal by ~~February 9, 2024~~**February 16, 2024 (extended)** by emailing the organizers ([okamotos@tmu.ac.jp](mailto:okamotos@tmu.ac.jp), [gg7h@virginia.edu](mailto:gg7h@virginia.edu)).
