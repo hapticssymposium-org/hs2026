@@ -1,6 +1,6 @@
 ---
 title: Cross-Cutting Challenges
-deadline: 'Individual Contributions: Friday, February 9, 2024'
+deadline: 'Individual Contributions: Friday, February 16, 2024'
 description: >-
   Following their successful launch in 2018, Cross-Cutting Challenges (CCC) will be held again at the 2024 Haptics Symposium.
 image: /img/slide-image-5-crop.jpg
