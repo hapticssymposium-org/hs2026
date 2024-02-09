@@ -52,7 +52,7 @@ Each CCC will have a program that spans multiple sub-activities, for instance, (
 
 ## Open Call for Individual Contributions
 
-**February 16, 2024 (extended)** - Individual submission deadline
+~~February 9, 2024~~**February 16, 2024 (extended)** - Individual submission deadline
 
 **Individual Submission Instructions:** CCC calls for individual submissions are now open. The selected CCCs will feature interactive sessions that individuals can apply to join. This may include submitting a poster or demonstration, as indicated on the CCC’s call. Submissions may be led by a researcher with support from other researchers from their team. 
 
@@ -64,7 +64,7 @@ Note that while CCC organizers may want to encourage particular individuals to s
 1. ~~**Notifications (organizers):** Selected proposals are notified.~~
 1. ~~Selected CCCs prepare their open call, to appear in the Haptics Symposium website.~~
 1. ~~Selected CCCs calls are opened (e.g., for speakers or other presenters).~~
-1. **Individual contribution deadline (individual contributors):** Speakers and other presenters submit their proposal to partake in a selected  CCCs by **February 16, 2024 (extended)**.
+1. **Individual contribution deadline (individual contributors):** Speakers and other presenters submit their proposal to partake in a selected  CCCs by ~~February 9, 2024~~**February 16, 2024 (extended)**.
 1. Organizers finalize their CCC's program.
 1. Speakers & participants are notified.
 1. **Finalized CCC program deadline:** Selected CCC programs are featured on the Haptics Symposium website by **February 2024**.
