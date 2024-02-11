@@ -22,7 +22,7 @@ Please read the following **before** you begin the registration process:
 * Access to various mentoring activities such as resume database, WIP mentoring, and early investigator lunch. Sign up for these activities on the [mentoring page](../mentoring/)
 * The electronic conference program and proceedings.
 * Wireless internet access for the duration of the conference.
-* Coffee breaks ~~and lunch~~ on all four days of the conference.
+* Coffee breaks and lunch on all four days of the conference.
 * Welcome reception on Sunday, April 7, 2024.
 * One ticket for the banquet on Tuesday, April 9, 2024.  If available, additional banquet tickets may be offered for purchase during registration.
 
@@ -33,7 +33,7 @@ Please read the following **before** you begin the registration process:
 * Access to various mentoring activities such as resume database, WIP mentoring, and early investigator lunch. Sign up for these activities on the [mentoring page](../mentoring/)
 * The electronic conference program and proceedings.
 * Wireless internet access for the day you attend.
-* Coffee breaks ~~and lunch~~ for the day of attendance.
+* Coffee breaks and lunch for the day of attendance.
 
 ## Registration Changes
 
