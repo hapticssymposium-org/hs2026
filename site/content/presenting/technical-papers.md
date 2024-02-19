@@ -54,7 +54,8 @@ All technical papers (with optional videos) should be submitted using [PaperPlaz
 
 ## **Presentation and Publication**
 
-All accepted technical papers will be presented orally in a podium presentation, either in a dual-track regular session or in a single-track featured session.
+All accepted technical papers will be presented in-person orally in a podium presentation, either in a dual-track regular session or in a single-track featured session. At least one author must register for the conference by the Early Bird registration deadline (February 23, 2024) and make plans to attend the conference. Papers will not be allowed to be presented virtually.
+
 
 All accepted papers will be included in the electronically distributed conference proceedings and also published in IEEE Xplore.
 

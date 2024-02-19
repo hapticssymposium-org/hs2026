@@ -24,13 +24,7 @@ Authors can submit their 6-page paper via the [Transactions on Haptics website](
 
 Authors choosing not to submit via the new journal track may still submit their papers directly to the conference. Such papers will be reviewed following the established conference technical paper review procedure. Accepted conference technical papers will be published in the conference proceedings and IEEE Xplore.
 
-One author of each accepted paper will deliver a talk at the conference and answer questions in any remaining time from the duration that is allotted. Further details will be provided at a later time.
-
-All accepted Transaction on Haptics Short Papers will appear in the Haptics Symposium proceedings, which will be distributed at the conference.
-
 ## Final Submission
-
-All accepted Transaction on Haptics Short Papers will appear in this year’s Haptics Symposium proceedings, which will be distributed at the conference.
 
 We will be using the Conference Paper Management System of the Robotics and Automation Society (PaperPlaza) for the creation of the electronic conference program. The authors of accepted ToH Short Papers will use the [PaperPlaza system](https://ras.papercept.net/) to provide information about their paper for inclusion in the conference proceedings. We have provided details below on how to submit your accepted ToH Short Paper content to PaperPlaza.
 
@@ -42,6 +36,14 @@ We will be using the Conference Paper Management System of the Robotics and Auto
 The PDF of the ToH Short Paper and optional supplemental video are not required at this time. These files will be obtained directly from the IEEE Transactions on Haptics for inclusion in the conference proceedings.
 
 Specific questions regarding PaperPlaza should be sent to [ras.101@papercept.net](mailto:ras.101@papercept.net). General questions about the final submission of ToH Short Papers for the conference proceedings should be sent to the Publications Chair at [publications@hapticssymposium.org](mailto:publications@hapticssymposium.org). Other general questions related to conference programming should be sent to the Program Chair at [program@hapticssymposium.org](mailto:program@hapticssymposium.org) or the General Co-chairs at [chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org).
+
+## Presentation and Publication
+
+All accepted ToH Short Papers will be presented in-person orally in a podium presentation, either in a dual-track regular session or in a single-track featured session. At least one author must register for the conference by the Early Bird registration deadline (February 23, 2024) and make plans to attend the conference. Papers will not be allowed to be presented virtually.
+
+All accepted papers will be included in the electronically distributed conference proceedings and also published in IEEE Xplore.
+
+Paper copyright will be transferred to the IEEE as part of the publication process.
 
 ## **Videos**
 
