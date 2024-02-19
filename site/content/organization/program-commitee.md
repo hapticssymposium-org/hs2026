@@ -74,6 +74,9 @@ The Conference Editorial Board ([editors@hapticssymposium.org](mailto:editors@ha
 * Ahmed Farooq, _Tampere University_
 * Elyse Chase, _Rice University_
 * Merel Jung, _Tilburg University_
+* Hyunjae Gil, _University of Texas at Dallas_
+* Ned Barker, _University College London_
+
 
 <!--
 ![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
