@@ -3,7 +3,7 @@ title: IEEE Transactions on Haptics Posters
 deadline: January 31, 2024
 description: >-
   Authors of articles recently published in the IEEE Transactions on Haptics (ToH) are invited to present their work during a joint poster session, featuring recent ToH and Work-In-Progress (WIP) publications. The poster session is planned as a single-track session, scheduled for the second day of the conference, and will not be held in parallel with any podium or demonstration sessions. This is a great opportunity for journal authors to engage with other scientists and reach a larger audience. 
-weight: 5
+weight: 4
 ---
 # IEEE Transactions on Haptics Posters
 Authors of articles recently published in the IEEE Transactions on Haptics (ToH) are invited to present their work during a joint poster session, featuring recent ToH and Work-In-Progress (WIP) publications. The poster session is planned as a single-track session, scheduled for the second day of the conference, and will not be held in parallel with any podium or demonstration sessions. This is a great opportunity for journal authors to engage with other scientists and reach a larger audience. 
