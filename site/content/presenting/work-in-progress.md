@@ -38,7 +38,7 @@ Submitted papers will be reviewed in single-blind manner. Author names and affil
 
 ### Accessibility and Inclusion
 
-We strongly encourage authors to prepare an accessible manuscript for all submissions, as reviewers may have accessibility needs. We also encourage authors to use inclusive language. Details will be posted on the website.
+We strongly encourage authors to prepare an accessible manuscript for all submissions, as reviewers may have accessibility needs. We also encourage authors to use inclusive language. See [Accessibility](../accessibility).
 
 ### Submission Method
 
@@ -51,7 +51,7 @@ Authors retain the full copyright of WIP papers so that they can submit a more m
 
 ### Videos
 
-See [Supplemental Videos](/presenting/work-in-progress#supplemental-videos)
+See [Supplemental Videos](/presenting/work-in-progress/#supplemental-videos)
 
 
 ### Final Submission
