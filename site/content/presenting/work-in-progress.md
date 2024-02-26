@@ -51,7 +51,7 @@ Authors retain the full copyright of WIP papers so that they can submit a more m
 
 ### Videos
 
-See [Supplemental Videos](/work-in-progress#supplemental-videos)
+See [Supplemental Videos](/presenting/work-in-progress#supplemental-videos)
 
 
 ### Final Submission
