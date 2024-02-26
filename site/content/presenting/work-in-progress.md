@@ -9,14 +9,14 @@ weight: 3
 
 Work-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
 
-## Preparing your Submission
-
-### Important Dates
+## Important Dates
 
 * January 31, 2024 (11:59 pm PST): WIP paper submission deadline
 * February 16, 2024: WIP acceptance notification
 * March 1, 2024 (11:59 pm PST): WIP final paper submission
 * March 18, 2024 (11:59 pm PST): 30sec preview video submission
+
+## Preparing your Submission
 
 ### Paper Format
 
@@ -51,15 +51,8 @@ Authors retain the full copyright of WIP papers so that they can submit a more m
 
 ### Videos
 
-Submission of a video is optional but encouraged to help readers understand the WIP paper.
+See [Supplemental Videos](/work-in-progress#supplemental-videos)
 
-Uploaded videos will be reviewed along with the paper.
-
-Videos associated with accepted WIP papers will be included in the electronically distributed conference proceedings and may be used to promote the conference.
-
-Guidelines: format (mpeg 4, .mp4), length (up to 60 seconds), resolution (at least 480p progressive scan), and file size (up to 40 MB).
-
-We strongly encourage authors to follow video accessibility guidelines for their submission, especially, having captioning and voice-over. Details will be posted on the website.
 
 ### Final Submission
 
@@ -68,12 +61,6 @@ All accepted WIP Papers will appear in this year’s Haptics Symposium proceedin
 ## Presenting at the Conference
 
 Work-in-Progress papers will be presented through a poster and an optional  preview video submitted before the conference. WIP authors may also optionally opt-in to a new mentorship program (see below).
-
-### WIP Preview Videos
-
-Authors have the option to submit a 30 second preview video in advance of the conference. This video will be posted at our [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/@ieeehapticssymposium8182) for viewers to watch in advance of the conference. 
-
-The WIP preview video should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
 
 ### WIP Posters
 
@@ -91,3 +78,66 @@ To provide additional mentoring to authors of Work-in-Progress papers, we create
   * [https://forms.gle/9xW8kgjeedQQmpUq9](https://forms.gle/9xW8kgjeedQQmpUq9) 
 * If you are a faculty member, industry professional, or postdoctoral scholar, you can sign up to offer mentorship to a WIP author. The commitment for mentoring a WIP author would include reading their WIP paper, stopping by their poster, and having a 10-15 min conversation about their work and career. To sign up as a mentor, please fill out the form below:
   * [https://forms.gle/xiwQjMBz33uvZckX8](https://forms.gle/xiwQjMBz33uvZckX8)
+
+## Videos
+
+Authors of accepted Work-in-Progress Papers are strongly encouraged to submit each of two types of video: (1) Supplemental Videos (providing information beyond what is included in the paper) and a (2) 30-second Preview Video, to be shared on social media. Submissions are optional, but strongly encouraged as a means of highlighting the paper to interested researchers, including those who may not attend the conference.
+
+
+### Supplemental Videos
+
+Submission of a video is optional but encouraged to help readers understand the WIP paper. Uploaded videos will be reviewed along with the paper. Videos associated with accepted WIP papers will be included in the electronically distributed conference proceedings and may be used to promote the conference.
+
+#### Supplemental Videos Guidelines
+
+* Format: .mp4 (mpeg-4))
+* Length: up to 60 seconds
+* Resolution: at least 480p (progressive scan)
+* File size: up to 40 MB
+* Address the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video-accessibility))
+
+### Preview Videos
+
+Authors of accepted papers are invited to submit an optional 30-second preview video summarizing their contribution. The video will significantly increase the visibility of the research to the haptics community and beyond. The 30-second preview videos will be disseminated via social media, including the [IEEE Haptics Symposium YouTube channel](https://www.youtube.com/channel/UC1YjMwrg8Hk6uAtyWb62yAw) and may be used to promote the conference. These preview videos will not be published in IEEE Xplore. Preview videos provide symposium attendees with a chance to browse papers in advance.
+
+The WIP preview video should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
+
+#### Preview Videos Guidelines
+
+First, authors must prepare: (1) a video file; (2) a closed caption file; and (3) metadata for YouTube. Then, authors must complete [this form](https://forms.gle/9FjQ1k1jNYqXzRt76) where they will be requested to upload their files and enter their metadata.
+
+The preview video deadline is **March 18, 2024**. 
+
+**1. Prepare a Video File**
+
+* Screen and audio configuration
+    * Recommended: full-screen slides/video clips, with optional picture-in-picture or side-by-side video of the presenter
+    * Acceptable Alternative: full-screen slides/video clips with audio of the presenter
+    *	Use a high-quality microphone for the recording. Most headset microphones work well. Avoid using the microphone that is integrated in your computer.
+*	Video specifications
+    *	Length: Up to 30 seconds
+    *	Resolution: At least 720p and 30 fps (preferably 1080p or more, and 60 fps)
+    * Use [YouTube supported file formats](https://support.google.com/youtube/troubleshooter/2888402?hl=en)
+    * Adhere to the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video-accessibility)) 
+
+**2. Prepare a Closed Caption File**
+
+See [Video Accessibility](../accessibility/#closed-caption).
+
+**3. Submission**
+
+To complete your submission, upload the video file and closed caption file, and enter the metadata on [this form](https://forms.gle/9FjQ1k1jNYqXzRt76). The instructions for metadata are as follows.
+* Video title text
+  * [LastNameOfFirstAuthor et al.], [ShortenedPaperTitle], IEEE Haptics Symposium 2024
+  * For example:\
+    Smith et al., Vibrotactile Massage in Virtual Reality, IEEE Haptics Symposium 2024
+* Video description
+  * [AuthorName1], [AuthorName2], … , [FullPaperTitle], Proceedings of IEEE Haptics Symposium 2024\
+    [Abstract Text as Published in Paper]\
+    #haptics #haptics2024\
+    https://www.hapticssymposium.org/
+  * For example:\
+    K. Smith, B. Nelson, T. Xu, Vibrotactile Massage Methods in Virtual Reality, Proceedings of IEEE Haptics Symposium 2024\
+    Abstract: Many researchers have sought to introduce vibrotactile massage methods in virtual reality. However, prior approaches have proved inadequate. Here, we show …\
+    #haptics #haptics2024 #vibrotactile #virtualmassage\
+    https://www.hapticssymposium.org/
