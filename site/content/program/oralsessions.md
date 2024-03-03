@@ -3,7 +3,7 @@ title: Oral Sessions
 weight: 2
 ---
 
-# (Tentative) Oral Sessions
+# Oral Sessions
 
 ## Session 1
 **Perception and Psychophysics** *- Salon de Reyes*  
