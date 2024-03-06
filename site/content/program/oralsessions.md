@@ -5,6 +5,8 @@ weight: 2
 
 # Oral Sessions
 
+{{<programLastUpdate>}}
+
 ## Session 1
 **Perception and Psychophysics** *- Salon de Reyes*  
 Monday, April 8, 9:00 - 10:30 a.m.  
