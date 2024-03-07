@@ -45,7 +45,7 @@ All accepted papers will be included in the electronically distributed conferenc
 
 Paper copyright will be transferred to the IEEE as part of the publication process.
 
-## **Videos**
+## Videos
 
 Authors of accepted ToH Short Papers are strongly encouraged to submit each of two types of video: (1) Supplemental Videos (providing information beyond what is included in the paper) and a (2) 30-second Preview Video, to be shared on social media. Submissions are optional, but strongly encouraged as a means of highlighting the paper to interested researchers, including those who may not attend the conference.
 
@@ -109,7 +109,7 @@ To complete your submission, upload the video file and closed caption file, and 
 
 - - -
 
-**Frequently Asked Questions (FAQ)** 
+## Frequently Asked Questions (FAQ)
 
 _**What is the submission deadline?**_
 
@@ -140,3 +140,13 @@ All papers that are rejected by the journal after the first or second round of r
 _**Will it be possible for me to submit an extended version of my paper to the IEEE Transactions on Haptics at a later date?**_
 
 Short papers that are accepted by the journal will be published in the journal. It will therefore be impossible to publish an extended version of the work in the journal in the future.
+
+## Presentation Instructions
+
+Each ToH short paper will be presented by one author in a twelve-minute talk, followed by a two-minute Q&A session. We will strictly adhere to this schedule, with fifteen minutes allocated for each talk, including one minute for presenter changes.
+
+All presentations will be delivered from the presenter's own computer to ensure the correct appearance of the slides. An HDMI connection will be available. Although HDMI adapters will be provided on-site, presenters are encouraged to bring their own adapters that work for their computers.
+
+Authors can determine their presentation room and time from the detailed conference program  (We ask that authors check the schedule again once the conference has begun to ensure they have the most up-to-date information).
+
+Before their session, presenters are advised to test the connection with the conference projection system, ensuring all videos play correctly on the screen. Our on-site technician will be able to assist you with any issues.
