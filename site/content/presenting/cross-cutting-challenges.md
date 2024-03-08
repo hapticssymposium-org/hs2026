@@ -12,8 +12,8 @@ weight: 6
 ## 2024's Cross Cutting Challenges
 
 Please see the description of the CCCs for more details:
-* *[Frontiers of Softness in Science and Engineering](./frontiers-of-softness/)*
-* *[Haptics for Impact: Consumer Value, Ethics, Diversity](./haptics-for-impact/)*
+* *[Frontiers of Softness in Science and Engineering](../../program/ccc1)*
+* *[Haptics for Impact: Consumer Value, Ethics, Diversity](../../program/ccc2)*
 
 
 ## Information about the Cross Cutting  Challenges Track
