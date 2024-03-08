@@ -44,12 +44,12 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 {{<cccPresenter imFile="/img/hs2024_CCC-Vardar.jpg" name="Yasemin Vardar" affiliation="Delft Univresity of Technology" title="The Role of Softness in Material Perception and Rendering Material Softness in Digital Environments">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Kajimoto.jpg" name="Hiroyuki Kajimoto" affiliation="University Electro-communication" title="Softness Presentation by Electro-Tactile Stimulation and Force Feedback">}}
-{{<cccPresenter imFile="" name="Masahi Konyo" affiliation="Tohoku University" title="">}}
+{{<cccPresenter imFile="/img/hs-logo.png" name="Masahi Konyo" affiliation="Tohoku University" title="">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Brown.jpg" name="Joshua Brown" affiliation="Imperial College London" title="Using Particle Jamming to Create Soft Haptic Interfaces for Medical Simulation">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Jeon.jpg" name="Seokhee Jeon" affiliation="Kyung Hee University" title="Realistic Haptic Rendering of Softness: Realtime FEM Simulation of Hyper-Elastic Deformation and Soft Actuators for Stiffness Display">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Bianchi.jpg" name="Matteo Bianchi" affiliation="University of Pisa" title="Human-Inspired Softness Perception for Artificial Tactile Sensing and Tactile Augmented Reality">}}
-{{<cccPresenter imFile="" name="Karon Maclean" affiliation="University of British Columbia" title="The Role of Softness in Touchable Comfort Objects, from a Diversity of Toucher Perspectives">}}
+{{<cccPresenter imFile="/img/hs-logo.png" name="Karon Maclean" affiliation="University of British Columbia" title="The Role of Softness in Touchable Comfort Objects, from a Diversity of Toucher Perspectives">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Devecioglu.png" name="Ismail Devecioglu" affiliation="UNSW & Tekirdag Namık Kemal University" title="The Passive Mechanical Behavior of Human Fingertip Soft Tissue Can Alter Manipulative Force Balance Depending on Friction Level at the Skin-Object Interface">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jones.png" name="Lynette Jones" affiliation="MIT" title="Perceiving Wetness: A Synthesized Experience">}}
