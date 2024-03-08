@@ -2,7 +2,6 @@
 title: "CCC| Haptics for Impact: Consumer Value, Ethics, Diversity"
 description: "Haptics is a rapidly growing field with many new devices, software technologies, and psychological insights. ..."
 weight: 3
-draft: true
 ---
 # Cross-Cutting Challenge| Haptics for Impact: Consumer Value, Ethics, Diversity
 Sunday, April 7, 2:00 p.m. - 5:30 p.m.
