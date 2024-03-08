@@ -2,8 +2,10 @@
 title: "CCC| Haptics for Impact: Consumer Value, Ethics, Diversity"
 description: "Haptics is a rapidly growing field with many new devices, software technologies, and psychological insights. ..."
 weight: 3
+draft: true
 ---
 # Cross-Cutting Challenge| Haptics for Impact: Consumer Value, Ethics, Diversity
+Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 
 ## Organizers
 
@@ -25,7 +27,15 @@ We propose to **bring the haptics community together with business and humanitie
 
 The challenge will involve three invited speakers on our three themes (consumer value, ethics, diversity), and then include an interactive poster session for attendees from different backgrounds to connect and discuss the challenge. We will conclude with reflection from the organizers on how to continue work on this challenge after the workshop.
 
-## Call for individual contributions
+## Keynote Talks
+
+2:00 p.m. - 4:15 p.m. - *Salon de Reyes*
+
+## Interactive Posters
+
+4:15 p.m. - 5:30 p.m. - *Miramar*
+
+## (CLOSED) Call for individual contributions
 
 We seek attendee contributions to be presented as a **poster in an interactive session**. To submit a poster proposal, please send a title and 500 word abstract discussing how your work in haptics links to the three main themes: consumer value, ethics, diversity. We especially invite submissions from people with disciplinary backgrounds underrepresented in the haptics community, including **business, social sciences, humanities, and liberal and fine arts**. Engineers and scientists are also very welcome to present their work by linking it to the challenge themes. ~~Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.~~
 
