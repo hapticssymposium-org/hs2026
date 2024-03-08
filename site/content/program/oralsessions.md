@@ -29,7 +29,7 @@ Reliability of Smartphone-based Vibration Threshold Measurements
   * Rachel A. G. Adenekan, Kyle Yoshida, Anis Benyoucef, Alejandrina Gonzalez Reyes, Adeyinka E Adenekan, Allison M. Okamura, Cara M. Nunez
 
 ## Session 2A
-**Human Performance and Biomechanica**  *- Salon de Reyes*  
+**Human Performance and Biomechanics**  *- Salon de Reyes*  
 Monday, April 8, 11:00 a.m. - 12:30 p.m.  
 Session Chairs:
 
