@@ -5,6 +5,6 @@ weight: 1
 
 # Program Overview
 
-{{<programLastUpdate>}}
+{{<simpleLastUpdate date="March 8, 2024">}}
 
 {{<programOverview>}}

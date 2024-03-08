@@ -1,11 +1,11 @@
 ---
 title: Oral Sessions
-weight: 2
+weight: 4
 ---
 
 # Oral Sessions
 
-{{<programLastUpdate>}}
+{{<simpleLastUpdate date="March 8, 2024">}}
 
 ## Session 1
 **Perception and Psychophysics** *- Salon de Reyes*  
