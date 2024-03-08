@@ -147,6 +147,6 @@ Each ToH short paper will be presented by one author in a twelve-minute talk, fo
 
 All presentations will be delivered from the presenter's own computer to ensure the correct appearance of the slides. An HDMI connection will be available. Although HDMI adapters will be provided on-site, presenters are encouraged to bring their own adapters that work for their computers.
 
-Authors can determine their presentation room and time from the detailed conference program  (We ask that authors check the schedule again once the conference has begun to ensure they have the most up-to-date information).
+Authors can determine their presentation room and time from the [detailed conference program](../../program/oralsessions)  (We ask that authors check the schedule again once the conference has begun to ensure they have the most up-to-date information).
 
 Before their session, presenters are advised to test the connection with the conference projection system, ensuring all videos play correctly on the screen. Our on-site technician will be able to assist you with any issues.
