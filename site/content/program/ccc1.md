@@ -1,17 +1,16 @@
 ---
-title: "CCC| Frontiers of Softness in Science and Engineering"
+title: "CCC | Frontiers of Softness in Science and Engineering"
 description: "In summary, the aim of this CCC is deepening understanding of softness perception and widening engineering applications, as well as sharing unsolved problems related to these fields. ..."
 weight: 2
-draft: true
 ---
-# Cross-Cutting Challenge| Frontiers of Softness in Science and Engineering
+# Cross-Cutting Challenge | Frontiers of Softness in Science and Engineering
 Sunday, April 7, 9:00 a.m. - 12:30 p.m.
 
 ## Organizers
 
 {{<organizerFlex>}}
   {{<cccOrganizer imFile="/img/hs2024_CCC-Okamoto.jpg" imWidth="100%" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University">}}
-  {{<cccOrganizer imFile="/img/hs2024_CCC-Gerling.jpg" imWidth="100%" name="Gregory J. Gerling" affiliation="The University of Virginia">}}
+  {{<cccOrganizer imFile="/img/hs2024_CCC-Gerling.jpg" imWidth="100%" name="Gregory J. Gerling" affiliation="University of Virginia">}}
 {{</organizerFlex>}}
 {{<simpleLineBreak>}}
 
@@ -25,7 +24,7 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 9:00 a.m. - 11:15 a.m. - *Salon de Reyes*
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Gerling.jpg" name="Gregory Gerling" affiliation="University of Virginia" title="Deciphering Physical Cues and Dimensions that Underlie Our Tactile Sense of Compliance">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Okamura.jpg" name="Allson Okamura" affiliation="Stanford University" title="Mechanisms for Distributed Softness Wearable Haptics">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Okamura.jpg" name="Allison Okamura" affiliation="Stanford University" title="Mechanisms for Distributed Softness Wearable Haptics">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Carpi.jpg" name="Federico Carpi" affiliation="University of Florence" title="Wearable Pneumatic Tactile Display of Softness for Virtual Reality">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Birznieks.jpg" name="Ingvars Birznieks" affiliation="UNSW Sydney" title="Soft Touch Helps Movement">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Okamoto.jpg" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University" title="Softness Illusion to Re-Think the Perceptual Mechanisms">}}
@@ -36,7 +35,7 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 11:15 a.m. - 12:30 p.m. - *Miramar*
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Gerling.jpg" name="Gregory Gerling" affiliation="University of Virginia" title="Deciphering Physical Cues and Dimensions that Underlie Our Tactile Sense of Compliance">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Okamura.jpg" name="Allson Okamura" affiliation="Stanford University" title="Mechanisms for Distributed Softness Wearable Haptics">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Okamura.jpg" name="Allison Okamura" affiliation="Stanford University" title="Mechanisms for Distributed Softness Wearable Haptics">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Okamoto.jpg" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University" title="Softness illusion to re-think the perceptual mechanisms">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Dhong.jpg" name="Charles Dhong" affiliation="University of Delaware" title="The Role of Indentation Depth and Contact Area on the Perception of Softness">}}
@@ -53,8 +52,6 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Devecioglu.png" name="Ismail Devecioglu" affiliation="UNSW & Tekirdag Namık Kemal University" title="The Passive Mechanical Behavior of Human Fingertip Soft Tissue Can Alter Manipulative Force Balance Depending on Friction Level at the Skin-Object Interface">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jones.png" name="Lynette Jones" affiliation="MIT" title="Perceiving Wetness: A Synthesized Experience">}}
-
-
 
 ## (CLOSED) Call for individual contributions
 
