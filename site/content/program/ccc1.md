@@ -1,6 +1,5 @@
 ---
 title: "CCC | Frontiers of Softness in Science and Engineering"
-description: "In summary, the aim of this CCC is deepening understanding of softness perception and widening engineering applications, as well as sharing unsolved problems related to these fields. ..."
 weight: 2
 ---
 # Cross-Cutting Challenge | Frontiers of Softness in Science and Engineering
