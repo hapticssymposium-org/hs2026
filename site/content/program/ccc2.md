@@ -1,5 +1,6 @@
 ---
 title: "CCC | Haptics for Impact: Consumer Value, Ethics, Diversity"
+description: "Haptics is a rapidly growing field with many new devices, software technologies, and psychological insights. ..."
 weight: 3
 draft: true
 ---
