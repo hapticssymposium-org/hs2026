@@ -42,7 +42,18 @@ The Haptics Symposium would like to sincerely thank the following organizations 
     {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="14%">}}
     {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="24%">}}
 {{</sponsorFlexContainer>}}
-
+{{<sponsorFlexContainer contentJustification="center">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Platinum.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Gold.jpg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Bronze.svg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-WIP.jpg" imWidth="100%" containerWidth="14%">}}
+{{</sponsorFlexContainer>}}
+{{<sponsorFlexContainer contentJustification="center">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Exhibitor.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award1.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award2.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award3.png" imWidth="100%" containerWidth="14%">}}
+{{</sponsorFlexContainer>}}
 
 {{<simpleLineBreak>}}
 
