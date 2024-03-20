@@ -17,7 +17,7 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 {{<simpleLineBreak>}}
 
-### Platinum Sponsors
+### Platinum Sponsor
 {{<sponsorFlexContainer contentJustification="left">}}
     {{<sponsorLogo imFile="/img/hs2024_Sponsor-Platinum.png" imWidth="100%" containerWidth="20%">}}
 {{</sponsorFlexContainer>}}
