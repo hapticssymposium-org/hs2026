@@ -9,7 +9,7 @@ Sunday, April 7, 9:00 a.m. - 12:30 p.m.
 
 {{<organizerFlex>}}
   {{<cccOrganizer imFile="/img/hs2024_CCC-Okamoto.jpg" imWidth="100%" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University">}}
-  {{<cccOrganizer imFile="/img/hs2024_CCC-Gerling.jpg" imWidth="100%" name="Gregory J. Gerling" affiliation="University of Virginia">}}
+  {{<cccOrganizer imFile="/img/hs2024_CCC-Gerling.jpg" imWidth="100%" name="Gregory Gerling" affiliation="University of Virginia">}}
 {{</organizerFlex>}}
 {{<simpleLineBreak>}}
 
@@ -35,20 +35,21 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Gerling.jpg" name="Gregory Gerling" affiliation="University of Virginia" title="Deciphering Physical Cues and Dimensions that Underlie Our Tactile Sense of Compliance">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Okamura.jpg" name="Allison Okamura" affiliation="Stanford University" title="Mechanisms for Distributed Softness Wearable Haptics">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Okamoto.jpg" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University" title="Softness illusion to re-think the perceptual mechanisms">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Carpi.jpg" name="Federico Carpi" affiliation="University of Florence" title="Wearable Pneumatic Tactile Display of Softness for Virtual Reality">}}
 
+{{<cccPresenter imFile="/img/hs2024_CCC-Okamoto.jpg" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University" title="Softness illusion to re-think the perceptual mechanisms">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Dhong.jpg" name="Charles Dhong" affiliation="University of Delaware" title="The Role of Indentation Depth and Contact Area on the Perception of Softness">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Kyung.jpg" name="Ki-Uk Kyung" affiliation="KAIST" title="Enhancing Soft Actuators Sufficiently to Deliver Effective Haptic Stimuli">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Vardar.jpg" name="Yasemin Vardar" affiliation="Delft Univresity of Technology" title="The Role of Softness in Material Perception and Rendering Material Softness in Digital Environments">}}
 
+{{<cccPresenter imFile="/img/hs2024_CCC-Vardar.jpg" name="Yasemin Vardar" affiliation="Delft Univresity of Technology" title="The Role of Softness in Material Perception and Rendering Material Softness in Digital Environments">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Kajimoto.jpg" name="Hiroyuki Kajimoto" affiliation="University Electro-communication" title="Softness Presentation by Electro-Tactile Stimulation and Force Feedback">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Konyo.jpg" name="Masahi Konyo" affiliation="Tohoku University" title="Representing Softness Based on the Contact Distribution Using a High-Resolution Suction Tactile Display">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Brown.jpg" name="Joshua Brown" affiliation="Imperial College London" title="Using Particle Jamming to Create Soft Haptic Interfaces for Medical Simulation">}}
 
+{{<cccPresenter imFile="/img/hs2024_CCC-Brown.jpg" name="Joshua Brown" affiliation="Imperial College London" title="Using Particle Jamming to Create Soft Haptic Interfaces for Medical Simulation">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jeon.jpg" name="Seokhee Jeon" affiliation="Kyung Hee University" title="Realistic Haptic Rendering of Softness: Realtime FEM Simulation of Hyper-Elastic Deformation and Soft Actuators for Stiffness Display">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Bianchi.jpg" name="Matteo Bianchi" affiliation="University of Pisa" title="Human-Inspired Softness Perception for Artificial Tactile Sensing and Tactile Augmented Reality">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Maclean.jpg" name="Karon Maclean" affiliation="University of British Columbia" title="The Role of Softness in Touchable Comfort Objects, from a Diversity of Toucher Perspectives">}}
 
+{{<cccPresenter imFile="/img/hs2024_CCC-MacleanAndVyas.jpg" name="Karon Maclean and Preeti Vyas" affiliation="University of British Columbia" title="The Role of Softness in Touchable Comfort Objects, from a Diversity of Toucher Perspectives">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Devecioglu.png" name="Ismail Devecioglu" affiliation="UNSW & Tekirdag Namık Kemal University" title="The Passive Mechanical Behavior of Human Fingertip Soft Tissue Can Alter Manipulative Force Balance Depending on Friction Level at the Skin-Object Interface">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jones.png" name="Lynette Jones" affiliation="MIT" title="Perceiving Wetness: A Synthesized Experience">}}
 
