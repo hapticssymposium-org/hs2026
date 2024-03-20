@@ -62,7 +62,7 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 
 ## Sponsorship opportunities
 
-For sponsorship opportunities, please contact the sponsorship chairs: <mailto:sponsorship@hapticssymposium.org>.
+For sponsorship opportunities, please contact the sponsorship chairs: [sponsorship@hapticssymposium.org](mailto:sponsorship@hapticssymposium.org).
 
 <!--
 The sponsorship prospectus can be found here: [HS 2022 Sponsorship Prospectus](/img/IEEEHS2022SponsorshipProspectus.pdf). We hope you will consider joining us in Santa Barbara, California!
