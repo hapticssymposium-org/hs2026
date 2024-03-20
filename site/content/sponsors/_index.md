@@ -2,49 +2,62 @@
 title: Sponsorship
 image: /img/bg12.jpg
 ---
-Coming soon...
-<!--
+## Sponsors
+
 The Haptics Symposium would like to sincerely thank the following organizations for their support:
 
 {{<simpleLineBreak>}}
 
 ### Technical Sponsors
 {{<sponsorFlexContainer contentJustification="left">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical1.jpg" imWidth="100%" containerWidth="20%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="20%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="30%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical1.jpg" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="30%">}}
 {{</sponsorFlexContainer>}}
 
 {{<simpleLineBreak>}}
 
-### Diamond Sponsors
+### Platinum Sponsors
 {{<sponsorFlexContainer contentJustification="left">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond1.png" imWidth="100%" containerWidth="20%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Diamond2.png" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Platinum.png" imWidth="100%" containerWidth="20%">}}
 {{</sponsorFlexContainer>}}
 
 {{<simpleLineBreak>}}
 
 ### Gold Sponsor
 {{<sponsorFlexContainer contentJustification="left">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Gold1.jpg" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Gold.jpg" imWidth="100%" containerWidth="20%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
+
+### Bronze Sponsor
+{{<sponsorFlexContainer contentJustification="left">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Bronze.svg" imWidth="100%" containerWidth="20%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
+
+### Work-in-Progress Session Supporter
+{{<sponsorFlexContainer contentJustification="left">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-WIP.jpg" imWidth="100%" containerWidth="20%">}}
+{{</sponsorFlexContainer>}}
+
+{{<simpleLineBreak>}}
+
+### Exhibitor Supporter
+{{<sponsorFlexContainer contentJustification="left">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Exhibitor.png" imWidth="100%" containerWidth="20%">}}
 {{</sponsorFlexContainer>}}
 
 {{<simpleLineBreak>}}
 
 ### Award Sponsors
 {{<sponsorFlexContainer contentJustification="left">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award1.png" imWidth="100%" containerWidth="20%">}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-Award2.png" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award1.png" imWidth="100%" containerWidth="20%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award2.png" imWidth="100%" containerWidth="20%">}}
 {{</sponsorFlexContainer>}}
 
-{{<simpleLineBreak>}}
-
-### Student Registration Sponsor
-{{<sponsorFlexContainer>}}
-    {{<sponsorLogo imFile="/img/hs2022_Sponsor-SRS1.png" imWidth="100%" containerWidth="20%">}}
-{{</sponsorFlexContainer>}}
--->
 {{<simpleLineBreak>}}
 
 ## Sponsorship opportunities
