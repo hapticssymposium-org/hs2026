@@ -1,7 +1,6 @@
 ---
 title: Hands-on Demonstration Sessions
 weight: 6
-draft: true
 ---
 
 # Hands-on Demonstration Sessions
@@ -80,3 +79,6 @@ Tuesday, April 9, 1:30 p.m. - 3:15 p.m.
 * B14	Endovascular Surgical Skill Training through Real-time Performance-based Haptic Feedback in Virtual Reality
   * Lianne R. Johnson (Rice University), Elyse D. Z. Chase (Rice University), Michael D. Byrne (Rice University), and Marcia K. O’Malley (Rice University)
 
+## Demonstration Layout
+
+![Demonstration layout](/img/hs2024_Demo_layout.png)
