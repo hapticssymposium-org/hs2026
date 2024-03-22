@@ -1,7 +1,6 @@
 ---
 title: IEEE Transactions on Haptics Poster Session
 weight: 6
-draft: true
 ---
 
 # IEEE Transactions on Haptics Poster Session
