@@ -8,7 +8,10 @@ weight: 4
 {{<simpleLastUpdate date="March 21, 2024">}}
 
 ## Session 1
-**Perception and Psychophysics** *- Salon de Reyes*" title="Monday, April 8, 9:00 a.m. - 10:30 a.m.
+**Perception and Psychophysics**  
+Monday, April 8, 9:00 a.m. - 10:30 a.m.  
+*- Salon de Reyes*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Bumps and Dents Are Not Perceptually Opposite When Exploring with Lateral Force Cues" author="Shogo Okamoto">}}
@@ -20,7 +23,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 2A
-**Human Performance and Biomechanics**  *- Salon de Reyes*" title="Monday, April 8, 11:00 a.m. - 12:30 p.m.
+**Human Performance and Biomechanics**  
+Monday, April 8, 11:00 a.m. - 12:30 p.m.  
+*- Salon de Reyes*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="11:00 a.m. - 11:15 a.m." title="Enhancing User Performance by Adaptively Changing Haptic Feedback Cues in a Fitts's Law Task" author="Drake Rowland, Benjamin Davis, Taylor Higgins, Ann Majewicz Fey">}}
@@ -32,7 +38,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 2B
-**Assistive and Social Haptics**  *- Miramar*" title="Monday, April 8, 11:00 a.m. - 12:30 p.m.
+**Assistive and Social Haptics**  
+Monday, April 8, 11:00 a.m. - 12:30 p.m.  
+*- Miramar*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time=" 11:00 a.m. - 11:15 a.m." title="Determining the Minimal Deviation Limit for Haptic Feedback in Veering Correction During Blindfolded Walking" author="Mounia Ziat, Ariunbold Batjargal, Mehdi Hojatmadani, Shuangshuang Xiao">}}
@@ -44,7 +53,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 3A
-**Haptic Rendering**  *- Salon de Reyes*" title="Monday, April 8, 3:45 p.m. - 4:45 p.m.
+**Haptic Rendering**  
+Monday, April 8, 3:45 p.m. - 4:45 p.m.  
+*- Salon de Reyes*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="3:45 p.m. - 4:00 p.m." title="Stereohaptic Vibration: Out-of-body Localization of Virtual Vibration Source through Multiple Vibrotactile Stimuli on the Forearms" author="Gen Ohara, Kikuchi Daiki, Masashi Konyo, Satoshi Tadokoro">}}
@@ -54,7 +66,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 3B
-**Medical Haptics**  *- Miramar*" title="Monday, April 8, 3:45 p.m. - 4:45 p.m.
+**Medical Haptics**  
+Monday, April 8, 3:45 p.m. - 4:45 p.m.  
+*- Miramar*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="3:45 p.m. - 4:00 p.m." title="Origami-based Haptic Syringe for Local Anesthesia Simulator" author="Ken Iiyoshi, Shadi Khazaaleh, Ahmed Dalaq, Mohammed F. Daqaq, Georgios Korres, Mohamad Eid">}}
@@ -64,7 +79,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 4
-**Wearable and Hand-held Devices**  *- Salon de Reyes*" title="Tuesday, April 9, 9:00 a.m. - 10:30 a.m.
+**Wearable and Hand-held Devices**  
+Tuesday, April 9, 9:00 a.m. - 10:30 a.m.  
+*- Salon de Reyes*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Comparing the Perceived Intensity of Vibrotactile Cues Scaled Based on Inherent Dynamic Range" author="Daziyah Sullivan, Elyse Chase, Marcia Omalley">}}
@@ -76,7 +94,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 5A
-**Dynamic Systems and Control**  *- Salon de Reyes*" title="Tuesday, April 9, 11:00 a.m. - 12:00 p.m.
+**Dynamic Systems and Control**  
+Tuesday, April 9, 11:00 a.m. - 12:00 p.m.  
+*- Salon de Reyes*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="11:00 a.m. - 11:15 a.m." title="Force-feedback through Touch-based Interactions with a Nanocopter" author="Yang Chen, Hamed Alimohammadzadeh, Shahram Ghandeharizadeh, Heather Culbertson">}}
@@ -86,7 +107,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 5B
-**Haptics in Gaming and Virtual Reality**  *- Miramar*" title="Tuesday, April 9, 11:00 a.m. - 12:00 p.m.
+**Haptics in Gaming and Virtual Reality**  
+Tuesday, April 9, 11:00 a.m. - 12:00 p.m.  
+*- Miramar*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="11:00 a.m. - 11:15 a.m." title="Horizontal Plane Haptic Redirection - Realizing Haptic Feedback for the Virtual Inclined Plane in VR" author="Dexin Liu, Hengxin Chen">}}
@@ -96,7 +120,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 6
-**Teleoperation, Monitoring, and Sensing**  *- Salon de Reyes*" title="Tuesday, April 9, 3:30 p.m. - 5:00 p.m.
+**Teleoperation, Monitoring, and Sensing**  
+Tuesday, April 9, 3:30 p.m. - 5:00 p.m.  
+*- Salon de Reyes*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="3:30 p.m. - 3:45 p.m." title="Haptic Interactions Subject to Variable Latency" author="Chantal Lana Hutchison, Joseph Hewlett, Siamak Arbatani, Antoine Weill--Duflos, Jozsef Kovecses">}}
@@ -107,7 +134,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 7A
-**Device Design**  *- Salon de Reyes*" title="Wednesday, April 10, 9:00 a.m. - 10:30 a.m.
+**Device Design**  
+Wednesday, April 10, 9:00 a.m. - 10:30 a.m.  
+*- Salon de Reyes*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove" author="Ben Levy, Megh Vipul Doshi, Keng-Yu Lin, Michael Wehner">}}
@@ -118,7 +148,10 @@ weight: 4
 {{</programTable>}}
 
 ## Session 7B
-**Multimodal Systems**  *- Miramar*" title="Wednesday, April 10, 9:00 a.m. - 10:30 a.m.
+**Multimodal Systems**  
+Wednesday, April 10, 9:00 a.m. - 10:30 a.m.  
+*- Miramar*  
+Session Chair:
 
 {{<programTable>}}
 {{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Multimodal Haptic Feedback for Virtual Collisions Combining Vibrotactile and Electrical Muscle Stimulation" author="Jungeun Lee, Seungmoon Choi">}}
@@ -127,4 +160,3 @@ weight: 4
 {{<programOralEntry time="9:45 a.m. - 10:00 a.m." title="Toward Spatial-temporal Consistency of Joint Visual-tactile Perception in VR Applications" author="Fuqiang Zhao, Kehan Zhang, Qian Liu, Zhuoyi Lv">}}
 {{<programOralEntry time="10:00 a.m. - 10:15 a.m." title="Robust Surface Recognition with the Maximum Mean Discrepancy: Degrading Haptic-auditory Signals through Bandwidth and Noise" author="Behnam Khojasteh, Yitian Shao, Katherine J. Kuchenbecker">}}
 {{</programTable>}}
-
