@@ -22,8 +22,8 @@ Monday, April 8, 2:00 p.m. - 3:45 p.m.
 * A5	Cutaneous Electrohydraulic Wearable Devices for Expressive and Salient Haptic Feedback
   * Natalia Sanchez-Tamayo (MPI-IS), Zachary Yoder (MPI-IS), Giulia Ballardini (MPI-IS), Philipp Rothemund (University of Stuttgart and MPI-IS), Christoph Keplinger (MPI-IS), and Katherine J. Kuchenbecker (MPI-IS)  
 &nbsp;
-* A6	CAPT Motor: A Strong Direct-Drive Rotary Haptic Interface
-  * Bernard Javot* (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), Vu H. Nguyen* (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), Giulia Ballardini (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), and Katherine J. Kuchenbecker (Max Planck Institute for Intelligent Systems, Stuttgart, Germany)
+* A6	Pneumatactor Arrays for High Frequency Vibrotactile Feedback
+  * Anway Pimpalkar (Johns Hopkins University), Preshit Ameta (Johns Hopkins University), Ahan Dalia (Johns Hopkins University), Jeremy D. Brown (Johns Hopkins University)
 * A7	Demonstrating Waylet: Untethered Pseudo-Force Haptic Device for Actual Walking in Mixed Reality Environment
   * Tomosuke Maeda (Toyota Central R&D Labs., Inc.), Takayoshi Yoshimura (Toyota Central R&D Labs., Inc.), Junnosuke Yamamoto (Keio University Graduate School of Media Design), Hiroyuki Sakai (Toyota Central R&D Labs., Inc.), Kouta Minamizawa (Keio University Graduate School of Media Design)
 * A8	Immersive Wetness Simulation in Virtual Reality
@@ -54,8 +54,8 @@ Tuesday, April 9, 1:30 p.m. - 3:15 p.m.
   * Haokun Wang (University of Texas at Dallas), Yatharth Singhal (University of Texas at Dallas), Hyungki Son (ETRI) and Jin Ryong Kim (University of Texas at Dallas)
 * B3	Demonstrating TangibleData: Interactive Data Visualization with Mid-Air Haptics
   * Ayush Bhardwaj (The University of Texas at Dallas), Richard Noeske (The University of Texas at Dallas), and Jin Ryong Kim (The University of Texas at Dallas)
-* B4	Pneumatactor Arrays for High Frequency Vibrotactile Feedback
-  * Anway Pimpalkar (Johns Hopkins University), Preshit Ameta (Johns Hopkins University), Ahan Dalia (Johns Hopkins University), Jeremy D. Brown (Johns Hopkins University)
+* B4	CAPT Motor: A Strong Direct-Drive Rotary Haptic Interface
+  * Bernard Javot* (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), Vu H. Nguyen* (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), Giulia Ballardini (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), and Katherine J. Kuchenbecker (Max Planck Institute for Intelligent Systems, Stuttgart, Germany)
 * B5	Exploiting Biomechanical Resonance for Tactile Source Relocalization
   * Dustin Goetz (University of California, Santa Barbara), Gregory Reardon (University of California, Santa Barbara), William Heap (Stanford University), Yon Visell (University of California, Santa Barbara)  
 &nbsp;
