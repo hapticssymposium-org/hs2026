@@ -28,7 +28,7 @@ Haptic Sensitivity to Diameter and Tension During String Plucking
 Reliability of Smartphone-based Vibration Threshold Measurements
   * Rachel A. G. Adenekan, Kyle Yoshida, Anis Benyoucef, Alejandrina Gonzalez Reyes, Adeyinka E Adenekan, Allison M. Okamura, Cara M. Nunez
 * 10:15 a.m. - 10:30 a.m.  
-Commemorative Talk to Honor Sliman Bensmaia (1973-2023)
+Celebrating Sliman Bensmaia's contribution to Haptics
   * Hannes Saal
 
 ## Session 2A
