@@ -11,120 +11,120 @@ weight: 4
 **Perception and Psychophysics** *- Salon de Reyes*" title="Monday, April 8, 9:00 a.m. - 10:30 a.m.
 
 {{<programTable>}}
-{{<programEntry id="9:00 a.m. - 9:15 a.m." title="Bumps and Dents Are Not Perceptually Opposite When Exploring with Lateral Force Cues" author="Shogo Okamoto">}}
-{{<programEntry id="9:15 a.m. - 9:30 a.m." title="Establishing Natural Tactile Mappings: Mapping Tactile Parameters to Continuous Data Concepts" author="Sara Riggs, Nicholas Gardella Nicholas Gardella">}}
-{{<programEntry id="9:30 a.m. - 9:45 a.m." title="  Richer Textural Information in the Horizontal Component of the Contact Force Compared with the Normal Component" author="Ayaka Tamura, Shogo Okamoto">}}
-{{<programEntry id="9:45 a.m. - 10:00 a.m." title="Haptic Sensitivity to Diameter and Tension During String Plucking" author="Matej Mayet, Jean-Loïc Le Carrou, David Gueorguiev">}}
-{{<programEntry id="10:00 a.m. - 10:15 a.m." title="Reliability of Smartphone-based Vibration Threshold Measurements" author="Rachel A. G. Adenekan, Kyle Yoshida, Anis Benyoucef, Alejandrina Gonzalez Reyes, Adeyinka E Adenekan, Allison M. Okamura, Cara M. Nunez">}}
-{{<programEntry id="10:15 a.m. - 10:30 a.m." title="Celebrating Sliman Bensmaia's contribution to Haptics" author="Hannes Saal">}}
+{{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Bumps and Dents Are Not Perceptually Opposite When Exploring with Lateral Force Cues" author="Shogo Okamoto">}}
+{{<programOralEntry time="9:15 a.m. - 9:30 a.m." title="Establishing Natural Tactile Mappings: Mapping Tactile Parameters to Continuous Data Concepts" author="Sara Riggs, Nicholas Gardella Nicholas Gardella">}}
+{{<programOralEntry time="9:30 a.m. - 9:45 a.m." title="  Richer Textural Information in the Horizontal Component of the Contact Force Compared with the Normal Component" author="Ayaka Tamura, Shogo Okamoto">}}
+{{<programOralEntry time="9:45 a.m. - 10:00 a.m." title="Haptic Sensitivity to Diameter and Tension During String Plucking" author="Matej Mayet, Jean-Loïc Le Carrou, David Gueorguiev">}}
+{{<programOralEntry time="10:00 a.m. - 10:15 a.m." title="Reliability of Smartphone-based Vibration Threshold Measurements" author="Rachel A. G. Adenekan, Kyle Yoshida, Anis Benyoucef, Alejandrina Gonzalez Reyes, Adeyinka E Adenekan, Allison M. Okamura, Cara M. Nunez">}}
+{{<programOralEntry time="10:15 a.m. - 10:30 a.m." title="Celebrating Sliman Bensmaia's contribution to Haptics" author="Hannes Saal">}}
 {{</programTable>}}
 
 ## Session 2A
 **Human Performance and Biomechanics**  *- Salon de Reyes*" title="Monday, April 8, 11:00 a.m. - 12:30 p.m.
 
 {{<programTable>}}
-{{<programEntry id="11:00 a.m. - 11:15 a.m." title="Enhancing User Performance by Adaptively Changing Haptic Feedback Cues in a Fitts's Law Task" author="Drake Rowland, Benjamin Davis, Taylor Higgins, Ann Majewicz Fey">}}
-{{<programEntry id="11:15 a.m. - 11:30 a.m." title="System Identification of Human Dynamics Using Periodic Impedance Models During Physical Interaction" author="Khandaker Nusaiba Hafiz, Terence David Sanger, Jonathan Realmuto">}}
-{{<programEntry id="11:30 a.m. - 11:45 a.m." title="On the Role of Tactile Motion Estimates and Hand Side in Bimanual Reaching Tasks" author="Océane Duvert, Giulia Pagnanelli, Alessandro Moscatelli, Matteo Bianchi">}}
-{{<programEntry id="11:45 a.m. - 12:00 p.m." title="Skinsource: A Data-driven Toolbox for Predicting Touch-elicited Vibrations in the Upper Limb" author="Neeli Tummala, Gregory Reardon, Simone Fani, Dustin Goetz, Matteo Bianchi, Yon Visell">}}
-{{<programEntry id="12:00 p.m. - 12:15 p.m." title="A Transparent Hydraulic Actuator to Visualize Finger Pad Deformation at Programmable Material Compliances" author="Bingxu Li, Alton Sharpe, Gregory J. Gerling">}}
-{{<programEntry id="12:15 p.m. - 12:30 p.m." title="Bi-manual Sensory Discrimination: A Kinesthetic Study" author="Suhas Kakade, Subhasis Chaudhuri, Abhishek Gupta">}}
+{{<programOralEntry time="11:00 a.m. - 11:15 a.m." title="Enhancing User Performance by Adaptively Changing Haptic Feedback Cues in a Fitts's Law Task" author="Drake Rowland, Benjamin Davis, Taylor Higgins, Ann Majewicz Fey">}}
+{{<programOralEntry time="11:15 a.m. - 11:30 a.m." title="System Identification of Human Dynamics Using Periodic Impedance Models During Physical Interaction" author="Khandaker Nusaiba Hafiz, Terence David Sanger, Jonathan Realmuto">}}
+{{<programOralEntry time="11:30 a.m. - 11:45 a.m." title="On the Role of Tactile Motion Estimates and Hand Side in Bimanual Reaching Tasks" author="Océane Duvert, Giulia Pagnanelli, Alessandro Moscatelli, Matteo Bianchi">}}
+{{<programOralEntry time="11:45 a.m. - 12:00 p.m." title="Skinsource: A Data-driven Toolbox for Predicting Touch-elicited Vibrations in the Upper Limb" author="Neeli Tummala, Gregory Reardon, Simone Fani, Dustin Goetz, Matteo Bianchi, Yon Visell">}}
+{{<programOralEntry time="12:00 p.m. - 12:15 p.m." title="A Transparent Hydraulic Actuator to Visualize Finger Pad Deformation at Programmable Material Compliances" author="Bingxu Li, Alton Sharpe, Gregory J. Gerling">}}
+{{<programOralEntry time="12:15 p.m. - 12:30 p.m." title="Bi-manual Sensory Discrimination: A Kinesthetic Study" author="Suhas Kakade, Subhasis Chaudhuri, Abhishek Gupta">}}
 {{</programTable>}}
 
 ## Session 2B
 **Assistive and Social Haptics**  *- Miramar*" title="Monday, April 8, 11:00 a.m. - 12:30 p.m.
 
 {{<programTable>}}
-{{<programEntry id=" 11:00 a.m. - 11:15 a.m." title="Determining the Minimal Deviation Limit for Haptic Feedback in Veering Correction During Blindfolded Walking" author="Mounia Ziat, Ariunbold Batjargal, Mehdi Hojatmadani, Shuangshuang Xiao">}}
-{{<programEntry id="11:15 a.m. - 11:30 a.m." title="Touch for Accessibility: Haptic SVG Diagrams for Visually Impaired and Blind Individuals" author="Sara Alzalabny, Omar Moured, Karin Müller, Thorsten Schwarz, Bastian Rapp, Rainer Stiefelhagen">}}
-{{<programEntry id="11:30 a.m. - 11:45 a.m." title="The Design and Preliminary Evaluation of a Sliding Contact Braille Display for Early Learning" author="Anupama Thomas, Anil Prabhakar">}}
-{{<programEntry id="11:45 a.m. - 12:00 p.m." title="The Importance of Contextual Grounding in Affective Mediated Touch" author="Xin Zhu, Zhenghui Su, Jocelyn Tsai, Cara M. Nunez, Heather Culbertson">}}
-{{<programEntry id="12:00 p.m. - 12:15 p.m." title="Comparing the Haptic Perception of Directional Information Using a Uni-manual or Bi-manual Strategy on a Walker" author="Inès Lacôte, Claudio Pacchierotti, Frédéric Marie, François Pasteau, Fabien Grzeskowiak, Marie Babel, David Gueorguiev, Maud Marchal">}}
-{{<programEntry id="12:15 p.m. - 12:30 p.m." title="Design and Validation of Pseudo-force Haptic Device for Actual Walking" author="Tomosuke Maeda, Takayoshi Yoshimura, Junnosuke Yamamoto, Hiroyuki Sakai, Kouta Minamizawa">}}
+{{<programOralEntry time=" 11:00 a.m. - 11:15 a.m." title="Determining the Minimal Deviation Limit for Haptic Feedback in Veering Correction During Blindfolded Walking" author="Mounia Ziat, Ariunbold Batjargal, Mehdi Hojatmadani, Shuangshuang Xiao">}}
+{{<programOralEntry time="11:15 a.m. - 11:30 a.m." title="Touch for Accessibility: Haptic SVG Diagrams for Visually Impaired and Blind Individuals" author="Sara Alzalabny, Omar Moured, Karin Müller, Thorsten Schwarz, Bastian Rapp, Rainer Stiefelhagen">}}
+{{<programOralEntry time="11:30 a.m. - 11:45 a.m." title="The Design and Preliminary Evaluation of a Sliding Contact Braille Display for Early Learning" author="Anupama Thomas, Anil Prabhakar">}}
+{{<programOralEntry time="11:45 a.m. - 12:00 p.m." title="The Importance of Contextual Grounding in Affective Mediated Touch" author="Xin Zhu, Zhenghui Su, Jocelyn Tsai, Cara M. Nunez, Heather Culbertson">}}
+{{<programOralEntry time="12:00 p.m. - 12:15 p.m." title="Comparing the Haptic Perception of Directional Information Using a Uni-manual or Bi-manual Strategy on a Walker" author="Inès Lacôte, Claudio Pacchierotti, Frédéric Marie, François Pasteau, Fabien Grzeskowiak, Marie Babel, David Gueorguiev, Maud Marchal">}}
+{{<programOralEntry time="12:15 p.m. - 12:30 p.m." title="Design and Validation of Pseudo-force Haptic Device for Actual Walking" author="Tomosuke Maeda, Takayoshi Yoshimura, Junnosuke Yamamoto, Hiroyuki Sakai, Kouta Minamizawa">}}
 {{</programTable>}}
 
 ## Session 3A
 **Haptic Rendering**  *- Salon de Reyes*" title="Monday, April 8, 3:45 p.m. - 4:45 p.m.
 
 {{<programTable>}}
-{{<programEntry id="3:45 p.m. - 4:00 p.m." title="Stereohaptic Vibration: Out-of-body Localization of Virtual Vibration Source through Multiple Vibrotactile Stimuli on the Forearms" author="Gen Ohara, Kikuchi Daiki, Masashi Konyo, Satoshi Tadokoro">}}
-{{<programEntry id="4:00 p.m. - 4:15 p.m." title="Representing Fine Texture of Pencil Hardness by High-frequency Vibrotactile Equivalence Conversion Using Ultra-thin Pzt-mems Vibrators" author="Masamune Waga, Toru Matsubara, Masashi Konyo, Toshihiro Takeshita, Yusuke Takei, Takeshi Kobayashi, Satoshi Tadokoro">}}
-{{<programEntry id="4:15 p.m. - 4:30 p.m." title="Presentation of a Tracing Sensation by Means of Rotation Stimuli" author="Soma Kato, Yui Suga, Izumi Mizoguchi, Hiroyuki Kajimoto">}}
-{{<programEntry id="4:30 p.m. - 4:45 p.m." title="Haptic Feedback with Higher-order Implicit Integrators" author="Aldo Galvan, Ann Majewicz Fey">}}
+{{<programOralEntry time="3:45 p.m. - 4:00 p.m." title="Stereohaptic Vibration: Out-of-body Localization of Virtual Vibration Source through Multiple Vibrotactile Stimuli on the Forearms" author="Gen Ohara, Kikuchi Daiki, Masashi Konyo, Satoshi Tadokoro">}}
+{{<programOralEntry time="4:00 p.m. - 4:15 p.m." title="Representing Fine Texture of Pencil Hardness by High-frequency Vibrotactile Equivalence Conversion Using Ultra-thin Pzt-mems Vibrators" author="Masamune Waga, Toru Matsubara, Masashi Konyo, Toshihiro Takeshita, Yusuke Takei, Takeshi Kobayashi, Satoshi Tadokoro">}}
+{{<programOralEntry time="4:15 p.m. - 4:30 p.m." title="Presentation of a Tracing Sensation by Means of Rotation Stimuli" author="Soma Kato, Yui Suga, Izumi Mizoguchi, Hiroyuki Kajimoto">}}
+{{<programOralEntry time="4:30 p.m. - 4:45 p.m." title="Haptic Feedback with Higher-order Implicit Integrators" author="Aldo Galvan, Ann Majewicz Fey">}}
 {{</programTable>}}
 
 ## Session 3B
 **Medical Haptics**  *- Miramar*" title="Monday, April 8, 3:45 p.m. - 4:45 p.m.
 
 {{<programTable>}}
-{{<programEntry id="3:45 p.m. - 4:00 p.m." title="Origami-based Haptic Syringe for Local Anesthesia Simulator" author="Ken Iiyoshi, Shadi Khazaaleh, Ahmed Dalaq, Mohammed F. Daqaq, Georgios Korres, Mohamad Eid">}}
-{{<programEntry id="4:00 p.m. - 4:15 p.m." title="Rotational Motion Due to Skin Shear Deformation at Wrist and Elbow" author="Takuto Nakamura, Hideaki Kuzuoka">}}
-{{<programEntry id="4:00 p.m. - 4:15 p.m." title=" A Novel Wearable Sensing Device Enabling Remote Palpation" author="Michele Pompilio, Nicole D'Aurizio, Tommaso Lisini Baldi, Leonardo Franco, Guido Gabriele, Domenico Prattichizzo">}}
-{{<programEntry id="4:15 p.m. - 4:30 p.m." title="Verbal Outperforms Cartesian Tactile Guidance in Telementored Needle Insertion Training" author="Lourdes Romy Reyes, Caroline Park, Edoardo Battaglia, Ann Majewicz Fey">}}
+{{<programOralEntry time="3:45 p.m. - 4:00 p.m." title="Origami-based Haptic Syringe for Local Anesthesia Simulator" author="Ken Iiyoshi, Shadi Khazaaleh, Ahmed Dalaq, Mohammed F. Daqaq, Georgios Korres, Mohamad Eid">}}
+{{<programOralEntry time="4:00 p.m. - 4:15 p.m." title="Rotational Motion Due to Skin Shear Deformation at Wrist and Elbow" author="Takuto Nakamura, Hideaki Kuzuoka">}}
+{{<programOralEntry time="4:00 p.m. - 4:15 p.m." title=" A Novel Wearable Sensing Device Enabling Remote Palpation" author="Michele Pompilio, Nicole D'Aurizio, Tommaso Lisini Baldi, Leonardo Franco, Guido Gabriele, Domenico Prattichizzo">}}
+{{<programOralEntry time="4:15 p.m. - 4:30 p.m." title="Verbal Outperforms Cartesian Tactile Guidance in Telementored Needle Insertion Training" author="Lourdes Romy Reyes, Caroline Park, Edoardo Battaglia, Ann Majewicz Fey">}}
 {{</programTable>}}
 
 ## Session 4
 **Wearable and Hand-held Devices**  *- Salon de Reyes*" title="Tuesday, April 9, 9:00 a.m. - 10:30 a.m.
 
 {{<programTable>}}
-{{<programEntry id="9:00 a.m. - 9:15 a.m." title="Comparing the Perceived Intensity of Vibrotactile Cues Scaled Based on Inherent Dynamic Range" author="Daziyah Sullivan, Elyse Chase, Marcia Omalley">}}
-{{<programEntry id="9:15 a.m. - 9:30 a.m." title="Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body" author="Dajin Lee, Gyeore Yun, Seungmoon Choi">}}
-{{<programEntry id="9:30 a.m. - 9:45 a.m." title="Presentation of Hitting Sensation to the Racket by a Single DC Motor Embedded in a Handle" author="Michiru Sobue, Soma Kato, Izumi Mizoguchi, Hiroyuki Kajimoto">}}
-{{<programEntry id="9:45 a.m. - 10:00 a.m." title="H3kit: Hand-held Haptic Kit for Stem Education" author="Robert Bloom, Zachary Huang, Kaitlyn Lavarias, Madeleine Ren, Tania K. Morimoto">}}
-{{<programEntry id="10:00 a.m. - 10:15 a.m." title="A Wearable Pick-to-haptics System to Improve Manual-picking Tasks in Warehouses" author="Leonardo Franco, Tommaso Lisini Baldi, Domenico Prattichizzo, Gionata Salvietti">}}
-{{<programEntry id="10:15 a.m. - 10:30 a.m." title="Hapt-X-Pand: The Design and Evaluation of a Radially Expanding and Contracting Skin Drag Haptic Device" author="Colton Doherty, Jennifer Tennison, Jenna Gorlewicz">}}
+{{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Comparing the Perceived Intensity of Vibrotactile Cues Scaled Based on Inherent Dynamic Range" author="Daziyah Sullivan, Elyse Chase, Marcia Omalley">}}
+{{<programOralEntry time="9:15 a.m. - 9:30 a.m." title="Effects of Contact Force on Vibrotactile Perceived Intensity Across the Upper Body" author="Dajin Lee, Gyeore Yun, Seungmoon Choi">}}
+{{<programOralEntry time="9:30 a.m. - 9:45 a.m." title="Presentation of Hitting Sensation to the Racket by a Single DC Motor Embedded in a Handle" author="Michiru Sobue, Soma Kato, Izumi Mizoguchi, Hiroyuki Kajimoto">}}
+{{<programOralEntry time="9:45 a.m. - 10:00 a.m." title="H3kit: Hand-held Haptic Kit for Stem Education" author="Robert Bloom, Zachary Huang, Kaitlyn Lavarias, Madeleine Ren, Tania K. Morimoto">}}
+{{<programOralEntry time="10:00 a.m. - 10:15 a.m." title="A Wearable Pick-to-haptics System to Improve Manual-picking Tasks in Warehouses" author="Leonardo Franco, Tommaso Lisini Baldi, Domenico Prattichizzo, Gionata Salvietti">}}
+{{<programOralEntry time="10:15 a.m. - 10:30 a.m." title="Hapt-X-Pand: The Design and Evaluation of a Radially Expanding and Contracting Skin Drag Haptic Device" author="Colton Doherty, Jennifer Tennison, Jenna Gorlewicz">}}
 {{</programTable>}}
 
 ## Session 5A
 **Dynamic Systems and Control**  *- Salon de Reyes*" title="Tuesday, April 9, 11:00 a.m. - 12:00 p.m.
 
 {{<programTable>}}
-{{<programEntry id="11:00 a.m. - 11:15 a.m." title="Force-feedback through Touch-based Interactions with a Nanocopter" author="Yang Chen, Hamed Alimohammadzadeh, Shahram Ghandeharizadeh, Heather Culbertson">}}
-{{<programEntry id="11:15 a.m. - 11:30 a.m." title="Transparent, High-force, and High-stiffness Control of Haptic Actuators with Backlash: A Multi Degree of Freedom Approach" author="Patrick Dills, Michael Zinn">}}
-{{<programEntry id="11:30 a.m. - 11:45 a.m." title="Improving Kinesthetic Haptic Rendering through a Frequency Partitioned Series Admittance Actuation Approach" author="Megh Vipul Doshi, Patrick Dills, Michael Zinn">}}
-{{<programEntry id="11:45 a.m. - 12:00 p.m." title="Relaxing Conservatism for Enhanced Impedance Range and Transparency in Haptic Interaction" author="Huseyin Tugcan Dinc, Thomas Hulin, Christian Ott, Jee-Hwan Ryu">}}
+{{<programOralEntry time="11:00 a.m. - 11:15 a.m." title="Force-feedback through Touch-based Interactions with a Nanocopter" author="Yang Chen, Hamed Alimohammadzadeh, Shahram Ghandeharizadeh, Heather Culbertson">}}
+{{<programOralEntry time="11:15 a.m. - 11:30 a.m." title="Transparent, High-force, and High-stiffness Control of Haptic Actuators with Backlash: A Multi Degree of Freedom Approach" author="Patrick Dills, Michael Zinn">}}
+{{<programOralEntry time="11:30 a.m. - 11:45 a.m." title="Improving Kinesthetic Haptic Rendering through a Frequency Partitioned Series Admittance Actuation Approach" author="Megh Vipul Doshi, Patrick Dills, Michael Zinn">}}
+{{<programOralEntry time="11:45 a.m. - 12:00 p.m." title="Relaxing Conservatism for Enhanced Impedance Range and Transparency in Haptic Interaction" author="Huseyin Tugcan Dinc, Thomas Hulin, Christian Ott, Jee-Hwan Ryu">}}
 {{</programTable>}}
 
 ## Session 5B
 **Haptics in Gaming and Virtual Reality**  *- Miramar*" title="Tuesday, April 9, 11:00 a.m. - 12:00 p.m.
 
 {{<programTable>}}
-{{<programEntry id="11:00 a.m. - 11:15 a.m." title="Horizontal Plane Haptic Redirection - Realizing Haptic Feedback for the Virtual Inclined Plane in VR" author="Dexin Liu, Hengxin Chen">}}
-{{<programEntry id="11:15 a.m. - 11:30 a.m." title="Telemetry-based Haptic Rendering for Racing Game Experience Improvement" author="Jiwan Lee, Junwoo Kim, Jeonggoo Kang, Eunsoo Jo, Dong Chul Park, Seungmoon Choi">}}
-{{<programEntry id="11:30 a.m. - 11:45 a.m." title="Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-worn Haptic Devices" author="Jasmin Elena Palmer, Brian Vuong, Zhenishbek Zhakypov, Yimeng Qin, Liana G. Tilton, Allison M. Okamura">}}
-{{<programEntry id="11:45 a.m. - 12:00 p.m." title="Beyond Sight: The Role of Kinesthetic Feedback in Redirected Walking Within Virtual Reality" author="Seung Heon Lee, Sandeep Kollannur, Heather Culbertson">}}
+{{<programOralEntry time="11:00 a.m. - 11:15 a.m." title="Horizontal Plane Haptic Redirection - Realizing Haptic Feedback for the Virtual Inclined Plane in VR" author="Dexin Liu, Hengxin Chen">}}
+{{<programOralEntry time="11:15 a.m. - 11:30 a.m." title="Telemetry-based Haptic Rendering for Racing Game Experience Improvement" author="Jiwan Lee, Junwoo Kim, Jeonggoo Kang, Eunsoo Jo, Dong Chul Park, Seungmoon Choi">}}
+{{<programOralEntry time="11:30 a.m. - 11:45 a.m." title="Haptic Relocation of Virtual Finger Forces via Pneumatic Wrist-worn Haptic Devices" author="Jasmin Elena Palmer, Brian Vuong, Zhenishbek Zhakypov, Yimeng Qin, Liana G. Tilton, Allison M. Okamura">}}
+{{<programOralEntry time="11:45 a.m. - 12:00 p.m." title="Beyond Sight: The Role of Kinesthetic Feedback in Redirected Walking Within Virtual Reality" author="Seung Heon Lee, Sandeep Kollannur, Heather Culbertson">}}
 {{</programTable>}}
 
 ## Session 6
 **Teleoperation, Monitoring, and Sensing**  *- Salon de Reyes*" title="Tuesday, April 9, 3:30 p.m. - 5:00 p.m.
 
 {{<programTable>}}
-{{<programEntry id="3:30 p.m. - 3:45 p.m." title="Haptic Interactions Subject to Variable Latency" author="Chantal Lana Hutchison, Joseph Hewlett, Siamak Arbatani, Antoine Weill--Duflos, Jozsef Kovecses">}}
-{{<programEntry id="3:45 p.m. - 4:00 p.m." title="Embodied Supervision: Haptic Display of Automation Command to Improve Supervisory Performance" author="Alia Gilbert, Sachit Krishnan, Brent Gillespie">}}
-{{<programEntry id="4:00 p.m. - 4:15 p.m." title="Networktouch: A Vibrotactile Check-in Device for Cyberattack Detection and Traffic Monitoring" author="J. Michael Bertsch, Mohammed Ayyat, Tamer Nadeem, Gregory J. Gerling">}}
-{{<programEntry id="4:15 p.m. - 4:30 p.m." title="Hapticformers: Employing Transformer Models on Avosight and Avodigit Datasets for Vision-based Tactile Assessment of Avocado Maturity" author="Israa Fahmy, Taimur Hassan, Naoufel Werghi, Irfan Hussain, Lakmal Seneviratne">}}
-{{<programEntry id="4:30 p.m. - 4:45 p.m." title="Digital Twin-empowered Model-mediated Teleoperation Using Multimodality Data with Signed Distance Fields" author="Mads Mørch Antonsen, Siwen Liu, Xiao Xu, Eckehard Steinbach, Francesco Chinello, Qi Zhang">}}
+{{<programOralEntry time="3:30 p.m. - 3:45 p.m." title="Haptic Interactions Subject to Variable Latency" author="Chantal Lana Hutchison, Joseph Hewlett, Siamak Arbatani, Antoine Weill--Duflos, Jozsef Kovecses">}}
+{{<programOralEntry time="3:45 p.m. - 4:00 p.m." title="Embodied Supervision: Haptic Display of Automation Command to Improve Supervisory Performance" author="Alia Gilbert, Sachit Krishnan, Brent Gillespie">}}
+{{<programOralEntry time="4:00 p.m. - 4:15 p.m." title="Networktouch: A Vibrotactile Check-in Device for Cyberattack Detection and Traffic Monitoring" author="J. Michael Bertsch, Mohammed Ayyat, Tamer Nadeem, Gregory J. Gerling">}}
+{{<programOralEntry time="4:15 p.m. - 4:30 p.m." title="Hapticformers: Employing Transformer Models on Avosight and Avodigit Datasets for Vision-based Tactile Assessment of Avocado Maturity" author="Israa Fahmy, Taimur Hassan, Naoufel Werghi, Irfan Hussain, Lakmal Seneviratne">}}
+{{<programOralEntry time="4:30 p.m. - 4:45 p.m." title="Digital Twin-empowered Model-mediated Teleoperation Using Multimodality Data with Signed Distance Fields" author="Mads Mørch Antonsen, Siwen Liu, Xiao Xu, Eckehard Steinbach, Francesco Chinello, Qi Zhang">}}
 {{</programTable>}}
 
 ## Session 7A
 **Device Design**  *- Salon de Reyes*" title="Wednesday, April 10, 9:00 a.m. - 10:30 a.m.
 
 {{<programTable>}}
-{{<programEntry id="9:00 a.m. - 9:15 a.m." title="Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove" author="Ben Levy, Megh Vipul Doshi, Keng-Yu Lin, Michael Wehner">}}
-{{<programEntry id="9:15 a.m. - 9:30 a.m." title="Dynabuttons: Fast Interactive Soft Buttons with Analog Control" author="Tucker Rae-Grant, Chris Harrison, Craig Shultz">}}
-{{<programEntry id="9:30 a.m. - 9:45 a.m." title="Validation and Usability Assessment of the Hapticpalm, a Wearable Device for Hand Palm Force Feedback" author="Alberto Villani, Mihai Dragusanu, Domenico Prattichizzo, Monica Malvezzi">}}
-{{<programEntry id="9:45 a.m. - 10:00 a.m." title="Design and Characterisation of Particle Jamming-based Variable Stiffness Displays Using Non-pneumatic Actuators" author="Joshua Brown, Fernando Bello">}}
-{{<programEntry id="10:00 a.m. - 10:15 a.m." title="Lever Mechanism for Diaphragm-type Vibrators to Enhance Vibrotactile Intensity" author="Taku Hachisu, Masayuki Kajiura, Toshihiro Takeshita, Yusuke Takei, Takeshi Kobayashi, Masashi Konyo">}}
+{{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove" author="Ben Levy, Megh Vipul Doshi, Keng-Yu Lin, Michael Wehner">}}
+{{<programOralEntry time="9:15 a.m. - 9:30 a.m." title="Dynabuttons: Fast Interactive Soft Buttons with Analog Control" author="Tucker Rae-Grant, Chris Harrison, Craig Shultz">}}
+{{<programOralEntry time="9:30 a.m. - 9:45 a.m." title="Validation and Usability Assessment of the Hapticpalm, a Wearable Device for Hand Palm Force Feedback" author="Alberto Villani, Mihai Dragusanu, Domenico Prattichizzo, Monica Malvezzi">}}
+{{<programOralEntry time="9:45 a.m. - 10:00 a.m." title="Design and Characterisation of Particle Jamming-based Variable Stiffness Displays Using Non-pneumatic Actuators" author="Joshua Brown, Fernando Bello">}}
+{{<programOralEntry time="10:00 a.m. - 10:15 a.m." title="Lever Mechanism for Diaphragm-type Vibrators to Enhance Vibrotactile Intensity" author="Taku Hachisu, Masayuki Kajiura, Toshihiro Takeshita, Yusuke Takei, Takeshi Kobayashi, Masashi Konyo">}}
 {{</programTable>}}
 
 ## Session 7B
 **Multimodal Systems**  *- Miramar*" title="Wednesday, April 10, 9:00 a.m. - 10:30 a.m.
 
 {{<programTable>}}
-{{<programEntry id="9:00 a.m. - 9:15 a.m." title="Multimodal Haptic Feedback for Virtual Collisions Combining Vibrotactile and Electrical Muscle Stimulation" author="Jungeun Lee, Seungmoon Choi">}}
-{{<programEntry id="9:15 a.m. - 9:30 a.m." title="Sound-to-touch Crossmodal Pitch Matching for Short Sounds" author="Donggeun Kim, Jungeun Lee, Gyeore Yun, Hong Tan, Seungmoon Choi">}}
-{{<programEntry id="9:30 a.m. - 9:45 a.m." title="Matching Performance of 2d Phantom Sensations with Visual Motions" author="Kyuyoung Shim, Gunhyuk Park">}}
-{{<programEntry id="9:45 a.m. - 10:00 a.m." title="Toward Spatial-temporal Consistency of Joint Visual-tactile Perception in VR Applications" author="Fuqiang Zhao, Kehan Zhang, Qian Liu, Zhuoyi Lv">}}
-{{<programEntry id="10:00 a.m. - 10:15 a.m." title="Robust Surface Recognition with the Maximum Mean Discrepancy: Degrading Haptic-auditory Signals through Bandwidth and Noise" author="Behnam Khojasteh, Yitian Shao, Katherine J. Kuchenbecker">}}
+{{<programOralEntry time="9:00 a.m. - 9:15 a.m." title="Multimodal Haptic Feedback for Virtual Collisions Combining Vibrotactile and Electrical Muscle Stimulation" author="Jungeun Lee, Seungmoon Choi">}}
+{{<programOralEntry time="9:15 a.m. - 9:30 a.m." title="Sound-to-touch Crossmodal Pitch Matching for Short Sounds" author="Donggeun Kim, Jungeun Lee, Gyeore Yun, Hong Tan, Seungmoon Choi">}}
+{{<programOralEntry time="9:30 a.m. - 9:45 a.m." title="Matching Performance of 2d Phantom Sensations with Visual Motions" author="Kyuyoung Shim, Gunhyuk Park">}}
+{{<programOralEntry time="9:45 a.m. - 10:00 a.m." title="Toward Spatial-temporal Consistency of Joint Visual-tactile Perception in VR Applications" author="Fuqiang Zhao, Kehan Zhang, Qian Liu, Zhuoyi Lv">}}
+{{<programOralEntry time="10:00 a.m. - 10:15 a.m." title="Robust Surface Recognition with the Maximum Mean Discrepancy: Degrading Haptic-auditory Signals through Bandwidth and Noise" author="Behnam Khojasteh, Yitian Shao, Katherine J. Kuchenbecker">}}
 {{</programTable>}}
 
