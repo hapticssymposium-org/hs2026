@@ -53,4 +53,4 @@ The Work-in-Progress track invites authors to share late-breaking results with t
 {{<programEntry id="WIP31" title="Haptic Feedback During Movement Requires Personalized Compensation" author="Doris Xu, Lizzette Corrales, Sarah S. Hawes, Cara M. Nunez">}}
 {{<programEntry id="WIP32" title="Uncoupled Stability of Haptic Simulation Systems with Deformable Virtual Environments" author="Seanna M. Oliver, Leonam D. Pecly, Keyvan Hashtrudi-Zaad">}}
 {{<programEntry id="WIP33" title="Novel Compensation for Packet Loss with Safety Penalty Toward Haptic Teleoperation" author="Yu Yeh, Vineeth S. Varma, Salah E. Elayoubi">}}
-{{<programEntry id="WIP34 Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display Using Acoustic Material and Lever Mechanism" author="Tao Morisaki">}}
+{{<programEntry id="WIP34" title="Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display Using Acoustic Material and Lever Mechanism" author="Tao Morisaki">}}
