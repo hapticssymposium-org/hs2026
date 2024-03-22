@@ -1,10 +1,15 @@
 ---
 title: "CCC | Haptics for Impact: Consumer Value, Ethics, Diversity"
 weight: 3
-draft: true
 ---
 # Cross-Cutting Challenge | Haptics for Impact: Consumer Value, Ethics, Diversity
 Sunday, April 7, 2:00 p.m. - 5:30 p.m.
+
+Coming soon.
+
+<!--
+
+{{<simpleLastUpdate date="March 21, 2024">}}
 
 ## Organizers
 
@@ -39,3 +44,4 @@ The challenge will involve three invited speakers on our three themes (consumer 
 We seek attendee contributions to be presented as a **poster in an interactive session**. To submit a poster proposal, please send a title and 500 word abstract discussing how your work in haptics links to the three main themes: consumer value, ethics, diversity. We especially invite submissions from people with disciplinary backgrounds underrepresented in the haptics community, including **business, social sciences, humanities, and liberal and fine arts**. Engineers and scientists are also very welcome to present their work by linking it to the challenge themes. ~~Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.~~
 
 Please submit your proposal by ~~February 9, 2024~~**February 16, 2024 (extended)** by emailing the organizers ([margot.racat@idrac-bs.fr](mailto:margot.racat@idrac-bs.fr), [mcruz@innovobot.com](mailto:mcruz@innovobot.com), [oliver.schneider@uwaterloo.ca](mailto:oliver.schneider@uwaterloo.ca)). 
+-->

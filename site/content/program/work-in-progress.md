@@ -1,18 +1,23 @@
 ---
-title: Work-in-Progress and Transactions on Haptics Poster Session
+title: Work-in-Progress Poster Session
 weight: 5
 draft: true
 ---
 
-# Work-in-Progress and Transactions on Haptics Poster Session
-
-{{<simpleLastUpdate date="March 21, 2024">}}
-
-## Work-in-Progress Session
+# Work-in-Progress Poster Session
 Monday, April 8, 5:00 p.m. - 6:30 p.m.  
 *- Vista del Mar*  
 
-The Work-in-Progress track invites authors to share late-breaking results with the research community in a non-archival format. WIP posters will be presented during a WIP poster session **5:00 to 6:30pm on Monday, April 8** in a joint session alongside Transactions on Haptics Posters session.
+{{<simpleLastUpdate date="March 21, 2024">}}
+
+The Work-in-Progress track invites authors to share late-breaking results with the research community in a non-archival format. WIP posters will be presented during a WIP poster session **5:00 to 6:30pm on Monday, April 8** in a joint session alongside [IEEE Transactions on Haptics Poster session](../toh-posters).
+
+
+{{<programTable>}}
+
+{{<programEntry id="WIP1", title="Pneumatactor Arrays for High Frequency Vibrotactile Feedback">, author="Anway Pimpalkar, Preshit Ameta, Ahan Dalia, Jiaxi Zhang, Jeremy D. Brown"}}
+
+{{</programTable>}}
 
 * WIP1	Pneumatactor Arrays for High Frequency Vibrotactile Feedback
   * Anway Pimpalkar, Preshit Ameta, Ahan Dalia, Jiaxi Zhang, Jeremy D. Brown
@@ -88,20 +93,3 @@ The Work-in-Progress track invites authors to share late-breaking results with t
   * Yu Yeh, Vineeth S. Varma, Salah E. Elayoubi
 * WIP34 Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display Using Acoustic Material and Lever Mechanism
   * Tao Morisaki
-
-## IEEE Transactions on Haptics Poster Session
-Monday, April 8, 5:00 p.m. - 6:30 p.m.  
-*- Vista del Mar*  
-
-Nice introduction text.
-
-* TP1	Title of Transactions on Haptics Paper
-  * Taku Hachisu
-* TP2	Title of Transactions on Haptics Paper
-  * Taku Hachisu
-* TP3	Title of Transactions on Haptics Paper
-  * Taku Hachisu
-* TP4	Title of Transactions on Haptics Paper
-  * Taku Hachisu
-* TP5	Title of Transactions on Haptics Paper
-  * Taku Hachisu

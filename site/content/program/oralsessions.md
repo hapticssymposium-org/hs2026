@@ -7,7 +7,6 @@ weight: 4
 
 {{<simpleLastUpdate date="March 8, 2024">}}
 
-
 ## Session 1
 **Perception and Psychophysics** *- Salon de Reyes*  
 Monday, April 8, 9:00 a.m. - 10:30 a.m.  

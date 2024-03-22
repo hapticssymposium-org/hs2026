@@ -5,6 +5,8 @@ weight: 2
 # Cross-Cutting Challenge | Frontiers of Softness in Science and Engineering
 Sunday, April 7, 9:00 a.m. - 12:30 p.m.
 
+{{<simpleLastUpdate date="March 21, 2024">}}
+
 ## Organizers
 
 {{<organizerFlex>}}
