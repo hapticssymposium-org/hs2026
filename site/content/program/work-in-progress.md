@@ -15,7 +15,7 @@ The Work-in-Progress track invites authors to share late-breaking results with t
 
 {{<programTable>}}
 
-{{<programEntry id="WIP1", title="Pneumatactor Arrays for High Frequency Vibrotactile Feedback">, author="Anway Pimpalkar, Preshit Ameta, Ahan Dalia, Jiaxi Zhang, Jeremy D. Brown"}}
+{{<programEntry id="WIP1" title="Pneumatactor Arrays for High Frequency Vibrotactile Feedback" author="Anway Pimpalkar, Preshit Ameta, Ahan Dalia, Jiaxi Zhang, Jeremy D. Brown">}}
 
 {{</programTable>}}
 
