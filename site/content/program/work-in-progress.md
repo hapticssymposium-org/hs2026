@@ -56,6 +56,8 @@ The Work-in-Progress track invites authors to share late-breaking results with t
 {{<programEntry id="WIP33" title="Novel Compensation for Packet Loss with Safety Penalty Toward Haptic Teleoperation" author="Yu Yeh, Vineeth S. Varma, Salah E. Elayoubi">}}
 {{<programEntry id="WIP34" title="Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display Using Acoustic Material and Lever Mechanism" author="Tao Morisaki">}}
 
+{{</programTable>}}
+
 ## Work-in-Progress Poster Layout
 
 ![Work-in-Progress Poster Layout](/img/hs2024_Posters-layout.png)
