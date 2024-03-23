@@ -24,9 +24,8 @@ Monday, April 8, 2:00 p.m. - 3:45 p.m.
 {{<programEntry id="A10" title="Merging Photonics and Haptics: An Optically Driven Display for Refreshable Tactile Graphics" author="Max Linnander (UC Santa Barbara), Dustin Goetz (UC Santa Barbara), Gregory Reardon (UC Santa Barbara), and Yon Visell (UC Santa Barbara)">}}
 {{<programEntry id="A11" title="Mixer Board Showcase: Comparing Frequency Modulation Techniques with Haptic and Audio-Based Feedback" author="Paras Kumar (Texas A&M University) and Rebecca F. Friesen (Texas A&M University)">}}
 {{<programEntry id="A12" title="Haptic-Hack: Tactile and Kinesthetic Device for Rendering Soft Textures" author="Ugur Alican Alma(Technische Universitat Dresden), M. Ercan Altinsoy(Technische Universitat Dresden)">}}
-{{<programEntry id="A13" title="Upper Body Thermal Referral and Tactile Masking for Localized Feedback" author="Haokun Wang (University of Texas at Dallas), Yatharth Singhal (University of Texas at Dallas), and Jin Ryong Kim (University of Texas at Dallas)">}}
-{{<programEntry id="A14" title="Mid-Air Thermo-Tactile Feedback using Ultrasound Haptic Display" author="Yatharth Singhal (University of Texas at Dallas), Haokun Wang (University of Texas at Dallas), and Jin Ryong Kim (University of Texas at Dallas)">}}
-{{<programEntry id="A15" title="Rendering spatiotemporal tactile patterns on the fingerpad with a lightweight and flexible haptic array" author="Sylvia Tan (Northwestern University), M. Cynthia Hipwell (Texas A&M), Michael A Peshkin (Northwestern University), Roberta L. Klatzky (Carnegie Mellon University), J. Edward Colgate (Northwestern University)">}}
+{{<programEntry id="A13" title="Mid-Air Thermo-Tactile Feedback using Ultrasound Haptic Display" author="Yatharth Singhal (University of Texas at Dallas), Haokun Wang (University of Texas at Dallas), and Jin Ryong Kim (University of Texas at Dallas)">}}
+{{<programEntry id="A14" title="Rendering spatiotemporal tactile patterns on the fingerpad with a lightweight and flexible haptic array" author="Sylvia Tan (Northwestern University), M. Cynthia Hipwell (Texas A&M), Michael A Peshkin (Northwestern University), Roberta L. Klatzky (Carnegie Mellon University), J. Edward Colgate (Northwestern University)">}}
 {{</programTable>}}
 
 ## Session 2
@@ -52,4 +51,4 @@ Tuesday, April 9, 1:30 p.m. - 3:15 p.m.
 
 ## Demonstration Layout
 
-![Demonstration layout](/img/hs2024_Demo_layout.png)
+![Demonstration layout](/img/hs2024_Demo-layout.png)

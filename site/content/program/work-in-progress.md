@@ -4,10 +4,11 @@ weight: 5
 ---
 
 # Work-in-Progress Poster Session
-Monday, April 8, 5:00 p.m. - 6:30 p.m.  
-*- Vista del Mar*  
 
 {{<simpleLastUpdate date="March 21, 2024">}}
+
+Monday, April 8, 5:00 p.m. - 6:30 p.m.  
+*- Vista del Mar*  
 
 The Work-in-Progress track invites authors to share late-breaking results with the research community in a non-archival format. WIP posters will be presented during a WIP poster session **5:00 to 6:30pm on Monday, April 8** in a joint session alongside [IEEE Transactions on Haptics Poster session](../toh-posters).
 
@@ -54,3 +55,7 @@ The Work-in-Progress track invites authors to share late-breaking results with t
 {{<programEntry id="WIP32" title="Uncoupled Stability of Haptic Simulation Systems with Deformable Virtual Environments" author="Seanna M. Oliver, Leonam D. Pecly, Keyvan Hashtrudi-Zaad">}}
 {{<programEntry id="WIP33" title="Novel Compensation for Packet Loss with Safety Penalty Toward Haptic Teleoperation" author="Yu Yeh, Vineeth S. Varma, Salah E. Elayoubi">}}
 {{<programEntry id="WIP34" title="Preliminary Evaluation of Ultrasound-Driven Thermal-Mechanical Passive Haptic Display Using Acoustic Material and Lever Mechanism" author="Tao Morisaki">}}
+
+## Work-in-Progress Poster Layout
+
+![Work-in-Progress Poster Layout](/img/hs2024_Posters-layout.png)
