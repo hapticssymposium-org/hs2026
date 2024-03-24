@@ -13,6 +13,36 @@ Monday, April 8, 5:00 p.m. - 6:30 p.m.
 
 IEEE ToH posters will be presented during an IEEE ToH poster session **5:00 to 6:30pm on Monday, April 8** in a joint session alongside [Work-in-Progress Poster session](../work-in-progress).
 
+{{<programTable>}}
+
+{{<programEntry id="ToH1" title="A Novel Refreshable Braille Display Based on the Layered Electromagnetic Driving Mechanism of Braille Dots	Hao Chen, Wentao Tao, Chang Liu, Qi Shen, Yuecheng Wu, Liuxia Ruan, Wenzhen Yang" link="https://doi.org/10.1109/TOH.2023.3241952">}}
+{{<programEntry id="ToH2" title="Biomechanically-Consistent Skin Stretch as an Intuitive Mechanism for Sensory Feedback: A Preliminary Investigation in the Lower Limb	Jenny A. Kent" link="https://doi.org/10.1109/TOH.2023.3238525">}}
+{{<programEntry id="ToH3" title="Faster Indentation Influences Skin Deformation To Reduce Tactile Discriminability of Compliant Objects	Bingxu Li, Steven Conrad Hauser, Gregory J. Gerling" link="https://doi.org/10.1109/TOH.2023.3253256">}}
+{{<programEntry id="ToH4" title="General Discretization Method for Enhanced Kinesthetic Haptic Stability	Leonam Pecly, Keyvan Hashtrudi-Zaad" link="https://doi.org/10.1109/TOH.2023.3268861">}}
+{{<programEntry id="ToH5" title="Survey on Hand-Based Haptic Interaction for Virtual Reality	Qianqian Tong, Wenxuan Wei, Yuru Zhang, Jing Xiao, Dangxiao Wang" link="https://doi.org/10.1109/TOH.2023.3266199">}}
+{{<programEntry id="ToH6" title="Cable-Driven Haptic Interface With Movable Bases Achieving Maximum Workspace and Isotropic Force Exertion	Jinhyuk Yoon, Donghyeon Lee, Junyong Bang, Hyung Gon Shin, Wan Kyun Chung, Keehoon Kim, Seungmoon Choi" link="https://doi.org/10.1109/TOH.2023.3286353">}}
+{{<programEntry id="ToH7" title="Defining Allowable Stimulus Ranges for Position and Force Controlled Cutaneous Cues	Janelle P. Clark, Marcia K. O’Malley" link="https://doi.org/10.1109/TOH.2023.3286306">}}
+{{<programEntry id="ToH8" title="Social and Emotional Touch Between Romantic Partners is Affectively More Pleasant Due to Finely Tuned Contact Interactions	Shan Xu, Gregory J. Gerling" link="https://doi.org/10.1109/TOH.2023.3293070">}}
+{{<programEntry id="ToH9" title="Focused vibrotactile stimuli from a wearable sparse array of actuators	Valerie de Vlam, Michael Wiertlewski, Yasemin Vardar" link="https://doi.org/10.1109/TOH.2023.3270362">}}
+{{<programEntry id="ToH10" title="Interday Reliability of Upper-limb Geometric MyoPassivity Map for Physical Human-Robot Interaction	Xingyuan Zhou, Peter Paik, Rory O'Keeffe, S. Farokh Atashzar" link="https://doi.org/10.1109/TOH.2023.3277453">}}
+{{<programEntry id="ToH11" title="Investigating the Haptic Perception of Directional Information Within a Handle	Inès Lacote, Claudio Pacchierotti, Marie Babel, David Gueorguiev, Maud Marchal" link="https://doi.org/10.1109/TOH.2023.3279510">}}
+{{<programEntry id="ToH12" title="Mechanofluidic Instability-Driven Wearable Textile Vibrotactor	Nathaniel Fino, Barclay Jumet, Zane Zook, Daniel Preston, Marcia O'Malley" link="https://doi.org/10.1109/TOH.2023.3271128">}}
+{{<programEntry id="ToH13" title="On the Correlation Between Tactile Stimulation and Pleasantness	Nicole D'Aurizio, Teresa Ramundo, Tommaso Lisini Baldi, Alessandro Moscatelli, Domenico Prattichizzo" link="https://doi.org/10.1109/TOH.2023.3322557">}}
+{{<programEntry id="ToH14" title="Tactile Features of Human Finger Contact Motor Primitives	Qianqian Tian, Jixiao Liu, Kuo Liu, Shijie Guo" link="https://doi.org/10.1109/TOH.2023.3332402">}}
+{{<programEntry id="ToH15" title="Tactile Feedback in Upper Limb Prosthetics: A Pilot Study on Trans-Radial Amputees Comparing Different Haptic Modalities	Federica Barontini, Alina Obermeier, Manuel Catalano, Simone Fani, Giorgio Grioli, Matteo Bianchi, Antonio Bicchi, Eike Jakubowitz" link="https://doi.org/10.1109/TOH.2023.3322559">}}
+{{<programEntry id="ToH16" title="Ultraloop: Active lateral force feedback using resonant traveling waves	Zhaochong Cai, Michael Wiertlewski" link="https://doi.org/10.1109/TOH.2023.3276590">}}
+{{<programEntry id="ToH17" title="A Perceptual Model-Based Approach to Plausible Authoring of Vibration for the Haptic Metaverse	Robert Rosenkranz, M. Ercan Altinsoy" link="https://doi.org/10.1109/TOH.2023.3318644">}}
+{{<programEntry id="ToH18" title="Perceived Realism of Virtual Textures Rendered by a Vibrotactile Wearable Ring Display	Rebecca Fenton Friesen, Yasemin Vardar" link="https://doi.org/10.1109/TOH.2023.3304899">}}
+{{<programEntry id="ToH19" title="Between-Tactor Display Using Dynamic Tactile Stimuli for Directional Cueing in Vibrating Environments	Ryo Eguchi, David Vacek, Cole Godzinski, Allison M. Okamura" link="https://doi.org/10.1109/TOH.2023.3304953">}}
+{{<programEntry id="ToH20" title="Haptic Guidance and Haptic Error Amplification in a Virtual Surgical Robotic Training Environment	Yousi A. Oquendo, Margaret M. Coad, Sherry M. Wren, Thomas S. Lendvay, Ilana Nisky, Anthony M. Jarc, Allison M. Okamura, Zonghe Chua" link="https://doi.org/10.1109/TOH.2024.3350128">}}
+{{<programEntry id="ToH21" title="Haptic Magnetism	Tor-Salve Dalsgaard, Kasper Hornbæk, Joanna Bergström" link="https://doi.org/10.1109/TOH.2023.3299528">}}
+{{<programEntry id="ToH22" title="How Positioning Wearable Haptic Interfaces on Limbs Influences Virtual Embodiment	Anany Dwivedi, Shihan Yu, Chenxu Hao, Gionata Salvietti, Domenico Prattichizzo, Philipp Beckerle" link="https://doi.org/10.1109/TOH.2023.3347351">}}
+{{<programEntry id="ToH23" title="Interpersonal Transmission of Vibrotactile Feedback Via Smart Bracelets: Mechanics and Perception	Taku Hachisu, Gregory Reardon, Yitian Shao, Kenji Suzuki, Yon Visell" link="https://doi.org/10.1109/TOH.2023.3327394">}}
+{{<programEntry id="ToH24" title="Investigating the Effects of Intensity and Frequency on Vibrotactile Spatial Acuity	Bingjian Huang, Paul H. Dietz, Daniel Wigdor" link="https://doi.org/10.1109/TOH.2024.3350929">}}
+{{<programEntry id="ToH25" title="RecHap: An Interactive Recommender System For Navigating a Large Number of Mid-Air Haptic Designs	Karthikan Theivendran, Andy Wu, William Frier, Oliver Schneider" link="https://doi.org/10.1109/TOH.2023.3276812">}}
+
+{{</programTable>}}
+
 ## IEEE Transactions on Haptics Poster Layout
 
 ![IEEE Transactions on Haptics Poster Layout](/img/hs2024_Posters-layout.png)
