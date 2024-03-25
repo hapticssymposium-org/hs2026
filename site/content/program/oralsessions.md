@@ -5,13 +5,13 @@ weight: 4
 
 # Oral Sessions
 
-{{<simpleLastUpdate date="March 21, 2024">}}
+{{<simpleLastUpdate date="March 25, 2024">}}
 
 ## Session 1
 **Perception and Psychophysics**  
 Monday, April 8, 9:00 a.m. - 10:30 a.m.  
 *- Salon de Reyes*  
-Session Chair:
+Session Chairs: Shogo Okamoto & Cara M. Nunez
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:15 a.m." title="Bumps and Dents Are Not Perceptually Opposite When Exploring with Lateral Force Cues" author="Shogo Okamoto">}}
@@ -26,7 +26,7 @@ Session Chair:
 **Human Performance and Biomechanics**  
 Monday, April 8, 11:00 a.m. - 12:30 p.m.  
 *- Salon de Reyes*  
-Session Chair:
+Session Chairs: Matteo Bianchi & Yon Visell
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:15 a.m." title="Enhancing User Performance by Adaptively Changing Haptic Feedback Cues in a Fitts's Law Task" author="Drake Rowland, Benjamin Davis, Taylor Higgins, Ann Majewicz Fey">}}
@@ -41,7 +41,7 @@ Session Chair:
 **Assistive and Social Haptics**  
 Monday, April 8, 11:00 a.m. - 12:30 p.m.  
 *- Miramar*  
-Session Chair:
+Session Chairs: Mounia Ziat & Sara Alzalabny
 
 {{<programTable>}}
 {{<programEntry time=" 11:00 a.m. - 11:15 a.m." title="Determining the Minimal Deviation Limit for Haptic Feedback in Veering Correction During Blindfolded Walking" author="Mounia Ziat, Ariunbold Batjargal, Mehdi Hojatmadani, Shuangshuang Xiao">}}
@@ -56,7 +56,7 @@ Session Chair:
 **Haptic Rendering**  
 Monday, April 8, 3:45 p.m. - 4:45 p.m.  
 *- Salon de Reyes*  
-Session Chair:
+Session Chairs: Kouta Minamizawa & Hiroyuki Kajimoto
 
 {{<programTable>}}
 {{<programEntry time="3:45 p.m. - 4:00 p.m." title="Stereohaptic Vibration: Out-of-body Localization of Virtual Vibration Source through Multiple Vibrotactile Stimuli on the Forearms" author="Gen Ohara, Kikuchi Daiki, Masashi Konyo, Satoshi Tadokoro">}}
@@ -69,7 +69,7 @@ Session Chair:
 **Medical Haptics**  
 Monday, April 8, 3:45 p.m. - 4:45 p.m.  
 *- Miramar*  
-Session Chair:
+Session Chairs: Tania K. Morimoto & Edoardo Battaglia
 
 {{<programTable>}}
 {{<programEntry time="3:45 p.m. - 4:00 p.m." title="Origami-based Haptic Syringe for Local Anesthesia Simulator" author="Ken Iiyoshi, Shadi Khazaaleh, Ahmed Dalaq, Mohammed F. Daqaq, Georgios Korres, Mohamad Eid">}}
@@ -82,7 +82,7 @@ Session Chair:
 **Wearable and Hand-held Devices**  
 Tuesday, April 9, 9:00 a.m. - 10:30 a.m.  
 *- Salon de Reyes*  
-Session Chair:
+Session Chairs: Tommaso Lisini Baldi & Hong Tan
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:15 a.m." title="Comparing the Perceived Intensity of Vibrotactile Cues Scaled Based on Inherent Dynamic Range" author="Daziyah Sullivan, Elyse Chase, Marcia Omalley">}}
@@ -97,7 +97,7 @@ Session Chair:
 **Dynamic Systems and Control**  
 Tuesday, April 9, 11:00 a.m. - 12:00 p.m.  
 *- Salon de Reyes*  
-Session Chair:
+Session Chairs: Michael Zinn & Jee-Hwan Ryu
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:15 a.m." title="Force-feedback through Touch-based Interactions with a Nanocopter" author="Yang Chen, Hamed Alimohammadzadeh, Shahram Ghandeharizadeh, Heather Culbertson">}}
@@ -110,7 +110,7 @@ Session Chair:
 **Haptics in Gaming and Virtual Reality**  
 Tuesday, April 9, 11:00 a.m. - 12:00 p.m.  
 *- Miramar*  
-Session Chair:
+Session Chairs: Allison M. Okamura & Seungmoon Choi
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:15 a.m." title="Horizontal Plane Haptic Redirection - Realizing Haptic Feedback for the Virtual Inclined Plane in VR" author="Dexin Liu, Hengxin Chen">}}
@@ -123,7 +123,7 @@ Session Chair:
 **Teleoperation, Monitoring, and Sensing**  
 Tuesday, April 9, 3:30 p.m. - 5:00 p.m.  
 *- Salon de Reyes*  
-Session Chair:
+Session Chairs: Gregory J. Gerling & Jozsef Kovecses
 
 {{<programTable>}}
 {{<programEntry time="3:30 p.m. - 3:45 p.m." title="Haptic Interactions Subject to Variable Latency" author="Chantal Lana Hutchison, Joseph Hewlett, Siamak Arbatani, Antoine Weill--Duflos, Jozsef Kovecses">}}
@@ -137,7 +137,7 @@ Session Chair:
 **Device Design**  
 Wednesday, April 10, 9:00 a.m. - 10:30 a.m.  
 *- Salon de Reyes*  
-Session Chair:
+Session Chairs: Yasemin Vardar & Masashi Konyo
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:15 a.m." title="Layer Jammers in a Simulated Environment Soft Haptic (S.E.S.H.) Glove" author="Ben Levy, Megh Vipul Doshi, Keng-Yu Lin, Michael Wehner">}}
@@ -151,7 +151,7 @@ Session Chair:
 **Multimodal Systems**  
 Wednesday, April 10, 9:00 a.m. - 10:30 a.m.  
 *- Miramar*  
-Session Chair:
+Session Chairs: Gunhyuk Park & Katherine J. Kuchenbecker
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:15 a.m." title="Multimodal Haptic Feedback for Virtual Collisions Combining Vibrotactile and Electrical Muscle Stimulation" author="Jungeun Lee, Seungmoon Choi">}}
