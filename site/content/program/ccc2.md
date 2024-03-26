@@ -30,7 +30,6 @@ Recent research underscores haptic technology's potential to enhance user experi
 {{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Advances in sensory-enabling technologies: the case of haptic stimulation in mobile experiences">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBD">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="Designing the social futures of digital touch">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Birznieks.jpg" name="Ingvars Birznieks" affiliation="UNSW Sydney" title="Soft Touch Helps Movement">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Exploring the ethical implications of digital touch through a speculative approach">}}
 
 
@@ -39,7 +38,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 4:00 p.m. - 5:30 p.m. - *Miramar*
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBDz">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBD">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Speculations on future consumer experiences supported by digital touch and creative technologies">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price and Carey Jewitt" affiliation="University College London" title="Designing the social futures of digital touch">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Schneider.jpg" name="Oliver Schneider" affiliation="University of Waterloo" title="Transdisciplinary co-design of haptics for restorative justice">}}
