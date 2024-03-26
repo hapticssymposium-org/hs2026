@@ -52,8 +52,8 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 {{<cccPresenter imFile="/img/hs2024_CCC-Bianchi.jpg" name="Matteo Bianchi" affiliation="University of Pisa" title="Human-Inspired Softness Perception for Artificial Tactile Sensing and Tactile Augmented Reality">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-MacleanAndVyas.jpg" name="Karon Maclean and Preeti Vyas" affiliation="University of British Columbia" title="The Role of Softness in Touchable Comfort Objects, from a Diversity of Toucher Perspectives">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Devecioglu.png" name="Ismail Devecioglu" affiliation="UNSW & Tekirdag Namık Kemal University" title="The Passive Mechanical Behavior of Human Fingertip Soft Tissue Can Alter Manipulative Force Balance Depending on Friction Level at the Skin-Object Interface">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Jones.png" name="Lynette Jones" affiliation="MIT" title="Perceiving Wetness: A Synthesized Experience">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Devecioglu.jpg" name="Ismail Devecioglu" affiliation="UNSW & Tekirdag Namık Kemal University" title="The Passive Mechanical Behavior of Human Fingertip Soft Tissue Can Alter Manipulative Force Balance Depending on Friction Level at the Skin-Object Interface">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Jones.jpg" name="Lynette Jones" affiliation="MIT" title="Perceiving Wetness: A Synthesized Experience">}}
 
 ## (CLOSED) Call for individual contributions
 
