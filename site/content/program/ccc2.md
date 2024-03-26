@@ -5,43 +5,56 @@ weight: 3
 # Cross-Cutting Challenge | Haptics for Impact: Consumer Value, Ethics, Diversity
 Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 
-Coming soon.
-
-<!--
-
-{{<simpleLastUpdate date="March 21, 2024">}}
+{{<simpleLastUpdate date="March 26, 2024">}}
 
 ## Organizers
 
-* Margot Racat, IDRAC Business School
-* Manuel Cruz, Innovobot
-* Oliver Schneider, University of Waterloo
+{{<organizerFlex>}}
+  {{<cccOrganizer imFile="/img/hs2024_CCC-Racat.jpg" imWidth="100%" name="Margot Racat" affiliation="IDRAC Business School">}}
+  {{<cccOrganizer imFile="/img/hs2024_CCC-Oliver.jpg" imWidth="100%" name="Oliver Schneider" affiliation="University of Waterloo">}}
+  {{<cccOrganizer imFile="/img/hs2024_CCC-Cruz.jpg" imWidth="100%" name="Manuel Cruz" affiliation="Innovobot">}}
+{{</organizerFlex>}}
+{{<simpleLineBreak>}}
+
 
 ## Description
 
-Haptics is a rapidly growing field with many new devices, software technologies, and psychological insights. In the meantime, public awareness has increased, with media portrayals like Ready Player One and high-profile consumer devices incorporating haptics, such as smartphones, laptops, and game controllers. Moreover, societal changes like social distancing and remote work have also highlighted our need for touch in life and work. Yet, we still face the cross-cutting challenge of understanding the value of haptics for society and business. As we seek to understand the value of haptic technology, ethical concerns immediately arise around issues of consent, influence, accessibility, privacy, and agency. We also see challenges surrounding the diversity of people who would experience haptics.
+Haptics, the science of touch and its application in technology, is experiencing rapid growth, driven by advances in devices, software, and a deeper understanding of its psychological impacts. The societal shifts towards social distancing and remote work have further underscored the importance of touch in both personal and professional contexts. Despite its growing presence, challenges remain in fully appreciating haptics' societal and business value, including ethical issues related to consent, influence, accessibility, privacy, and the need to cater to a diverse user base.
 
-Recent work has started to show how haptic technologies can contribute to improved user and consumer experience. Studies have shown that haptics can modify user experience measures, for instance, improving customer's interactions by providing a more realistic, and enjoyable digital experience. As a consequence, consumers feel more engaged with brands and have an increased intention to purchase and pay. Higher engagement with brands is not the only benefit of such technologies, however: importantly, a richer and more interactive digital experience has also given rise to better education and higher engagement with social causes.
-
-We propose to **bring the haptics community together with business and humanities scholars** to critically examine the impact haptics can have in people’s day-to-day lives, the ethics surrounding haptic technology use, and the impact of culture and diversity on those experiences. This cross-cutting challenge will take an interdisciplinary approach to think about three key aspects of sensory-enabling technologies surrounding the sense of touch:
-
-* **Consumer value:** Haptics can bring value to individuals in many ways, in very direct ways (training and simulation, rehabilitation) and less obvious ways (consumer experience, social connection). We challenge the community to think broadly about what value their work can bring to people, and how to measure it.
-* **Consumer ethics:** As haptic technology is increasingly incorporated into consumer technology, it becomes more critical to think about ethical considerations around competing organizational and individual goals. We aim to discuss issues about consent, influence, accessibility, privacy, agency, and other concerns involving technology-mediated touch.
-* **Consumer diversity:** Touch is for everyone, as a fundamental way for people to understand their world, whether it is a physical, digital, or social environment. We hope to discuss how diverse backgrounds, capabilities, and cultural contexts influence haptics, and motivate the need for personalization and adaptability. We seek to explore the interaction between these goals and the emerging standardization of haptic technology.
-
-The challenge will involve three invited speakers on our three themes (consumer value, ethics, diversity), and then include an interactive poster session for attendees from different backgrounds to connect and discuss the challenge. We will conclude with reflection from the organizers on how to continue work on this challenge after the workshop.
+Recent research underscores haptic technology's potential to enhance user experience, improve customer engagement, and foster deeper connections with brands and social causes through more immersive and interactive digital experiences. This CCC is a call for the haptics community, business, and humanities scholars to collaborate, critically examining haptics' impact on daily life, its ethical implications, and how culture and diversity affect user experiences. This interdisciplinary effort aims to address three core aspects: the broad value haptics can offer to consumers, ethical considerations as haptic technology becomes more prevalent in consumer products, and the importance of accommodating diverse user experiences. This proposed initiative includes talks on these themes and interactive sessions to foster dialogue among participants, concluding with reflections on continuing these explorations beyond the workshop.
 
 ## Keynote Talks
 
-2:00 p.m. - 4:15 p.m. - *Salon de Reyes*
+2:00 p.m. - 4:00 p.m. - *Salon de Reyes*
+
+{{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Advances in sensory-enabling technologies: the case of haptic stimulation in mobile experiences">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="Designing the social futures of digital touch">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Birznieks.jpg" name="Ingvars Birznieks" affiliation="UNSW Sydney" title="Soft Touch Helps Movement">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Exploring the ethical implications of digital touch through a speculative approach">}}
+
 
 ## Interactive Posters
 
-4:15 p.m. - 5:30 p.m. - *Miramar*
+4:00 p.m. - 5:30 p.m. - *Miramar*
+
+{{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBDz">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Speculations on future consumer experiences supported by digital touch and creative technologies">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price and Carey Jewitt" affiliation="University College London" title="Designing the social futures of digital touch">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Schneider.jpg" name="Oliver Schneider" affiliation="University of Waterloo" title="Transdisciplinary co-design of haptics for restorative justice">}}
+
+{{<cccPresenter imFile="/img/hs2024_CCC-Cruz.jpg" name="Manuel Cruz" affiliation="Innovobot Labs." title="Value of Haptics">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-TengAndLopes.jpg" name="Shan-Yuan Teng and Pedro Lopes" affiliation="University of Chicago" title="Enabling Haptic Experiences Anywhere, Anytime">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Spiers.jpg" name="Adam Spiers" affiliation="Imperial College London" title="Spatial Guidance via Shape-Changing Haptics for Visually Impaired People">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Levesque.jpg" name="Vincent Lévesque" affiliation="École de Technologie Supérieure" title="CanHap 501: Learning haptic UX design in remote teams">}}
+{{<cccPresenter imFile="/img/hs-logo.png" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="TBD">}}
+
+{{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="TBD">}}
+
 
 ## (CLOSED) Call for individual contributions
 
 We seek attendee contributions to be presented as a **poster in an interactive session**. To submit a poster proposal, please send a title and 500 word abstract discussing how your work in haptics links to the three main themes: consumer value, ethics, diversity. We especially invite submissions from people with disciplinary backgrounds underrepresented in the haptics community, including **business, social sciences, humanities, and liberal and fine arts**. Engineers and scientists are also very welcome to present their work by linking it to the challenge themes. ~~Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.~~
 
 Please submit your proposal by ~~February 9, 2024~~**February 16, 2024 (extended)** by emailing the organizers ([margot.racat@idrac-bs.fr](mailto:margot.racat@idrac-bs.fr), [mcruz@innovobot.com](mailto:mcruz@innovobot.com), [oliver.schneider@uwaterloo.ca](mailto:oliver.schneider@uwaterloo.ca)). 
--->
