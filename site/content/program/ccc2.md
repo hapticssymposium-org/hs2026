@@ -11,7 +11,7 @@ Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 
 {{<organizerFlex>}}
   {{<cccOrganizer imFile="/img/hs2024_CCC-Racat.jpg" imWidth="100%" name="Margot Racat" affiliation="IDRAC Business School">}}
-  {{<cccOrganizer imFile="/img/hs2024_CCC-Oliver.jpg" imWidth="100%" name="Oliver Schneider" affiliation="University of Waterloo">}}
+  {{<cccOrganizer imFile="/img/hs2024_CCC-Schneider.jpg" imWidth="100%" name="Oliver Schneider" affiliation="University of Waterloo">}}
   {{<cccOrganizer imFile="/img/hs2024_CCC-Cruz.jpg" imWidth="100%" name="Manuel Cruz" affiliation="Innovobot">}}
 {{</organizerFlex>}}
 {{<simpleLineBreak>}}
