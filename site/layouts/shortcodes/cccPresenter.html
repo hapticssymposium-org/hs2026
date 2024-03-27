@@ -1,17 +1,12 @@
-<div class="presenter" style="display: flex; flex-wrap: wrap;">
-    <img class="cropped" src="{{.Get `imFile`}}" {{with .Get "cropPos"}} style="object-position:{{ . }}" {{end}}>
-    <div style="flex-basis: 100%;">
-        <p><span style="color:grey"> Title: </span><br><span style="font-weight:bold;">{{.Get "title"}}</span></p>
-    </div>
-    <div style="flex-basis: 100%;">
-        <p><span style="color:grey"> Presenter: </span><br><span style="font-weight:bold;">{{.Get "name"}}</span> - {{.Get "affiliation"}}</p>
-    </div>
+<div class="presenter">
+<img class="cropped" src="{{.Get `imFile`}}" {{with .Get "cropPos"}} style="object-position:{{ . }}" {{end}}>
+    <p style="padding-left:330px"> <span style="color:grey"> Title: </span> <br> <span style="font-weight:bold"> {{.Get "title"}} </span></p>
+    <p style="padding-left:330px"> <span style="color:grey"> Presenter: </span> <br> <span style="font-weight:bold"> {{.Get "name"}} </span> - {{.Get "affiliation"}} </p>
     {{ with .Get "coauthors" }}
-        <div style="flex-basis: 100%;">
-            <p><span style="color:grey">Coauthor:</span></p>
-            {{ range $index, $coauthor := split . "; " }}
-                <p>{{ $coauthor }}</p>
-            {{ end }}
-        </div>
+        <p style="padding-left:330px"><span style="color:grey">Coauthor:</span>
+        {{ range $index, $coauthor := split . "; " }}
+            <br>{{ $coauthor }}
+        {{ end }}
     {{ end }}
 </div>
+<div style="clear:both"></div>
