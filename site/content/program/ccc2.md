@@ -37,7 +37,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 
 4:00 p.m. - 5:30 p.m. - *Miramar*
 
-{{<cccPresenterWithCoauthors imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthor="John Dinsmore - Wright Business School<br>Daria Plotkina - EM Strasbourg">}}
+{{<cccPresenterWithCoauthors imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthor="John Dinsmore - Wright Business School, Daria Plotkina - EM Strasbourg">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBD">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Speculations on future consumer experiences supported by digital touch and creative technologies">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="From Manifesto to Designing Digital Touch Futures">}}
@@ -46,7 +46,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 {{<cccPresenter imFile="/img/hs2024_CCC-Cruz.jpg" name="Manuel Cruz" affiliation="Innovobot Labs." title="Value of Haptics">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-TengAndLopes.jpg" name="Shan-Yuan Teng and Pedro Lopes" affiliation="University of Chicago" title="Enabling Haptic Experiences Anywhere, Anytime">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Spiers.jpg" name="Adam Spiers" affiliation="Imperial College London" title="Spatial Guidance via Shape-Changing Haptics for Visually Impaired People">}}
-{{<cccPresenterWithCoauthors imFile="/img/hs2024_CCC-Levesque.jpg" name="Vincent Lévesque" affiliation="École de Technologie Supérieure" title="CanHap 501: Learning haptic UX design in remote teams" coauthors="Oliver Schneider - University of Waterloo<br>Pascal Fortin - Université de Québec, Chicoutimi<br>Pourang Irani - The University of British Columbia<br>Jeremy Cooperstock - McGill University<br>Karon MacLean - The University of British Columbia">}}
+{{<cccPresenterWithCoauthors imFile="/img/hs2024_CCC-Levesque.jpg" name="Vincent Lévesque" affiliation="École de Technologie Supérieure" title="CanHap 501: Learning haptic UX design in remote teams" coauthor="Oliver Schneider - University of Waterloo, Pascal Fortin - Université de Québec, Chicoutimi, Pourang Irani - The University of British Columbia, Jeremy Cooperstock - McGill University, Karon MacLean - The University of British Columbia">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Bloom.jpg" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="TBD">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="TBD">}}
