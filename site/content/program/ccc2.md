@@ -37,7 +37,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 
 4:00 p.m. - 5:30 p.m. - *Miramar*
 
-{{<cccPresenterWithCoauthors imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthor1="John Dinsmore - Wright Business School" coauthor2="Daria Plotkina - EM Strasbourg">}}
+{{<cccPresenterWithCoauthors imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthor="John Dinsmore - Wright Business School, Daria Plotkina - EM Strasbourg">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBD">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Speculations on future consumer experiences supported by digital touch and creative technologies">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="From Manifesto to Designing Digital Touch Futures">}}
