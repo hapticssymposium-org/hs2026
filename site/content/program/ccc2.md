@@ -47,7 +47,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 {{<cccPresenter imFile="/img/hs2024_CCC-TengAndLopes.jpg" name="Shan-Yuan Teng and Pedro Lopes" affiliation="University of Chicago" title="Enabling Haptic Experiences Anywhere, Anytime">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Spiers.jpg" name="Adam Spiers" affiliation="Imperial College London" title="Spatial Guidance via Shape-Changing Haptics for Visually Impaired People">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Levesque.jpg" name="Vincent Lévesque" affiliation="École de Technologie Supérieure" title="CanHap 501: Learning haptic UX design in remote teams">}}
-{{<cccPresenter imFile="/img/hs-logo.png" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Bloom.jpg" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="TBD">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="TBD">}}
 
