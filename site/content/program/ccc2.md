@@ -5,7 +5,7 @@ weight: 3
 # Cross-Cutting Challenge | Haptics for Impact: Consumer Value, Ethics, Diversity
 Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 
-{{<simpleLastUpdate date="March 26, 2024">}}
+{{<simpleLastUpdate date="April 1, 2024">}}
 
 ## Organizers
 
@@ -19,7 +19,7 @@ Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 
 ## Description
 
-Haptics, the science of touch and its application in technology, is experiencing rapid growth, driven by advances in devices, software, and a deeper understanding of its psychological impacts. The societal shifts towards social distancing and remote work have further underscored the importance of touch in both personal and professional contexts. Despite its growing presence, challenges remain in fully appreciating haptics' societal and business value, including ethical issues related to consent, influence, accessibility, privacy, and the need to cater to a diverse user base.
+Haptics, the science of touch and its application in technology, is experiencing rapid growth, driven by advances in devices, software, and a deeper understanding of its psychological impacts. The societal shifts towards social distancing and remote work have further underscored the importance of touch in both personal and professional contexts. Despite its growing presence, challenges remain in fully understanding haptics' societal and business value, including ethical issues related to consent, influence, accessibility, privacy, and the need to cater to a diverse user base.
 
 Recent research underscores haptic technology's potential to enhance user experience, improve customer engagement, and foster deeper connections with brands and social causes through more immersive and interactive digital experiences. This CCC is a call for the haptics community, business, and humanities scholars to collaborate, critically examining haptics' impact on daily life, its ethical implications, and how culture and diversity affect user experiences. This interdisciplinary effort aims to address three core aspects: the broad value haptics can offer to consumers, ethical considerations as haptic technology becomes more prevalent in consumer products, and the importance of accommodating diverse user experiences. This proposed initiative includes talks on these themes and interactive sessions to foster dialogue among participants, concluding with reflections on continuing these explorations beyond the workshop.
 
@@ -28,7 +28,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 2:00 p.m. - 4:00 p.m. - *Salon de Reyes*
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Advances in sensory-enabling technologies: the case of haptic stimulation in mobile experiences">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="“You’ll feel parkour”: How the Owo gaming shirt constructs and enacts the technohaptic real">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="Designing the social futures of digital touch">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Exploring the ethical implications of digital touch through a speculative approach">}}
 
@@ -47,9 +47,11 @@ Recent research underscores haptic technology's potential to enhance user experi
 {{<cccPresenter imFile="/img/hs2024_CCC-TengAndLopes.jpg" name="Shan-Yuan Teng and Pedro Lopes" affiliation="University of Chicago" title="Enabling Haptic Experiences Anywhere, Anytime">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Spiers.jpg" name="Adam Spiers" affiliation="Imperial College London" title="Spatial Guidance via Shape-Changing Haptics for Visually Impaired People">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Levesque.jpg" name="Vincent Lévesque" affiliation="École de Technologie Supérieure" title="CanHap 501: Learning haptic UX design in remote teams" coauthors="Oliver Schneider - University of Waterloo; Pascal Fortin - Université de Québec, Chicoutimi; Pourang Irani - The University of British Columbia; Jeremy Cooperstock - McGill University; Karon MacLean - The University of British Columbia">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Bloom.jpg" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Bloom.jpg" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="H3Kit: Hand-Held Haptic Kit for STEM Education">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Choi.jpg" name="Seungmoon Choi" affiliation="Pohang University of Science and Technolog" title="Automatic Generation of Haptic and Motion Effects from Audiovisual Streams">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Pozo.jpg" name="Teddy Pozo" affiliation="Occidental College" title="Haptic Technologies of Queer and Trans Games">}}
 
 
 ## (CLOSED) Call for individual contributions
