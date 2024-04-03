@@ -17,7 +17,7 @@ Please see the description of the CCCs for more details:
 * *[Haptics for Impact: Consumer Value, Ethics, Diversity](./haptics-for-impact/)*
 -->
 * *[Frontiers of Softness in Science and Engineering](../../../program/ccc1)*
-* *[Haptics for Impact: Consumer Value, Ethics, Diversity](./haptics-for-impact/)*
+* *[Haptics for Impact: Consumer Value, Ethics, Diversity](../../../program/ccc2)*
 
 
 
