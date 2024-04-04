@@ -52,7 +52,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 {{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="TBD">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Choi.jpg" name="Seungmoon Choi" affiliation="Pohang University of Science and Technolog" title="Automatic Generation of Haptic and Motion Effects from Audiovisual Streams">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Pozo.jpg" name="Teddy Pozo" affiliation="Occidental College" title="Haptic Technologies of Queer and Trans Games">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Nunez.jpg" name="Cara M. Nunez" affiliation="Cornell University" title="Haptics for Affective Touch: Current Technologies, Potential Impact, and Discussions on Future Work" coauthors="Doris Xu - Cornell University; Xin Zhu - University of Southern California">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Nunez.jpg" name="Cara M. Nunez" affiliation="Cornell University" title="Haptics for Affective Touch: Current Technologies, Potential Impact, and Discussions on Future Work" coauthors="Doris Xu - Cornell University; Xin Zhu - University of Southern California; Heather Culbertson - University of Southern California">}}
 
 ## (CLOSED) Call for individual contributions
 
