@@ -45,7 +45,7 @@ In summary, the aim of this CCC is deepening understanding of softness perceptio
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Vardar.jpg" name="Yasemin Vardar" affiliation="Delft Univresity of Technology" title="The Role of Softness in Material Perception and Rendering Material Softness in Digital Environments">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Kajimoto.jpg" name="Hiroyuki Kajimoto" affiliation="University Electro-communication" title="Softness Presentation by Electro-Tactile Stimulation and Force Feedback">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Konyo.jpg" name="Masahi Konyo" affiliation="Tohoku University" title="Representing Softness Based on the Contact Distribution Using a High-Resolution Suction Tactile Display">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Konyo.jpg" name="Masashi Konyo" affiliation="Tohoku University" title="Representing Softness Based on the Contact Distribution Using a High-Resolution Suction Tactile Display">}}
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Brown.jpg" name="Joshua Brown" affiliation="Imperial College London" title="Using Particle Jamming to Create Soft Haptic Interfaces for Medical Simulation">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jeon.jpg" name="Seokhee Jeon" affiliation="Kyung Hee University" title="Realistic Haptic Rendering of Softness: Realtime FEM Simulation of Hyper-Elastic Deformation and Soft Actuators for Stiffness Display">}}
