@@ -4,9 +4,13 @@
     </tr>
 {{ end }}
 
-{{ if ne (.Get "id") "" }}
     <tr>
-        <td width="20%">{{.Get "id"}}:</td>
+        {{ if ne (.Get "id") "" }}
+            <td width="20%">{{.Get "id"}}:</td>
+        {{else}}
+            <td width="20%"></td>
+        {{end}}
+
         {{ if ne (.Get "link") "" }}
             <td width="80%"><a href="{{.Get "link"}}">{{.Get "title"}}</a></td>
         {{else}}
@@ -17,18 +21,13 @@
         <td width="20%"></td>
         <td width="80%"><span style="color: #808080;">{{.Get "author"}}</span></td>
     </tr>
-{{ else }}
-    <tr>
-        {{ if ne (.Get "link") "" }}
-            <td><a href="{{.Get "link"}}">{{.Get "title"}}</a></td>
-        {{else}}
-            <td>{{.Get "title"}}</td>
-        {{end}}
-    </tr>
-    <tr>
-        <td><span style="color: #808080;">{{.Get "author"}}</span></td>
-    </tr>
-{{ end }}
+    {{ if ne (.Get "youtube") "" }}
+        <tr>
+            <td width="20%"></td>
+            <td width="80%"><a href="{{.Get "youtube"}}">Preview video (YouTube)</a></td>
+        </tr>
+    {{end}}
+
 
 <tr style="height: 10px;">
     <td>&nbsp;</td>
