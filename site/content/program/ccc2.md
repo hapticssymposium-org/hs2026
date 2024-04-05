@@ -37,8 +37,8 @@ Recent research underscores haptic technology's potential to enhance user experi
 
 4:00 p.m. - 5:30 p.m. - *Miramar*
 
-{{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthors="John Dinsmore - Wright Business School; Daria Plotkina - EM Strasbourg">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthors="John Dinsmore - Wright State University; Daria Plotkina - EM Strasbourg">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="“You’ll feel parkour”: How the Owo gaming shirt constructs and enacts the technohaptic real">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Speculations on future consumer experiences supported by digital touch and creative technologies">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="From Manifesto to Designing Digital Touch Futures">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Schneider.jpg" name="Oliver Schneider" affiliation="University of Waterloo" title="Transdisciplinary co-design of haptics for restorative justice">}}
@@ -49,7 +49,7 @@ Recent research underscores haptic technology's potential to enhance user experi
 {{<cccPresenter imFile="/img/hs2024_CCC-Levesque.jpg" name="Vincent Lévesque" affiliation="École de Technologie Supérieure" title="CanHap 501: Learning haptic UX design in remote teams" coauthors="Oliver Schneider - University of Waterloo; Pascal Fortin - Université de Québec, Chicoutimi; Pourang Irani - The University of British Columbia; Jeremy Cooperstock - McGill University; Karon MacLean - The University of British Columbia">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Bloom.jpg" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="H3Kit: Hand-Held Haptic Kit for STEM Education">}}
 
-{{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="Five Stimulating Marketing Applications for Haptics">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Choi.jpg" name="Seungmoon Choi" affiliation="Pohang University of Science and Technolog" title="Automatic Generation of Haptic and Motion Effects from Audiovisual Streams">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Pozo.jpg" name="Teddy Pozo" affiliation="Occidental College" title="Haptic Technologies of Queer and Trans Games">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Nunez.jpg" name="Cara M. Nunez" affiliation="Cornell University" title="Haptics for Affective Touch: Current Technologies, Potential Impact, and Discussions on Future Work" coauthors="Doris Xu - Cornell University; Xin Zhu - University of Southern California; Heather Culbertson - University of Southern California">}}
