@@ -8,6 +8,6 @@ layout: "single"
 
 {{<simpleLastUpdate date="March 8, 2024">}}
 
-[Download Proceedings](/proceedings/)
+[Download Proceedings](/program/overview/proceedings/)
 
 {{<programOverview>}}
