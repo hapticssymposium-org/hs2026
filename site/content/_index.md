@@ -38,21 +38,21 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 {{<simpleLineBreak>}}
 The Haptics Symposium would like to sincerely thank the following organizations for their support:
 {{<sponsorFlexContainer contentJustification="center">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical1.jpg" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical2.jpg" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Technical3.jpg" imWidth="100%" containerWidth="24%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-IEEE.jpg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-IEEE_RAS.jpg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-TCH.jpg" imWidth="100%" containerWidth="24%">}}
 {{</sponsorFlexContainer>}}
 {{<sponsorFlexContainer contentJustification="center">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Platinum.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Gold.jpg" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Bronze.svg" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-WIP.jpg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-RealityLabs.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Polytec.jpg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Resense.svg" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-ForceDimension.png" imWidth="100%" containerWidth="14%">}}
 {{</sponsorFlexContainer>}}
 {{<sponsorFlexContainer contentJustification="center">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Exhibitor.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award1.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award2.png" imWidth="100%" containerWidth="14%">}}
-    <!-- {{<sponsorLogo imFile="/img/hs2024_Sponsor-Award3.png" imWidth="100%" containerWidth="14%">}} -->
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-3DSystems.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-PUIAudio.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-UBC.png" imWidth="100%" containerWidth="14%">}}
+
 {{</sponsorFlexContainer>}}
 
 {{<simpleLineBreak>}}
