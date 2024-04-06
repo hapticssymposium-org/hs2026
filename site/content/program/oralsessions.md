@@ -7,9 +7,9 @@ weight: 4
 
 {{<simpleLastUpdate date="April 6, 2024">}}
 
-[Technical Papers Preview Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBUBlgCpK3jKjfPnQPgvopQm)
-
 [IEEE ToH Short Papers Preview Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBXIe8GxECfcI5EkIBtUq5Pn)
+
+[Technical Papers Preview Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBUBlgCpK3jKjfPnQPgvopQm)
 
 ## Session 1
 **Perception and Psychophysics**  
