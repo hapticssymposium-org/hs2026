@@ -5,13 +5,14 @@ weight: 5
 
 # Work-in-Progress Poster Session
 
-{{<simpleLastUpdate date="March 21, 2024">}}
+{{<simpleLastUpdate date="April 5, 2024">}}
 
 Monday, April 8, 5:00 p.m. - 6:30 p.m.  
 *- Vista del Mar*  
 
 The Work-in-Progress track invites authors to share late-breaking results with the research community in a non-archival format. WIP posters will be presented during a WIP poster session **5:00 to 6:30pm on Monday, April 8** in a joint session alongside [IEEE Transactions on Haptics Poster session](../toh-posters).
 
+[Work-in-Progress Preview Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBV57wyeJ2aE7n23g3HE3B_C)
 
 {{<programTable>}}
 
