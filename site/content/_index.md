@@ -50,7 +50,7 @@ The Haptics Symposium would like to sincerely thank the following organizations 
 {{</sponsorFlexContainer>}}
 {{<sponsorFlexContainer contentJustification="center">}}
     {{<sponsorLogo imFile="/img/hs2024_Sponsor-3DSystems.png" imWidth="100%" containerWidth="14%">}}
-    {{<sponsorLogo imFile="/img/hs2024_Sponsor-PUIAudio.png" imWidth="100%" containerWidth="14%">}}
+    {{<sponsorLogo imFile="/img/hs2024_Sponsor-PUIAudio.jpg" imWidth="100%" containerWidth="14%">}}
     {{<sponsorLogo imFile="/img/hs2024_Sponsor-UBC.png" imWidth="100%" containerWidth="14%">}}
 
 {{</sponsorFlexContainer>}}
