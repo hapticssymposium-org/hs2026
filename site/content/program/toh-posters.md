@@ -12,7 +12,7 @@ Monday, April 8, 5:00 p.m. - 6:30 p.m.
 
 IEEE ToH posters will be presented during an IEEE ToH poster session **5:00 to 6:30pm on Monday, April 8** in a joint session alongside [Work-in-Progress Poster session](../work-in-progress).
 
-[IEEE ToH Posters Preview Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBUBlgCpK3jKjfPnQPgvopQm)
+[IEEE ToH Posters Preview Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBUupIM5prV7jQu8f3Ij3QDj)
 
 
 {{<programTable>}}
