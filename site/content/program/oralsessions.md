@@ -114,7 +114,7 @@ Session Chairs: Michael Zinn & Jee-Hwan Ryu
 **Haptics in Gaming and Virtual Reality**  
 Tuesday, April 9, 11:00 a.m. - 12:00 p.m.  
 *- Miramar*  
-Session Chairs: Allison M. Okamura & Seungmoon Choi
+Session Chairs: Allison M. Okamura & Katherine J. Kuchenbecker
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:15 a.m." title="Horizontal Plane Haptic Redirection - Realizing Haptic Feedback for the Virtual Inclined Plane in VR" author="Dexin Liu, Hengxin Chen">}}
@@ -155,7 +155,7 @@ Session Chairs: Yasemin Vardar & Masashi Konyo
 **Multimodal Systems**  
 Wednesday, April 10, 9:00 a.m. - 10:30 a.m.  
 *- Miramar*  
-Session Chairs: Gunhyuk Park & Katherine J. Kuchenbecker
+Session Chairs: Gunhyuk Park & Seungmoon Choi
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:15 a.m." title="Multimodal Haptic Feedback for Virtual Collisions Combining Vibrotactile and Electrical Muscle Stimulation" author="Jungeun Lee, Seungmoon Choi" youtube="https://youtu.be/IC_4IGesIbg">}}
