@@ -88,11 +88,12 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 * Yasemin Vardar, Delft University of Technology
 
-## Awards Chair
+## Awards Chairs
 
 [awards@hapticssymposium.org](mailto:awards@hapticssymposium.org)
 
-* Yon Visell, University of California, Santa Barbara
+* **General Co-Chair Emeritus** Yon Visell, University of California, Santa Barbara
+* **Presiding Awards Chair** Jee-Hwan Ryu, KAIST
 
 ## Publicity Chair
 
