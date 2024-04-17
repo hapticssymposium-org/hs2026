@@ -1,6 +1,6 @@
 ---
 title: Work-in-Progress Poster Session
-weight: 5
+weight: 6
 ---
 
 # Work-in-Progress Poster Session

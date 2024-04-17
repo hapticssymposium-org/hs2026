@@ -1,6 +1,6 @@
 ---
 title: Hands-on Demonstration Sessions
-weight: 7
+weight: 8
 ---
 
 # Hands-on Demonstration Sessions

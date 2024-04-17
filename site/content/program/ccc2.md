@@ -1,6 +1,6 @@
 ---
 title: "CCC | Haptics for Impact: Consumer Value, Ethics, Diversity"
-weight: 3
+weight: 4
 ---
 # Cross-Cutting Challenge | Haptics for Impact: Consumer Value, Ethics, Diversity
 Sunday, April 7, 2:00 p.m. - 5:30 p.m.
