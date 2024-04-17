@@ -37,17 +37,17 @@ A committee of three experts (Lynette Jones, Hannes Saal, and Matteo Bianchi) re
 
 ### Best Paper
 
-[**Robust Surface Recognition With the Maximum Mean Discrepancy: Degrading Haptic-Auditory Signals Through Bandwidth and Noise**](https://doi.org/10.1109/TOH.2024.3356609)  
+**[Robust Surface Recognition With the Maximum Mean Discrepancy: Degrading Haptic-Auditory Signals Through Bandwidth and Noise](https://doi.org/10.1109/TOH.2024.3356609)**  
 Behnam Khojasteh, Yitian Shao, and Katherine J. Kuchenbecker
 
 ### Distinguished Paper
 
-[**Enhancing User Performance by Adaptively Changing Haptic Feedback Cues in a Fitts’s Law Task**](https://doi.org/10.1109/TOH.2024.3358188)  
+**[Enhancing User Performance by Adaptively Changing Haptic Feedback Cues in a Fitts’s Law Task](https://doi.org/10.1109/TOH.2024.3358188)**  
 Drake Rowland, Benjamin Davis, Taylor Higgins, and Ann Majewicz Fey
 
 ### Honorable Mention
 
-[**Lever Mechanism for Diaphragm-Type Vibrators to Enhance Vibrotactile Intensity**](https://doi.org/10.1109/TOH.2024.3354253)  
+**[Lever Mechanism for Diaphragm-Type Vibrators to Enhance Vibrotactile Intensity](https://doi.org/10.1109/TOH.2024.3354253)**  
 Taku Hachisu, Masayuki Kajiura, Toshihiro Takeshita, Yusuke Takei, Takeshi Kobayashi, and Masashi Konyo
  
 ## Best Demonstration
