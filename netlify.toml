@@ -2,7 +2,8 @@
   command = "yarn build"
   publish = "dist"
 [build.environment]
-  YARN_VERSION = "1.22.12"
+  NODE_VERSION = "12.22.12"
+  YARN_VERSION = "1.22.19"
   HUGO_VERSION = "0.63.1"
 
 [context.deploy-preview]
