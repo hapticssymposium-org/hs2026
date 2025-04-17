@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Presenting on IEEE Haptics Symposium 2024</title>
+    <link>//localhost:1313/presenting/</link>
+    <description>Recent content in Presenting on IEEE Haptics Symposium 2024</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>IEEE Haptics Symposium 2024. Theme adapted from Netlify CMS.</copyright>
+    <atom:link href="//localhost:1313/presenting/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>IEEE Transactions on Haptics Short Papers</title>
+      <link>//localhost:1313/presenting/toh-short-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/toh-short-papers/</guid>
+      <description>&lt;h1 id=&#34;ieee-transactions-on-haptics-short-papers&#34;&gt;IEEE Transactions on Haptics Short Papers&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;More information is available at &lt;a href=&#34;https://www.ieee-ras.org/publications/toh&#34; target=&#34;_blank&#34;&gt;https://www.ieee-ras.org/publications/toh&lt;/a&gt;. For any questions, please contact &lt;a href=&#34;mailto:program@hapticssymposium.org&#34;&gt;Ilana Nisky_&lt;/a&gt;, Program Chair of the Haptics Symposium. See below for Frequently Asked Questions.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;The 2024 Haptics Symposium will again feature a IEEE Transactions on Haptics journal track. Papers accepted to this track will be presented at the conference and simultaneously published as short papers in IEEE Transactions on Haptics. These papers are up to 6 pages in length, including references.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Technical Papers</title>
+      <link>//localhost:1313/presenting/technical-papers/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/technical-papers/</guid>
+      <description>&lt;h1 id=&#34;technical-papers-in-conference-proceedings&#34;&gt;Technical Papers in Conference Proceedings&lt;/h1&gt;&#xA;&lt;p&gt;We solicit technical papers that report original, novel, unpublished work relevant to all the scientific, technological, and application aspects of haptics.&lt;/p&gt;&#xA;&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;October 23, 2023 (extended): Technical Paper submission deadline&lt;/li&gt;&#xA;&lt;li&gt;December 20, 2023 Technical Paper author notification&lt;/li&gt;&#xA;&lt;li&gt;January 22, 2024: Technical Paper final submission deadline&lt;/li&gt;&#xA;&lt;li&gt;March 18, 2024: Technical Paper preview video deadline&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;paper-format&#34;&gt;&lt;strong&gt;Paper Format&lt;/strong&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Technical papers should be prepared according to the formatting instructions available &lt;a href=&#34;http://ras.papercept.net/conferences/support/support.php&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Work-in-Progress (WIP) Papers</title>
+      <link>//localhost:1313/presenting/work-in-progress/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/work-in-progress/</guid>
+      <description>&lt;h1 id=&#34;work-in-progress-wip-papers&#34;&gt;Work-in-Progress (WIP) Papers&lt;/h1&gt;&#xA;&lt;p&gt;Work-in-Progress papers enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.&lt;/p&gt;&#xA;&lt;h2 id=&#34;important-dates&#34;&gt;Important Dates&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;January 31, 2024 (11:59 pm PST): WIP paper submission deadline&lt;/li&gt;&#xA;&lt;li&gt;February 16, 2024: WIP acceptance notification&lt;/li&gt;&#xA;&lt;li&gt;March 1, 2024 (11:59 pm PST): WIP final paper submission&lt;/li&gt;&#xA;&lt;li&gt;March 18, 2024 (11:59 pm PST): 30sec preview video submission&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;preparing-your-submission&#34;&gt;Preparing your Submission&lt;/h2&gt;&#xA;&lt;h3 id=&#34;paper-format&#34;&gt;Paper Format&lt;/h3&gt;&#xA;&lt;p&gt;WIP papers should be prepared according to the formatting instructions available &lt;a href=&#34;http://ras.papercept.net/conferences/support/support.php&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>IEEE Transactions on Haptics Posters</title>
+      <link>//localhost:1313/presenting/toh-posters/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/toh-posters/</guid>
+      <description>&lt;h1 id=&#34;ieee-transactions-on-haptics-posters&#34;&gt;IEEE Transactions on Haptics Posters&lt;/h1&gt;&#xA;&lt;p&gt;Authors of articles recently published in the IEEE Transactions on Haptics (ToH) are invited to present their work during a joint poster session, featuring recent ToH and Work-In-Progress (WIP) publications. The poster session is planned as a single-track session, scheduled for the second day of the conference, and will not be held in parallel with any podium or demonstration sessions. This is a great opportunity for journal authors to engage with other scientists and reach a larger audience.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Hands-On Demonstrations</title>
+      <link>//localhost:1313/presenting/demos/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/demos/</guid>
+      <description>&lt;h1 id=&#34;hands-on-demonstrations&#34;&gt;Hands-on Demonstrations&lt;/h1&gt;&#xA;&lt;p&gt;Haptics Symposium strongly encourages demonstrations of all kinds - for example, of novel developments in haptics-related devices, software or experiments that are of interest to the conference audience.&lt;/p&gt;&#xA;&lt;p&gt;Submission of hands-on demonstrations is open to all members of the haptics research community. Authors of accepted papers are particularly welcome to apply for demonstration space to support their presentation. Demonstrations must be free of commercial content; companies wishing to showcase products should apply for exhibitor status.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Guide to Inclusive and Accessible Submissions</title>
+      <link>//localhost:1313/presenting/accessibility/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/accessibility/</guid>
+      <description>&lt;h1 id=&#34;guide-to-inclusive-and-accessible-submissions&#34;&gt;Guide to Inclusive and Accessible Submissions&lt;/h1&gt;&#xA;&lt;p&gt;The IEEE Haptics Symposium is committed to creating an inclusive and accessible environment for all participants. Therefore, authors are expected to follow the IEEE Haptics Symposium Guide to Inclusive and Accessible Submissions. By following this guide, authors can ensure that the widest possible audience considers their work and that their findings are shared with the broader community.&lt;/p&gt;&#xA;&lt;h2 id=&#34;inclusivity-guidance&#34;&gt;Inclusivity Guidance&lt;/h2&gt;&#xA;&lt;h3 id=&#34;gender--sex&#34;&gt;Gender &amp;amp; Sex&lt;/h3&gt;&#xA;&lt;p&gt;Please use a gender-neutral language.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

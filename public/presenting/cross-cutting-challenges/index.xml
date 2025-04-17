@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cross-Cutting Challenges on IEEE Haptics Symposium 2024</title>
+    <link>//localhost:1313/presenting/cross-cutting-challenges/</link>
+    <description>Recent content in Cross-Cutting Challenges on IEEE Haptics Symposium 2024</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <copyright>IEEE Haptics Symposium 2024. Theme adapted from Netlify CMS.</copyright>
+    <atom:link href="//localhost:1313/presenting/cross-cutting-challenges/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Frontiers of Softness in Science and Engineering</title>
+      <link>//localhost:1313/presenting/cross-cutting-challenges/frontiers-of-softness/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/cross-cutting-challenges/frontiers-of-softness/</guid>
+      <description>&lt;h1 id=&#34;cross-cutting-challenge&#34;&gt;Cross-Cutting Challenge&lt;/h1&gt;&#xA;&lt;p&gt;Frontiers of Softness in Science and Engineering&lt;/p&gt;&#xA;&lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Shogo Okamoto, Tokyo Metropolitan University&lt;/li&gt;&#xA;&lt;li&gt;Gregory J. Gerling, The University of Virginia&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;In summary, the aim of this CCC is deepening understanding of softness perception and widening engineering applications, as well as sharing unsolved problems related to these fields. Earlier research inside and outside the community have deepened the understanding and application of softness and soft matters, which is a major component of haptic perception and determines the value of a daily product and human friendliness of man-machine interfaces and robots. For example, it is now shared in the community that softness is the result of neural integration of surface and deep sensory organs. Nonetheless, very recently, important findings, such as factors influencing individual distinctions of softness judgment and softness illusions due to surface shapes have been emerging. Cross-modal effects between softness perception and other sensory cues is also an aspect that was missed by earlier research. Further, a fundamental question was raised whether or not softness is an independent perceptual element through a comparison between humans and robots, i.e., machine learning. Even the most basic concept of softness differs among different cultures, suggesting that we should cast a doubt on even the definition of softness. Hence, softness perception has yet to be fully understood. Softness perceived by humans is not a function of the inverse of mechanical stiffness. Classical push-in tests relying on the surface displacement of a target object and reaction force is imperfect for estimating human’s sense of softness. Softness sensors following the humans’ tactile information processing has been actively studied. Softness is also a key to developing physically and emotionally friendly machines and man-machine interfaces. Comfortable haptic interaction requires materials and mechanical design that enable soft contact.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Haptics for impact: consumer value, ethics, diversity</title>
+      <link>//localhost:1313/presenting/cross-cutting-challenges/haptics-for-impact/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/presenting/cross-cutting-challenges/haptics-for-impact/</guid>
+      <description>&lt;h1 id=&#34;cross-cutting-challenge&#34;&gt;Cross-Cutting Challenge&lt;/h1&gt;&#xA;&lt;p&gt;Haptics for Impact: Consumer Value, Ethics, Diversity&lt;/p&gt;&#xA;&lt;h2 id=&#34;organizers&#34;&gt;Organizers&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Margot Racat, IDRAC Business School&lt;/li&gt;&#xA;&lt;li&gt;Manuel Cruz, Innovobot&lt;/li&gt;&#xA;&lt;li&gt;Oliver Schneider, University of Waterloo&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;description&#34;&gt;Description&lt;/h2&gt;&#xA;&lt;p&gt;Haptics is a rapidly growing field with many new devices, software technologies, and psychological insights. In the meantime, public awareness has increased, with media portrayals like Ready Player One and high-profile consumer devices incorporating haptics, such as smartphones, laptops, and game controllers. Moreover, societal changes like social distancing and remote work have also highlighted our need for touch in life and work. Yet, we still face the cross-cutting challenge of understanding the value of haptics for society and business. As we seek to understand the value of haptic technology, ethical concerns immediately arise around issues of consent, influence, accessibility, privacy, and agency. We also see challenges surrounding the diversity of people who would experience haptics.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

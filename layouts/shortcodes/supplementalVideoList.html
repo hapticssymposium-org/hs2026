@@ -1,0 +1,15 @@
+{{ $paperType := "Journal"}}
+{{ $currPaperType := .Get 0}}
+{{ $toh := "up to 48.8 MB (the total size of all submitted files, including the manuscript) for ToH Short Journal Papers"}}
+{{ $conf := "up to 40 MB for Conference Technical Papers"}}
+
+<div>
+<ul>
+<li>Format: .mp4 (mpeg-4)</li>
+<li>Length: up to 2 minutes</li>
+<li>Resolution: at least 480p (progressive scan)</li>
+<li>File Size: {{if eq $paperType $currPaperType}} {{$toh}} {{else}} {{$conf}} {{end}} </li>
+<li>Address the accessibility requirements listed below (see <a href="#vid-accessibility">Video Accessibility</a>)</li>
+<li>Final (but not initial) video submissions will need to include some simple additional files to ensure IEEE Xplore compliance.</li>
+</ul>
+</div>
