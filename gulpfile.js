@@ -1,16 +1,19 @@
-import gulp from "gulp";
-import cp from "child_process";
-import gutil from "gulp-util";
-import postcss from "gulp-postcss";
-import cssImport from "postcss-import";
-import cssnext from "postcss-cssnext";
-import BrowserSync from "browser-sync";
-import webpack from "webpack";
-import webpackConfig from "./webpack.conf";
-import svgstore from "gulp-svgstore";
-import svgmin from "gulp-svgmin";
-import inject from "gulp-inject";
-import cssnano from "cssnano";
+require('graceful-fs');
+require('natives');
+
+const gulp = require("gulp");
+const cp = require("child_process");
+const gutil = require("gulp-util");
+const postcss = require("gulp-postcss");
+const cssImport = require("postcss-import");
+const cssnext = require("postcss-cssnext");
+const BrowserSync = require("browser-sync");
+const webpack = require("webpack");
+const webpackConfig = require("./webpack.conf");
+const svgstore = require("gulp-svgstore");
+const svgmin = require("gulp-svgmin");
+const inject = require("gulp-inject");
+const cssnano = require("cssnano");
 
 const browserSync = BrowserSync.create();
 const defaultArgs = ["-d", "../dist", "-s", "site"];
