@@ -1,0 +1,17 @@
+{{ define "main" }}
+
+<div class="cms ma2 mr6-l ml4-l mt3-l ml4-m mr4-m mt3-m">
+    {{ .Content }}
+</div>
+
+<div class="mr6-l ml4-l mt3-l ml4-m mr4-m mt3-m">
+    <ul class="flex-ns flex-wrap mhn1-ns">
+      {{ range .Pages }}
+          <div class="w-100-ns ph1-ns flex">
+            {{ .Render "li"}}
+          </div>
+      {{ end }}
+  </ul>
+</div>
+
+{{end}}

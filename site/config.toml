@@ -1,0 +1,9 @@
+baseurl = "/"
+languageCode = "en-us"
+title = "IEEE Haptics Symposium 2024"
+logo = "/img/hs-logo.png"
+copyright = "IEEE Haptics Symposium 2024. Theme adapted from Netlify CMS."
+
+[params]
+    conferenceDate = "April 7 to 10, 2024"
+    conferenceLocation = "Long Beach, California, USA"

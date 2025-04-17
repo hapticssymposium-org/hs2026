@@ -1,0 +1,13 @@
+<div>
+    <p class="b mv0 f4">{{.Get "title"}} 
+        <div class="pv0"> <span class="b f5" style="text-decoration-skip: trailing-spaces;">
+        {{if .Get "webpage"}} 
+            <a href="{{.Get `webpage`}}">{{.Get "name"}}</a>
+        {{else}}
+            <u>{{.Get "name"}}</u>
+        {{end}}
+        </span> - {{.Get "affiliation"}} {{.Get "extra"}}</div>
+    </p>
+ <div style="clear:both"></div>
+ <div class="b f5 mv0">{{.Get "biotitle"}}
+ </div>
