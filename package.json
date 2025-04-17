@@ -7,7 +7,6 @@
   },
   "main": "index.js",
   "scripts": {
-    "preinstall": "npx npm-force-resolutions",
     "hugo": "gulp hugo",
     "webpack": "gulp webpack",
     "build": "gulp build",
