@@ -1,7 +1,6 @@
 ---
 title: Proceedings
 weight: 2
-draft: true
 ---
 
 # Proceedings
