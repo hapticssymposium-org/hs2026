@@ -4,6 +4,7 @@ description: >-
   The IEEE Haptics Symposium 2024 will be held in Hotel Maya - a DoubleTree by
   Hilton in Long Beach, CA, USA.
 weight: 3
+draft: true
 ---
 # Venue Information
 

@@ -6,6 +6,7 @@ description: >-
   Editorial Board (editors@hapticssymposium.org) assemble and coordinate the
   Program Committee for Haptics Symposium 2024.
 weight: 3
+draft: true
 ---
 
 Members of the Program Committee coordinate the review of all conference technical papers submitted to the IEEE Haptics Symposium. This board is composed of established scientists with a broad range of scientific backgrounds. We deeply appreciate their service to the haptics community and this conference.

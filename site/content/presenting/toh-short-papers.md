@@ -4,6 +4,7 @@ deadline: 'Monday, September 25, 2023 (firm)'
 description: >-
   The 2024 Haptics Symposium will again feature a IEEE Transactions on Haptics journal track. Papers accepted to this track will be presented at the conference and simultaneously published as short papers in IEEE Transactions on Haptics. These papers are up to 6 pages in length, including references.
 weight: 1
+draft: true
 ---
 # IEEE Transactions on Haptics Short Papers
 

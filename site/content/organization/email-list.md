@@ -5,6 +5,7 @@ description: >-
   which we distribute infrequent but important information about the IEEE
   Haptics Symposium.
 weight: 4
+draft: true
 ---
 You are encouraged to sign up to the Haptics Symposium email list, through which we distribute infrequent but important information about the IEEE Haptics Symposium.
 

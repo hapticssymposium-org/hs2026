@@ -2,6 +2,7 @@
 title: Mentoring Activities
 description: The Haptics Symposium conference acknowledges the valuable role of mentoring in the personal and professional development of students and researchers in the haptics community. We are committed to providing mentorship opportunities for this year’s conference attendees.
 weight: 2
+draft: true
 ---
 # Mentoring Activities
 

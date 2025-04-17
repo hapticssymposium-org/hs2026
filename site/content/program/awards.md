@@ -1,6 +1,7 @@
 ---
 title: "Awards"
 weight: 1
+draft: true
 ---
 # Awards
 

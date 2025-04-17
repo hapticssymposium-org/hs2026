@@ -1,6 +1,7 @@
 ---
 title: Work-in-Progress Poster Session
 weight: 6
+draft: true
 ---
 
 # Work-in-Progress Poster Session

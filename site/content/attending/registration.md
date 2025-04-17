@@ -2,6 +2,7 @@
 title: Registration
 description: Register for Haptics Symposium 2024 now!
 weight: 1
+draft: true
 ---
 # Registration
 

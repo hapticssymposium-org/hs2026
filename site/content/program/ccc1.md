@@ -1,6 +1,7 @@
 ---
 title: "CCC | Frontiers of Softness in Science and Engineering"
 weight: 3
+draft: true
 ---
 # Cross-Cutting Challenge | Frontiers of Softness in Science and Engineering
 Sunday, April 7, 9:00 a.m. - 12:30 p.m.
