@@ -6,6 +6,7 @@ description: >-
 image: /img/slide-image-5-crop.jpg
 layout: "single"
 weight: 6
+draft: true
 ---
 # Cross-Cutting Challenges
 
