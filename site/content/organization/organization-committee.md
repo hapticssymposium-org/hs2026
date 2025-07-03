@@ -13,7 +13,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 [chairs@hapticssymposium.org](mailto:chairs@hapticssymposium.org)
 
 * Heather Culbertson, University of Southern California
-* Fernando Bello, Imperial College London
+* Fernando Bello,  Duke-NUS, Imperial College London, SUTD
 
 ## Conference Editorial Board
 
