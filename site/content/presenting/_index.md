@@ -6,4 +6,3 @@ description: |-
   ![](/img/demos-thumb.png)
 image: /img/HS2026_topPresenting.jpg
 ---
-Coming Soon.

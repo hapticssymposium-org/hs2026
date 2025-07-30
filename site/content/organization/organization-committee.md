@@ -40,7 +40,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 [ccc@hapticssymposium.org](mailto:ccc@hapticssymposium.org)
 
 * Ingvars Birznieks, University of New South Wales
-* Seokhee JeonPedro, Kyung Hee University
+* Seokhee Jeon, Kyung Hee University
 
 ## Works-in-Progress Chair
 

@@ -18,11 +18,7 @@ const cssnano = require("cssnano");
 const browserSync = BrowserSync.create();
 const defaultArgs = ["-d", "../dist", "-s", "site"];
 
-var hugoBin = `./bin/hugo.${process.platform === "win32" ? "exe" : process.platform}`;
-
-if (process.env.HUGO_VERSION) {
-  hugoBin = "hugo";
-}
+var hugoBin = "hugo";
 
 if (process.env.DEBUG) {
   defaultArgs.unshift("--debug");
