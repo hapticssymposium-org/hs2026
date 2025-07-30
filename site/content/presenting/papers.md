@@ -69,7 +69,7 @@ Text generated from a large-scale language model (LLM), such as ChatGPT, must be
 
 ### Accessibility
 
-Accessible submissions are essential for reviewers and are good practice. Authors are expected to follow the IEEE Haptics Symposium Guide to Inclusive and Accessible Submissions [LINK TO ACCESSIBILITY PAGE]. If you have any questions or concerns about creating accessible submissions, please contact the Equity, Diversity, and Inclusion Chair at [edi@hapticssymposium.org](mailto:edi@hapticssymposium.org).
+Accessible submissions are essential for reviewers and are good practice. Authors are expected to follow the [IEEE Haptics Symposium Guide to Inclusive and Accessible Submissions](../accessibility/). If you have any questions or concerns about creating accessible submissions, please contact the Equity, Diversity, and Inclusion Chair at [edi@hapticssymposium.org](mailto:edi@hapticssymposium.org).
 
 ## Presentation and Publication
 

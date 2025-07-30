@@ -16,12 +16,12 @@ const inject = require("gulp-inject");
 const cssnano = require("cssnano");
 
 const browserSync = BrowserSync.create();
-const defaultArgs = ["-d", "../dist", "-s", "site"];
+const defaultArgs = ["-d", "../dist", "-s", "site", "--cleanDestinationDir"];
 
 var hugoBin = "hugo";
 
 if (process.env.DEBUG) {
-  defaultArgs.unshift("--debug");
+  defaultArgs.push("--logLevel", "debug");
 }
 
 gulp.task("hugo", (cb) => buildSite(cb));
