@@ -21,28 +21,28 @@ The Conference Editorial Board ([editors@hapticssymposium.org](mailto:editors@ha
 
 ## Program Committee
 
-* Vibol Yem, _University of Tsukuba_
-* Giulia Ballardini, _Max Planck Institute_
-* Yusuke Ujitoko, _NTT_
-* Jung-Hwan Youn, _University of Illinois_
-* Elyse Chase, _Rice University_
-* Jas Brooks, _MIT_
-* Takuto Nakamura, _Osaka University_
-* Irene Kuling, _Eindhoven University of Technology_
 * Amy Kyungwon Han, _Seoul National University_
-* Yuki Ban, _University of Tokyo_
-* Edoardo Battaglia, _University of Utah_
-* Janelle Clark, _University of Maryland - Baltimore County_
-* Claudio Pacchierotti, _Centre National de la Recherche Scientifique (CNRS), IRISA_
 * Cara Nunez, _Cornell University_
 * Charles Dhong, _University of Delaware_
+* Claudio Pacchierotti, _Centre National de la Recherche Scientifique (CNRS), IRISA_
+* Edoardo Battaglia, _University of Utah_
+* Elyse Chase, _Rice University_
+* Giulia Ballardini, _Max Planck Institute_
+* Irene Kuling, _Eindhoven University of Technology_
 * Ismail Devecioğlu, _Namık Kemal University_
-* Roland Bennewitz, _INM – Leibniz Institute for New Materials_
-* Skinob Kuroki, _NTT Communications Science Laboratories_
+* Janelle Clark, _University of Maryland - Baltimore County_
+* Jas Brooks, _MIT_
+"* Jung-Hwan Youn
+, _University of Illinois_"
 * Loutit Alastair, _University of Geneva_
+* Roland Bennewitz, _INM – Leibniz Institute for New Materials_
 * Saal Hans, _University of Sheffield_
 * Shogo Okamoto, _Tokyo Metropolitan University_
-
+* Skinob Kuroki, _NTT Communications Science Laboratories_
+* Takuto Nakamura, _Osaka University_
+* Vibol Yem, _University of Tsukuba_
+* Yuki Ban, _University of Tokyo_
+* Yusuke Ujitoko, _NTT_
 
 <!--
 ## WIP Editorial Board
