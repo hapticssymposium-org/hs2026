@@ -34,7 +34,7 @@ The Conference Editorial Board ([editors@hapticssymposium.org](mailto:editors@ha
 * Amy Kyungwon Han, _Seoul National University_
 * Saal Hans, _University of Sheffield_
 * Irene Kuling, _Eindhoven University of Technology_
-* Skinob Kuroki, _NTT Communications Science Laboratories_
+* Scinob Kuroki, _NTT_
 * Takuto Nakamura, _Osaka University_
 * Cara Nunez, _Cornell University_
 * Shogo Okamoto, _Tokyo Metropolitan University_
