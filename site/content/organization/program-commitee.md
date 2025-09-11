@@ -4,7 +4,7 @@ description: >-
   Members of the Program Committee coordinate the review of all conference
   technical papers submitted to the IEEE Haptics Symposium. The Conference
   Editorial Board (editors@hapticssymposium.org) assemble and coordinate the
-  Program Committee for Haptics Symposium 2024.
+  Program Committee for Haptics Symposium 2026.
 weight: 3
 ---
 
