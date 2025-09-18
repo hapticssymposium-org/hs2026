@@ -83,4 +83,12 @@ Paper decisions will be announced on December 19, 2025.
 
 ## Submission 
 
-Coming Soon.
+The Haptics Symposium ’26 paper submission portal can be accessed at: [Precision Conference System (PCS)](https://new.precisionconference.com/haptics26)
+
+Under “Submissions”, please select:
+- **Society**: Haptics Symposium
+- **Conference/Journal**: HAPTICS 2026
+- **Track**: HAPTICS 2026 Long and Regular Papers
+
+You can use this same submission form for either long or regular papers.
+Then click “Go” to make a new submission. You will be able to edit the form until the deadline.
