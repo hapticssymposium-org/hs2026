@@ -68,7 +68,7 @@ The committee is looking for CCC proposals that are timely, exciting and fit a b
 
 * Selected CCCs calls are opened (e.g., for speakers or other presenters).
 
-* **Individual contribution deadline (individual contributors):** Speakers and other presenters submit their proposal to partake in a selected CCCs by **February 9, 2026**.
+* **Individual contribution deadline (individual contributors):** Speakers and other presenters submit their proposal to partake in a selected CCCs by **November 2025**.
 
 * Organizers finalize their CCC’s program.
 
