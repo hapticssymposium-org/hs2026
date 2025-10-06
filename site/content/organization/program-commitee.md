@@ -33,6 +33,7 @@ The Conference Editorial Board ([editors@hapticssymposium.org](mailto:editors@ha
 * Charles Dhong, _University of Delaware_
 * Amy Kyungwon Han, _Seoul National University_
 * Saal Hans, _University of Sheffield_
+* Jin Ryong Kim, _University of Texas at Dallas_
 * Irene Kuling, _Eindhoven University of Technology_
 * Scinob Kuroki, _NTT_
 * Takuto Nakamura, _Osaka University_
