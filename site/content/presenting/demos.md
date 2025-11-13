@@ -1,6 +1,6 @@
 ---
 title: Hands-on Demonstrations
-deadline: 'January 13, 2026'
+deadline: 'January 23, 2026'
 description: >-
   Haptics Symposium strongly encourages demonstrations of all kinds - for
   example, of novel developments in haptics-related devices, software or
@@ -18,11 +18,11 @@ Submission of Hands-on Demonstrations (Demos) is open to all members of the hapt
 
 ![Smiling student volunteers welcome attendees](/img/HS2026_demos.png)
 
-## Timeline
+## Important Dates
 
-* December 2025 – Demo submissions open
-* January 13, 2026 (11:59 p.m. AoE): Demo submission deadline
-* February 6, 2026: Demo acceptance notification
+* December 2025: Demo submissions open
+* January 23, 2026 (11:59 p.m. AoE): Demo submission deadline
+* February 12, 2026: Demo acceptance notification
 
 ## Submission Method
 
