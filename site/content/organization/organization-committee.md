@@ -48,11 +48,11 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 * Cara Nunez, Cornell University
 
-## IEEE Transactions on Haptics Posters Chair
+## IEEE Transactions on Haptics Chair
 
-[tohp@hapticssymposium.org](mailto:tohp@hapticssymposium.org)
+[toh@hapticssymposium.org](mailto:toh@hapticssymposium.org)
 
-* TBA
+* Shihan Lu, Northwestern University
 
 ## Mentorship Chairs
 
@@ -117,7 +117,7 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 
 [videos@hapticssymposium.org](mailto:videos@hapticssymposium.org)
 
-* Shihan Lu, Northwestern University
+* TBA
 
 ## Web Chair
 
