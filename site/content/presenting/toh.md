@@ -24,7 +24,7 @@ Authors of articles recently published in the IEEE Transactions on Haptics (ToH)
 
 ## Submission Method
 
-* To participate, one author must fill in the [application form](https://docs.google.com/forms/d/e/1FAIpQLSdfT6ErXNtLrp8tGEBPrDvGfJih0Zoqbou7hNx7GhBlYxG5BQ/viewform?usp=header) by 11:59 pm AOE on January 31, 2026. Please coordinate the form submission with all paper authors to avoid duplicate submissions.
+* To participate, one author must fill in the [application form](https://docs.google.com/forms/d/e/1FAIpQLSdfT6ErXNtLrp8tGEBPrDvGfJih0Zoqbou7hNx7GhBlYxG5BQ/viewform?usp=header) by 11:59 pm AoE on January 31, 2026. Please coordinate the form submission with all paper authors to avoid duplicate submissions.
 * In the unlikely event that there is insufficient space, articles published in 2025 will be given priority over Early Access articles.
 * Acceptance will be confirmed by February 16, 2026.
 
