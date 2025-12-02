@@ -1,41 +1,71 @@
 ---
-title: "CCC | Haptics for Impact: Consumer Value, Ethics, Diversity"
-weight: 4
-draft: true
+title: "CCC | The Sense of Touch in Contact-Rich Dexterous Robot Manipulation"
+weight: 2
+draft: false
 ---
-# Cross-Cutting Challenge | Haptics for Impact: Consumer Value, Ethics, Diversity
-Sunday, April 7, 2:00 p.m. - 5:30 p.m.
+# Cross-Cutting Challenge | The Sense of Touch in Contact-Rich Dexterous Robot Manipulation
 
-{{<simpleLastUpdate date="April 1, 2024">}}
+<!--
+Sunday, April 7, 2:00 p.m. - 5:30 p.m.
+-->
+
+{{<simpleLastUpdate date="December 1, 2025">}}
 
 ## Organizers
 
-{{<organizerFlex>}}
-  {{<cccOrganizer imFile="/img/hs2024_CCC-Racat.jpg" imWidth="100%" name="Margot Racat" affiliation="IDRAC Business School">}}
-  {{<cccOrganizer imFile="/img/hs2024_CCC-Schneider.jpg" imWidth="100%" name="Oliver Schneider" affiliation="University of Waterloo">}}
-  {{<cccOrganizer imFile="/img/hs2024_CCC-Cruz.jpg" imWidth="100%" name="Manuel Cruz" affiliation="Innovobot">}}
-{{</organizerFlex>}}
-{{<simpleLineBreak>}}
+### Lead Organizer
 
+{{<organizerFlex>}}
+  {{<cccOrganizer imFile="/img/noimage.png" imWidth="100%" name="Jee-Hwan Ryu" affiliation="KAIST" webpage="mailto:jhryu@kaist.ac.kr">}}
+{{</organizerFlex>}}
+
+### Co-Organizers
+
+Two more will be invited later
+
+<!--
+{{<organizerFlex>}}
+  {{<cccOrganizer imFile="/img/hs2024_CCC-Schneider.jpg" imWidth="100%" name="Oliver Schneider" affiliation="University of Waterloo">}}
+{{</organizerFlex>}}
+-->
+
+{{<simpleLineBreak>}}
 
 ## Description
 
-Haptics, the science of touch and its application in technology, is experiencing rapid growth, driven by advances in devices, software, and a deeper understanding of its psychological impacts. The societal shifts towards social distancing and remote work have further underscored the importance of touch in both personal and professional contexts. Despite its growing presence, challenges remain in fully understanding haptics' societal and business value, including ethical issues related to consent, influence, accessibility, privacy, and the need to cater to a diverse user base.
+Despite remarkable advances in robotic learning, perception, and control, robots still struggle with tasks that babies perform effortlessly: sliding an object to reposition it, rotating a tool in hand, or coordinating multiple fingers to manipulate a deformable item. These tasks are contact-rich and demand fine-grained sensing, interpretation, and control of forces and deformations, abilities that hinge on the sense of touch.
 
-Recent research underscores haptic technology's potential to enhance user experience, improve customer engagement, and foster deeper connections with brands and social causes through more immersive and interactive digital experiences. This CCC is a call for the haptics community, business, and humanities scholars to collaborate, critically examining haptics' impact on daily life, its ethical implications, and how culture and diversity affect user experiences. This interdisciplinary effort aims to address three core aspects: the broad value haptics can offer to consumers, ethical considerations as haptic technology becomes more prevalent in consumer products, and the importance of accommodating diverse user experiences. This proposed initiative includes talks on these themes and interactive sessions to foster dialogue among participants, concluding with reflections on continuing these explorations beyond the workshop.
+This Cross-Cutting Challenge (CCC) aims to bridge the persistent gap between robotic manipulation and human haptics, fostering a dialogue that unites recent trends of AI and deep learning, robot control theory, tactile sensing technology, neuroscience of manipulation, and haptic design principles. Current research in robotic dexterity often focuses on visual perception or motion planning, while tactile feedback remains underutilized due to challenges in data acquisition, representation, and integration. Yet, haptic feedback, when effectively encoded, can transform robotic interactions from open-loop trajectories into dynamically adaptive, force-aware behaviors.
+
+This CCC will convene researchers from robotics, haptics, artificial intelligence, human motor control, and neuroscience to discuss how haptic science can accelerate progress in dexterous robotic manipulation. We will address key questions such as:
+
+* How can tactile data (pressure maps, skin deformation, frictional states) be represented and shared across robotic platforms?
+* What are effective control paradigms (e.g., impedance modulation, tactile reflex loops, learning-based policies) for contact-rich manipulation?
+* How can human touch strategies inspire next-generation robotic dexterity?
+* What are the data and benchmarking standards needed to make tactile learning reproducible and transferable?
+
+Our vision is to define the roadmap for haptically intelligent robots, machines that do not merely sense contact but understand and exploit it for skillful, adaptive manipulation.
+
+The proposed CCC builds on recent developments in both robotic manipulation (e.g., diffusion-policy-based tactile control, tactile transformers) and haptic interfaces (e.g., high-density skin sensors, soft tactile skins). By connecting these domains, we aim to inspire new collaborations, datasets, and control frameworks that bring the field closer to human-level dexterity.
 
 ## Keynote Talks
 
+TBD
+
+<!--
 2:00 p.m. - 4:00 p.m. - *Salon de Reyes*
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Advances in sensory-enabling technologies: the case of haptic stimulation in mobile experiences">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="“You’ll feel parkour”: How the Owo gaming shirt constructs and enacts the technohaptic real">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="Designing the social futures of digital touch">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Exploring the ethical implications of digital touch through a speculative approach">}}
-
+-->
 
 ## Interactive Posters
 
+TBD
+
+<!--
 4:00 p.m. - 5:30 p.m. - *Miramar*
 
 {{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthors="John Dinsmore - Wright State University; Daria Plotkina - EM Strasbourg">}}
@@ -54,9 +84,10 @@ Recent research underscores haptic technology's potential to enhance user experi
 {{<cccPresenter imFile="/img/hs2024_CCC-Choi.jpg" name="Seungmoon Choi" affiliation="Pohang University of Science and Technolog" title="Automatic Generation of Haptic and Motion Effects from Audiovisual Streams">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Pozo.jpg" name="Teddy Pozo" affiliation="Occidental College" title="Haptic Technologies of Queer and Trans Games">}}
 {{<cccPresenter imFile="/img/hs2024_CCC-Nunez.jpg" name="Cara M. Nunez" affiliation="Cornell University" title="Haptics for Affective Touch: Current Technologies, Potential Impact, and Discussions on Future Work" coauthors="Doris Xu - Cornell University; Xin Zhu - University of Southern California; Heather Culbertson - University of Southern California">}}
+-->
 
-## (CLOSED) Call for individual contributions
+## Call for Individual Contributions
 
-We seek attendee contributions to be presented as a **poster in an interactive session**. To submit a poster proposal, please send a title and 500 word abstract discussing how your work in haptics links to the three main themes: consumer value, ethics, diversity. We especially invite submissions from people with disciplinary backgrounds underrepresented in the haptics community, including **business, social sciences, humanities, and liberal and fine arts**. Engineers and scientists are also very welcome to present their work by linking it to the challenge themes. ~~Applicants must be a faculty member and/or a researcher holding a Ph.D. degree or equivalent.~~
+We seek attendee contributions to be presented as a poster or demonstration in an interactive session. To submit a poster or demo proposal, please send a title and 500 word abstract discussing how your work in haptics links to the theme of this cross-cutting challenge. We especially invite submissions from people with disciplinary backgrounds underrepresented in the haptics community. Our goal is to create an open and inclusive forum where researchers from diverse expertise can exchange insights, inspire collaboration, and spark new directions toward **truly haptically intelligent robots**.
 
-Please submit your proposal by ~~February 9, 2024~~**February 16, 2024 (extended)** by emailing the organizers ([margot.racat@idrac-bs.fr](mailto:margot.racat@idrac-bs.fr), [mcruz@innovobot.com](mailto:mcruz@innovobot.com), [oliver.schneider@uwaterloo.ca](mailto:oliver.schneider@uwaterloo.ca)). 
+Please submit your proposal by February 1, 2026 by emailing the organizers ([jhryu@kaist.ac.kr](mailto:jhryu@kaist.ac.kr)).
