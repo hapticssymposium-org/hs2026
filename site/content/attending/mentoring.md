@@ -1,36 +1,24 @@
 ---
 title: Mentoring Activities
-description: The Haptics Symposium conference acknowledges the valuable role of mentoring in the personal and professional development of students and researchers in the haptics community. We are committed to providing mentorship opportunities for this year’s conference attendees.
+description: >-
+ We are excited to announce the HS2026 Mentorship & Networking Program, designed to foster connections across career stages within the haptics community.
 weight: 2
-draft: true
+draft: false
 ---
 # Mentoring Activities
 
-The Haptics Symposium conference acknowledges the valuable role of mentoring in the personal and professional development of students and researchers in the haptics community. We are committed to providing mentorship opportunities for this year’s conference attendees. To that end, we have created the following programs.
+We are excited to announce the HS2026 Mentorship & Networking Program, designed to foster connections across career stages within the haptics community. This program will include two complementary activities for early-career researchers.
 
-## Resume Database
+## Mentorship Lunch (Monday, March 30)
 
-We have created a database of resumes for people seeking career opportunities in academia or industry. This database can be accessed by our industry sponsors and members who have open job offerings. The database is created and shared before the conference. The conference will not keep the resumes after the completion of the conference.
-* If you are looking for a job or internship and wish to submit your resume, please fill out the form below:
-  * [https://forms.gle/dtHHvZt9JM1LLpoY8](https://forms.gle/dtHHvZt9JM1LLpoY8)
-* If you wish to gain access to the resume database, please submit the following form:
-  * [https://forms.gle/yajVjmdoKFuLtQng7](https://forms.gle/yajVjmdoKFuLtQng7)
+A networking luncheon where early-career researchers (i.e., postdoctoral scholars and early-career faculty) will have the opportunity to have conversations with others more advanced in the field (with a range of experience). If you are interested in participating, please complete the short application form linked below.  
+[https://forms.gle/tgntuYWUNCs1xory7](https://forms.gle/tgntuYWUNCs1xory7) 
 
-  Note: Only companies or individuals who are looking to hire can get access to the database.
 
-## Mentoring for Work-In-Progress Papers
+## Student Mentorship at the Work-in-Progress (WIP) Session
 
-To provide additional mentoring to authors of work in progress papers, we created a system where authors can sign up for mentors to come to their poster session and talk to them about their work and career. 
-* If you are a student or postdoctoral scholar submitting work to WIP and would like a mentor to stop by your poster please fill out the form below:
-  * [https://forms.gle/9xW8kgjeedQQmpUq9](https://forms.gle/9xW8kgjeedQQmpUq9) 
-* If you are a faculty member, industry professional, or postdoctoral scholar, you can sign up to offer mentorship to a WIP author. The commitment for mentoring a WIP author would include reading their WIP paper, stopping by their poster, and having a 10-15 min conversation about their work and career. To sign up as a mentor, please fill out the form below:
-  * [https://forms.gle/xiwQjMBz33uvZckX8](https://forms.gle/xiwQjMBz33uvZckX8)
+Each participant in the luncheon will also mentor one or two students presenting [WIP](/presenting/wip/) posters. Mentors will read the students’ short papers in advance and spend time with them at their posters to discuss both their research and their career goals. Interested students should complete the optional mentorship application questions in the WIP submission.
 
-## Early Investigator Lunch
+If you will be attending the conference and are interested in serving as a mentor for one or both of these activities, please email [mentoring@hapticssymposium.org](mailto:mentoring@hapticssymposium.org) to let us know.
 
-To provide early investigators the opportunity to network with their peers, we will have an Early Investigator Lunch for professionals in industry or academia who are within 10 years of their PhD graduation. If you are interested in attending this event, please fill out the form below:
-* [https://forms.gle/tcNe1Y6TYfercGEj9](https://forms.gle/tcNe1Y6TYfercGEj9)
-
-## Contact Information
-
-If you have any questions about the programs described here, please contact the mentoring chairs [mentoring@hapticssymposium.org](mailto:mentoring@hapticssymposium.org).
+We look forward to your participation in building a strong, supportive mentorship culture at Haptics Symposium 2026!
