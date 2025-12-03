@@ -3,7 +3,7 @@ title: Cross-Cutting Challenges
 deadline: 'Proposal: Sunday, September 28, 2025'
 description: >-
   Following their successful launch in 2018, Cross-Cutting Challenges (CCC) will be held again at the 2026 Haptics Symposium.
-image: /img/HS2026_topPresenting.jpg
+image: /img/HS2026_topCCC.jpg
 weight: 2
 draft: false
 ---
