@@ -16,7 +16,7 @@ Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 ### Lead Organizer
 
 {{<organizerFlex>}}
-  {{<cccOrganizer imFile="/img/noimage.png" imWidth="100%" name="Jee-Hwan Ryu" affiliation="KAIST" webpage="mailto:jhryu@kaist.ac.kr">}}
+  {{<cccOrganizer imFile="/img/hs2026_CCC-Ryu.jpg" imWidth="100%" name="Jee-Hwan Ryu" affiliation="KAIST" webpage="mailto:jhryu@kaist.ac.kr">}}
 {{</organizerFlex>}}
 
 ### Co-Organizers
