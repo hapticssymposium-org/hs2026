@@ -1,11 +1,17 @@
 ---
 title: Registration
-description: Register for Haptics Symposium 2024 now!
+description: Coming soon.
 weight: 1
-draft: true
+draft: false
 ---
+
 # Registration
 
+Coming soon.
+<!--
+Register for Haptics Symposium 2024 now!
+-->
+<!--
 We are excited to welcome the worldwide haptics community to Long Beach, CA for the 2024 Haptics Symposium! Registration is now open through the [registration site](https://web.cvent.com/event/11d034c1-348e-426f-967d-af0024f9415d/summary). Early bird deadline for registration is February 23, 2024. For a preferred hotel rate at the conference hotel, use the [Hotel Maya](https://www.hilton.com/en/book/reservation/rooms/?ctyhocn=LGBMYDT&arrivalDate=2024-04-06&departureDate=2024-04-11&groupCode=CDT90H&room1NumAdults=1&cid=OM%2CWW%2CHILTONLINK%2CEN%2CDirectLink) link here.
 
 Please read the following **before** you begin the registration process:
@@ -69,3 +75,4 @@ We will provide support letters for visa applications upon request. For visa sup
 ## Conference Registration Fees
 
 {{<conferenceRegistrationFees>}}
+-->
