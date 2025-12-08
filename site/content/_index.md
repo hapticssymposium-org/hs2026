@@ -20,7 +20,7 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 * ~~October 13, 2025 (firm)~~ [Long and Regular Paper submission deadline](/presenting/papers/)
 * December 19, 2025 [Long and Regular Paper author notification](/presenting/papers/)
 * January 23, 2026 [Work-in-Progress Paper Submission](/presenting/wip/)
-* January 23, 2026 [Demonstration Submission](/presenting/demos/)
+* January 23, 2026 [Demonstration Submission Deadline](/presenting/demos/)
 * January 23, 2026 [Student Volunteer application deadline](/organization/student-volunteers/)
 * January 31, 2026 [Transactions on Haptics poster or oral presentation submission deadline](/presenting/toh/)
 * February 1, 2026 [Cross-Cutting Challenges Individual Submission](/presenting/ccc/)

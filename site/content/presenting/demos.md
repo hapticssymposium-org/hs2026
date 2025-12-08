@@ -26,7 +26,7 @@ Submission of Hands-on Demonstrations (Demos) is open to all members of the hapt
 
 ## Submission Method
 
-Proposals for Demos should be submitted using the Google Form. The form will be available in December.
+Proposals for Demos should be submitted using the [Google Form](https://forms.gle/wZueuxMTG67923B39).
 
 Each submission will include the following items:
 
@@ -73,4 +73,5 @@ Each demonstration will be assigned a space at the conference. The space will in
 TBD
 
 ## Contact
+
 Any questions about Demos can be addressed to the Demonstrations and Exhibits Chairs (Jin Ryong Kim and Melisa Orta Martinez) at [demos@hapticssymposium.org](mailto:demos@hapticssymposium.org).
