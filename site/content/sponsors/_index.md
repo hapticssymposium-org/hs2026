@@ -11,4 +11,4 @@ For sponsorship opportunities, please contact the sponsorship chairs: [sponsorsh
 The 2026 Sponsorship Chairs are:
 * Mengjia Zhu, Meta Reality Labs Research 
 * Craig Shultz, University of Illinois Urbana-Champaign 
-* Mohamad Eid,NYU Abu Dhabi
+* Mohamad Eid, NYU Abu Dhabi
