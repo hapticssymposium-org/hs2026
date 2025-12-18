@@ -14,8 +14,9 @@ We solicit papers that report original, novel, unpublished work relevant to all 
 
 ## Important Dates
 
-* October 13, 2025 (11:59 p.m. AoE): Regular and Long Paper Submission deadline (firm, no extensions)
-* December 19, 2025: Regular and Long Paper Acceptance Notification
+* October 13, 2025 (11:59 p.m. AoE): Regular and Long Paper submission deadline (firm, no extensions)
+* December 19, 2025: Regular and Long Paper acceptance notification
+* January 19, 2026: Regular and Long Paper camera-Ready deadline
 
 ## Paper Length
 
