@@ -3,6 +3,7 @@
   publish = "dist"
 [build.environment]
   NODE_VERSION = "22"
+  NODE_OPTIONS = "--openssl-legacy-provider"
   YARN_VERSION = "1.22.19"
   HUGO_VERSION = "0.146.5"
 
