@@ -9,25 +9,15 @@ draft: false
 Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 -->
 
-{{<simpleLastUpdate date="December 1, 2025">}}
+{{<simpleLastUpdate date="December 20, 2025">}}
 
 ## Organizers
 
-### Lead Organizer
-
 {{<organizerFlex>}}
-  {{<cccOrganizer imFile="/img/hs2026_CCC-Ryu.jpg" imWidth="100%" name="Jee-Hwan Ryu" affiliation="KAIST" webpage="mailto:jhryu@kaist.ac.kr">}}
+  {{<cccOrganizer imFile="/img/hs2026_CCC-Ryu.jpg" imWidth="100%" name="Jee-Hwan Ryu" affiliation="KAIST">}}
+  {{<cccOrganizer imFile="/img/hs2026_CCC-Colgate.jpg" imWidth="100%" name="Ed Colgate" affiliation="Northwestern Univerfsity">}}
+  {{<cccOrganizer imFile="/img/hs2026_CCC-Wiertlewski.jpg" imWidth="100%" name="Michael Wiertlewski" affiliation="TU Delft">}}
 {{</organizerFlex>}}
-
-### Co-Organizers
-
-Two more will be invited later
-
-<!--
-{{<organizerFlex>}}
-  {{<cccOrganizer imFile="/img/hs2024_CCC-Schneider.jpg" imWidth="100%" name="Oliver Schneider" affiliation="University of Waterloo">}}
-{{</organizerFlex>}}
--->
 
 {{<simpleLineBreak>}}
 
