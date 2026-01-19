@@ -1,6 +1,6 @@
 ---
 title: Work-in-Progress (WIP) Papers
-deadline: 'January 23, 2026'
+deadline: 'January 26, 2026'
 description: >-
   IEEE Haptics Symposium 2026 solicits Work-in-Progress papers to enable authors to share late-breaking results with the research community. The emphasis of WIP papers is on the novelty of the work, not completeness.
 weight: 5
@@ -14,7 +14,7 @@ Work-in-Progress papers enable authors to share late-breaking results with the r
 ## Important Dates
 
 * December 2025: WIP submissions open on PCS
-* January 23, 2026 (11:59 pm AoE): WIP paper submission deadline
+* January 26, 2026 (11:59 pm AoE): WIP paper submission deadline
 * February 12, 2026: WIP acceptance notification
 * February 20, 2026 (11:59 pm AoE): WIP final paper submission
 
