@@ -8,13 +8,14 @@ draft: false
 Sunday, April 7, 9:00 a.m. - 12:30 p.m.
 --->
 
-{{<simpleLastUpdate date="December 1, 2025">}}
+{{<simpleLastUpdate date="January 22, 2026">}}
 
 ## Organizers
 
 {{<organizerFlex>}}
   {{<cccOrganizer imFile="/img/hs2026_CCC-Holm.jpg" imWidth="100%" name="Marie Holm" affiliation="Kolding School of Design">}}
   {{<cccOrganizer imFile="/img/hs2026_CCC-Queiroz.jpg" imWidth="100%" name="Anna Queiroz" affiliation="University of Miami">}}
+  {{<cccOrganizer imFile="/img/noimage.png" imWidth="100%" name="Yujie Tao" affiliation="Stanford University">}}
 {{</organizerFlex>}}
 
 {{<simpleLineBreak>}}
@@ -37,17 +38,17 @@ By engaging these themes and questions across disciplines, this CCC seeks to adv
 
 ## Keynote Talks
 
-TBD
-
 <!--
 9:00 a.m. - 11:15 a.m. - *Salon de Reyes*
-
-{{<cccPresenter imFile="/img/hs2024_CCC-Gerling.jpg" name="Gregory Gerling" affiliation="University of Virginia" title="Deciphering Physical Cues and Dimensions that Underlie Our Tactile Sense of Compliance">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Okamura.jpg" name="Allison Okamura" affiliation="Stanford University" title="Mechanisms for Distributed Softness Wearable Haptics">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Carpi.jpg" name="Federico Carpi" affiliation="University of Florence" title="Wearable Pneumatic Tactile Display of Softness for Virtual Reality">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Birznieks.jpg" name="Ingvars Birznieks" affiliation="UNSW Sydney" title="Soft Touch Helps Movement">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Okamoto.jpg" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University" title="Softness Illusion to Re-Think the Perceptual Mechanisms">}}
 -->
+
+{{<cccPresenter imFile="/img/hs2026_CCC-Gonzalez-Franco.jpg"
+name="Mar González-Franco"
+affiliation="Principal Researcher, Google"
+title="TBA"
+biography="Mar Gonzalez-Franco, PhD, is a Computer Scientist and Neuroscientist at Google working on a new generation of Immersive technologies. With a background in real-time systems in her research she tries to build better interactions for immersive technologies using different disciplines: Virtual Reality, Augmented Reality, AI, computer graphics, computer vision, Avatars, and haptics. All while studying human behaviour, perception and neuroscience. She was awarded the 2022 IEEE VGTC VR New Researcher Award, and the NAE Frontiers Engineer. She leads the BIRD lab, working on Blended Interactions Research and Devices. https://research.google/people/108218/?&  / https://www.linkedin.com/in/margonzalez/"
+>}}
+
 
 ## Interactive Posters
 
@@ -85,8 +86,8 @@ Submissions may address, but are not limited to, topics such as embodied interac
  
 To submit a **poster or demonstration proposal**, please send the following information in a single email: 
 
-* **Title***
-* **Abstract (max. 500 words)***  
+* **Title**
+* **Abstract (max. 500 words)**
 The abstract should clearly outline how your work in haptics connects to the themes of this CCC.
 * **Presentation format**: Poster or Demonstration
  
