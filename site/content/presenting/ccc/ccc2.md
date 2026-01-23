@@ -9,7 +9,7 @@ draft: false
 Sunday, April 7, 2:00 p.m. - 5:30 p.m.
 -->
 
-{{<simpleLastUpdate date="December 20, 2025">}}
+{{<simpleLastUpdate date="January 23, 2026">}}
 
 ## Organizers
 
