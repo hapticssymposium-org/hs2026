@@ -40,16 +40,16 @@ The proposed CCC builds on recent developments in both robotic manipulation (e.g
 
 ## Keynote Talks
 
-TBD
 
 <!--
 2:00 p.m. - 4:00 p.m. - *Salon de Reyes*
-
-{{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Advances in sensory-enabling technologies: the case of haptic stimulation in mobile experiences">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="“You’ll feel parkour”: How the Owo gaming shirt constructs and enacts the technohaptic real">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="Designing the social futures of digital touch">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Exploring the ethical implications of digital touch through a speculative approach">}}
 -->
+
+{{<cccPresenter imFile="/img/hs2026_CCC-Colgate.jpg" name="Ed Colgate" affiliation="Northwestern University" title="Dexterous Telemanipulation">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Agrawal.jpg" name="Pulkit Agrawal" affiliation="MIT" title="Dexterous Manipulation Requires Force Intelligence">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Fishel.jpg" name="Jeremy Fishel" affiliation="Sanctuary AI" title="Haptics in Teleoperation and Dexterous Manipulation">}}
+{{<cccPresenter imFile="/img/noimage.png" name="TBD" affiliation="" title="TBD">}}
+
 
 ## Interactive Posters
 
