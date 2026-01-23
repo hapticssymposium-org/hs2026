@@ -1,23 +1,51 @@
-.presenter{
-    float: left;
-    display: inline;
-} 
+/* Desktop / tablet */
+.presenter {
+    display: flex;
+    gap: 20px;
+    align-items: flex-start;
+}
+
+.presenter-img {
+    width: 300px;
+    max-width: 100%;
+    height: auto;
+}
+
+.presenter-meta {
+    flex: 1;
+}
+
+/* Mobile: stack content under image */
+@media (max-width: 768px) {
+    .presenter {
+        flex-direction: column;
+    }
+
+    .presenter-img {
+        width: 100%;
+        max-width: 360px;
+    }
+
+    .presenter-meta {
+        width: 100%;
+    }
+}
 
 .cropped {
-    float:left;
+    float: left;
     width: 320px;
     height: 320px;
     object-fit: cover;
 }
 
 .cropped2 {
-    float:left;
+    float: left;
     width: 250px;
     height: 250px;
     object-fit: cover;
 }
 
 .sponsorLogo {
-    float:left;
+    float: left;
     object-fit: cover;
 }

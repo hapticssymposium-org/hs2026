@@ -8,14 +8,14 @@ draft: false
 Sunday, April 7, 9:00 a.m. - 12:30 p.m.
 --->
 
-{{<simpleLastUpdate date="January 22, 2026">}}
+{{<simpleLastUpdate date="January 23, 2026">}}
 
 ## Organizers
 
 {{<organizerFlex>}}
   {{<cccOrganizer imFile="/img/hs2026_CCC-Holm.jpg" imWidth="100%" name="Marie Holm" affiliation="Kolding School of Design">}}
   {{<cccOrganizer imFile="/img/hs2026_CCC-Queiroz.jpg" imWidth="100%" name="Anna Queiroz" affiliation="University of Miami">}}
-  {{<cccOrganizer imFile="/img/noimage.png" imWidth="100%" name="Yujie Tao" affiliation="Stanford University">}}
+  {{<cccOrganizer imFile="/img/hs2026_CCC-Yujie.jpg" imWidth="100%" name="Yujie Tao" affiliation="Stanford University">}}
 {{</organizerFlex>}}
 
 {{<simpleLineBreak>}}

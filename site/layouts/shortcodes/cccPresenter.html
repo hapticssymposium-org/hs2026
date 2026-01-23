@@ -1,25 +1,29 @@
+{{ $imFile := .Get "imFile" }}
+{{ $cropPos := .Get "cropPos" }}
+
 <div class="presenter">
-    <img class="cropped" src="{{ .Get `imFile`}}" {{ with .Get "cropPos" }} style="object-position:{{ . }}" {{ end }}>
+    <img class="cropped presenter-img" src="{{ $imFile }}" {{ with $cropPos }} style="object-position:{{ . }}" {{ end
+        }}>
+    <div class="presenter-meta">
+        <p>
+            <span style="color:grey">Title:</span><br>
+            <span style="font-weight:bold">{{ .Get "title" }}</span>
+        </p>
 
-    <!-- Right-side info -->
-    <p style="padding-left:330px">
-        <span style="color:grey">Title:</span><br>
-        <span style="font-weight:bold">{{ .Get "title" }}</span>
-    </p>
+        <p>
+            <span style="color:grey">Presenter:</span><br>
+            <span style="font-weight:bold">{{ .Get "name" }}</span> - {{ .Get "affiliation" }}
+        </p>
 
-    <p style="padding-left:330px">
-        <span style="color:grey">Presenter:</span><br>
-        <span style="font-weight:bold">{{ .Get "name" }}</span> - {{ .Get "affiliation" }}
-    </p>
-
-    {{ with .Get "coauthors" }}
-    <p style="padding-left:330px">
-        <span style="color:grey">Coauthor:</span>
-        {{ range $index, $coauthor := split . "; " }}
-        <br>{{ $coauthor }}
+        {{ with .Get "coauthors" }}
+        <p>
+            <span style="color:grey">Coauthor:</span>
+            {{ range $index, $coauthor := split . "; " }}
+            <br>{{ $coauthor }}
+            {{ end }}
+        </p>
         {{ end }}
-    </p>
-    {{ end }}
+    </div>
 </div>
 
 <div style="clear:both"></div>
