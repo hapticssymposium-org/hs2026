@@ -48,7 +48,7 @@ The proposed CCC builds on recent developments in both robotic manipulation (e.g
 {{<cccPresenter imFile="/img/hs2026_CCC-Colgate.jpg" name="Ed Colgate" affiliation="Northwestern University" title="Dexterous Telemanipulation">}}
 {{<cccPresenter imFile="/img/hs2026_CCC-Agrawal.jpg" name="Pulkit Agrawal" affiliation="MIT" title="Dexterous Manipulation Requires Force Intelligence">}}
 {{<cccPresenter imFile="/img/hs2026_CCC-Fishel.jpg" name="Jeremy Fishel" affiliation="Sanctuary AI" title="Haptics in Teleoperation and Dexterous Manipulation">}}
-{{<cccPresenter imFile="/img/noimage.png" name="TBD" affiliation="" title="TBD">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Lambeta.jpg" name="Mike Lambeta" affiliation="Meta" title="Touch as a Trajectory, Not a Snapshot">}}
 
 
 ## Interactive Posters
