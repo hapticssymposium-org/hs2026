@@ -18,6 +18,10 @@ If you need to book outside the allowed dates through the provided link, feel fr
 
 If you would like to find one or more people to share a hotel room with, please fill out the [roommate finder form](https://forms.gle/LSHuXxKmQeLF45uR6). The information you enter will be shared with other attendees who are looking for a roommate so that you can find suitable matches.
 
+## Parking
+
+Overnight Valet parking and self-parking are offered on a first available basis; spaces onsite are not guaranteed. Parking is $25.00 for overnight valet and $20.00 for overnight self-parking per vehicle, per day. Hotel will offer discounted self-parking at $17.00 & valet parking at $20.00 per vehicle, per night for the above room night(s). Day use-only parking is complimentary.
+
 ## Contact
 
 If you have any other questions about conference accommodations, please email [lorraine.grogan@conferencedirect.com](mailto:lorraine.grogan@conferencedirect.com).
