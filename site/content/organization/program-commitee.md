@@ -44,15 +44,13 @@ The Conference Editorial Board ([editors@hapticssymposium.org](mailto:editors@ha
 * Vibol Yem, _University of Tsukuba_
 * Jung-Hwan Youn, _University of Illinois_
 
-## WIP Editorial Board
-
-### Chair
+## Work-In-Progress Editorial Board
 
 The Work-In-Progress Chair ([wip@hapticssymposium.org](mailto:wip@hapticssymposium.org)) assembles and coordinates the WIP Committee for Haptics Symposium 2026.
 
 * Cara M. Nunez, _Cornell University_
 
-### Board
+## Work-In-Progress Program Committee
 
 * Alexander Achberger, _University of Stuttgart_
 * Ned Barker, _King’s College London_
@@ -69,7 +67,3 @@ The Work-In-Progress Chair ([wip@hapticssymposium.org](mailto:wip@hapticssymposi
 * Shihan Lu, _Northwestern University_
 * Iliyas Tursynbek, _Nazarbayev University_
 * Kyle Yoshida, _University of California Los Angeles_
-
-<!--
-![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
--->
