@@ -44,30 +44,32 @@ The Conference Editorial Board ([editors@hapticssymposium.org](mailto:editors@ha
 * Vibol Yem, _University of Tsukuba_
 * Jung-Hwan Youn, _University of Illinois_
 
-
-<!--
 ## WIP Editorial Board
 
 ### Chair
 
-* Oliver Schneider, _University of Waterloo_
+The Work-In-Progress Chair ([wip@hapticssymposium.org](mailto:wip@hapticssymposium.org)) assembles and coordinates the WIP Committee for Haptics Symposium 2026.
+
+* Cara M. Nunez, _Cornell University_
 
 ### Board
 
-* Ronak R. Mohanty, _University of Wisconsin-Madison_
-* Gregory Reardon, _University of California, Santa Barbara_
-* Donald Degraen, _University of Duisburg-Essen_
+* Alexander Achberger, _University of Stuttgart_
+* Ned Barker, _King’s College London_
+* J. Michael Bertsch, _University of Virginia_
+* Laura Cang, _University of British Columbia_
+* Patrick Dills, _Northwestern University_
+* Megh Doshi, _University of Wisconsin-Madison_
+* Hyunjae Gil, _Daegu Gyeongbuk Institute of Science and Technology_
+* Yijie Gong, _Max Planck Institute for Intelligent Systems_
 * Taku Hashisu, _University of Tsukuba_
-* Chang Xu, _University of Virginia_
-* Patrick Dills, _University of Wisconsin-Madison_
-* Kyle Yoshida, _Washington State University_
-* Iliyas Tursynbek, _Astana IT University_
-* Ahmed Farooq, _Tampere University_
-* Elyse Chase, _Rice University_
-* Merel Jung, _Tilburg University_
-* Hyunjae Gil, _University of Texas at Dallas_
-* Ned Barker, _University College London_
+* Junjie Hua, _Bentley University_
+* Anika Kao, _University of Virginia_
+* Anzu Kawazoe, _Texas A&M University_
+* Shihan Lu, _Northwestern University_
+* Iliyas Tursynbek, _Nazarbayev University_
+* Kyle Yoshida, _University of California Los Angeles_
 
-
+<!--
 ![A leading haptics expert is presenting their latest research](/img/slide-image-5-crop.jpg "A leading haptics expert is presenting their latest research")
 -->
