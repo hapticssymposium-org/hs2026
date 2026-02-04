@@ -1,13 +1,13 @@
 ---
 title: Registration
-description: Registration will open in January. Early bird deadline for registration is February 16, 2026.
+description: Register for Haptics Symposium 2026 now!. Early bird deadline for registration is February 16, 2026.
 weight: 1
 draft: false
 ---
 
 # Registration
 
-We are excited to welcome the worldwide haptics community to Reno, NV for the 2026 Haptics Symposium! Registration will open in January. Early bird deadline for registration is February 16, 2026. For a preferred hotel rate at the conference hotel, use the [Renaissance Reno Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1764785526445&key=GRP&app=resvlink&_branch_match_id=1529869607550125649&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5mYm5hampkZmJialadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqkW1wYlpiUSYA1UNhBGAAAAA%3D) link here. The last day to book the hotel is Friday, March 6th, 2026.
+We are excited to welcome the worldwide haptics community to Reno, NV for the 2026 Haptics Symposium! Registration is now open through the [registration site](https://web.cvent.com/event/949422f8-c78b-4c66-ab70-c5cada8ecfd0/summary). Early bird deadline for registration is February 16, 2026. For a preferred hotel rate at the conference hotel, use the [Renaissance Reno Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1764785526445&key=GRP&app=resvlink&_branch_match_id=1529869607550125649&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5mYm5hampkZmJialadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqkW1wYlpiUSYA1UNhBGAAAAA%3D) link here. The last day to book the hotel is Friday, March 6th, 2026.
 
 Please read the following **before** you begin the registration process:
 
