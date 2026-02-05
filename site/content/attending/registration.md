@@ -9,6 +9,8 @@ draft: false
 
 We are excited to welcome the worldwide haptics community to Reno, NV for the 2026 Haptics Symposium! Registration is now open through the [registration site](https://web.cvent.com/event/949422f8-c78b-4c66-ab70-c5cada8ecfd0/summary). Early bird deadline for registration is February 16, 2026. For a preferred hotel rate at the conference hotel, use the [Renaissance Reno Downtown](https://www.marriott.com/event-reservations/reservation-link.mi?id=1764785526445&key=GRP&app=resvlink&_branch_match_id=1529869607550125649&_branch_referrer=H4sIAAAAAAAAA8soKSkottLXTywo0MtNLCrKzC8p0UvOz9UvSi3OyczLtgdK2ALZZSCOWmaKraG5mYm5hampkZmJialadmqlrXtQgFpdUWpaKlB3Xnp8UlF%2BeXFqkW1wYlpiUSYA1UNhBGAAAAA%3D) link here. The last day to book the hotel is Friday, March 6th, 2026.
 
+Authors who require financial assistance to attend the conference may be eligible for travel support through the IEEE RAS Member Support Program. Please see the [Travel Awards](../award/) page for eligibility criteria and application details. The application deadline is **February 20, 2026**.
+
 Please read the following **before** you begin the registration process:
 
 ## Conference registration will require the following:
@@ -41,6 +43,11 @@ You may modify or cancel your registration using the "Already Registered?" link 
 In an effort to assist anyone who would like to attend the 2026 IEEE Haptics Symposium, we are offering reduced registration fees based on World Bank country classifications. The World Bank uses four categories according to each country’s gross national income per capita: high income, upper middle income, lower middle income, and low income. We are offering three categories for 2026 IEEE Haptics Symposium registration: (i) high income, (ii) upper middle income, and (iii) lower middle income and low income.
 
 If you would like to take advantage of the reduced registration fee program, please go to the [World Bank website](https://datahelpdesk.worldbank.org/knowledgebase/articles/906519-world-bank-country-and-lending-groups) and locate the classification for the country in which you are currently working or attending school. When registering you will be instructed to enter your current mailing address. Please contact [hapticsreg@ieee.org](mailto:hapticsreg@ieee.org) for further instructions.
+
+## Travel Support and Awards
+
+The conference offers travel support and awards for eligible participants. Please see the [Travel Support page](../travel-support/) for details on eligibility, application procedures, and deadlines.
+
 
 ## Visa Letter Requests
 

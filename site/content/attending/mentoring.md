@@ -2,7 +2,7 @@
 title: Mentoring Activities
 description: >-
  We are excited to announce the HS2026 Mentorship & Networking Program, designed to foster connections across career stages within the haptics community.
-weight: 2
+weight: 3
 draft: false
 ---
 # Mentoring Activities

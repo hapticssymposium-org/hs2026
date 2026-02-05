@@ -2,7 +2,7 @@
 title: Venue Information
 description: >-
   The IEEE Haptics Symposium 2026 will be held at the Renaissance Reno Downtown Hotel & Spa in Reno, NV, USA.
-weight: 3
+weight: 4
 draft: false
 ---
 # Venue Information
