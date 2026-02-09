@@ -20,7 +20,7 @@ Authors of articles recently published in the IEEE Transactions on Haptics (ToH)
 
 * The invitation is open for all articles that have been or will be published in the [IEEE Transactions on Haptics](http://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=4543165) in 2025 (Volume 18, issues 1-4) as well as ToH articles that become available on IEEE Xplore via [Early Access](http://ieeexplore.ieee.org/xpl/tocresult.jsp?isnumber=4543166) prior to the application deadline.
 * Articles reporting research that was presented at a conference in an earlier form may (and are encouraged to) participate. However, manuscripts that have been presented during a ToH poster or presentation session at a prior haptics conference (e.g., World Haptics 2025) are not permitted to participate.
-* At least one of the article's authors must register for the conference by the early-bird registration deadline (February 23, 2026).
+* At least one of the article's authors must register for the conference by the early-bird registration deadline (February 16, 2026).
 
 ## Submission Method
 
