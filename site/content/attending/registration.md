@@ -17,7 +17,7 @@ Please read the following **before** you begin the registration process:
 
 * **IEEE account username and password**, as appropriate. Your user credentials will be used to verify IEEE membership and eligibility for discounted IEEE member rates during the registration process. If you do not have your user credentials, please follow the instructions listed under the FAQs tab on the registration page to recover your IEEE username and password.
 * Registration discount code, as appropriate. IEEE member rates apply to both IEEE members and IEEE Technical Committee on Haptics (TCH) members. TCH members who are not also IEEE members should obtain a discount code prior to completing their online registration in order to obtain IEEE member rates. All requests for discount codes should be submitted via email to the Haptics Symposium Registration Chair ([registration@hapticssymposium.org](mailto:registration@hapticssymposium.org)) with the subject HAPTICS TCH Discount Code Request. Requests should include the registrant’s name and the type of discount code being requested.
-* **Titles of the accepted** long and regular papers, work-in-progress papers, hands-on demonstrations, and/or cross-cutting challenges that you will be presenting. All accepted papers, posters, demos, and cross-cutting challenges must be presented in person.
+* **Titles of the accepted** long and regular papers, Transactions on Haptics papers, work-in-progress papers, hands-on demonstrations, and/or cross-cutting challenges that you will be presenting. All accepted papers, posters, demos, and cross-cutting challenges must be presented in person.
 
 
 ## Conference Registration includes:
