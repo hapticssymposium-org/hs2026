@@ -93,6 +93,69 @@ All accepted WIP papers will be included in the electronically distributed confe
 
 Authors retain the full copyright of WIP papers so that they can submit a more mature version of the paper at another time.
 
+## Camera-Ready Instructions
+
+There are three steps for preparing your final publication-ready submission:
+
+**[1. De-anonymize and revise your paper](#1-de-anonymize-and-revise-your-paper)**. Please be sure to address the reviews you have received and also de-anonymize and revise any supplemental material (e.g., the video).
+
+**[2. Check the formatting of your PDF and supplemental materials](#2-check-the-formatting-of-your-pdf-and-supplemental-materials)**.
+
+**[3. Submit the compatible PDF and supplemental materials to PCS by February 20, 2026](#3-submit-the-compatible-pdf-and-supplemental-materials-to-pcs-by-february-20-2026)**.
+
+Detailed instructions follow below. Please also remember to register at least one author for the whole conference by so they can present your paper in person in Reno, NV, during March 29 - April 1.
+
+**If you have any questions or concerns, please email [wip@hapticssymposium.org](mailto:wip@hapticssymposium.org)**.
+
+### 1. De-anonymize and revise your paper
+
+Your paper must be de-anonymized and revised for the camera-ready submission the following steps.
+
+**De-anonymization**
+  * Enter the name and IEEE membership of each author as a list under the title
+  * Enter the affiliation and contact information of all the authors in the first footnote
+  * Update or delete the following text in the LaTeX or Word template as needed “\thanks(Identify applicable funding agency here. If none, delete this.)” In the LaTeX template, this is right after the title. In the Word template, this is at the bottom of the first page.
+  * Add information about ethical review for all reported user studies, such as the Institutional Review Board (IRB) approval number, to the paper as appropriate.
+  * Add any other scientific details that were omitted for double-blind review, such as direct connections to your prior work or the language in which a user study was conducted.
+  * Add acknowledgments to the end of your paper as needed.
+  * If your paper includes a supplementary video or supplementary materials, please also de-anonymize them. For the video, please include a title page at the start of the video with the final paper title, authors, affiliations, conference name (IEEE Haptics Symposium), and year. The same information can optionally be included at the end of the video. Please also remove any submission information (e.g., submission number) from the video.
+
+**Revision**
+  * Edit your paper to address the feedback provided by the reviewers. Please consider improvements to all aspects of your submission, including the title, abstract, figures, text, references, and optional video and supplementary video.
+  * We reserve the right to reject camera-ready papers that are not sufficiently improved based on the reviews.
+
+### 2. Check the formatting of your PDF and supplemental materials
+
+After de-anonymizing the content and addressing reviewer comments, please confirm that your submission follows all of the formatting guidelines described in detail above pertaining to initial submissions. Some key details to remember are described below:
+
+* WIP papers should be prepared according to the formatting instructions available [here](http://ras.papercept.net/conferences/support/support.php).
+* WIP papers should be **maximum 2 pages** (US Letter size) including references. There will be no option to purchase additional pages.
+* Submission of a video is optional but encouraged to help readers understand the WIP paper. Submitted videos must follow the following guidelines:
+  * Format: .mp4 (mpeg-4))
+  * Length: up to 60 seconds
+  * Resolution: at least 480p (progressive scan), we recommend a resolution of 1080p (1920 x 1080) or 4k (3840 x 2160)
+  * File size: up to 40 MB
+  * Address the accessibility requirements listed below (see [Video Accessibility](../accessibility/#video-accessibility))
+  * We recommend that the video begins and optionally ends with a title page with the paper title, authors, affiliations, conference name (IEEE Haptics Symposium), and year.
+* Accepted WIP abstracts will be published in the conference digest along with a representative image. The image should be 500 x 500 pixels and 300 dpi in JPEG format.
+* Authors are expected to follow the [IEEE Haptics Symposium Guide to Inclusive and Accessible Submissions](../accessibility/). If you have any questions or concerns about creating accessible submissions, please contact the Equity, Diversity, and Inclusion Chair at [edi@hapticssymposium.org](mailto:edi@hapticssymposium).
+
+### 3. Submit the compatible PDF and supplemental materials to PCS by February 20, 2026
+
+The contact author must log in to PCS using the email address at which the decision email: [https://new.precisionconference.com/haptics26a](https://new.precisionconference.com/haptics26a)
+
+Find this accepted paper on the “Submissions” tab and click the action link to submit the camera-ready paper.
+* Complete the form, entering your final paper title and abstract.
+* The author list is carried over from the initial submission of your paper and cannot be edited on PCS. If you wish to change the author list for your accepted paper, please email a detailed summary of your request to [wip@hapticssymposium.org](mailto:wip@hapticssymposium.org), giving your paper submission ID and explaining exactly how and why you want to make this modification. We take such requests seriously and will aim to respond within two business days.
+* Upload the camera-ready PDF and supplemental materials by February 20.
+* When done, press the “Record Changes” button at the bottom of the page. You can return to this page and resubmit until the deadline.
+
+### Remember to Register for HAPTICS26!
+
+You can find information about conference registration on the [registration page](../../attending/registration/).
+
+At least one author must register to attend the whole conference and present your WIP paper in person in Reno, NV, during March 29 - April 1.
+
 ## Presenting at the Conference
 
 Work-in-Progress papers will be presented through a poster and short teaser presentation. More details to be released as the conference date nears.
