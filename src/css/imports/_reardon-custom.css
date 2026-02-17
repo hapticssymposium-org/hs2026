@@ -49,3 +49,47 @@
     float: left;
     object-fit: cover;
 }
+
+/* ===== Program table wrapper ===== */
+
+.program-table {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 2px;
+}
+
+
+/* ===== Program table (programEntry shortcode) ===== */
+
+.program-entry__id {
+    width: 20%;
+    vertical-align: top;
+}
+
+.program-entry__main {
+    width: 80%;
+    vertical-align: top;
+}
+
+.program-entry__author {
+    color: #808080;
+}
+
+.program-entry__award {
+    color: #808080;
+    font-style: italic;
+}
+
+.program-entry__spacer td {
+    height: 10px;
+}
+
+/* optional: slightly tighter on mobile */
+@media (max-width: 640px) {
+
+    .program-entry__id,
+    .program-entry__main {
+        width: auto;
+        display: block;
+    }
+}

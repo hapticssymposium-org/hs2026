@@ -36,12 +36,12 @@ Monday, March 30, 9:00 a.m. - 10:30 a.m.
 Session Chairs: TBD
 
 {{<programTable>}}
-{{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Active Vibrotactile Frequency Discrimination Under Exploration Constraints and Spatial Separation" author="Mounia Ziat, Junjie Hua, Jose James, Thaer Burgan">}}
-{{<programEntry time="9:14 a.m. - 9:28 a.m." title="[Regular] Threshold Estimation for Multi-Channel Electrotactile Stimulation Using Discharge Voltage Waveforms" author="Vibol Yem, Aoi Yamada, Hiroaki Yano, Hiroyuki Kajimoto">}}
-{{<programEntry time="9:28 a.m. - 9:42 a.m." title="[Regular] Pneumatic Suction for Haptic Sensory Substitution Feedback at the Fingertip during Telemanipulation" author="Jiaji Su, Irene R Bhunia, Zonghe Chua">}}
-{{<programEntry time="9:42 a.m. - 9:56 a.m." title="[Regular] Strain2Force: Compact Nail-Based Sensor for 3DOF Contact Force Estimation" author="Yanjun Chen, Xiping Sun, Jung-Hwan Youn, Craig Shultz">}}
-{{<programEntry time="9:56 a.m. - 10:13 a.m." title="[Long] Effects of Spatiotemporal Parameters on Forearm Vibrotactile Stimulus Identification" author="Dong-Geun Kim, Geunho Lee, Suheon Nam, Chaeyong Park, Seungmoon Choi">}}
-{{<programEntry time="10:13 a.m. - 10:27 a.m." title="[Regular] Sensorizing a Common Task to Characterize Grip Force Modulation and Finger Skin Deformation" author="Ahmed Zid, Rebecca Fenton Friesen">}}
+{{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Active Vibrotactile Frequency Discrimination Under Exploration Constraints and Spatial Separation" author="Mounia Ziat, Junjie Hua, Jose James, Thaer Burgan" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
+{{<programEntry time="9:14 a.m. - 9:28 a.m." title="[Regular] Threshold Estimation for Multi-Channel Electrotactile Stimulation Using Discharge Voltage Waveforms" author="Vibol Yem, Aoi Yamada, Hiroaki Yano, Hiroyuki Kajimoto" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
+{{<programEntry time="9:28 a.m. - 9:42 a.m." title="[Regular] Pneumatic Suction for Haptic Sensory Substitution Feedback at the Fingertip during Telemanipulation" author="Jiaji Su, Irene R Bhunia, Zonghe Chua" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
+{{<programEntry time="9:42 a.m. - 9:56 a.m." title="[Regular] Strain2Force: Compact Nail-Based Sensor for 3DOF Contact Force Estimation" author="Yanjun Chen, Xiping Sun, Jung-Hwan Youn, Craig Shultz" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
+{{<programEntry time="9:56 a.m. - 10:13 a.m." title="[Long] Effects of Spatiotemporal Parameters on Forearm Vibrotactile Stimulus Identification" author="Dong-Geun Kim, Geunho Lee, Suheon Nam, Chaeyong Park, Seungmoon Choi" award="Finalist for Best Conference Technical Paper Award (Long Paper category)">}}
+{{<programEntry time="10:13 a.m. - 10:27 a.m." title="[Regular] Sensorizing a Common Task to Characterize Grip Force Modulation and Finger Skin Deformation" author="Ahmed Zid, Rebecca Fenton Friesen" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
 {{</programTable>}}
 
 ## Session 2A
@@ -77,12 +77,12 @@ Tuesday, March 31, 9:00 a.m. - 10:40 a.m.
 Session Chairs: TBD
 
 {{<programTable>}}
-{{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Temporal Integration Underlying Extrapolation of Thermal Sensation" author="Junjie Hua, Masahiro Furukawa, Taro Maeda">}}
-{{<programEntry time="9:14 a.m. - 9:31 a.m." title="[Long] Thermal and Tactile Integration in Human Liquid Perception Using Viscous Solutions and Visible Light" author="Junjie Hua, Sosuke Ichihashi, Hsin-Ni Ho">}}
-{{<programEntry time="9:31 a.m. - 9:48 a.m." title="[Long] Language-Guided Multimodal Texture Authoring via Generative Models" author="Wanli Qian, Aiden Chang, Shihan Lu, Michael Gu, Heather Culbertson">}}
-{{<programEntry time="9:48 a.m. - 10:05 a.m." title="[Long] Flex-Knee: A Low-Cost Passive Haptic Model for Injury Assessment Training" author="Marco Moran-Ledesma, R Burns, Oliver Schneider, Mark Hancock">}}
-{{<programEntry time="10:05 a.m. - 10:22 a.m." title="[Long] Lack of disembodiment influences perceptual sensitivity of virtual brush illusion paradigm" author="Lyndah Lovell, Ethan Brown, Sarah Derrick, Mohit Singhala, Jeremy Brown">}}
-{{<programEntry time="10:22 a.m. - 10:36 a.m." title="[Regular] Effects of Palpation Motion on Human Perceptual Acuity in Lump Detection and Size Discrimination" author="Anzu Kawazoe, Noah Kim, Thomas K Ferris, Rebecca Fenton Friesen, M Cynthia Hipwell">}}
+{{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Temporal Integration Underlying Extrapolation of Thermal Sensation" author="Junjie Hua, Masahiro Furukawa, Taro Maeda" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
+{{<programEntry time="9:14 a.m. - 9:31 a.m." title="[Long] Thermal and Tactile Integration in Human Liquid Perception Using Viscous Solutions and Visible Light" author="Junjie Hua, Sosuke Ichihashi, Hsin-Ni Ho" award="Finalist for Best Conference Technical Paper Award (Long Paper category)">}}
+{{<programEntry time="9:31 a.m. - 9:48 a.m." title="[Long] Language-Guided Multimodal Texture Authoring via Generative Models" author="Wanli Qian, Aiden Chang, Shihan Lu, Michael Gu, Heather Culbertson" award="Finalist for Best Conference Technical Paper Award (Long Paper category)">}}
+{{<programEntry time="9:48 a.m. - 10:05 a.m." title="[Long] Flex-Knee: A Low-Cost Passive Haptic Model for Injury Assessment Training" author="Marco Moran-Ledesma, R Burns, Oliver Schneider, Mark Hancock" award="Finalist for Best Conference Technical Paper Award (Long Paper category)">}}
+{{<programEntry time="10:05 a.m. - 10:22 a.m." title="[Long] Lack of disembodiment influences perceptual sensitivity of virtual brush illusion paradigm" author="Lyndah Lovell, Ethan Brown, Sarah Derrick, Mohit Singhala, Jeremy Brown" award="Finalist for Best Conference Technical Paper Award (Long Paper category)">}}
+{{<programEntry time="10:22 a.m. - 10:36 a.m." title="[Regular] Effects of Palpation Motion on Human Perceptual Acuity in Lump Detection and Size Discrimination" author="Anzu Kawazoe, Noah Kim, Thomas K Ferris, Rebecca Fenton Friesen, M Cynthia Hipwell" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
 {{</programTable>}}
 
 ## Session 4A
