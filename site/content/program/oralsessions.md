@@ -123,7 +123,7 @@ Session Chairs: TBD
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Admittance Control of a 3 Omni-Wheel Robot Interacting with a Sensorimotor Model of the Arm" author="Jose Ben, Reza Sharif Razavian">}}
 {{<programEntry time="9:14 a.m. - 9:28 a.m." title="[Regular] Passive and Safety-Critical Haptics-Enabled Framework for Time-Delayed Robot Teleoperation" author="Peter Paik, Xingyuan Zhou, Haoran Zhou">}}
-{{<programEntry time="9:28 a.m. - 9:42 a.m." title="[Regular] A Series Actuation Approach for Workspace Expansion of Impedance Based Haptic Devices" author="Megh Doshi, Michael Zinn">}}
+{{<programEntry time="9:28 a.m. - 9:42 a.m." title="[Regular] A Series Actuation Approach for Workspace Expansion of Impedance Based Haptic Devices" author="Megh Doshi, Changyang Jiang, Michael Zinn">}}
 {{<programEntry time="9:42 a.m. - 9:59 a.m." title="[ToH] Haptic Acuity during Shared Grasp Experiences in Virtual Reality" author="Pijuan Yu, Gwilym Couch, Thomas K Ferris, M Cynthia Hipwell, Rebecca F Friesen">}}
 {{<programEntry time="9:59 a.m. - 10:16 a.m." title="[ToH] Kinesthetic Weight Modulation: The Effects of Whole-Arm Tendon Vibration on the Perceived Heaviness" author="Keigo Ushiyama, Hiroyuki Kajimoto">}}
 {{</programTable>}}
