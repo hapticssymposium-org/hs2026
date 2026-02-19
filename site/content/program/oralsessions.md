@@ -30,6 +30,7 @@ Wednesday, April 1
 -->
 
 ## Session 1
+**[Award Session]**  
 **Haptic Sensing, Rendering, and Authoring Methods**  
 Monday, March 30, 9:00 a.m. - 10:30 a.m.  
 *- ---*  
@@ -71,6 +72,7 @@ Session Chairs: TBD
 {{</programTable>}}
 
 ## Session 3
+**[Award Session]**  
 **Human Perception and Multisensory Haptics**  
 Tuesday, March 31, 9:00 a.m. - 10:40 a.m.  
 *- ---*  
