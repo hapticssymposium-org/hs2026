@@ -211,4 +211,12 @@ You can find information about conference registration on the [registration page
 
 At least one author must register to attend the whole conference and present your accepted long or regular paper in person in Reno, NV, during March 29 - April 1. At least one author must register by the early-bird registration deadline of February 16.
 
-Paper presentation formats and times will be assigned by the Program Chairs and are expected to be announced in February before the early-bird registration deadline.
+## Presentation Instructions
+
+Each **Regular Paper** is allotted a 10-minute talk followed by a 2-minute Q&A. **Long Papers are each** allotted a 12-minute talk followed by a 3-minute Q&A. A 2-minute buffer is provided for presenter transitions.
+
+Presenters must deliver their presentations from their own computers to avoid formatting issues. An HDMI connection is available in every room. Although a limited number of HDMI adapters will be provided on-site, presenters are encouraged to bring their own to ensure compatibility.
+
+Please consult the detailed conference program for your presentation time and venue. We recommend checking the online schedule periodically during the conference for any last-minute updates.
+
+Presenters are advised to arrive at their session room early to test the connection with the projection system, particularly to verify video playback. On-site technicians will be available to assist with any technical issues.
