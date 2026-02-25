@@ -28,13 +28,28 @@ Authors of articles recently published in the IEEE Transactions on Haptics (ToH)
 * In the unlikely event that there is insufficient space, articles published in 2025 will be given priority over Early Access articles.
 * Acceptance will be confirmed by February 12, 2026.
 
+
 ## Presentation Instructions
 
-* ToH papers that are presented as **posters** will be presented during a joint ToH and Work-In-Progress (WIP) poster session that will take place between 3:30 and 5:00 pm on Monday, March 30th.  
+### Oral Presentation
+
+ToH papers selected for oral presentation will be presented during one of the regular conference oral sessions on Monday–Wednesday (March 30–April 1).
+
+Each ToH Paper is allotted a 12-minute talk followed by a 3-minute Q&A. A 2-minute buffer is provided for presenter transitions.
+
+Presenters must deliver their presentations from their own computers to avoid formatting issues. An HDMI connection is available in every room. Although a limited number of HDMI adapters will be provided on-site, presenters are encouraged to bring their own to ensure compatibility.
+
+Presenters are advised to arrive at their session room early to test the connection with the projection system, particularly to verify video playback. On-site technicians will be available to assist with any technical issues.
+
+Please consult the detailed conference program for your presentation time and venue. We recommend checking the online schedule periodically during the conference for any last-minute updates.
+
+### Poster Presentation
+
+ToH papers that are presented as posters will be presented during a joint ToH and Work-In-Progress (WIP) poster session that will take place between 3:30 and 5:00 pm on Monday, March 30.
+
 The ToH and WIP poster session will be held as a single-track event and will not be held in parallel with any podium or demo sessions.
-* ToH papers presented as **oral presentations** will be presented during one of the regular conference oral sessions on Monday-Wednesday (March 30-April 1).
-* **For the poster option**, presenters are responsible for the design and printing of their paper's poster, which will be displayed on shared poster stands (with two posters per side) provided during the session. The maximum single poster size must fit within a portrait-oriented rectangle with dimensions of 36 inches (91.44 cm) in width by 48 inches in height (121.92 cm). Poster design, style, and formatting is at the discretion of the presenter. Presenters are encouraged to include the conference logo.  
-* **For the oral presentation option**, presenters will deliver a brief talk summarizing the key contributions, methodology, and findings of their accepted paper.  
+
+Presenters are responsible for the design and printing of their paper’s poster, which will be displayed on shared poster stands (with two posters per side) provided during the session. The maximum single poster size must fit within a portrait-oriented rectangle with dimensions of 36 inches (91.44 cm) in width by 48 inches in height (121.92 cm). Poster design, style, and formatting is at the discretion of the presenter. Presenters are encouraged to include the conference logo.
 
 ## Contact
 

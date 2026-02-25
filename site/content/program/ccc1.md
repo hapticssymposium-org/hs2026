@@ -1,7 +1,6 @@
 ---
 title: "CCC | Touch, Embodiment, and Multisensory Future"
-weight: 1
-draft: false
+weight: 3
 ---
 # Cross-Cutting Challenge | Touch, Embodiment, and Multisensory Future
 <!--
@@ -36,7 +35,7 @@ The motivation behind this Cross-Cutting Challenge is twofold:
 By engaging these themes and questions across disciplines, this CCC seeks to advance a collective vision of haptics not as an isolated technical feature, but as a transformative modality for future applications and multisensory experiences. This CCC session invites us to reflect on the challenge of the shifting role of immersive and multisensory experiences as both a scientific frontier and a human-centred practice. Through open discussions, keynote talks and live demo sessions, this session offers new knowledge on how haptic research can inform and shape ethical, inclusive, and adaptive multisensory futures, fostering the understanding that haptics is not merely a matter of feedback, but a relational practice, linking body and world, and bridging knowledge across disciplines. 
 
 
-## Keynote Talks
+## Keynote Talk
 
 <!--
 9:00 a.m. - 11:15 a.m. - *Salon de Reyes*

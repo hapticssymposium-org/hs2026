@@ -12,8 +12,8 @@ draft: false
 
 Please see the description of the CCCs for more details:
 
-* [Touch, Embodiment, and Multisensory Future](ccc1)
-* [The Sense of Touch in Contact-Rich Dexterous Robot Manipulation](ccc2)
+* [Touch, Embodiment, and Multisensory Future](../../../program/ccc1)
+* [The Sense of Touch in Contact-Rich Dexterous Robot Manipulation](../../../program/ccc2)
 
 ## Information about the Cross Cutting Challenges Track
 

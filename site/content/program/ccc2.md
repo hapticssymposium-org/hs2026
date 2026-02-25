@@ -1,6 +1,6 @@
 ---
 title: "CCC | The Sense of Touch in Contact-Rich Dexterous Robot Manipulation"
-weight: 2
+weight: 4
 draft: false
 ---
 # Cross-Cutting Challenge | The Sense of Touch in Contact-Rich Dexterous Robot Manipulation
