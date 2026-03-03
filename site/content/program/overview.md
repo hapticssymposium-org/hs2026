@@ -7,7 +7,7 @@ layout: "single"
 
 # Program Overview
 
-{{<simpleLastUpdate date="March 2, 2026">}}
+{{<simpleLastUpdate date="March 3, 2026">}}
 
 <!--
 [Download Proceedings](/program/overview/proceedings/)
