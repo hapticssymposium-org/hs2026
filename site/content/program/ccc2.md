@@ -1,15 +1,13 @@
 ---
 title: "CCC | The Sense of Touch in Contact-Rich Dexterous Robot Manipulation"
-weight: 4
+weight: 3
 draft: false
 ---
 # Cross-Cutting Challenge | The Sense of Touch in Contact-Rich Dexterous Robot Manipulation
 
-<!--
-Sunday, April 7, 2:00 p.m. - 5:30 p.m.
--->
+Sunday, March 29, 9:00 a.m. - 12:30 p.m.
 
-{{<simpleLastUpdate date="January 26, 2026">}}
+{{<simpleLastUpdate date="March 4, 2026">}}
 
 ## Organizers
 

@@ -1,13 +1,12 @@
 ---
 title: "CCC | Touch, Embodiment, and Multisensory Future"
-weight: 3
+weight: 4
 ---
 # Cross-Cutting Challenge | Touch, Embodiment, and Multisensory Future
-<!--
-Sunday, April 7, 9:00 a.m. - 12:30 p.m.
---->
 
-{{<simpleLastUpdate date="January 23, 2026">}}
+Sunday, March 29, 2:00 p.m. - 5:30 p.m.
+
+{{<simpleLastUpdate date="March 29, 2026">}}
 
 ## Organizers
 
