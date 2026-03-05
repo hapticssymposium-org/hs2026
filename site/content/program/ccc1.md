@@ -13,7 +13,7 @@ Sunday, March 29, 2:00 p.m. - 5:30 p.m.
 {{<organizerFlex>}}
   {{<cccOrganizer imFile="/img/hs2026_CCC-Holm.jpg" imWidth="100%" name="Marie Holm" affiliation="Kolding School of Design">}}
   {{<cccOrganizer imFile="/img/hs2026_CCC-Queiroz.jpg" imWidth="100%" name="Anna Queiroz" affiliation="University of Miami">}}
-  {{<cccOrganizer imFile="/img/hs2026_CCC-Yujie.jpg" imWidth="100%" name="Yujie Tao" affiliation="Stanford University">}}
+  {{<cccOrganizer imFile="/img/hs2026_CCC-Tao.jpg" imWidth="100%" name="Yujie Tao" affiliation="Stanford University">}}
 {{</organizerFlex>}}
 
 {{<simpleLineBreak>}}
@@ -34,47 +34,57 @@ The motivation behind this Cross-Cutting Challenge is twofold:
 By engaging these themes and questions across disciplines, this CCC seeks to advance a collective vision of haptics not as an isolated technical feature, but as a transformative modality for future applications and multisensory experiences. This CCC session invites us to reflect on the challenge of the shifting role of immersive and multisensory experiences as both a scientific frontier and a human-centred practice. Through open discussions, keynote talks and live demo sessions, this session offers new knowledge on how haptic research can inform and shape ethical, inclusive, and adaptive multisensory futures, fostering the understanding that haptics is not merely a matter of feedback, but a relational practice, linking body and world, and bridging knowledge across disciplines. 
 
 
-## Keynote Talk
+## Program
 
-<!--
-9:00 a.m. - 11:15 a.m. - *Salon de Reyes*
--->
+TBA
+
+## Keynote Speakers
 
 {{<cccPresenter imFile="/img/hs2026_CCC-Gonzalez-Franco.jpg"
 name="Mar González-Franco"
 affiliation="Principal Researcher, Google"
-title="TBA"
+title="Taxonomy of Hand-Object Haptics for Virtual Reality"
+abstract="The seamless manipulation of hand-held objects in Virtual Reality (VR) relies heavily on two often competing requirements: input tracking with high freedom of movement, and high-fidelity haptic feedback. Traditionally, the field has leaned toward complex hand exoskeletons and gloves that attempt to render forces on a meticulous, finger-by-finger basis. In this talk, we present an alternative set of haptic devices with a pragmatic approach focused on rendering the object properties rather than matching the hand mechanics."
 biography="Mar Gonzalez-Franco, PhD, is a Computer Scientist and Neuroscientist at Google working on a new generation of Immersive technologies. With a background in real-time systems in her research she tries to build better interactions for immersive technologies using different disciplines: Virtual Reality, Augmented Reality, AI, computer graphics, computer vision, Avatars, and haptics. All while studying human behaviour, perception and neuroscience. She was awarded the 2022 IEEE VGTC VR New Researcher Award, and the NAE Frontiers Engineer. She leads the BIRD lab, working on Blended Interactions Research and Devices. https://research.google/people/108218/?&  / https://www.linkedin.com/in/margonzalez/"
 >}}
 
+{{<cccPresenter imFile="/img/hs2026_CCC-Seifi.jpg"
+name="Hasti Seifi"
+affiliation="Assistant Professor, Arizona State University"
+title="TBA"
+abstract="In everyday life, we interpret haptic sensations within rich multimodal context alongside visual, auditory, and other sensory cues. Yet designing expressive and intuitive haptic experiences that align with this sensemaking remains more craft than science, often requiring years of tacit expertise and trial and error. In this talk, I present research from my lab exploring computational approaches to supporting haptic design. By systematically collecting data on users’ haptic language and cross-modal experiences, we model how people perceive, describe, and translate haptic feedback across modalities. I conclude by discussing future directions for how such data-driven methods can help designers move beyond intuition toward principled tools for creating expressive, context-aware haptic interactions."
+biography="Hasti Seifi is an assistant professor in the School of Computing and Augmented Intelligence at Arizona State University. Her research lies at the intersection of human-computer interaction, haptics, social robotics, and accessibility, with a focus on designing expressive and meaningful touch interactions. Her work has been recognized with several awards, including an ACM SIGCHI Special Recognition (2025), the NSF CAREER Award (2024), and the EuroHaptics Best Ph.D. Thesis Award (2017). Hasti serves the HCI and haptics communities in various roles, including Subcommittee Chair for ACM CHI (2025, 2026) and Program Co-Chair for EuroHaptics 2022."
+>}}
 
-## Interactive Posters
+## Panel Speakers
 
-TBD
+{{<cccPresenter imFile="/img/hs2026_CCC-Chen.jpg"
+name="Eva Chen"
+affiliation="Stanford University"
+title="Enhancing Movement and Sensation with Haptic Garments"
+biography="Ava Chen is a Postdoctoral Scholar in the Collaborative Haptics and Robotics in Medicine Lab at Stanford University, advised by Allison Okamura. She received her Ph.D. in Mechanical Engineering from Columbia University under Matei Ciocarlie. Her research explores how robotic garments can assist and study human sensorimotor coordination in the contexts of manipulation, rehabilitation, and shared autonomy. She is a recipient of the Ruth L. Kirschstein National Service Award (NIH F31), Robotics: Science and Systems Pioneer, and ME Rising Star."
+>}}
 
-<!--
-11:15 a.m. - 12:30 p.m. - *Miramar*
+{{<cccPresenter imFile="/img/hs2026_CCC-Holm.jpg"
+name="Marie Holm"
+affiliation="Kolding School of Design"
+title="Vibration to Meaning: A Practice-Based Design Approach for Haptic Glove Interaction in XR"
+biography="Marie P. P. M. Holm is an MA Danish Design student at Kolding School of Design, currently completing her master’s thesis. She holds a BA in Textile Design and has recently been a Visiting Research Scholar at the University of Miami’s Department of Interactive Media. Her design research investigates tactility, haptics, and embodied perception in XR, with particular focus on haptic gloves and multisensory interfaces across care and educational contexts. Grounded in sensory design practice and human-centred design, her work explores how immersive technologies can support cognitive, emotional, and socially sustainable futures."
+>}}
 
-{{<cccPresenter imFile="/img/hs2024_CCC-Gerling.jpg" name="Gregory Gerling" affiliation="University of Virginia" title="Deciphering Physical Cues and Dimensions that Underlie Our Tactile Sense of Compliance">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Okamura.jpg" name="Allison Okamura" affiliation="Stanford University" title="Mechanisms for Distributed Softness Wearable Haptics">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Carpi.jpg" name="Federico Carpi" affiliation="University of Florence" title="Wearable Pneumatic Tactile Display of Softness for Virtual Reality">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Chase.jpg"
+name="Elyse Chase"
+affiliation="Rice University"
+title="Inferring Physical Beliefs in Virtual Environments: From Pseudohaptics to Referred Touch"
+biography="Elyse D. Z. Chase is a Rice Academy Fellow at Rice University and was previously an Intelligence Community Postdoctoral Fellow. Her research focuses on multisensory feedback, particularly haptics, and how touch, vision, and action jointly shape human learning, control, and collaboration with intelligent systems. She has a B.S.E. in Mechanical Engineering and Applied Mechanics from the University of Pennsylvania, and an M.S. and Ph.D. in Mechanical Engineering from Stanford University."
+>}}
 
-{{<cccPresenter imFile="/img/hs2024_CCC-Okamoto.jpg" name="Shogo Okamoto" affiliation="Tokyo Metropolitan University" title="Softness illusion to re-think the perceptual mechanisms">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Dhong.jpg" name="Charles Dhong" affiliation="University of Delaware" title="The Role of Indentation Depth and Contact Area on the Perception of Softness">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Kyung.jpg" name="Ki-Uk Kyung" affiliation="KAIST" title="Enhancing Soft Actuators Sufficiently to Deliver Effective Haptic Stimuli">}}
-
-{{<cccPresenter imFile="/img/hs2024_CCC-Vardar.jpg" name="Yasemin Vardar" affiliation="Delft Univresity of Technology" title="The Role of Softness in Material Perception and Rendering Material Softness in Digital Environments">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Kajimoto.jpg" name="Hiroyuki Kajimoto" affiliation="University Electro-communication" title="Softness Presentation by Electro-Tactile Stimulation and Force Feedback">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Konyo.jpg" name="Masashi Konyo" affiliation="Tohoku University" title="Representing Softness Based on the Contact Distribution Using a High-Resolution Suction Tactile Display">}}
-
-{{<cccPresenter imFile="/img/hs2024_CCC-Brown.jpg" name="Joshua Brown" affiliation="Imperial College London" title="Using Particle Jamming to Create Soft Haptic Interfaces for Medical Simulation">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Jeon.jpg" name="Seokhee Jeon" affiliation="Kyung Hee University" title="Realistic Haptic Rendering of Softness: Realtime FEM Simulation of Hyper-Elastic Deformation and Soft Actuators for Stiffness Display">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Bianchi.jpg" name="Matteo Bianchi" affiliation="University of Pisa" title="Human-Inspired Softness Perception for Artificial Tactile Sensing and Tactile Augmented Reality">}}
-
-{{<cccPresenter imFile="/img/hs2024_CCC-MacleanAndVyas.jpg" name="Karon Maclean and Preeti Vyas" affiliation="University of British Columbia" title="The Role of Softness in Touchable Comfort Objects, from a Diversity of Toucher Perspectives">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Devecioglu.jpg" name="Ismail Devecioglu" affiliation="UNSW & Tekirdag Namık Kemal University" title="The Passive Mechanical Behavior of Human Fingertip Soft Tissue Can Alter Manipulative Force Balance Depending on Friction Level at the Skin-Object Interface">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Jones.jpg" name="Lynette Jones" affiliation="MIT" title="Perceiving Wetness: A Synthesized Experience">}}
--->
+{{<cccPresenter imFile="/img/hs2026_CCC-Tao.jpg"
+name="Yujie Tao"
+affiliation="Stanford University"
+title="Sensory Scaffolding to Reconnect Users with Present Moment Experiences"
+biography="Yujie Tao is a Ph.D. student in Computer Science at Stanford University, specialising in human–computer interaction. She is a member of the SHAPE Lab, advised by Prof. Sean Follmer, and collaborates closely with Prof. Jeremy Bailenson at the Virtual Human Interaction Lab. Her research explores how computing systems can reconnect users to everyday interactions through interfaces that augment human perception, enabling new ways of engaging with the world. She received her MS from the University of Chicago under the advisement of Prof. Pedro Lopes and holds a BA from UNC-Chapel Hill with a double major in Journalism and Computer Science. "
+>}}
 
 ## Call for Individual Contributions
 
