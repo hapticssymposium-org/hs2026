@@ -34,9 +34,33 @@ The motivation behind this Cross-Cutting Challenge is twofold:
 By engaging these themes and questions across disciplines, this CCC seeks to advance a collective vision of haptics not as an isolated technical feature, but as a transformative modality for future applications and multisensory experiences. This CCC session invites us to reflect on the challenge of the shifting role of immersive and multisensory experiences as both a scientific frontier and a human-centred practice. Through open discussions, keynote talks and live demo sessions, this session offers new knowledge on how haptic research can inform and shape ethical, inclusive, and adaptive multisensory futures, fostering the understanding that haptics is not merely a matter of feedback, but a relational practice, linking body and world, and bridging knowledge across disciplines. 
 
 
-## Program
+## Session Program
 
-TBA
+2:00 p.m. – 2:10 p.m.  
+**Welcome and Opening Remarks**  
+Introduction to the session and overview of the program.
+
+2:10 p.m. – 3:00 p.m.  
+**Keynote Session**  
+Keynote presentations exploring key perspectives related to the conference theme. Each presentation includes time for Q&A. 
+
+3:00 p.m. – 3:30 p.m.  
+**Coffee Break**  
+An opportunity for informal networking and conversation.
+
+**Transition to Panel Session**
+
+3:35 p.m. – 4:15 p.m.  
+**Panel Presentations**  
+Four invited speakers will present short perspectives (10 minutes each) addressing the session topic from different disciplinary viewpoints.
+
+4:15 p.m. – 4:30 p.m.  
+**Panel Discussion**  
+Moderated discussion with the panel speakers, including Q&A.
+
+4:30 p.m. – 5:30 p.m.  
+**Poster and Demo Session**  
+Attendees are invited to explore posters and demonstrations and engage in informal discussions with presenters.
 
 ## Keynote Speakers
 
@@ -51,7 +75,7 @@ biography="Mar Gonzalez-Franco, PhD, is a Computer Scientist and Neuroscientist 
 {{<cccPresenter imFile="/img/hs2026_CCC-Seifi.jpg"
 name="Hasti Seifi"
 affiliation="Assistant Professor, Arizona State University"
-title="TBA"
+title="Learning to Design Expressive Haptic Experiences"
 abstract="In everyday life, we interpret haptic sensations within rich multimodal context alongside visual, auditory, and other sensory cues. Yet designing expressive and intuitive haptic experiences that align with this sensemaking remains more craft than science, often requiring years of tacit expertise and trial and error. In this talk, I present research from my lab exploring computational approaches to supporting haptic design. By systematically collecting data on users’ haptic language and cross-modal experiences, we model how people perceive, describe, and translate haptic feedback across modalities. I conclude by discussing future directions for how such data-driven methods can help designers move beyond intuition toward principled tools for creating expressive, context-aware haptic interactions."
 biography="Hasti Seifi is an assistant professor in the School of Computing and Augmented Intelligence at Arizona State University. Her research lies at the intersection of human-computer interaction, haptics, social robotics, and accessibility, with a focus on designing expressive and meaningful touch interactions. Her work has been recognized with several awards, including an ACM SIGCHI Special Recognition (2025), the NSF CAREER Award (2024), and the EuroHaptics Best Ph.D. Thesis Award (2017). Hasti serves the HCI and haptics communities in various roles, including Subcommittee Chair for ACM CHI (2025, 2026) and Program Co-Chair for EuroHaptics 2022."
 >}}
@@ -85,6 +109,10 @@ affiliation="Stanford University"
 title="Sensory Scaffolding to Reconnect Users with Present Moment Experiences"
 biography="Yujie Tao is a Ph.D. student in Computer Science at Stanford University, specialising in human–computer interaction. She is a member of the SHAPE Lab, advised by Prof. Sean Follmer, and collaborates closely with Prof. Jeremy Bailenson at the Virtual Human Interaction Lab. Her research explores how computing systems can reconnect users to everyday interactions through interfaces that augment human perception, enabling new ways of engaging with the world. She received her MS from the University of Chicago under the advisement of Prof. Pedro Lopes and holds a BA from UNC-Chapel Hill with a double major in Journalism and Computer Science. "
 >}}
+
+## Poster and Demo Presenters
+
+TBA
 
 ## Call for Individual Contributions
 

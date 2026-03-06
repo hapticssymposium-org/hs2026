@@ -93,3 +93,140 @@
         display: block;
     }
 }
+
+/* Program Overview (grid-based) */
+.program-day {
+    width: 100%;
+    border-collapse: separate;
+    border-spacing: 0;
+    margin: 0 0 1.5rem 0;
+}
+
+/* 3 columns: Time | Track A | Track B */
+.program-head,
+.program-row {
+    display: grid;
+    grid-template-columns: 20% 40% 40%;
+    column-gap: 2px;
+    row-gap: 2px;
+    margin: 0 0 2px 0;
+    min-height: 72px;
+}
+
+/* Header cells */
+.program-timehead,
+.program-schedhead {
+    background: rgb(239, 108, 0);
+    color: #fff;
+    font-weight: 700;
+    text-align: center;
+    padding: 10px 8px;
+    border-radius: 2px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.program-schedhead {
+    grid-column: 2 / 4;
+    /* span 2 tracks */
+}
+
+/* Body cells */
+.program-time {
+    background: #f5f5f5;
+    text-align: center;
+    padding: 10px 8px;
+    white-space: nowrap;
+    border-radius: 2px;
+
+    display: flex;
+    align-items: top;
+    justify-content: center;
+
+    font-size: smaller;
+}
+
+.program-item {
+    text-align: center;
+    padding: 16px 14px;
+    border-radius: 2px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+    gap: 6px;
+}
+
+/* Span helpers */
+.span-2 {
+    grid-column: 2 / 4;
+}
+
+/* across Track A + B */
+.col-2 {
+    grid-column: 2;
+    border-right: 2px solid #ffffff;
+}
+
+/* Track A only */
+.col-3 {
+    grid-column: 3;
+}
+
+/* Track B only */
+
+/* Colors (based on your current palette) */
+.bg-blue {
+    background: rgb(223, 236, 254);
+}
+
+.bg-peach {
+    background: rgb(255, 235, 219);
+}
+
+.bg-salmon {
+    background: rgb(255, 224, 199);
+}
+
+.bg-reception {
+    background: rgb(192, 220, 251);
+}
+
+.bg-white {
+    background: #fff;
+}
+
+/* Typography helpers */
+.program-title {
+    font-weight: 600;
+    line-height: 1.25;
+}
+
+.program-sub {
+    margin-top: 6px;
+    line-height: 1.35;
+}
+
+.program-location {
+    font-style: italic;
+    opacity: 0.8;
+    font-size: 0.95em;
+}
+
+.program-note {
+    margin-top: 6px;
+    font-style: italic;
+    opacity: 0.85;
+}
+
+/* Link style in program blocks */
+.program-item a {
+    text-decoration: underline;
+}
+
+/* Small separator row (optional) */
+.program-spacer {
+    height: 12px;
+}
