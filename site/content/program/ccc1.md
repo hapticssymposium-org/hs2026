@@ -83,7 +83,7 @@ biography="Hasti Seifi is an assistant professor in the School of Computing and 
 ## Panel Speakers
 
 {{<cccPresenter imFile="/img/hs2026_CCC-Chen.jpg"
-name="Eva Chen"
+name="Ava Chen"
 affiliation="Stanford University"
 title="Enhancing Movement and Sensation with Haptic Garments"
 biography="Ava Chen is a Postdoctoral Scholar in the Collaborative Haptics and Robotics in Medicine Lab at Stanford University, advised by Allison Okamura. She received her Ph.D. in Mechanical Engineering from Columbia University under Matei Ciocarlie. Her research explores how robotic garments can assist and study human sensorimotor coordination in the contexts of manipulation, rehabilitation, and shared autonomy. She is a recipient of the Ruth L. Kirschstein National Service Award (NIH F31), Robotics: Science and Systems Pioneer, and ME Rising Star."
