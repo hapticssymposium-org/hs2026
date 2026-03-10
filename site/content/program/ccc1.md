@@ -38,28 +38,34 @@ By engaging these themes and questions across disciplines, this CCC seeks to adv
 
 2:00 p.m. – 2:10 p.m.  
 **Welcome and Opening Remarks**  
+*Topaz 2*  
 Introduction to the session and overview of the program.
 
 2:10 p.m. – 3:00 p.m.  
 **Keynote Session**  
+*Topaz 2*  
 Keynote presentations exploring key perspectives related to the conference theme. Each presentation includes time for Q&A. 
 
 3:00 p.m. – 3:30 p.m.  
 **Coffee Break**  
+*Gallery Foyer*  
 An opportunity for informal networking and conversation.
 
 **Transition to Panel Session**
 
 3:35 p.m. – 4:15 p.m.  
 **Panel Presentations**  
+*Topaz 2*  
 Four invited speakers will present short perspectives (10 minutes each) addressing the session topic from different disciplinary viewpoints.
 
 4:15 p.m. – 4:30 p.m.  
 **Panel Discussion**  
+*Topaz 2*  
 Moderated discussion with the panel speakers, including Q&A.
 
 4:30 p.m. – 5:30 p.m.  
 **Poster and Demo Session**  
+*Sage*  
 Attendees are invited to explore posters and demonstrations and engage in informal discussions with presenters.
 
 ## Keynote Speakers
