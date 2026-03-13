@@ -7,7 +7,7 @@ draft: false
 
 Sunday, March 29, 9:00 a.m. - 12:30 p.m.
 
-{{<simpleLastUpdate date="March 4, 2026">}}
+{{<simpleLastUpdate date="March 13, 2026">}}
 
 ## Organizers
 
@@ -36,43 +36,74 @@ Our vision is to define the roadmap for haptically intelligent robots, machines 
 
 The proposed CCC builds on recent developments in both robotic manipulation (e.g., diffusion-policy-based tactile control, tactile transformers) and haptic interfaces (e.g., high-density skin sensors, soft tactile skins). By connecting these domains, we aim to inspire new collaborations, datasets, and control frameworks that bring the field closer to human-level dexterity.
 
+## Session Program
+
+9:00 a.m. – 9:10 a.m.  
+**Welcome and Introduction**  
+*Topaz 2*  
+
+9:10 a.m. – 10:30 a.m.  
+**Keynote Talks**  
+*Topaz 2*  
+
+10:30 a.m. – 10:40 a.m.  
+**Poster/Demo Teasers**  
+*Topaz 2*  
+
+10:40 a.m. – 11:10 a.m.  
+**Coffee Break**  
+*Gallery Foyer*  
+
+11:10 a.m. – 12:00 p.m.  
+**Interactive Poster/Demo Session**  
+*Sage*  
+
+12:00 p.m. – 12:40 p.m.  
+**Panel Discussion and Wrap-up**  
+*Topaz 2*  
+
+
+
 ## Keynote Talks
 
-
-<!--
-2:00 p.m. - 4:00 p.m. - *Salon de Reyes*
--->
-
 {{<cccPresenter imFile="/img/hs2026_CCC-Colgate.jpg" name="Ed Colgate" affiliation="Northwestern University" title="Dexterous Telemanipulation">}}
-{{<cccPresenter imFile="/img/hs2026_CCC-Agrawal.jpg" name="Pulkit Agrawal" affiliation="MIT" title="Dexterous Manipulation Requires Force Intelligence">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Agrawal.jpg" name="Pulkit Agrawal" affiliation="Massachusetts Institute of Technology" title="Dexterous Manipulation Requires Force Intelligence">}}
 {{<cccPresenter imFile="/img/hs2026_CCC-Fishel.jpg" name="Jeremy Fishel" affiliation="Sanctuary AI" title="Haptics in Teleoperation and Dexterous Manipulation">}}
 {{<cccPresenter imFile="/img/hs2026_CCC-Lambeta.jpg" name="Mike Lambeta" affiliation="Meta" title="Touch as a Trajectory, Not a Snapshot">}}
 
 
-## Interactive Posters
+## Interactive Poster/Demo Presenters
 
-TBD
+{{<cccPresenter imFile="/img/hs2026_CCC-Sterling-Angus.jpg" name="Oliver Sterling-Angus" affiliation="Northwestern University" title="PO1: From Our Fingertips to Theirs: A Force-Transparent Teleoperation System for Human-Robot Skill Transfer">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Kota.jpg" name="Rohan Kota" affiliation="Northwestern University" title="PO2: Building the Foundations of Robotic Touch: Automated Calibration for Tactile Sensors">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-J-Chen.jpg" name="Ju-Hung Chen" affiliation="Case Western Reserve University" title="PO3: The Social Touch Taxonomy: A Hierarchical Framework for Annotating Human–Human Touch Gestures">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Slepyan.jpg" name="Ariel Slepyan" affiliation="Johns Hopkins University" title="PO4: Open-Tactile CAD: Automatic design of high-density tactile skins from arbitrary geometry for scalable deployment and transferable learning">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Kanashiro.jpg" name="Yensabro Kanashiro" affiliation="Johns Hopkins University" title="PO5: Towards a Fully Printed Sensorized Hand Manipulator">}}
 
-<!--
-4:00 p.m. - 5:30 p.m. - *Miramar*
+{{<cccPresenter imFile="/img/hs2026_CCC-Chua.jpg" name="Zonghe Chua" affiliation="Case Western Reserve University" title="PO6: Visual Extrinsic and Intrinsic Haptic Perception for Forced-Informed Robotics">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Y-Chen.jpg" name="Yanjun Chen" affiliation="University of Illinois Urbana-Champaign" title="PO7: Strain2Force: Compact Nail-Based Sensor for 3DOF Contact Force Estimation">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Friesen.jpg" name="Rebecca Friesen" affiliation="Texas A&M University" title="PO8: Sensorizing Everyday Dexterous Manipulation to Inform Haptic Sensing and Role Differentiation within Robotic Hands">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Ingles.jpg" name="Kyler Ingles" affiliation="University of Utah" title="PO9: ShapeShifter: Hands-On Interaction with Shape and Softness in VR">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Schneider.jpg" name="Nicholas Schneider" affiliation="University of Utah" title="PO10: A Virtual Reality System for the Delivery of Virtual Equine Therapy">}}
 
-{{<cccPresenter imFile="/img/hs2024_CCC-Racat.jpg" name="Margot Racat" affiliation="IDRAC BS" title="Multisensory design: augmenting the customer online journey in m-commerce" coauthors="John Dinsmore - Wright State University; Daria Plotkina - EM Strasbourg">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Parisi.jpg" name="David Parisi" affiliation="New York University" title="“You’ll feel parkour”: How the Owo gaming shirt constructs and enacts the technohaptic real">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Jewitt.jpg" name="Carey Jewitt" affiliation="University College London" title="Speculations on future consumer experiences supported by digital touch and creative technologies">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Price.jpg" name="Sara Price" affiliation="University College London" title="From Manifesto to Designing Digital Touch Futures">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Schneider.jpg" name="Oliver Schneider" affiliation="University of Waterloo" title="Transdisciplinary co-design of haptics for restorative justice">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Linnander.jpg" name="Max Linnander" affiliation="University of California, Santa Barbara" title="PO11: Thermopneumatic Pixels (TPPs) for High-Resolution Cutaneous Feedback in Teleoperated Systems">}}
 
-{{<cccPresenter imFile="/img/hs2024_CCC-Cruz.jpg" name="Manuel Cruz" affiliation="Innovobot Labs." title="Value of Haptics">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-TengAndLopes.jpg" name="Shan-Yuan Teng and Pedro Lopes" affiliation="University of Chicago" title="Enabling Haptic Experiences Anywhere, Anytime">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Spiers.jpg" name="Adam Spiers" affiliation="Imperial College London" title="Spatial Guidance via Shape-Changing Haptics for Visually Impaired People">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Levesque.jpg" name="Vincent Lévesque" affiliation="École de Technologie Supérieure" title="CanHap 501: Learning haptic UX design in remote teams" coauthors="Oliver Schneider - University of Waterloo; Pascal Fortin - Université de Québec, Chicoutimi; Pourang Irani - The University of British Columbia; Jeremy Cooperstock - McGill University; Karon MacLean - The University of British Columbia">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Bloom.jpg" name="Robert Bloom and Tania Morimoto" affiliation="University of California, San Diego" title="H3Kit: Hand-Held Haptic Kit for STEM Education">}}
+## Panel Dicussion
 
-{{<cccPresenter imFile="/img/hs2024_CCC-McCabe.jpg" name="Mary Beth McCabe" affiliation="Point Loma Nazarene University" title="Five Stimulating Marketing Applications for Haptics">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Choi.jpg" name="Seungmoon Choi" affiliation="Pohang University of Science and Technolog" title="Automatic Generation of Haptic and Motion Effects from Audiovisual Streams">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Pozo.jpg" name="Teddy Pozo" affiliation="Occidental College" title="Haptic Technologies of Queer and Trans Games">}}
-{{<cccPresenter imFile="/img/hs2024_CCC-Nunez.jpg" name="Cara M. Nunez" affiliation="Cornell University" title="Haptics for Affective Touch: Current Technologies, Potential Impact, and Discussions on Future Work" coauthors="Doris Xu - Cornell University; Xin Zhu - University of Southern California; Heather Culbertson - University of Southern California">}}
--->
+### Moderator
+{{<organizerFlex>}}
+{{<cccOrganizer imFile="/img/hs2026_CCC-Colgate.jpg" imWidth="100%" name="Ed Colgate" affiliation="Northwestern Univerfsity">}}
+{{</organizerFlex>}}
+
+### Panelists
+{{<organizerFlex>}}
+{{<cccOrganizer imFile="/img/hs2026_CCC-Kim.jpg" imWidth="100%" name="Hyoung-Rock Kim" affiliation="LG Electronics">}}
+{{<cccOrganizer imFile="/img/hs2026_CCC-Agrawal.jpg" imWidth="100%" name="Pulkit Agrawal" affiliation="Massachusetts Institute of Technology">}}
+{{<cccOrganizer imFile="/img/hs2026_CCC-Lambeta.jpg" imWidth="100%" name="Mike Lambeta" affiliation="Meta">}}
+{{<cccOrganizer imFile="/img/hs2026_CCC-Fishel.jpg" imWidth="100%" name="Jeremy Fishel" affiliation="Sanctuary AI">}}
+{{</organizerFlex>}}
+
+
 
 ## Call for Individual Contributions
 
