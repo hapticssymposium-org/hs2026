@@ -1,0 +1,16 @@
+{{ $id := .Get 0 | default (.Get "id") }}
+{{ $title := .Get "title" | default "YouTube video" }}
+{{ $start := .Get "start" }}
+{{ $class := .Get "class" }}
+
+{{ $src := printf "https://www.youtube.com/embed/%s" $id }}
+{{ if $start }}
+{{ $src = printf "%s?start=%s" $src $start }}
+{{ end }}
+
+<div class="youtube-responsive {{ with $class }}{{ . }}{{ end }}">
+    <iframe src="{{ $src }}" title="{{ $title }}" loading="lazy"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen>
+    </iframe>
+</div>

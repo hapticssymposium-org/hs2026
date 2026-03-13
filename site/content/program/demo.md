@@ -1,57 +1,54 @@
 ---
 title: Hands-on Demonstration Sessions
 weight: 8
-draft: true
+draft: false
 ---
 
 # Hands-on Demonstration Sessions
 
-{{<simpleLastUpdate date="April 5, 2024">}}
+{{<simpleLastUpdate date="March 12, 2026">}}
 
-[Demo Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBWNhAupI5GE6d3YM8YvpncC)
+## Video
 
-## Session 1
-Monday, April 8, 2:00 p.m. - 3:45 p.m.  
-*- Lagunita Pavilion*  
+{{< embedYoutube id="qA-iXU5DsqQ"title="HAPTICS'26 Demos Teaser">}}
+
+[Demo Videos Playlist](https://www.youtube.com/playlist?list=PLXRBbyxY9IBWYxA-es0WcV2pdgDmxbDaA)
+
+## Session A
+Monday, March 30, 2:00 p.m. - 3:45 p.m.  
+*- Bundox Bocce*  
 
 {{<programTable>}}
-{{<programEntry id="A1" title="Crocheted Capacitive Touch Sensors for Tactile Interactions" author="Amy O'Connell (University of Southern California), Bailey Cislowski (University of Southern California), Heather Culbertson (University of Southern California), and Maja Matarić (University of Southern California)" youtube="https://youtu.be/7pqOYTpnS-I">}}
-{{<programEntry id="A2" title="Demonstration of Haptic Permeability: Adding Holes to Tactile Devices Improves Dexterity" author="Shan-Yuan Teng (University of Chicago), Aryan Gupta (University of Chicago), Pedro Lopes (University of Chicago)" youtube="https://youtu.be/Vo2d-FW2DIk">}}
-{{<programEntry id="A3" title="Demonstrating Stick&Slip: Altering Fingerpad Friction via Liquid Coatings" author="Alex Mazursky (University of Chicago), Jacob Serfaty (University of Chicago), Pedro Lopes (University of Chicago)" youtube="https://youtu.be/E-BMpCgDYaw">}}
-{{<programEntry id="A4" title="Particle Jamming-Based Variable Stiffness Displays using Non-pneumatic Actuators" author="Joshua Brown (Imperial College London), Fernando Bello (Imperial College London)" youtube="https://youtu.be/nvyoSrXdqNw">}}
-{{<programEntry id="A5" title="Cutaneous Electrohydraulic Wearable Devices for Expressive and Salient Haptic Feedback" author="Natalia Sanchez-Tamayo (MPI-IS), Zachary Yoder (MPI-IS), Giulia Ballardini (MPI-IS), Philipp Rothemund (University of Stuttgart and MPI-IS), Christoph Keplinger (MPI-IS), and Katherine J. Kuchenbecker (MPI-IS)">}}
-{{<programEntry id="A6" title="Pneumatactor Arrays for High Frequency Vibrotactile Feedback" author="Anway Pimpalkar (Johns Hopkins University), Preshit Ameta (Johns Hopkins University), Ahan Dalia (Johns Hopkins University), Jeremy D. Brown (Johns Hopkins University)" youtube="https://youtu.be/kmQvJoo5vZU">}}
-{{<programEntry id="A7" title="Demonstrating Waylet: Untethered Pseudo-Force Haptic Device for Actual Walking in Mixed Reality Environment" author="Tomosuke Maeda (Toyota Central R&D Labs., Inc.), Takayoshi Yoshimura (Toyota Central R&D Labs., Inc.), Junnosuke Yamamoto (Keio University Graduate School of Media Design), Hiroyuki Sakai (Toyota Central R&D Labs., Inc.), Kouta Minamizawa (Keio University Graduate School of Media Design)" youtube="https://youtu.be/yyZ2-FdeGfM">}}
-{{<programEntry id="A8" title="Immersive Wetness Simulation in Virtual Reality" author="Mounia Ziat (Bentley University), Clifton Chow (Bentley University), Ariunbold Batjargal (Bentley University), Kobe Rankich (Bentley University), Iliyas Tursynbek (Bentley University), Mehdi Hojatmadani (Bentley University), Lynette Jones (MIT)" youtube="https://youtu.be/4NxtRJDjF7A">}}
-{{<programEntry id="A9" title="Sharing Grasping Experiences in Virtual Reality" author="Pijuan Yu (Texas A&M University) and Rebecca F. Friesen (Texas A&M University)" youtube="https://youtu.be/DvXGcNFIJdQ">}}
-{{<programEntry id="A10" title="Merging Photonics and Haptics: An Optically Driven Display for Refreshable Tactile Graphics" author="Max Linnander (UC Santa Barbara), Dustin Goetz (UC Santa Barbara), Gregory Reardon (UC Santa Barbara), and Yon Visell (UC Santa Barbara)" youtube="https://youtu.be/Si_gpcqpcGg">}}
-{{<programEntry id="A11" title="Mixer Board Showcase: Comparing Frequency Modulation Techniques with Haptic and Audio-Based Feedback" author="Paras Kumar (Texas A&M University) and Rebecca F. Friesen (Texas A&M University)" youtube="https://youtu.be/Hy9M_6XY_OQ">}}
-{{<programEntry id="A12" title="Haptic-Hack: Tactile and Kinesthetic Device for Rendering Soft Textures" author="Ugur Alican Alma(Technische Universitat Dresden), M. Ercan Altinsoy(Technische Universitat Dresden)" youtube="https://youtube.com/shorts/PWmv90yJmgM?feature=share">}}
-{{<programEntry id="A13" title="Mid-Air Thermo-Tactile Feedback using Ultrasound Haptic Display" author="Yatharth Singhal (University of Texas at Dallas), Haokun Wang (University of Texas at Dallas), and Jin Ryong Kim (University of Texas at Dallas)" youtube="https://youtu.be/ZgzD9Ue-oGs">}}
-{{<programEntry id="A14" title="Rendering spatiotemporal tactile patterns on the fingerpad with a lightweight and flexible haptic array" author="Sylvia Tan (Northwestern University), M. Cynthia Hipwell (Texas A&M), Michael A Peshkin (Northwestern University), Roberta L. Klatzky (Carnegie Mellon University), J. Edward Colgate (Northwestern University)" youtube="https://youtu.be/CsZ7IpNFHMg">}}
+{{<programEntry id="A1"title="Flex-Knee: A Low-Cost Passive Haptic Model for Injury Assessment Training"author="Marco Moran-Ledesma (University of Waterloo), Robert Burns (University of Waterloo), Oliver Schneider (University of Waterloo), and Mark Hancock (University of Waterloo)"youtube="https://youtu.be/US0PynWpnBc">}}
+{{<programEntry id="A2"title="Demonstrating SensoryBlox: Plug-and-Feel Modular Multi-Sensory User Interface for Immersive Cardboard VR"author="Hyunjae Gil (University of Texas at Dallas, DGIST), Abbas Khawaja (University of Texas at Dallas), Ben Cressman (University of Texas at Dallas), Andrew Gerungan (University of Texas at Dallas), and Jin Ryong Kim (University of Texas at Dallas)">}}
+{{<programEntry id="A3"title="MAGTRACE: Electromagnetic Shape Rendering Via a User-Driven Linear Exploration Platform"author="Sarah Costrell (Carnegie Mellon University), Roberta L. Klatzky (Carnegie Mellon University), and Melisa Orta Martinez (Carnegie Mellon University)">}}
+{{<programEntry id="A4"title="Demonstrating Fiery Hands: A Thermal–Tactile Thermal Gloves using Thermal Masking"author="Haokun Wang (University of Texas at Dallas), Yatharth Singhal (University of Texas at Dallas, University of Texas Southwestern), Hyunjae Gil (University of Texas at Dallas, DGIST), and Jin Ryong Kim (University of Texas at Dallas)"youtube="https://youtu.be/rx0BU8LGwW4">}}
+{{<programEntry id="A5"title="Demonstrating XRScissor: Magnetorheological Haptic Interface for Realistic Cutting in XR"author="Haokun Wang (University of Texas at Dallas), Ashish Pratap (University of Texas at Dallas), Hyunjae Gil (University of Texas at Dallas, DGIST), Jun Sik Shin (Konkuk University), Tae-Heon Yang (Konkuk University), and Jin Ryong Kim  (University of Texas at Dallas)">}}
+{{<programEntry id="A6"title="Sharing High-fidelity Touch Sensations with a Remote User"author="Pijuan Yu (Texas A&M University), Anzu Kawazoe (Texas A&M University), Alexis Urquhart (Texas A&M University), Fahim Islam Anik (Texas A&M University), Thomas K. Ferris (Texas A&M University), and M. Cynthia Hipwell (Texas A&M University) and Rebecca F. Friesen (Texas A&M University)"youtube="https://youtu.be/kVblTamUhp4">}}
+{{<programEntry id="A7"title="A Virtual Reality System for the Delivery of Virtual Equine Therapy"author="Nicholas C. Schneider (University of Utah), Mathias A. Schoen (Edmonds College), I. Francesca Zeringue (SLC Veterans Affairs Medical Center -- George E. Wahlen), and Edoardo Battaglia (University of Utah)">}}
+{{<programEntry id="A8"title="ShapeShifter: Hands-On Interaction with Shape and Softness in VR"author="Kyler L. Ingles (University of Utah), Pai Wang (University of Utah), Bruce K. Gale (University of Utah), and Edoardo Battaglia (University of Utah)"youtube="https://youtu.be/Uk6nsNsszuw">}}
+{{<programEntry id="A9"title="Demonstrating Differential Dual-Side Fingertip Actuation for Virtual Reality Force Feedback"author="Yanjun Chen (University of Illinois Urbana-Champaign), Jung-Hwan Youn (University of Illinois Urbana-Champaign), and Craig Shultz (University of Illinois Urbana-Champaign)"youtube="https://youtu.be/B02Yt4sOTu8">}}
+{{<programEntry id="A10"title="Stereo Neural Haptics: Unencumbered Audio-Tactile Congruency"author="Rachel S. Jakes (Case Western Reserve University, Human Fusions Institute), Jeremy L. Dunning (Louis Stokes Cleveland VA Medical Center, Human Fusions Institute), and Dr. Dustin J. Tyler (Case Western Reserve University, Human Fusions Institute)"youtube="https://youtu.be/ZBZ2qPeszc4">}}
+
 {{</programTable>}}
 
-## Session 2
-Tuesday, April 9, 1:30 p.m. - 3:15 p.m.  
-*- Lagunita Pavilion*  
+## Session B
+Tuesday, March 31, 2:00 p.m. - 3:45 p.m.  
+*- Bundox Bocce*  
 
 {{<programTable>}}
-{{<programEntry id="B1" title="Training Medical Students using a Virtual Neurology Patient with Realistic Torque Feedback" author="Joshua Brown (Imperial College London), Ildar Farkhatdinov (Queen Mary University of London), and Fernando Bello (Imperial College London)" youtube="https://youtu.be/S02xiaVXGb8">}}
-{{<programEntry id="B2" title="Demonstrating Upper Body Thermal Referral and Tactile Masking for Localized Feedback" author="Haokun Wang (University of Texas at Dallas), Yatharth Singhal (University of Texas at Dallas), Hyungki Son (ETRI) and Jin Ryong Kim (University of Texas at Dallas)" youtube="https://youtu.be/cgvujLOi6pc">}}
-{{<programEntry id="B3" title="Demonstrating TangibleData: Interactive Data Visualization with Mid-Air Haptics" author="Ayush Bhardwaj (The University of Texas at Dallas), Richard Noeske (The University of Texas at Dallas), and Jin Ryong Kim (The University of Texas at Dallas)" youtube="https://youtu.be/my-yJlsA2cI">}}
-{{<programEntry id="B4" title="CAPT Motor: A Strong Direct-Drive Rotary Haptic Interface" author="Bernard Javot (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), Vu H. Nguyen (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), Giulia Ballardini (Max Planck Institute for Intelligent Systems, Stuttgart, Germany), and Katherine J. Kuchenbecker (Max Planck Institute for Intelligent Systems, Stuttgart, Germany)" youtube="https://youtu.be/_GKC6jYNTEA">}}
-{{<programEntry id="B5" title="Exploiting Biomechanical Resonance for Tactile Source Relocalization" author="Dustin Goetz (University of California, Santa Barbara), Gregory Reardon (University of California, Santa Barbara), William Heap (Stanford University), Yon Visell (University of California, Santa Barbara)" youtube="https://youtu.be/mXsllmu7D_c">}}
-{{<programEntry id="B6" title="Demonstration of MODAL: A Wrist-Squeezing and Vibrotactile Feedback Device for Robotic Minimally Invasive Surgery Training" author="Sergio Machaca (Johns Hopkins University), Jeremy D. Brown PhD (Johns Hopkins University)" youtube="https://youtu.be/uA7y2lzy-ko">}}
-{{<programEntry id="B7" title="A Shape-Changing Haptic Device for 3D Pointing Guidance" author="Robert Quinn (MakeSense Technology Ltd), Harry De Winton (MakeSense Technology Ltd), Brandon Ellis-Frew (MakeSense Technology Ltd), Sebastiano Zane (MakeSense Technology Ltd), Jonathan Dr Sousa (MakeSense Technology Ltd), and Adam J. Spiers (Imperial College London)" youtube="https://youtu.be/NXJdKLFD_Zw">}}
-{{<programEntry id="B8" title="FALL-E: A Robotic Walker for Studying Balance Recovery" author="Catherine Yunis (University of Southern California), James M. Finley (University of Southern California), Heather Culbertson (University of Southern California)" youtube="https://youtu.be/H6owhFYpQek">}}
-{{<programEntry id="B9" title="TRAIN-KNEE: Developing a High-Fidelity Haptic Device for Knee Injury Assessment Training" author="Marco Moran-Ledesma (University of Waterloo), Emily Shiu (University of Waterloo), Robert Burns (University of Waterloo), Mark Hancock (University of Waterloo), Oliver Schneider (University of Waterloo)" youtube="https://youtu.be/M-lzym6NFQY">}}
-{{<programEntry id="B10" title="HapKnob - A Motorized Shape-changing Haptic Knob Interface" author="Zhili Gong (Johns Hopkins University), Zitong Wei (Johns Hopkins University), and Jeremy D. Brown (Johns Hopkins University)" youtube="https://youtu.be/kcFMBhL5pqE">}}
-{{<programEntry id="B11" title="Demonstrating A Method to Relax Conservatism in Haptic Interaction for Enhanced Impedance Range and Transparency" author="Huseyin Tugcan Dinc (KAIST), Thomas Hulin (DLR), Christian Ott (TU Wien), and Jee-Hwan Ryu (KAIST)" youtube="https://youtu.be/_A8J2eiIkmg">}}
-{{<programEntry id="B12" title="Presenting a Tracing Sensation through a Rotating Disk" author="Soma Kato (The University of Electro-Communications), Yui Suga (The University of Electro-Communications), Izumi Mizoguchi (The University of Electro-Communications), and Hiroyuki Kajimoto (The University of Electro-Communications)" youtube="https://youtu.be/JdKhhOwkjUo">}}
-{{<programEntry id="B13" title="Telemetry-based Haptic Rendering for Racing Game Experience Improvement" author="Jiwan Lee (POSTECH), Junwoo Kim (POSTECH), Jeonggoo Kang (Hyundai Motor Company), Eunsoo Jo (Hyundai Motor Company), Dong Chul Park (Hyundai Motor Company), and Seungmoon Choi (POSTECH)" youtube="https://youtu.be/oaYZmG0hIMw">}}
-{{<programEntry id="B14" title="Endovascular Surgical Skill Training through Real-time Performance-based Haptic Feedback in Virtual Reality" author="Lianne R. Johnson (Rice University), Elyse D. Z. Chase (Rice University), Michael D. Byrne (Rice University), and Marcia K. O’Malley (Rice University)" youtube="https://youtu.be/2osiKL-rGr4">}}
+{{<programEntry id="B1"title="Full Decoupling of Tactile Force Vectors Using 3D-Printable Metamaterial Architectures for Robotic Proprioception"author="Jiayan Zhang (University of California, Berkeley), Haotian Lu (University of California, Berkeley), Ju Young Park (University of California, Berkeley), and Rayne Zheng (University of California, Berkeley)">}}
+{{<programEntry id="B2"title="Language-Guided Multimodal Texture Authoring"author="Wanli Qian (University of Southern California), Aiden Chang (University of Southern California), Shihan Lu (NorthWestern University), Michael Gu (University of Southern California), and Heather Culbertson (University of Southern California)">}}
+{{<programEntry id="B3"title="Demonstrating Moisture Transfer: A Perceptual Wetness Illusion Through Thermal and Wet Integration"author="Yatharth Singhal (University of Texas at Dallas), Abbas Khawaja (University of Texas at Dallas), Adam McCutcheon (University of Texas at Dallas), Haokun Wang (University of Texas at Dallas), Daniel Honrales (University of Texas at Dallas), Anhaar Wasi (University of Texas at Dallas), and Jin Ryong Kim (University of Texas at Dallas)">}}
+{{<programEntry id="B4"title="Demonstration of HeatFlow: A Thermal-Tactile Display for Dynamic 2D Thermal Movements"author="Daniel Honrales (University of Texas at Dallas), Yatharth Singhal (University of Texas at Dallas), and Jin Ryong Kim (University of Texas at Dallas)"youtube="https://youtu.be/wQUAF6mmrVM">}}
+{{<programEntry id="B5"title="Twin-system sensing/haptic feedback gloves"author="Cosima du Pasquier (Stanford University), Joshua Phelps (Stanford University), Ina Nasteva (Stanford University), Brianna Liang (Stanford University), and Allison M. Okamura (Stanford University)">}}
+{{<programEntry id="B6"title="Demonstration of Spatially Localized Fingertip Haptics using Miniature LRA Arrays and Specialized Actuation Method"author="Seung Heon Lee (University of Illinois Urbana-Champaign), Jung-Hwan Youn (University of Illinois Urbana-Champaign), and Craig Shultz (University of Illinois Urbana-Champaign)">}}
+{{<programEntry id="B7"title="Demonstration of a Virtual Brush Illusion Paradigm"author="Lyndah Lovell (Johns Hopkins University), Ethan Brown (Johns Hopkins University), Sarah Derrick (Johns Hopkins University), Mohit Singhala (University of Pittsburgh), and Jeremy D. Brown (Johns Hopkins University)"youtube="https://youtu.be/tuZ6y3v_KDE">}}
+{{<programEntry id="B8"title="A Simulation of In-Ground Effect Enabled Haptic Teleoperation of Uncrewed Aerial Vehicles"author="Nicholas C. Schneider (University of Utah), Jacob M. Anderson (University of Utah), Kam K. Leang (University of Utah), and Edoardo Battaglia (University of Utah)"youtube="https://youtu.be/yhiAg8VrUXM">}}
+{{<programEntry id="B9"title="HapFish: Exploring Low-Cost and High-End Open-Source Haptics Through a Fishing Game"author="Pengshun Tang (University of Utah), Mason Mathias (Auburn University), Quinton M. Christensen (University of Utah), Davis W. Poole (Auburn University), Chad G. Rose (Auburn University), and Edoardo Battaglia (University of Utah)"youtube="https://youtu.be/m2UAqu3-4jU">}}
+{{<programEntry id="B10"title="Time to Breathe: A Watch-Sized, Radially Expanding Skin Drag Wearable for Guided Breathing"author="Jake Little (Saint Louis University), Colton Doherty (Saint Louis University), Jen L. Tennison (Saint Louis University), and Jenna L. Gorlewicz (Saint Louis University)"youtube="https://youtu.be/68nBpdAJPSE">}}
 {{</programTable>}}
 
 ## Demonstration Layout
 
-![Demonstration layout](/img/hs2024_Demo-layout.png)
+![Demonstration layout](/img/hs2026_Demo-layout.png)
