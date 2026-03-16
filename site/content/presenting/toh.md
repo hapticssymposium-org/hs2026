@@ -45,11 +45,11 @@ Please consult the detailed conference program for your presentation time and ve
 
 ### Poster Presentation
 
-ToH papers that are presented as posters will be presented during a joint ToH and Work-In-Progress (WIP) poster session that will take place between 3:30 and 5:00 pm on Monday, March 30.
+ToH posters will be presented through both **a short teaser presentation** and **a poster**. Both parts will be held jointly with the Work-In-Progress (WIP).
 
-The ToH and WIP poster session will be held as a single-track event and will not be held in parallel with any podium or demo sessions.
+* For the teaser presentation, it will be a 45-second lightning talk, optionally accompanied by a one-page slide. If you choose to use the slide, please email the PowerPoint file to [toh@hapticssymposium.org](mailto:toh@hapticssymposium.org) **by March 27, 2026**. The teaser session will take place from **12:00 - 12:30 p.m. on Monday, March 30**.
+* For the poster, it must fit within a portrait-oriented rectangle with dimensions of 36 inches (91.44 cm) in width by 48 inches in height (121.92 cm). Poster design, style, and formatting are at the discretion of the presenter, though presenters are encouraged to include the conference logo. Presenters are responsible for printing their posters. The poster session will be held from **3:45 - 5:15 p.m. on Monday, March 30, in the Sage room**. You will receive your ToH paper ID later, and the posters should be placed on the corresponding poster board according to the assigned ID before the poster session on Monday.
 
-Presenters are responsible for the design and printing of their paper’s poster, which will be displayed on shared poster stands (with two posters per side) provided during the session. The maximum single poster size must fit within a portrait-oriented rectangle with dimensions of 36 inches (91.44 cm) in width by 48 inches in height (121.92 cm). Poster design, style, and formatting is at the discretion of the presenter. Presenters are encouraged to include the conference logo.
 
 ## Contact
 
