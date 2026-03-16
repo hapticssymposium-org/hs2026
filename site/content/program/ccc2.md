@@ -81,7 +81,7 @@ The proposed CCC builds on recent developments in both robotic manipulation (e.g
 {{<cccPresenter imFile="/img/hs2026_CCC-Kanashiro.jpg" name="Yensabro Kanashiro" affiliation="Johns Hopkins University" title="PO5: Towards a Fully Printed Sensorized Hand Manipulator">}}
 
 {{<cccPresenter imFile="/img/hs2026_CCC-Chua.jpg" name="Zonghe Chua" affiliation="Case Western Reserve University" title="PO6: Visual Extrinsic and Intrinsic Haptic Perception for Forced-Informed Robotics">}}
-{{<cccPresenter imFile="/img/hs2026_CCC-Y-Chen.jpg" name="Yanjun Chen" affiliation="University of Illinois Urbana-Champaign" title="PO7: Strain2Force: Compact Nail-Based Sensor for 3DOF Contact Force Estimation">}}
+{{<cccPresenter imFile="/img/hs2026_CCC-Sun.jpg" name="Xiping Sun" affiliation="University of Illinois Urbana-Champaign" title="PO7: Strain2Force: Compact Nail-Based Sensor for 3DOF Contact Force Estimation">}}
 {{<cccPresenter imFile="/img/hs2026_CCC-Friesen.jpg" name="Rebecca Friesen" affiliation="Texas A&M University" title="PO8: Sensorizing Everyday Dexterous Manipulation to Inform Haptic Sensing and Role Differentiation within Robotic Hands">}}
 {{<cccPresenter imFile="/img/hs2026_CCC-Ingles.jpg" name="Kyler Ingles" affiliation="University of Utah" title="PO9: ShapeShifter: Hands-On Interaction with Shape and Softness in VR">}}
 {{<cccPresenter imFile="/img/hs2026_CCC-Schneider.jpg" name="Nicholas Schneider" affiliation="University of Utah" title="PO10: A Virtual Reality System for the Delivery of Virtual Equine Therapy">}}
