@@ -1,3 +1,8 @@
-<div class="mv1" style="display:flex; flex-direction: row; justify-content: {{.Get `contentJustification`}}; flex-wrap: wrap; align-items: center">
-    {{.Inner}}
+{{ $justify := .Get "justify" | default "center" }}
+{{ $gap := .Get "gap" | default "1.2rem 2rem" }}
+{{ $class := .Get "class" }}
+
+<div class="sponsor-flex {{ with $class }}{{ . }}{{ end }}"
+    style="display:flex; flex-direction:row; justify-content: {{ $justify }}; flex-wrap:wrap; align-items:center; gap: {{ $gap }};">
+    {{ .Inner }}
 </div>

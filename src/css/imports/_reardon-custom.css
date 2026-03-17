@@ -246,3 +246,25 @@
     border: 0;
     display: block;
 }
+
+.sponsor-flex {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    gap: 1.5rem 2.5rem;
+    margin: 1rem 0 2rem;
+}
+
+.sponsor-logo {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.sponsor-logo img {
+    display: block;
+    width: auto;
+    max-width: 100%;
+    object-fit: contain;
+}

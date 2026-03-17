@@ -31,6 +31,33 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 * ~~February 16, 2026~~ [Early bird and Author registration deadline](/attending/registration/)
 
 {{<simpleLineBreak>}}
+The Haptics Symposium would like to sincerely thank the following organizations for their support:
+
+{{<sponsorFlexContainer justify="center" gap="1.2rem 2rem">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-IEEE.jpg" style="height: 64px;">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-IEEE_RAS.jpg" style="height: 64px;">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-TCH.jpg" style="height: 64px; max-width: 260px;">}}
+{{</sponsorFlexContainer>}}
+
+{{<sponsorFlexContainer justify="center" gap="1.2rem 2rem">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-RealityLabs.png" style="height: 260px; max-width: 260px;">}}
+{{</sponsorFlexContainer>}}
+
+{{<sponsorFlexContainer justify="center" gap="1.2rem 2rem">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-Google.png" style="height: 100px; max-width: 280px;">}}
+{{</sponsorFlexContainer>}}
+
+{{<sponsorFlexContainer justify="center" gap="1.2rem 2rem">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-ApexSensing.png" style="height: 40px; max-width: 450px;">}}
+{{</sponsorFlexContainer>}}
+
+{{<sponsorFlexContainer justify="center" gap="1.2rem 2rem">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-BergsonneLabs.png" style="height: 117px; max-width: 350px;">}}
+{{</sponsorFlexContainer>}}
+
+{{<sponsorFlexContainer justify="center" gap="1.2rem 2rem">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-ForceDimension.png" style="height: 220px; max-width: 280px;">}}
+{{<sponsorLogo imFile="/img/hs2026_Sponsor-3DSystems.png" style="height: 52px; max-width: 339px;">}}
+{{</sponsorFlexContainer>}}
 
 The IEEE Robotics and Automation Society is committed to advancing diversity in Robotics and Automation, and to promoting an inclusive and equitable culture that welcomes, engages, and rewards all who contribute to the field, without regard to ethnicity, religion, gender, disability, age, national origin, sexual orientation, gender identity, or gender expression.
-

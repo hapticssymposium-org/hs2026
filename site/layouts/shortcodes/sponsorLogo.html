@@ -1,3 +1,7 @@
-<div style="width: {{.Get `containerWidth`}};" class="ml2 mv0">
-    <img class="sponsorLogo" src="{{.Get `imFile`}}" width="{{.Get `imWidth`}}" {{with .Get "cropPos"}} style="object-position:{{ . }}" {{end}}>
+{{ $imFile := .Get "imFile" }}
+{{ $style := .Get "style" }}
+{{ $alt := .Get "alt" | default "" }}
+
+<div class="sponsor-logo">
+    <img src="{{ $imFile }}" alt="{{ $alt }}" {{ with $style }}style="{{ . | safeCSS }}" {{ end }}>
 </div>
