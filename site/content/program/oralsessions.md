@@ -55,7 +55,7 @@ Session Chairs: TBD
 {{<programEntry time="11:00 a.m. - 11:14 a.m." title="[Regular] Sensory and Emotional Responses under Cross-body-site Vibro-Thermal Stimulation" author="Su-Yeon Kang, Chungman Lim, Minwook Lee, Kevin John, Hasti Seifi, Gunhyuk Park">}}
 {{<programEntry time="11:14 a.m. - 11:28 a.m." title="[Regular] Vibration–Color–Emotion Correspondences for Affective Haptic Feedback" author="Anney Vo, Chanhyeok Lee, Jinah Park">}}
 {{<programEntry time="11:28 a.m. - 11:42 a.m." title="[Regular] EEG Evidence of Anxiety Reduction through Vibrotactile Stimulation" author="Wanjoo Park, Salma Mansour, Mohamad Eid">}}
-{{<programEntry time="11:42 a.m. - 11:59 a.m." title="[Long] Effects of Frequency and Magnitude on Steering Wheel Vibration Discomfort: A Hierarchical Modeling Approach to Individual Sensitivity" author="Dajin Lee, Soyeon Nam, Minsung Noh, Sunyoung Jang, Seungmoon Choi">}}
+{{<programEntry time="11:42 a.m. - 11:59 a.m." title="[Long] Effects of Frequency and Magnitude on Steering Wheel Vibration Discomfort: A Hierarchical Modeling Approach to Individual Sensitivity" author="Dajin Lee, Soyeon Nam, Minseung Noh, Sunyoung Jang, Seungmoon Choi">}}
 {{</programTable>}}
 
 ## Session 2B
