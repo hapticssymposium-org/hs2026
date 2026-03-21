@@ -98,7 +98,7 @@ Session Chairs: TBD
 {{<programEntry time="11:14 a.m. - 11:28 a.m." title="[Regular] Crocheted Capacitive Touch Sensors for Rapid Prototyping of Soft Interfaces" author="Amy O'Connell, Stephania Castro, Bailey Cislowski, Nathaniel Steele Dennler, Heather Culbertson, Maja Mataric">}}
 {{<programEntry time="11:28 a.m. - 11:42 a.m." title="[Regular] Compact Soft Tactile Actuator Based on Stacked Electroosmotic Pumps for Wearable Haptics" author="Trung Ngo Sy, Craig Shultz, Jung-Hwan Youn">}}
 {{<programEntry time="11:42 a.m. - 11:56 a.m." title="[Regular] A Hybrid Soft Haptic Display for Rendering Lump Stiffness in Remote Palpation" author="Pijuan Yu, Anzu Kawazoe, Alexis Urquhart, Thomas K Ferris, M Cynthia Hipwell, Rebecca Fenton Friesen">}}
-{{<programEntry time="11:56 a.m. - 12:13 p.m." title="[ToH] Tactile Enhancement of Mid-Air Ultrasonic Stimulation by Wrist Vibration: Perceived Intensity and Pattern Recognition" author="Dong-Geun Kim, Seungmoon Choi">}}
+{{<programEntry time="11:56 a.m. - 12:13 p.m." title="[ToH] Tactile Enhancement of Mid-Air Ultrasonic Stimulation by Wrist Vibration: Perceived Intensity and Pattern Recognition" author="Dong-Geun Kim, Seungmoon Choi" link="https://ieeexplore.ieee.org/document/11045208">}}
 {{</programTable>}}
 
 ## Session 4B
@@ -112,8 +112,8 @@ Session Chairs: TBD
 {{<programEntry time="11:14 a.m. - 11:28 a.m." title="[Regular] Effects of Matched Freespace and Wall Damping on Stiffness Perception" author="Madeleine K Toland, M Bourgeois, Emma Treadway">}}
 {{<programEntry time="11:28 a.m. - 11:42 a.m." title="[Regular] Curvature-Aware Calibration of Tactile Sensors for Accurate Force Estimation on Non-Planar Surfaces" author="Luoyan Zhong, Heather Jin Hee Kim, Dylan Losey, Cara M. Nunez">}}
 {{<programEntry time="11:42 a.m. - 11:56 a.m." title="[Regular] Examining the Significance of Fingertip Tactile Acuity Distribution through Contact Position Measurement during Pickup Movements" author="Michiru Sobue, Izumi Mizoguchi, Hiroyuki Kajimoto">}}
-{{<programEntry time="11:56 a.m. - 12:13 p.m." title="[ToH] Centroparietal Alpha/Beta Asymmetry in Response to Urgency Elicited by Upper Body Vibration" author="Wanjoo Park, Haneen Alsuradi, Mohamad Eid">}}
-{{<programEntry time="12:13 p.m. - 12:30 p.m." title="[ToH] Electrophysiological Correlates for the Detection of Haptic Illusions" author="Yannick Weiss, Albrecht Schmidt, Steeven Villa">}}
+{{<programEntry time="11:56 a.m. - 12:13 p.m." title="[ToH] Centroparietal Alpha/Beta Asymmetry in Response to Urgency Elicited by Upper Body Vibration" author="Wanjoo Park, Haneen Alsuradi, Mohamad Eid" link="https://ieeexplore.ieee.org/document/10971279">}}
+{{<programEntry time="12:13 p.m. - 12:30 p.m." title="[ToH] Electrophysiological Correlates for the Detection of Haptic Illusions" author="Yannick Weiss, Albrecht Schmidt, Steeven Villa" link="https://ieeexplore.ieee.org/document/11028875">}}
 {{</programTable>}}
 
 ## Session 5A
@@ -126,8 +126,8 @@ Session Chairs: TBD
 {{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Admittance Control of a 3 Omni-Wheel Robot Interacting with a Sensorimotor Model of the Arm" author="Jose Ben, Reza Sharif Razavian">}}
 {{<programEntry time="9:14 a.m. - 9:28 a.m." title="[Regular] Passive and Safety-Critical Haptics-Enabled Framework for Time-Delayed Robot Teleoperation" author="Peter Paik, Xingyuan Zhou, Haoran Zhou">}}
 {{<programEntry time="9:28 a.m. - 9:42 a.m." title="[Regular] A Series Actuation Approach for Workspace Expansion of Impedance Based Haptic Devices" author="Megh Doshi, Changyang Jiang, Michael Zinn">}}
-{{<programEntry time="9:42 a.m. - 9:59 a.m." title="[ToH] Haptic Acuity during Shared Grasp Experiences in Virtual Reality" author="Pijuan Yu, Gwilym Couch, Thomas K Ferris, M Cynthia Hipwell, Rebecca F Friesen">}}
-{{<programEntry time="9:59 a.m. - 10:16 a.m." title="[ToH] Kinesthetic Weight Modulation: The Effects of Whole-Arm Tendon Vibration on the Perceived Heaviness" author="Keigo Ushiyama, Hiroyuki Kajimoto">}}
+{{<programEntry time="9:42 a.m. - 9:59 a.m." title="[ToH] Haptic Acuity during Shared Grasp Experiences in Virtual Reality" author="Pijuan Yu, Gwilym Couch, Thomas K Ferris, M Cynthia Hipwell, Rebecca F Friesen" link="https://ieeexplore.ieee.org/document/11355688">}}
+{{<programEntry time="9:59 a.m. - 10:16 a.m." title="[ToH] Kinesthetic Weight Modulation: The Effects of Whole-Arm Tendon Vibration on the Perceived Heaviness" author="Keigo Ushiyama, Hiroyuki Kajimoto" link="https://ieeexplore.ieee.org/document/11205965">}}
 {{</programTable>}}
 
 ## Session 5B
