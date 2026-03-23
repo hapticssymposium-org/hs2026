@@ -33,7 +33,7 @@ Wednesday, April 1
 **[Award Session]**  
 **Haptic Sensing, Rendering, and Authoring Methods**  
 Monday, March 30, 9:00 a.m. - 10:30 a.m.  
-*- ---*  
+*- Topaz 2*  
 Session Chairs: TBD
 
 {{<programTable>}}
@@ -48,7 +48,7 @@ Session Chairs: TBD
 ## Session 2A
 **Perceptual and Affective Responses to Tactile Stimulation**  
 Monday, March 30, 11:00 a.m. - 12:00 p.m.  
-*- ---*  
+*- Topaz 2*  
 Session Chairs: TBD
 
 {{<programTable>}}
@@ -61,7 +61,7 @@ Session Chairs: TBD
 ## Session 2B
 **Haptics for Training, Guidance, and Teleoperation**  
 Monday, March 30, 11:00 a.m. - 12:00 p.m.  
-*- ---*  
+*- Topaz 1*  
 Session Chairs: TBD
 
 {{<programTable>}}
@@ -75,7 +75,7 @@ Session Chairs: TBD
 **[Award Session]**  
 **Human Perception and Multisensory Haptics**  
 Tuesday, March 31, 9:00 a.m. - 10:40 a.m.  
-*- ---*  
+*- Topaz 2*  
 Session Chairs: TBD
 
 {{<programTable>}}
@@ -90,7 +90,7 @@ Session Chairs: TBD
 ## Session 4A
 **Soft and Mid-Air Haptic Actuation and Sensing**  
 Tuesday, March 31, 11:00 a.m. - 12:30 p.m.  
-*- ---*  
+*- Topaz 2*  
 Session Chairs: TBD
 
 {{<programTable>}}
@@ -104,7 +104,7 @@ Session Chairs: TBD
 ## Session 4B
 **Haptic Sensing and Perception**  
 Tuesday, March 31, 11:00 a.m. - 12:30 p.m.  
-*- ---*  
+*- Topaz 1*  
 Session Chairs: TBD
 
 {{<programTable>}}
@@ -119,7 +119,7 @@ Session Chairs: TBD
 ## Session 5A
 **Control, Dynamics, and Interaction in Haptic Systems**  
 Wednesday, April 1, 9:00 a.m. - 10:30 a.m.  
-*- ---*  
+*- Topaz 2*  
 Session Chairs: TBD
 
 {{<programTable>}}
@@ -133,7 +133,7 @@ Session Chairs: TBD
 ## Session 5B
 **Haptic Rendering, Prototyping, and Evaluation**  
 Wednesday, April 1, 9:00 a.m. - 10:30 a.m.  
-*- ---*  
+*- Topaz 1*  
 Session Chairs: TBD
 
 {{<programTable>}}
