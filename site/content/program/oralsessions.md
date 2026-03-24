@@ -34,7 +34,7 @@ Wednesday, April 1
 **Haptic Sensing, Rendering, and Authoring Methods**  
 Monday, March 30, 9:00 a.m. - 10:30 a.m.  
 *- Topaz 2*  
-Session Chairs: TBD
+Session Chairs: Ed Colgate and Jenna Gorlewicz
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Active Vibrotactile Frequency Discrimination Under Exploration Constraints and Spatial Separation" author="Mounia Ziat, Junjie Hua, Jose James, Thaer Burgan" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
@@ -49,7 +49,7 @@ Session Chairs: TBD
 **Perceptual and Affective Responses to Tactile Stimulation**  
 Monday, March 30, 11:00 a.m. - 12:00 p.m.  
 *- Topaz 2*  
-Session Chairs: TBD
+Session Chairs: Cosima du Pasquier and Rebecca Friesen
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:14 a.m." title="[Regular] Sensory and Emotional Responses under Cross-body-site Vibro-Thermal Stimulation" author="Su-Yeon Kang, Chungman Lim, Minwook Lee, Kevin John, Hasti Seifi, Gunhyuk Park">}}
@@ -62,7 +62,7 @@ Session Chairs: TBD
 **Haptics for Training, Guidance, and Teleoperation**  
 Monday, March 30, 11:00 a.m. - 12:00 p.m.  
 *- Topaz 1*  
-Session Chairs: TBD
+Session Chairs: Vibol Yem and Zhonghe Chua
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:17 a.m." title="[Long] Design of Bi-Manual Vibrotactile Guidance Wristbands Validated Through a Surgical Robotic Training Task" author="Drake Rowland, Ann Majewicz Fey">}}
@@ -76,7 +76,7 @@ Session Chairs: TBD
 **Human Perception and Multisensory Haptics**  
 Tuesday, March 31, 9:00 a.m. - 10:40 a.m.  
 *- Topaz 2*  
-Session Chairs: TBD
+Session Chairs: Mounia Ziat and Yon Visell 
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Temporal Integration Underlying Extrapolation of Thermal Sensation" author="Junjie Hua, Masahiro Furukawa, Taro Maeda" award="Finalist for Best Conference Technical Paper Award (Regular Paper category)">}}
@@ -91,7 +91,7 @@ Session Chairs: TBD
 **Soft and Mid-Air Haptic Actuation and Sensing**  
 Tuesday, March 31, 11:00 a.m. - 12:30 p.m.  
 *- Topaz 2*  
-Session Chairs: TBD
+Session Chairs: Michael Zinn and Melisa Orta Martinez
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:14 a.m." title="[Regular] ShapeShifter: A Dual-Channel Pneumatic Interface for Independent Control of Shape and Softness" author="Kyler L. Ingles, Pai Wang, Bruce Gale, Edoardo Battaglia">}}
@@ -105,7 +105,7 @@ Session Chairs: TBD
 **Haptic Sensing and Perception**  
 Tuesday, March 31, 11:00 a.m. - 12:30 p.m.  
 *- Topaz 1*  
-Session Chairs: TBD
+Session Chairs: Veronica Santos and Jin Ryong Kim
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:14 a.m." title="[Regular] Tactile Feature Changes are Detected Faster than Tactile Location Changes" author="Lauren Horde, J. Michael Bertsch, Sara Riggs">}}
@@ -120,7 +120,7 @@ Session Chairs: TBD
 **Control, Dynamics, and Interaction in Haptic Systems**  
 Wednesday, April 1, 9:00 a.m. - 10:30 a.m.  
 *- Topaz 2*  
-Session Chairs: TBD
+Session Chairs: Jee-Hwan Ryu and Emma Treadway
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:14 a.m." title="[Regular] Admittance Control of a 3 Omni-Wheel Robot Interacting with a Sensorimotor Model of the Arm" author="Jose Ben, Reza Sharif Razavian">}}
@@ -134,7 +134,7 @@ Session Chairs: TBD
 **Haptic Rendering, Prototyping, and Evaluation**  
 Wednesday, April 1, 9:00 a.m. - 10:30 a.m.  
 *- Topaz 1*  
-Session Chairs: TBD
+Session Chairs: Edeordo Battaglia and Craig Shultz
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:17 a.m." title="[Long] Design and Evaluation of a Cost-Effective Toolkit for Modular Haptic Harnesses in Wearable Devices" author="Sandeep Zechariah George Kollannur, Katherine Robertson, Heather Culbertson">}}
