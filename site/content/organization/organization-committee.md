@@ -113,12 +113,6 @@ Members of the Organizing Committee handle all planning and logistics for the IE
 * Rebecca Friesen, Texas A&M University
 * Zonghe Chua, Case Western Reserve University
 
-## Video Chair
-
-[videos@hapticssymposium.org](mailto:videos@hapticssymposium.org)
-
-* TBA
-
 ## Web Chair
 
 [webmaster@hapticssymposium.org](mailto:webmaster@hapticssymposium.org)
