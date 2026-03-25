@@ -40,6 +40,7 @@ WIP papers should be prepared according to the formatting instructions available
 For authors' convenience, the templates for technical papers can be downloaded in [Word](http://ras.papercept.net/conferences/support/word.php) or [Latex](http://ras.papercept.net/conferences/support/tex.php) format. Note that only the US Letter template will be accepted, not the A4 template.
 
 ### Paper Length
+
 WIP papers should be **maximum 2 pages** including references. There will be no option to purchase additional pages.
 
 ### Optional Supplemental Video
@@ -158,4 +159,22 @@ At least one author must register to attend the whole conference and present you
 
 ## Presenting at the Conference
 
-Work-in-Progress papers will be presented through a poster and short teaser presentation. More details to be released as the conference date nears.
+WIP papers will be presented through a poster and short teaser presentation.
+
+### WIP Posters
+
+The WIP posters will be presented during the poster session from 3:45 to 5:15 p.m. on Monday, March 30. The poster must fit within a portrait-oriented rectangle with dimensions of 36 inches (91.44 cm) in width by 48 inches in height (121.92 cm). The posters can be designed using any size, orientation, or format, as long as they fit within this allocated space. You are encouraged to include the [conference logo](../../img/hs-logo-large.png).
+
+Authors are responsible for printing their own poster and bringing it to the conference. Push pins will be provided to install the posters on the poster boards. 
+
+### WIP Teasers
+
+The WIP teasers will be presented during the teaser session from 12:00 to 12:30 p.m. on Monday, March 30. One author from each WIP is invited to give a short presentation to introduce their poster to the audience. Each teaser presentation can last no more than **45 seconds**.
+
+The WIP teaser presentation should focus on the main ideas or results of the work. The purpose is to encourage the audience to visit the WIP poster, not to summarize the paper contents.
+
+The presenters are asked to optionally prepare a single slide for their teaser presentation. The use of visual content, videos, and animations is encouraged. All animations and video playback should be programmed into the slide such that all event timing is automatic. Videos, if used, must be embedded in the slide. We recommend using [this slide template](../../img/hs2026_WIP-teaserTemplate.pptx), which also contains additional formatting instructions. The poster location should be displayed in the upper right corner of the slide, and will soon be available in the conference program.
+
+The teaser slide must be sent by email to the WIP Chair at [wip@hapticssymposium.org](mailto:wip@hapticssymposium.org) no later than March 27, 2026. Please place [HS2026] in the email subject line as this will help ensure that you receive a confirmation email of the receipt of your slide within 24 hours. The file can be attached to the email or included as a link. Please inquire if you do not receive confirmation of receipt within 24 hours.
+
+Any questions about WIP papers can be addressed to the WIP chair at [wip@hapticssymposium.org](mailto:wip@hapticssymposium.org).
