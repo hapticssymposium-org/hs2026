@@ -62,7 +62,7 @@ Session Chairs: Cosima du Pasquier and Rebecca Friesen
 **Haptics for Training, Guidance, and Teleoperation**  
 Monday, March 30, 11:00 a.m. - 12:00 p.m.  
 *- Topaz 1*  
-Session Chairs: Vibol Yem and Zhonghe Chua
+Session Chairs: Vibol Yem and Zonghe Chua
 
 {{<programTable>}}
 {{<programEntry time="11:00 a.m. - 11:17 a.m." title="[Long] Design of Bi-Manual Vibrotactile Guidance Wristbands Validated Through a Surgical Robotic Training Task" author="Drake Rowland, Ann Majewicz Fey">}}
@@ -134,7 +134,7 @@ Session Chairs: Jee-Hwan Ryu and Emma Treadway
 **Haptic Rendering, Prototyping, and Evaluation**  
 Wednesday, April 1, 9:00 a.m. - 10:30 a.m.  
 *- Topaz 1*  
-Session Chairs: Edeordo Battaglia and Craig Shultz
+Session Chairs: Edoardo Battaglia and Craig Shultz
 
 {{<programTable>}}
 {{<programEntry time="9:00 a.m. - 9:17 a.m." title="[Long] Design and Evaluation of a Cost-Effective Toolkit for Modular Haptic Harnesses in Wearable Devices" author="Sandeep Zechariah George Kollannur, Katherine Robertson, Heather Culbertson">}}
