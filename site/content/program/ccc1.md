@@ -118,7 +118,24 @@ biography="Yujie Tao is a Ph.D. student in Computer Science at Stanford Universi
 
 ## Poster and Demo Presenters
 
-TBA
+### Posters
+
+{{<programTable>}}
+{{<programEntry title="Towards Human-Centered Teleoperation Through Learning-based Shared Autonomy Control" author="Benjamin Forbes, Veronica J. Santos (University of California, Los Angeles)">}}
+{{<programEntry title="Cross-Disciplinary Perspectives on the Human Experience of Embodied Interactions" author="Kelleigh Pettegrew (Case Western Reserve University)">}}
+{{<programEntry title="From Structure to Emergence: Democratizing Experience in Transdisciplinary Haptics Research " author="Claire Foley (Case Western Reserve University)">}}
+{{<programEntry title="Deconstructing the Multisensory Experience: A Multidimensional Investigation of Neural Haptics in Embodied Interaction " author="Laura McGann (Case Western Reserve University)">}}
+{{<programEntry title="Subjective Qualities of Virtual Walls with a Damped Boundary Region" author="M Bourgeois (Trinity University)">}}
+{{</programTable>}}
+
+### Demos
+
+{{<programTable>}}
+{{<programEntry title="LexiLearn: Multisensory AI-enhanced Virtual Reality Integration for Literacy Skills Acquisition" author="Marie P. P. M. Holm, Anna M. C. Queiroz (University of Miami)">}}
+{{<programEntry title="HeatFlow: A Thermal-Tactile Display for Dynamic 2D Thermal Movements (UIST 2025, Best Paper Honorable Mention Award) " author="Daniel Honrales (The University of Texas at Dallas)">}}
+{{<programEntry title="SensoryBlox: Plug-and-Feel Modular Multi-Sensory User Interfaces for Immersive Cardboard VR (to be presented at CHI 2026)" author="Anhaar Wasi (The University of Texas at Dallas)">}}
+{{<programEntry title="TBA" author="Ava Chen (Stanford University)">}}
+{{</programTable>}}
 
 ## Call for Individual Contributions
 
