@@ -6,7 +6,7 @@ draft: false
 
 # Hands-on Demonstration Sessions
 
-{{<simpleLastUpdate date="March 12, 2026">}}
+{{<simpleLastUpdate date="March 28, 2026">}}
 
 ## Video
 
