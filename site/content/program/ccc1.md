@@ -6,7 +6,7 @@ weight: 4
 
 Sunday, March 29, 2:00 p.m. - 5:30 p.m.
 
-{{<simpleLastUpdate date="March 29, 2026">}}
+{{<simpleLastUpdate date="March 28 , 2026">}}
 
 ## Organizers
 

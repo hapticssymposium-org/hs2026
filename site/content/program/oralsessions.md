@@ -7,7 +7,7 @@ draft: false
 # Oral Sessions
 
 
-{{<simpleLastUpdate date="February 12, 2026">}}
+{{<simpleLastUpdate date="March 25, 2026">}}
 
 Monday, March 30  
 [**Session 1: Haptic Sensing, Rendering, and Authoring Methods**](./#session-1)  

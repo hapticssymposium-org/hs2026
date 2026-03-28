@@ -6,7 +6,7 @@ draft: false
 
 # Poster Sessions
 
-{{<simpleLastUpdate date="March 23, 2026">}}
+{{<simpleLastUpdate date="March 28, 2026">}}
 
 
 Poster Sessions brings together posters from both the Work-in-Progress paper (WIP) track and IEEE Transactions on Haptics poster (ToH) track. The WIP track provides an opportunity for authors to share late-breaking results with the research community in a non-archival format, while the ToH posters highlight work published in IEEE Transactions on Haptics.
