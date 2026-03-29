@@ -134,7 +134,7 @@ biography="Yujie Tao is a Ph.D. student in Computer Science at Stanford Universi
 {{<programEntry title="LexiLearn: Multisensory AI-enhanced Virtual Reality Integration for Literacy Skills Acquisition" author="Marie P. P. M. Holm, Anna M. C. Queiroz (University of Miami)">}}
 {{<programEntry title="HeatFlow: A Thermal-Tactile Display for Dynamic 2D Thermal Movements (UIST 2025, Best Paper Honorable Mention Award) " author="Daniel Honrales (The University of Texas at Dallas)">}}
 {{<programEntry title="SensoryBlox: Plug-and-Feel Modular Multi-Sensory User Interfaces for Immersive Cardboard VR (to be presented at CHI 2026)" author="Anhaar Wasi (The University of Texas at Dallas)">}}
-{{<programEntry title="Title: TBA" author="Ava Chen (Stanford University)">}}
+{{<programEntry title="Title: Twin-system haptic sensing+feedback gloves and multipoint fabric tactors" author="Cosima du Pasquier, Ava Chen (Stanford University)">}}
 {{</programTable>}}
 
 ## Call for Individual Contributions
