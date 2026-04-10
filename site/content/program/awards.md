@@ -1,89 +1,122 @@
 ---
 title: "Awards"
 weight: 1
-draft: true
+draft: false
 ---
+
 # Awards
 
-Three main awards were distributed at IEEE Haptics Symposium 2024 to honor top contributions in each of the main categories of publications: IEEE Transactions on Haptics Short Papers, IEEE Haptics Symposium Conference Technical Papers, and Hands-on Demonstrations. Commendations were also conferred for outstanding reviewing of technical paper submissions.
+Several awards were presented at IEEE Haptics Symposium 2026 to recognize outstanding contributions across the conference and the journal. Honors were given for IEEE Haptics Symposium technical long papers, technical regular papers, and demonstrations. Commendations were also conferred for outstanding reviewing of technical paper submissions. In addition, IEEE Transactions on Haptics presented its annual paper, application paper, associate editor, and reviewer awards.
 
-The details of each award appear below. All winners were announced during the award ceremony on April 10, 2024.
+The details of each award appear below. All winners were announced during the awards ceremony on April 1, 2026.
 
-## Best IEEE Haptics Symposium Conference Technical Paper
+{{<simpleLineBreak>}}
 
-36 contributions were published as technical papers. The IEEE Haptics Symposium 2024 Editorial Board nominated six papers for this award based on the strength of their reviews.
+## IEEE Haptics Symposium 2026 Technical Long Paper Awards
 
-A committee of three experts (Jee-Hwan Ryu, Yasamin Vardar, and Vincent Levesque) reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper (formerly "runner up"), and one Honorable Mention.
+Eleven contributions were published as technical long papers. The IEEE Haptics Symposium 2026 Editorial Board nominated five papers for this award based on the strength of their reviews.
 
-### Best Paper
+A committee of **XXX** experts reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper, and one Honorable Mention.
 
-**SkinSource: A Data-Driven Toolbox for Predicting Touch-Elicited Vibrations in the Upper Limb**  
-Neeli Tummala, Gregory Reardon, Simone Fani, Dustin Goetz, Matteo Bianchi, and Yon Visell
+### Best Paper Award
 
-### Distinguished Paper
+**Thermal and Tactile Integration in Human Liquid Perception Using Viscous Solutions and Visible Light**  
+Junjie Hua, Sosuke Ichihashi, Hsin-Ni Ho
 
-**A Transparent Hydraulic Actuator to Visualize Finger Pad Deformation at Programmable Material Compliances**  
-Bingxu Li, Alton Sharpe, and Gregory Gerling
+### Distinguished Paper Award
 
-### Honorable Mention
+**Language-Guided Multimodal Texture Authoring via Generative Models**  
+Wanli Qian, Aiden Chang, Shihan Lu, Michael Gu, Heather Culbertson
 
-**Design and Characterization of Particle Jamming-Based Variable Stiffness Displays Using Non-pneumatic Actuators**  
-Joshua Brown and Fernando Bello
+### Honorable Mention Award
 
-## Best IEEE Transactions on Haptics Short Paper
+**Lack of disembodiment influences perceptual sensitivity of virtual brush illusion paradigm**  
+Lyndah Lovell, Ethan Brown, Sarah Derrick, Mohit Singhala, Jeremy Brown
 
-18 contributions were published in the short papers category in the IEEE Transactions on Haptics (ToH). The IEEE ToH Editorial Board nominated six papers for this award based on the strength of their reviews.
+{{<simpleLineBreak>}}
 
-A committee of three experts (Lynette Jones, Hannes Saal, and Matteo Bianchi) reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper (formerly "runner up"), and one Honorable Mention.
+## IEEE Haptics Symposium 2026 Technical Regular Paper Awards
 
-### Best Paper
+Twenty-five contributions were published as technical regular papers. The IEEE Haptics Symposium 2026 Editorial Board nominated seven papers for this award based on the strength of their reviews.
 
-**[Robust Surface Recognition With the Maximum Mean Discrepancy: Degrading Haptic-Auditory Signals Through Bandwidth and Noise](https://doi.org/10.1109/TOH.2024.3356609)**  
-Behnam Khojasteh, Yitian Shao, and Katherine J. Kuchenbecker
+A committee of X experts reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper, and one Honorable Mention.
 
-### Distinguished Paper
+### Best Paper Award
 
-**[Enhancing User Performance by Adaptively Changing Haptic Feedback Cues in a Fitts’s Law Task](https://doi.org/10.1109/TOH.2024.3358188)**  
-Drake Rowland, Benjamin Davis, Taylor Higgins, and Ann Majewicz Fey
+**Temporal Integration Underlying Extrapolation of Thermal Sensation**  
+Junjie Hua, Masahiro Furukawa, Taro Maeda
 
-### Honorable Mention
+### Distinguished Paper Award
 
-**[Lever Mechanism for Diaphragm-Type Vibrators to Enhance Vibrotactile Intensity](https://doi.org/10.1109/TOH.2024.3354253)**  
-Taku Hachisu, Masayuki Kajiura, Toshihiro Takeshita, Yusuke Takei, Takeshi Kobayashi, and Masashi Konyo
- 
-## Best Demonstration
+**Active Vibrotactile Frequency Discrimination Under Exploration Constraints and Spatial Separation**  
+Mounia Ziat, Junjie Hua, Jose James, Thaer Burgan
 
-28 contributions were accepted. All the accepted and exhibited demonstrations were considered by the committee.
+### Honorable Mention Paper Award
 
-A committee of five experts (Cara Ñunez, Seokhee Jeon, Mike Zinn, Manuel Cruz, and Hong Tan) reviewed all of the demonstrations. They selected one Best Demonstration, one Distinguished Demonstration, and one Honorable Mention.
+**Pneumatic Suction for Haptic Sensory Substitution Feedback at the Fingertip during Telemanipulation**  
+Jiaji Su, Irene R. Bhunia, Zonghe Chua
 
-### Best Demonstration
+{{<simpleLineBreak>}}
 
-**A Shape-Changing Haptic Device for 3D Pointing Guidance**  
-Robert Quinn, Harry De Winton, Brandon Ellis-Frew, Sebastiano Zane, Jonathan De Sousa, and Adam J. Spiers
+## IEEE Haptics Symposium 2026 Demonstration Awards
 
+Twenty contributions were accepted. All the accepted and exhibited demonstrations were considered by the committee.
 
-### Distinguished Demonstration
+A committee of four experts reviewed all of the demonstrations. They selected one Best Demonstration, one Distinguished Demonstration, and one Honorable Mention.
 
-**Merging Photonics and Haptics: An Optically Driven Display for Refreshable Tactile Graphics**  
-Max Linnander, Dustin Goetz, Gregory Reardon, and Yon Visell
+### Best Demonstration Award
 
-### Honorable Mention
+**MAGTRACE: Electromagnetic Shape Rendering Via a User-Driven Linear Exploration Platform**  
+Sarah Costrell, Roberta L. Klatzky, Melisa Orta Martinez
 
-**Demonstrating Upper Body Thermal Referral and Tactile Masking for Localized Feedback**  
-Haokun Wang, Yatharth Singhal, Hyungki Son, and Jin Ryong Kim
+### Distinguished Demonstration Award
 
-## Outstanding Reviewers
+**Demonstrating Differential Dual-Side Fingertip Actuation for Virtual Reality Force Feedback**  
+Yanjun Chen, Jung-Hwan Youn, and Craig Shultz
 
-The Haptics Symposium publication process critically depends on careful and constructive expert review of submitted manuscripts. Individuals who reviewed IEEE Transactions of Haptics Short Papers were eligible for the journal's annual reviewing awards, while individuals who reviewed at least one technical paper submission were eligible for this commendation from the conference.
+### Honorable Mention Demonstration Award
 
-After the review of all technical papers were complete, the IEEE Haptics Symposium 2024 Editor-in-Chief, Ingvars Birznieks, invited all members of the Program Committee to nominate reviewers for this prize. From this list, the Conference Editorial Board agreed on selection criteria, and chose three for recognition, each of whom reviewed 3 or 4 papers.
+**A Virtual Reality System for the Delivery of Virtual Equine Therapy**  
+Nicholas C. Schneider, Mathias A. Schoen, I. Francesca Zeringue, Edoardo Battaglia
 
-* **Sarah McIntyre**, Linköping University
-* **Simone Fani**, Arizona State University
-* **Yusuke Ujitoko**, NTT Communication Science Laboratories
+{{<simpleLineBreak>}}
+
+## IEEE Haptics Symposium 2026 Outstanding Reviewer Awards
+
+The Haptics Symposium publication process critically depends on careful and constructive expert review of submitted manuscripts. The conference recognizes reviewers whose efforts made an especially strong contribution to the quality of the technical program.
+
+* **Anzu Kawazoe**, Texas A&M University
+* **Sandeep Zechariah George Kollannur**, University of Southern California
+* **Marc Ramuz**, Ecole Nationale Supérieure des Mines de Saint-Etienne
+
+{{<simpleLineBreak>}}
+
+## IEEE Transactions on Haptics Awards
+
+### Best Paper Award
+
+[**Can a Machine Feel Vibrations?: Predicting Roughness and Emotional Responses to Vibration Tactons via a Neural Network**](https://ieeexplore.ieee.org/document/10995226)  
+Chungman Lim, Gyeongdeok Kim, Su-Yeon Kang, Hasti Seifi, Gunhyuk Park
+
+### Best Application Paper Award
+
+[**HapticGiant: A Novel Very Large Kinesthetic Haptic Interface With Hierarchical Force Control**](https://ieeexplore.ieee.org/document/11125831)  
+Michael Fennel, Markus Walker, Dominik Pikos, Uwe D. Hanebeck
+
+### Outstanding Associate Editor Awards
+
+* **Claudio Pacchierotti**, CNRS, University of Rennes, Inria
+* **Anna Metzger**, Bournemouth University
+
+### Outstanding Reviewer Awards
+
+* **Francesco Chinello**, Aarhus University
+* **Dimitris Voudouris**, Justus-Liebig University
+* **Taku Hachisu**, University of Tsukuba
+* **Müge Cavdan**, Giessen University
+
+{{<simpleLineBreak>}}
 
 ## Awards Ceremony
-All of the awards and honorable mentions listed above were first announced during the IEEE Haptics Symposium 2024 Awards Ceremony.
 
-The Awards Chair, the members of the Awards Committee, the Program Committee, and the Organizing Committee heartily congratulate the finalists, honorable mentions, and winners on their outstanding work. Many thanks to everyone for contributing to a very successful IEEE Haptics Symposium 2024!
+The Awards Chair, the members of the Awards Committee, the Program Committee, the Editorial Board, and the Organizing Committee heartily congratulate all awardees on their outstanding work. Many thanks to everyone for contributing to a very successful IEEE Haptics Symposium 2026!

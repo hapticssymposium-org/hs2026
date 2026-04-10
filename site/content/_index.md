@@ -8,6 +8,10 @@ Held since 1992, the IEEE Haptics Symposium is a vibrant interdisciplinary forum
 
 {{<simpleLineBreak>}}
 
+**Awards from IEEE Haptics Symposium 2026 are now available [here](/program/awards/).**
+
+{{<simpleLineBreak>}}
+
 **The 2026 IEEE Haptics Symposium will be held in Reno, Nevada, USA.**
 
 ![Smiling student volunteers welcome attendees](/img/HS2026_studentVolunteers.jpg)
