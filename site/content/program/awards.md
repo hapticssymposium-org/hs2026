@@ -16,7 +16,7 @@ The details of each award appear below. All winners were announced during the aw
 
 Eleven contributions were published as technical long papers. The IEEE Haptics Symposium 2026 Editorial Board nominated five papers for this award based on the strength of their reviews.
 
-A committee of **XXX** experts reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper, and one Honorable Mention.
+A committee of five experts reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper, and one Honorable Mention.
 
 ### Best Paper Award
 
@@ -39,7 +39,7 @@ Lyndah Lovell, Ethan Brown, Sarah Derrick, Mohit Singhala, Jeremy Brown
 
 Twenty-five contributions were published as technical regular papers. The IEEE Haptics Symposium 2026 Editorial Board nominated seven papers for this award based on the strength of their reviews.
 
-A committee of X experts reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper, and one Honorable Mention.
+A committee of four experts reviewed the nominated papers, reviews, and oral presentations. They selected one Best Paper, one Distinguished Paper, and one Honorable Mention.
 
 ### Best Paper Award
 
@@ -62,7 +62,7 @@ Jiaji Su, Irene R. Bhunia, Zonghe Chua
 
 Twenty contributions were accepted. All the accepted and exhibited demonstrations were considered by the committee.
 
-A committee of four experts reviewed all of the demonstrations. They selected one Best Demonstration, one Distinguished Demonstration, and one Honorable Mention.
+A committee of five experts reviewed all of the demonstrations. They selected one Best Demonstration, one Distinguished Demonstration, and one Honorable Mention.
 
 ### Best Demonstration Award
 
